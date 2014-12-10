@@ -1,0 +1,49 @@
+permalink: /:title
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: LanternD
+  email: yangdavid028@gmail.com
+  link: http://dlyang.me
+  weibo: http://weibo.com/LanternD
+  github: http://github.com/LanternD
+
+# 站点信息
+title: LanternD's Caravel 
+description: - Survive Technically -
+url: http://dlyang.me
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: http://lanternd.qiniudn.com/Logo_200x.png
+favicon: http://lanternd.qiniudn.com/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-54601036-1
+  url: dlyang.me
+
+# disqus 设置
+disqus:
+  shortname: LanternD
+
+# 主题设置，自动激活某个标签
+active: 三观F5
+
+# 首页除了最新文章外显示分类
+cates: 
+  - 三观F5
+  - Hi, Tech!
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  content: 目录
