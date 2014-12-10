@@ -83,6 +83,7 @@ $(document).ready(function() {
   });
 
   $('body').on('click', '.show-commend', function() {
+    var ds_loaded = false;
     var duoshuoQuery = {short_name:"dlyang"};
     (function() {
       var ds = document.createElement('script');

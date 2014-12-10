@@ -4,6 +4,7 @@ title: Interstellar(星际穿越)里面的黑洞为什么是这个样子
 permalink: /Interstellar-Blackhole
 categories: [视·界]
 tags: [Interstellar, 星际穿越, 黑洞]
+date: 2014-11-14
 ---
 
 <pre>11月8号和Weida去看了iMAX版的interstellar。这么多天过去了，每每想到里面的场景总还是觉得历历在目，余音绕梁。</pre>
