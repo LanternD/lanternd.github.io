@@ -76,50 +76,51 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 接下来我分区域介绍一下各个圈是怎么形成的。在下面加了标注。并且继续用喜闻乐见的纯手工绘图来表明……
 
-->![AD mard](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk_mark.jpg)<-
+![AD mard](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk_mark.jpg)
 
 ### ① 光线未被黑洞扭曲时
 
 第一次用下面这个图，就先描述一下吧。
 
-->![Observation 1](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observation1.jpg)<-
+![Observation 1](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observation1.jpg)
 
 左边的是观察者的人眼，和吸积盘平面**角度很小**，但是**不在一个平面内**。光线其实是沿各个方向传播的。如果光线落到了图中深灰色的黑洞中，那就是看不到的，说白了就像拿个黑球挡住光线。这个图和上面手绘的渣图 [图A]是对应的。接下来考虑光被引力弯曲，也就是实际中的黑洞啦。
 
 ### ② 亮环A
 
-->![Observation 2](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer2.png)<-
+![Observation 2](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer2.png)
 
 这个图里给加了两条虚线，白的虚线是黑洞旋转的轴，黑洞的中心就绕着这个轴高速旋转，把周围的东西吸进去。深色的虚线是我人为把吸积盘分为两半，方便阐述。于是在黑洞后面的光线弯曲以后就绕过黑洞，照到了人的眼睛。简言之，黑洞让人**看到了被挡住的东西**。同时，不小心落入黑洞的光线就被引力捕捉到，陷入无穷深渊去了。 
 
 ### ③ 亮环B
 
-->![Observation 4](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer4.png)<-
+![Observation 4](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer4.png)
 
 亮环B和亮环A是对称的。这个应该好理解了吧，不详述了。于是请各位发挥空间想象力，吸积盘在空间中的样子就是把亮环A和B向屏幕里面**压扁并合在一起**。整体来说是个圆盘状的。
 
 ### ④ 亮线A
 亮线A是个比较有意思的东西。
 
-->![Observation 5](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer5.png)<-
+![Observation 5](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer5.png)
 
 于是，人们眼前的那条吸积盘带发出的光，被黑洞弯曲了一圈，拐了240° (2/3圈)以上，然后进入了人眼的视线范围内。是不是有点high。由于能够满足这个弯曲路径的光线很少 (其他方向的光要么进到黑洞了，要么被弯曲到其他地方去了)，所以整个亮线A十分细，和亮环没得比。里面打了红圈的地方比较特别，它是吸积盘和黑洞之间存在的空隙，那里面没有什么发光的物质 (继续参考第一张手绘的渣图A)，当然，不是没有物质，只是要么光没法逃离了，要么就是物质没法再发生相关化学物理反应了。所以光的**起点**的位置离黑洞应该有一段距离，具体是多少我没有数据，总之脑补这段空隙就ok，包括上面几张图也是，应该光线起点离黑洞更远的，但是我就懒得改了。 [PS: 不同的黑洞是有各自不同的形态的，上一段话主要是针对电影中的黑洞。其他黑洞的吸积盘大小可能不一样，黑洞本身大小一不一样]
 
 ### ⑤ 亮线B
 
-->![Observation 6](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer6.png)<-
+![Observation 6](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer6.png)
 
 这个和亮线A也是对称的，直接放图，不细说了。
 
 ### ⑥ 暗区A
 暗区这个……其实就是被眼前的吸积盘挡住了而已啦。
 
-->![Observation 7](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer7.png)<-
+![Observation 7](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer7.png)
 
 图画残了。实际上吸积盘不够大的话不一定会看到暗区。另外，人眼和吸积盘平面的角度很小的话，也是看不到暗区的。反正这个就和平时生活中被挡住看不到是一个原理，就自己想象吧。 最后扯一句，如果观察者在吸积盘平面“下方”看到的是什么样的呢？直接把图片旋转180就是了。 -- 黑洞为什么长这个样大概就说到这里吧，应该差不多了。
 
 ## 引力透镜的动画演示
 最后放一个动图，展示光线是如何被黑洞扭曲的。
+
 ![引力透镜](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/Black_hole_lensing_web.gif)
 
 是不是超给力啊！但是这个也是**没有吸积盘**的，被弯曲的只是后面的星系发出的光。和平时我们看到的玻璃圆球凸透镜有点相似，但不同的是，黑洞没有聚焦功能，光没有汇聚起来。此外凸透镜里光还是**沿直线传播**的，改变方向是由于折射的原因，而黑洞周围的光线是**不沿直线传播**的，同时黑洞的范围内的空间一直是**纯黑的**，而普通凸透镜能一直看到光。因为这种和凸透镜成像有点相似，所以这个现象也被称为“引力透镜”
@@ -138,7 +139,7 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 - 人要是站在那颗**宜居行星上看Gargantua这个黑洞**会是什么样呢？
 
-->![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk1.png)<-
+![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk1.png)
 
 上图这个美丽的圆环是不能直接用肉眼看到的，就像你现在不能睁大眼睛看着太阳，必须减光。因此，我觉得实际看到的应该是**上图变亮的样子**，一个纺纱锤状的亮物体悬在空中，每天“东升西落”。稍微仔细观察的话，也能看到中间会有对称的两个稍暗的半圆斑，那就是黑洞了(想想就很刺激啊，以后学天文的抬头就能看到黑洞，简直是理论和实践的完美结合)。直接P了个图扔上来了↓。以后人们头顶上就是这么样的一个东西了。个人觉得它在天空中的样子应该比我们在地球看到的太阳应该**大不少**。
 
@@ -152,5 +153,6 @@ tags: [Interstellar, 星际穿越, 黑洞]
 -------
 
 ![Accrestion Disk_Ligter](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/111114_TimeCircle_BlackHole.jpg)
+
 太美了！
 
