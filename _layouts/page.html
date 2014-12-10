@@ -11,26 +11,5 @@ layout: base
     <div id="page-content">
       {{ content }}
     </div>
-
-	 <script>var duoshuoQuery = {short_name:"dlyang"};</script>
-  <script src="http://static.duoshuo.com/embed.js"></script>
-  <script type="text/javascript">
-	function toggleDuoshuoComments(container, id, url){
-	  if(jQuery(container).has("div").length>0){
-		jQuery(container).empty();
-		return;
-	  }
-	  var el = document.createElement('div');
-	  el.setAttribute('data-thread-key', id);
-	  el.setAttribute('data-url', url);
-	  DUOSHUO.EmbedThread(el);
-	  jQuery(container).append(el);
-	}
-   </script>
-    <hr>
-    <div id="comment-box" ><button type="button" class="btn btn-default show-commend" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');" >
-      <i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
-      </button>
-    </div>
   </div>
 </div>
