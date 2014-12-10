@@ -111,14 +111,14 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 这个和亮线A也是对称的，直接放图，不细说了。
 
-##### ⑥ 暗区A
+### ⑥ 暗区A
 暗区这个……其实就是被眼前的吸积盘挡住了而已啦。
 
 ->![Observation 7](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/observer7.png)<-
 
 图画残了。实际上吸积盘不够大的话不一定会看到暗区。另外，人眼和吸积盘平面的角度很小的话，也是看不到暗区的。反正这个就和平时生活中被挡住看不到是一个原理，就自己想象吧。 最后扯一句，如果观察者在吸积盘平面“下方”看到的是什么样的呢？直接把图片旋转180就是了。 -- 黑洞为什么长这个样大概就说到这里吧，应该差不多了。
 
-#### 引力透镜的动画演示
+## 引力透镜的动画演示
 最后放一个动图，展示光线是如何被黑洞扭曲的。
 ->![引力透镜](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/Black_hole_lensing_web.gif)<-
 
