@@ -26,19 +26,19 @@ layout: base
 		function toggleDuoshuoComments(container, id, url){
 		  if(jQuery(container).has("div").length>0){
 			jQuery(container).empty();
-			
+			return;
 		  }
-		  else{
+		  
 		  var el = document.createElement('div');
 		  el.setAttribute('data-thread-key', id);
 		  el.setAttribute('data-url', url);
 		  DUOSHUO.EmbedThread(el);
-		  jQuery(container).append(el);}
-		  return;
+		  jQuery(container).append(el);
+		  
 		}
 	   </script>
 		<hr>
-		<div id="comment-box" ><button type="button" class="btn btn-default show-commend" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');" >
+		<div id="comment-box" ><button type="button" class="btn btn-default show-commend" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');this.style.display = "none"" >
       <i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
       </button>
     </div>
