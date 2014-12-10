@@ -14,7 +14,7 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 估计大家也都听说了，这部电影的顾问是Kip Thorne，和霍金齐名(咦，我以前是真没听过…)的黑洞物理学家，利用虫洞走捷径来完成星际旅行的概念就是Kip先提出来的。
 
-->![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk1.png)<-
+![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk1.png)
 
 这张图片是电影里黑洞的样子，是用上千台电脑运算了一年多得到的模型，利用的正是Kip提供的数学方程式。当然前面这几句都是我从别人的文字里知道的啦，我只能感叹如果这个世界上有上帝的话祂必须得和数学有关系才行。
 
@@ -24,13 +24,13 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 质量是1亿倍是什么概念呢？整个银河系的质量大约是太阳质量的**1400亿倍**。把整个银河系的1/1400的东西，放到一个小小的点上，这个点有多大呢？电影里的设定是和日地距离 (为15210万km)相当，光传播的时间如大家所知是8分钟左右，这个点其实已经**非常非常小**了，想想银河系有多大！这个设定是符合和目前人类的认知的。可以接着往下看。
 
-->![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/gargantua_info.jpg)<-
+![Accretion Disk](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/gargantua_info.jpg)
 
 根据上一段设定描述，这是一个[超大质量黑洞](http://baike.baidu.com/view/1651909.htm)，具体描述可以看百度百科的词条。里面有一些性质，就是在这个特别的黑洞里，比较靠近“外面”的位置，密度是很低的 (在某些情况下，整个黑洞的平均密度比空气还低，当然我算了一下，电影里的黑洞平均密度是地球的1000倍左右，还是很“致密的”)，因为**质量主要集中在最最核心的点上**，一个无法想象的地方，一个物理定律失效的地方。
 
 第二，黑洞外围的潮汐力也很低，人向里走的时候不会有明显的感觉，除非靠近奇点了。所以电影里Cooper如果没有掉到Gargantua最核心的位置的话，他应该也不会被拉成面条（反过来看，Cooper没被拉成面条说明五维空间并不在奇点上，不然就是诺兰为了照顾剧情故意违反科学了）。
 
-->![Time Lapse](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/time-lapse.jpg)<-
+![Time Lapse](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/time-lapse.jpg)
 
 把黑洞画得看起来是个漏斗/漩涡，主要是阐述黑洞扭曲时间空间的特点，更符合人们的直觉，往里陷得越深说明扭曲作用越强，实际空间中请把它压扁到一个平面里。大家应该见过漩涡，漩涡越往深处走旋转速度会越快，黑洞和漩涡是相似的模型，只是黑洞和外围物质是在一个平面里面的，越靠近黑洞速度大，直到最后的99.8%光速。
 
@@ -48,24 +48,24 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 如果**不考虑黑洞对光的扭曲作用**，人们看到的黑洞应该是下面这样的[图A]，把这个样子认准喽，后面会多次提到的:
 
-->![No Gravity](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/no_gravaty.png)<-
+![No Gravity](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/no_gravaty.png)
 
 纯手工绘制，有点挫，凑活着看吧。黑洞本来应该是**纯黑**的，但是为了区分一下决定加了点灰色。当然，实际上这个白圈也会发出**光晕**，变得比较**朦胧**。而众所周知，落入黑洞内的光线**无法逃出**，黑洞也会像透镜一样使**从它旁边经过**的光线的路径弯曲，即光不再沿直线传播了，所以实际上的黑洞样子和上面不一样，即正常的是电影中的样子。下面再具体阐述一下。
 
 
 如果**不是从吸积盘平面上看**过去，而是从较高较远的地方“**俯瞰**”(宇宙里没有俯仰的概念，把你飞船转180度就变成仰视了)整个黑洞系统，那么大体上是下图这样的：
 
-->![BH_LookDown](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/galactic_black_hole.jpg)<-
+![BH_LookDown](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/galactic_black_hole.jpg)
 
 这个还是比较符合常规的大众对黑洞的认识的，众多科普读物里面黑洞也是这个形态。但是这么远的距离下不容易看出黑洞对光线的作用。黑洞中心喷射出了两道射线，分别位于吸积盘平面的两侧。
 
 观察点离黑洞很近，但是**没有吸积盘**的时候是下面这个样子的：
 
-->![no AD](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/BH_LMC.png?imageView/2/w/1024)<-
+![no AD](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/BH_LMC.png?imageView/2/w/1024)
 
 下面再看看电影里的一张设定图：
 
-->![Render](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/blackhole-render.jpg)<-
+![Render](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/blackhole-render.jpg)
 
 这个就是离黑洞很近且有吸积盘的样子了。大概可以看到：① 越靠近黑洞黑色区域的部分，光线会被拉伸变形得越厉害。② 在黑洞前面 (离观众较近的位置)有个吸积盘的盘面，盘面向屏幕内走的时候开始向上弯曲，并在上面汇合到一起； ③ 下面还有个的半圆，有点特别；④ 紧贴着黑洞周围有一圈很细的亮“边框”。④ 存在红移和蓝移 (参考左右两边的色块)。
 ```
