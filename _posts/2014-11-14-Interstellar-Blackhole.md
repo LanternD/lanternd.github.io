@@ -120,7 +120,7 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 ## 引力透镜的动画演示
 最后放一个动图，展示光线是如何被黑洞扭曲的。
-->![引力透镜](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/Black_hole_lensing_web.gif)<-
+![引力透镜](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/Black_hole_lensing_web.gif)
 
 是不是超给力啊！但是这个也是**没有吸积盘**的，被弯曲的只是后面的星系发出的光。和平时我们看到的玻璃圆球凸透镜有点相似，但不同的是，黑洞没有聚焦功能，光没有汇聚起来。此外凸透镜里光还是**沿直线传播**的，改变方向是由于折射的原因，而黑洞周围的光线是**不沿直线传播**的，同时黑洞的范围内的空间一直是**纯黑的**，而普通凸透镜能一直看到光。因为这种和凸透镜成像有点相似，所以这个现象也被称为“引力透镜”
 
@@ -142,7 +142,7 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 上图这个美丽的圆环是不能直接用肉眼看到的，就像你现在不能睁大眼睛看着太阳，必须减光。因此，我觉得实际看到的应该是**上图变亮的样子**，一个纺纱锤状的亮物体悬在空中，每天“东升西落”。稍微仔细观察的话，也能看到中间会有对称的两个稍暗的半圆斑，那就是黑洞了(想想就很刺激啊，以后学天文的抬头就能看到黑洞，简直是理论和实践的完美结合)。直接P了个图扔上来了↓。以后人们头顶上就是这么样的一个东西了。个人觉得它在天空中的样子应该比我们在地球看到的太阳应该**大不少**。
 
-->![Accrestion Disk_Ligter](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk_lighter.png)<-
+![Accrestion Disk_Ligter](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/accretion_disk_lighter.png)
 
 -------
 我的疑问：人类后来建立的圆筒型空间站在什么地方？在地球附近吗？(电影里没听出来)Cooper开船要多久才能到Dr. Brand所在的培育新人类后代的星球？还能赶上培育一代人不…
@@ -151,6 +151,6 @@ tags: [Interstellar, 星际穿越, 黑洞]
 
 -------
 
-->![Accrestion Disk_Ligter](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/111114_TimeCircle_BlackHole.jpg)<-
+![Accrestion Disk_Ligter](http://lanternd.qiniudn.com/Pic4Post/Interstellar-blackhole/111114_TimeCircle_BlackHole.jpg)
 太美了！
 
