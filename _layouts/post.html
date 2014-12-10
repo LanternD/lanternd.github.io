@@ -26,13 +26,15 @@ layout: base
 		function toggleDuoshuoComments(container, id, url){
 		  if(jQuery(container).has("div").length>0){
 			jQuery(container).empty();
-			return;
+			
 		  }
+		  else{
 		  var el = document.createElement('div');
 		  el.setAttribute('data-thread-key', id);
 		  el.setAttribute('data-url', url);
 		  DUOSHUO.EmbedThread(el);
-		  jQuery(container).append(el);
+		  jQuery(container).append(el);}
+		  return;
 		}
 	   </script>
 		<hr>
