@@ -5,7 +5,7 @@ layout: base
   <div class="col-md-12 aside3-title">
     <br>
     <h2 id="#identifier">{{ page.title }}</h2>
-    {{ page.date | date:"%Y年%m月%d日" }}
+    {{ page.date | date:"%Y 年 %m 月 %d 日" }}
   </div>
   <div class="col-md-12 aside3-content">
     {% include content.html %}
@@ -14,7 +14,7 @@ layout: base
       {{ content }}
     </div>
     <hr>
-    {% include disqus.html %}
+    {% include duoshuo.html %}
   </div>
 </div>
 

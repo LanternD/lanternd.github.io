@@ -4,14 +4,14 @@ body, html {
   margin: 0px;
   height: 100%;
   overflow: hidden;
-  background-color: #1f2c39;
+  background-color: #1c463c;
 }
 .row {height: 100%;}
 /* 导航栏 + 目录栏 */
 .aside {height: 100%;}
 /* 左侧导航栏 */
 .aside1 {
-  background-color: #1f2c39;
+  background-color: #1c463c;
   height: 100%;
   padding-left: 0px;
   padding-right: 0px;
@@ -45,7 +45,7 @@ body, html {
   background-color: #fafaf6;
 }
 .aside3-title {
-  background-color: #1f2c39;
+  background-color: #1c463c;
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;

@@ -30,14 +30,18 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: LanternD
+  shortname: lanternd
+
+# disqus 设置
+duoshuo:
+  username: LanternD
 
 # 主题设置，自动激活某个标签
 active: 三观F5
 
 # 首页除了最新文章外显示分类
 cates: 
-  - 三观F5
+  - 视·界
   - Hi, Tech!
 
 # 中文本地化
