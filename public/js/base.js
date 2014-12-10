@@ -96,12 +96,3 @@ $(document).ready(function() {
 //  });
   content_effects();
 });
-
-function toggleDuoshuoComments(container){
-    var el = document.createElement('div');//该div不需要设置class="ds-thread"
-    el.setAttribute('data-thread-key', '{{ page.title }}');//必选参数
-    el.setAttribute('data-url', 'http://dlyang.me/:title');//必选参数
-    el.setAttribute('data-author-key', 'LanternD');//可选参数
-    DUOSHUO.EmbedThread(el);
-    jQuery(container).append(el);
-}
