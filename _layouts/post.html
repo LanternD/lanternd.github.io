@@ -24,17 +24,11 @@ layout: base
   <script src="http://static.duoshuo.com/embed.js"></script>
 	<script type="text/javascript">
 		function toggleDuoshuoComments(container, id, url){
-		  if(jQuery(container).has("div").length>0){
-			jQuery(container).empty();
-			return;
-		  }
-		  
 		  var el = document.createElement('div');
 		  el.setAttribute('data-thread-key', id);
 		  el.setAttribute('data-url', url);
 		  DUOSHUO.EmbedThread(el);
-		  jQuery(container).append(el);
-		  
+		  jQuery(container).toggle();
 		}
 	   </script>
 		<hr>
