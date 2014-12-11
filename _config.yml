@@ -40,7 +40,7 @@ duoshuo:
 active: 视·界
 
 # 首页除了最新文章外显示分类
-cates: 
+cate: 
   - 视·界
   - Hi, Tech!
 
