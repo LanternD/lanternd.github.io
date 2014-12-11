@@ -29,14 +29,15 @@ function nav_click(is_show) {
   }
 }
 /* 控制文章章节列表按钮 */
-function content_click(is_show) {
+function content_click(is_show){
   if (is_show) {
     $('#content_table').show();
+    $('#content_btn i').removeClass('fa-plus').addClass('fa-minus');
   } else {
     $('#content_table').hide();
+    $('#content_btn i').removeClass('fa-minus').addClass('fa-plus');
   }
 }
-
 function content_effects() {
   //remove the asidebar
   $('.row-offcanvas').removeClass('active');
