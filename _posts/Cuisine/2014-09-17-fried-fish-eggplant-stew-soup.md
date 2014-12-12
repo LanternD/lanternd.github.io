@@ -20,14 +20,14 @@ date: 2014-09-17
 ## 茄子炒肉 
 @ 08/19/2014 by Me
 
-![2](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_3112.jpg "eggplant & Meat")
+![2](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_3114.jpg "eggplant & Meat")
 
 中规中矩的普通炒菜啦。我算是发现了，好多菜炒完以后在上面放点葱花都会获得比较好的效果，无论是味道还是拍照效果上……茄子的缩水率太高了，炒之前还好大一块，炒完就没多少了。
 
 ## 炖菜 
 @ 09/02/2014 by Weida
 
-![3](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_3112.jpg "Stew Soup")
+![3](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_3267.jpg "Stew Soup")
 
 白菜、豆腐、胡萝卜，我顿时感觉又回到了东北，来自Weida的东北风，哈哈。炖的时候加了点浓缩的鸡汤，膏状的那种（可以想象方便面的料包…），总之效果不错，味道挺鲜美的。我感觉这个菜老外是没法接受的？
 

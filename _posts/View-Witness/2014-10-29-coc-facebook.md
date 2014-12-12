@@ -23,8 +23,7 @@ date: 2014-10-29
 
 ----
 
-<center>
-Lee-52099
+<center>Lee-52099</center>
 
 小杨猪二
  
@@ -149,7 +148,6 @@ zhousiquan
 小特务
  
 ……
-</center>
 
 ----
 
