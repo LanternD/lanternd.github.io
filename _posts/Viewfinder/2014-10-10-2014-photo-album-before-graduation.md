@@ -16,9 +16,9 @@ date: 2014-10-10
 
 　拍毕业照的时候有很多遗憾，不知该如何弥补了。期待未来由更多感动吧。
 
+----
+<iframe id="flickr-frame" src="https://www.flickr.com/photos/127429516@N03/15301008829/in/set-72157648563153312/player/" width="900" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+----
+
 * 小记：在2014年7月2日左右快门数达到4W。那个时候刚毕业，算是踩在分水岭上了。
-
-----
-<iframe src="https://www.flickr.com/photos/127429516@N03/15301008829/in/set-72157648563153312/player/" width="900" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-----

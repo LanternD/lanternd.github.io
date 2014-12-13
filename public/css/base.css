@@ -92,3 +92,7 @@ a:hover {text-decoration:none;}
 #back-top a:hover {
   background-color: #777;
 }
+
+#flickr-frame {
+  width: 100%;
+}
