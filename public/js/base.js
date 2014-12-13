@@ -109,6 +109,14 @@ $(document).ready(function() {
   //content_effects();
 });
 
+$(function(){ 
+  var frame_w = $("#flickr-frame").width();//容器宽度 
+  $("#flickr-frame").each(function(){//如果有很多图片，我们可以使用each()遍历 
+  var frame_h = w * 1.5; //高度等比缩放 
+  $(this).css({"width":w,"height": frame_h});//设置缩放后的宽度和高度 
+  }); 
+}); 
+
   //  $('body').on('click', '.show-commend', function() {
 //    var ds_loaded = false;
 //    var duoshuoQuery = {short_name:"dlyang"};
