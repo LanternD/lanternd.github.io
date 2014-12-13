@@ -20,27 +20,27 @@ layout: base
 	  <img src="http://lanternd.qiniudn.com/Logos/LanternD_Logo.png?imageView2/0/h/60" alt="LanternD_Logo" title="LanternD's Signature">  </p>
 	</blockquote>
 	
+	<hr>
+	 {% include duoshuo.html %}
+
+	<!--显示目录-->
 	<div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
     <div class="panel panel-success">
       <div class="panel-body" id="nav"></div>
     </div>
   	</div>
 
-	 <script>var duoshuoQuery = {short_name:"dlyang"};</script>
-  <script src="http://static.duoshuo.com/embed.js"></script>
-	<script type="text/javascript">
-		function toggleDuoshuoComments(container, id, url){
-		  var el = document.createElement('div');
-		  el.setAttribute('data-thread-key', id);
-		  el.setAttribute('data-url', url);
-		  DUOSHUO.EmbedThread(el);
-		  jQuery(container).toggle();
-		}
-	   </script>
-		<hr>
-		<div id="comment-box" ><button type="button" class="btn btn-default show-commend" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');this.style.display = "none"" >
-      <i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
-      </button>
-    </div>
+	<div style="position:fixed;right:20px;top:62px;">
+	  <button id="content_btn" class="btn btn-primary" style="width:43px; height:34px;">
+	    <i class="fa fa-lg fa-list-ul"></i>
+	  </button>
+	</div>
+
+	<div id="back-top" style="position:fixed;right:20px;bottom:10px;">
+	  <button class="btn btn-primary">
+	    <i class="fa fa-lg fa-chevron-up"></i>
+	  </button>
+	</div>
+
 </div>
 

@@ -1,7 +1,22 @@
-<!-- 多说评论框 start 
-	<div class="ds-thread" data-thread-key="site.duoshuo.username" data-title="{{ page.title }}" data-url="http://dlyang.me/:title">
-		<button type="button" name="{{ site.duoshuo.username }}" class="btn btn-default show-commend">Show Comment</button>
-	</div>
- 多说评论框 end -->
-<!-- <a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');">Comment</a>-->
-<div id="comment-box" ><button type="button" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');">Show Comment</button></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"dlyang"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+</script>
+
+	<div id="comment-toggle" ><button type="button" class="btn btn-default show-commend" href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');this.style.display = "none"" >
+      <i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
+      </button>
+    </div>
+
+
+
+	<div id="duoshuo-box" class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
+
+
