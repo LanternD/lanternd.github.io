@@ -85,7 +85,8 @@ $(document).ready(function() {
   });
 
   $("#duoshuo-box").hide();
-    $("#comment-toggle").click(function(){
+
+  $("#comment-toggle a").click(function(){
       $("#duoshuo-box").toggle();
   }); 
 
@@ -106,12 +107,6 @@ $(document).ready(function() {
     });
 
   //content_effects();
-});
-
-
-
-  $(document).ready(function () {
-
 });
 
   //  $('body').on('click', '.show-commend', function() {
