@@ -96,3 +96,33 @@ a:hover {text-decoration:none;}
 #flickr-frame {
   width: 100%;
 }
+
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+  width:8px;
+  margin-right:2px
+}
+/* 水平滚动条 */
+::-webkit-scrollbar:horizontal {
+  height:8px;
+  margin-bottom:2px
+}
+/* 滚动条外层轨道 */
+::-webkit-scrollbar-track {
+    border-radius: 8px;
+}
+/* 滚动条内层轨道 */
+::-webkit-scrollbar-track-piece {
+    background-color: #EEEEEE;
+  border-radius: 8px;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  width:10px;
+    border-radius: 5px;
+    background: #CBCBCB; 
+}
+/* 滚动条滑块悬停 */
+::-webkit-scrollbar-thumb:hover {
+  background: #909090; 
+}
