@@ -13,10 +13,10 @@ date: 2014-10-10
 　地点分布：玉林，哈尔滨，五大连池等。
 
 ----
-<iframe src="https://www.flickr.com/photos/127429516@N03/15301008829/in/set-72157648563153312/player/" width="1024" height="683" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.flickr.com/photos/127429516@N03/15301008829/in/set-72157648563153312/player/" width="900" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ----
-*友情提示：如果手机或其他移动端浏览器看这个日志效果一般的话，可以点进Flickr里面看，此外所有的公开相册都可以顺便看到。*
+*友情提示：PC上可以点击图片右下角的全屏按钮看。如果手机或其他移动端浏览器看这个日志效果一般的话，可以点进Flickr里面看，此外所有的公开相册都可以顺便看到。*
 
 　拍毕业照的时候有很多遗憾，不知该如何弥补了。期待未来由更多感动吧。
 
