@@ -31,11 +31,19 @@ function nav_click(is_show) {
 /* 控制文章章节列表按钮 */
 function content_click(is_show){
   if (is_show) {
-    $('#content_table').show();
+    $('#content_table').show(300);
     $('#content_btn i').removeClass('fa-list-ul').addClass('fa-minus');
   } else {
-    $('#content_table').hide();
+    $('#content_table').hide(200);
     $('#content_btn i').removeClass('fa-minus').addClass('fa-list-ul');
+  }
+}
+/* 显示隐藏评论切换按钮 */
+function comment_click(is_show){
+  if (is_show) {
+    $('.ds-thread').show(600);
+  } else {
+    $('.ds-thread').hide(400);
   }
 }
 
@@ -61,7 +69,7 @@ $(document).ready(function() {
   $("#comment-toggle").on('click', function(){
     isClicked = $(this).data('clicked');
 
-    content_click(!isClicked);
+    comment_click(!isClicked);
 
     $(this).data('clicked',!isClicked);
 
