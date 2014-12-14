@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-permalink: /hello-world
+permalink: /hello-world/
 categories: [视·界]
 tags: [Hello world]
 date: 2014-09-08

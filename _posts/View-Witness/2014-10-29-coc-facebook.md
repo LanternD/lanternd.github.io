@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COC里那些我熟知的名字
-permalink: /coc-facebook
+permalink: /coc-facebook/
 categories: [视·界]
 tags: [COC, 部落, 主营]
 date: 2014-10-29

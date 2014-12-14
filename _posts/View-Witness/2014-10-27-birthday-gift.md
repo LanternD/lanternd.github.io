@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 给自己的生日礼物
-permalink: /birthday-gift
+permalink: /birthday-gift/
 categories: [视·界]
 tags: [PC, 生日礼物]
 date: 2014-10-27

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 煎鱼、茄子&炖菜
-permalink: /fried-fish-eggplant-stew-soup
+permalink: /fried-fish-eggplant-stew-soup/
 categories: [料理食代]
 tags: [炒, 炖, 煎, 鱼, 美食]
 date: 2014-09-17

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 校歌歌词的风格
-permalink: /school-song-style
+permalink: /school-song-style/
 categories: [视·界]
 tags: [校歌, 高中, 大学]
 date: 2014-09-12

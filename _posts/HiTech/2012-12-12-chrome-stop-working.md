@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于Chrome浏览器页面假死的问题
-permalink: /chrome-stop-working
+permalink: /chrome-stop-working/
 categories: [HiTech]
 tags: [Chrome, 假死]
 date: 2012-12-12

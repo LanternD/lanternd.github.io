@@ -1,4 +1,4 @@
-permalink: /:title
+permalink: /:title/
 paginate: 10
 markdown: kramdown
 

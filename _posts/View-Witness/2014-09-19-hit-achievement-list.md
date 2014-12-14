@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HIT成就榜
-permalink: /hit-achievement-list
+permalink: /hit-achievement-list/
 categories: [视·界]
 tags: [哈工大, 大学, 成就]
 date: 2014-09-19

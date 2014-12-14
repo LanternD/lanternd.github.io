@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2014年摄影杂集·毕业前
-permalink: /2014-photo-album-before-graduation
+permalink: /2014-photo-album-before-graduation/
 categories: [取景器]
 tags: [相册, 2014]
 date: 2014-10-10

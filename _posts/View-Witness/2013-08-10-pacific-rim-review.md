@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于《环太平洋》的杂想，找Bug的
-permalink: /pacific-rim-review
+permalink: /pacific-rim-review/
 categories: [视·界]
 tags: [环太平洋, 观后感, 怪兽]
 date: 2013-08-10

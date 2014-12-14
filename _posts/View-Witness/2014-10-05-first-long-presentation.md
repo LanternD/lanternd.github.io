@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的第一个长Presentation
-permalink: /first-long-presentation
+permalink: /first-long-presentation/
 categories: [视·界]
 tags: [Presentation]
 date: 2014-10-05
