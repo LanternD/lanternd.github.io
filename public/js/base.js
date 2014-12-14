@@ -41,9 +41,9 @@ function content_click(is_show){
 /* 显示隐藏评论切换按钮 */
 function comment_click(is_show){
   if (is_show) {
-    $('.ds-thread').show(600);
+    $('#duoshuo-box').show(600);
   } else {
-    $('.ds-thread').hide(400);
+    $('#duoshuo-box').hide(400);
   }
 }
 
