@@ -84,10 +84,10 @@ $(document).ready(function() {
     content_effects();
   });
 
-  $("#duoshuo-box").hide();
+  $(".ds-thread").hide();
 
   $("#comment-toggle a").click(function(){
-      $("#duoshuo-box").toggle();
+      $(".ds-thread").toggle();
   }); 
 
   $("#back-top").hide();
@@ -99,20 +99,20 @@ $(document).ready(function() {
         $('#back-top').fadeOut();
       }
     });
-    $('#back-top a').click(function () {
+    $('#back-top').click(function () {
       $('body,html').animate({
         scrollTop: 0
       }, 800);
       return false;
     });
 
-  //content_effects();
+  content_effects();
 });
 
 $(function(){ 
   var frame_w = $("#flickr-frame").width();//容器宽度 
   $("#flickr-frame").each(function(){//如果有很多图片，我们可以使用each()遍历 
-  var frame_h = w * 1.5; //高度等比缩放 
+  var frame_h = w / 1.5; //高度等比缩放 
   $(this).css({"width":w,"height": frame_h});//设置缩放后的宽度和高度 
   }); 
 }); 

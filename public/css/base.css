@@ -120,9 +120,9 @@ a:hover {text-decoration:none;}
 ::-webkit-scrollbar-thumb {
   width:10px;
     border-radius: 5px;
-    background: #CBCBCB; 
+    background: #bababa; 
 }
 /* 滚动条滑块悬停 */
 ::-webkit-scrollbar-thumb:hover {
-  background: #909090; 
+  background: #6d6d6d; 
 }
