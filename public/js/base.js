@@ -70,7 +70,7 @@ $(document).ready(function() {
   $("#back-top").click(function() {
       $(".container").animate({ scrollTop: 0 }, 700);
   });
-  
+
   $("#comment-toggle").on('click', function(){
     isClicked = $(this).data('clicked');
 
@@ -83,7 +83,9 @@ $(document).ready(function() {
   $("#comment-hide").on('click', function(){
     $('#duoshuo-box').hide(600);
   });*/
-
+  $("#comment-show").click(function() {
+      $("#comment-show").hide(700);
+  });
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
   $(document).on("pjax:end", function() {
