@@ -71,7 +71,7 @@ a:hover {text-decoration:none;}
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
 
-#back-top {
+/*#back-top {
   position: fixed;
   right:20px;
   bottom:40px;
@@ -92,7 +92,7 @@ a:hover {text-decoration:none;}
 
 #back-top a:hover {
   background-color: #777;
-}
+}*/
 
 #flickr-frame {
   width: 100%;

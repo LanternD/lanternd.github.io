@@ -66,7 +66,7 @@ $(document).ready(function() {
 
   });
 
-  $("#comment-toggle").on('click', function(){
+/*  $("#comment-toggle").on('click', function(){
     isClicked = $(this).data('clicked');
 
     comment_click(!isClicked);
@@ -77,7 +77,7 @@ $(document).ready(function() {
 
   $("#comment-hide").on('click', function(){
     $('#duoshuo-box').hide(600);
-  });
+  });*/
 
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
