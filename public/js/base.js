@@ -38,15 +38,6 @@ function content_click(is_show){
     $('#content_btn i').removeClass('fa-minus').addClass('fa-list-ul');
   }
 }
-/* 显示隐藏评论切换按钮 */
-function comment_button(is_show){
-  if (is_show) {
-    $('#duoshuo-box').show(600);
-  } else {
-    $('#duoshuo-box').hide(400);
-  }
-}
-
 
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
@@ -66,12 +57,12 @@ $(document).ready(function() {
     $(this).data('clicked',!isClicked);
 
   });
-
+/*
   $("#comment-show").on('click', function() {
       $(this).hide(700);
   });
 
-/*
+
   $("#back-top").click(function() {
       $(".container").animate({ scrollTop: 0 }, 700);
   });

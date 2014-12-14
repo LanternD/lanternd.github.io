@@ -95,7 +95,9 @@ a:hover {text-decoration:none;}
 }*/
 
 #flickr-frame {
-  width: 100%;
+  width: 90%;
+  padding-bottom: 100%;
+  height: 0;
 }
 
 /* 设置滚动条的样式 */
