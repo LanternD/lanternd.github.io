@@ -75,6 +75,11 @@ $(document).ready(function() {
 
   });
 
+  $("#comment-show").on('click', function(){
+    $('#duoshuo-box').show(600);
+  });
+
+
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
   $(document).on("pjax:end", function() {
     if($("body").find('.container').width() < 992)
@@ -83,7 +88,7 @@ $(document).ready(function() {
     contentEffects();
   });
 
-  contentEffects();
+  //contentEffects();
 });
 function contentEffects(){
   //remove the asidebar

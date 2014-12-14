@@ -1,5 +1,19 @@
+<!--多说评论界面-->
+<div>
+<button id="comment-toggle" type="button" class="btn btn-default show-commend">
+	<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
+</button>
+</div>
+<div>
+<button id="comment-show" type="button" class="btn btn-default show-commend">
+	<i class="fa fa-list fa-2x" style="color: #0d5d56;"></i>
+</button>
+</div>
+<div id="duoshuo-box" class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
+
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"dlyang"};
+
+var duoshuoQuery = {short_name:"dlyang"};//short_name根据实际情况设定。
 	(function() {
 		var ds = document.createElement('script');
 		ds.type = 'text/javascript';ds.async = true;
@@ -9,11 +23,3 @@ var duoshuoQuery = {short_name:"dlyang"};
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
 </script>
-
-	<div>
-		<button id="comment-toggle" type="button" class="btn btn-default show-commend">
-	    	<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
-	    </button>
-    </div>
-
-	<div id="duoshuo-box" class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
