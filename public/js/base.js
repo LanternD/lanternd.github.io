@@ -75,8 +75,8 @@ $(document).ready(function() {
 
   });
 
-  $("#comment-show").on('click', function(){
-    $('#duoshuo-box').show(600);
+  $("#comment-hide").on('click', function(){
+    $('#duoshuo-box').hide(600);
   });
 
 
