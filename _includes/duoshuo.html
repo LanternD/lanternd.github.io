@@ -34,7 +34,7 @@ var duoshuoQuery = {short_name:"dlyang"};//short_name根据实际情况设定。
 <script type="text/javascript">
 function toggleDuoshuoComments(container){
     var el = document.createElement('div');//该div不需要设置class="ds-thread"
-    el.setAttribute('data-thread-key', '{{page.id}}');//必选参数
+    el.setAttribute('data-thread-key', '{{page.title}}');//必选参数
     el.setAttribute('data-url', '{{page.url}}');//必选参数
     el.setAttribute('data-author-key', 'LanternD');//可选参数
     DUOSHUO.EmbedThread(el);
@@ -43,6 +43,9 @@ function toggleDuoshuoComments(container){
 </script>
 
 <a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');">
-<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;" class="btn btn-default show-commend"></i></a>
+<button type="button" class="btn btn-default show-commend">
+	<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
+</button></i>
+</a>
 
 <div id="comment-box" ></div>
