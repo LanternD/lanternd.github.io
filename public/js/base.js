@@ -67,7 +67,7 @@ $(document).ready(function() {
   });
 
   $("#back-top").click(function() {
-      $(".aside3").animate({ scrollTop: 0 }, 700);
+      $(".container").animate({ scrollTop: 0 }, 700);
   });
 
 /*  $("#comment-toggle").on('click', function(){
