@@ -32,10 +32,10 @@ function nav_click(is_show) {
 function content_click(is_show){
   if (is_show) {
     $('#content_table').show();
-    $('#content_btn i').removeClass('fa-plus').addClass('fa-minus');
+    $('#content_btn i').removeClass('fa-list-ul').addClass('fa-minus');
   } else {
     $('#content_table').hide();
-    $('#content_btn i').removeClass('fa-minus').addClass('fa-plus');
+    $('#content_btn i').removeClass('fa-minus').addClass('fa-list-ul');
   }
 }
 
@@ -50,6 +50,15 @@ $(document).ready(function() {
   });
 
   $("#content_btn").on('click', function(){
+    isClicked = $(this).data('clicked');
+
+    content_click(!isClicked);
+
+    $(this).data('clicked',!isClicked);
+
+  });
+
+  $("#comment-toggle").on('click', function(){
     isClicked = $(this).data('clicked');
 
     content_click(!isClicked);
