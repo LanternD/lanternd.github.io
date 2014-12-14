@@ -47,6 +47,7 @@ function comment_click(is_show){
   }
 }
 
+
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
@@ -66,6 +67,10 @@ $(document).ready(function() {
 
   });
 
+  $("#comment-show").click(function() {
+      $(this).hide(700);
+  });
+
 /*
   $("#back-top").click(function() {
       $(".container").animate({ scrollTop: 0 }, 700);
@@ -83,9 +88,7 @@ $(document).ready(function() {
   $("#comment-hide").on('click', function(){
     $('#duoshuo-box').hide(600);
   });*/
-  $("#comment-show").click(function() {
-      $("#comment-show").hide(700);
-  });
+  
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
   $(document).on("pjax:end", function() {
@@ -97,6 +100,7 @@ $(document).ready(function() {
 
   //contentEffects();
 });
+
 function contentEffects(){
   //remove the asidebar
   $('.row-offcanvas').removeClass('active');
