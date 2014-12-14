@@ -66,11 +66,16 @@ $(document).ready(function() {
     $(this).data('clicked', !isClicked);
   });
 
-  $('body').on('click', '#content_btn' , function() {
+/*  $('body').on('click', '#content_btn' , function() {
     isClicked = $(this).data('clicked');
     content_click(!isClicked);
     $(this).data('clicked', !isClicked);
-  });
+  });*/
+  $("$content_btn").on('click',function(){
+    isClicked = $(this).data('clicked');
+    content_click(!isClicked);
+    $(this).data('clicked',!isClicked);
+  })
 
   $(document).pjax('.pjaxlink', '#pjax', {
     fragment: "#pjax",
@@ -86,7 +91,7 @@ $(document).ready(function() {
 
   $(".ds-thread").hide();
 
-  $("#comment-toggle a").click(function(){
+  $("#comment-toggle").on('click',(function(){
       $(".ds-thread").toggle();
   }); 
 
@@ -99,12 +104,13 @@ $(document).ready(function() {
         $('#back-top').fadeOut();
       }
     });
-    $('#back-top').click(function () {
-      $('body,html').animate({
-        scrollTop: 0
-      }, 800);
-      return false;
-    });
+  
+  $('#back-top').click(function () {
+    $('body,html').animate({
+      scrollTop: 0
+    }, 800);
+    return false;
+  });
 
   content_effects();
 });
