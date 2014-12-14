@@ -39,7 +39,7 @@ function content_click(is_show){
   }
 }
 /* 显示隐藏评论切换按钮 */
-function comment_click(is_show){
+function comment_button(is_show){
   if (is_show) {
     $('#duoshuo-box').show(600);
   } else {
@@ -67,7 +67,7 @@ $(document).ready(function() {
 
   });
 
-  $("#comment-show").click(function() {
+  $("#comment-show").on('click', function() {
       $(this).hide(700);
   });
 
