@@ -1,5 +1,5 @@
-<!--多说评论界面-->
-<!--多说评论界面
+
+<!--多说评论界面 1st test
 <div>
 <button id="comment-toggle" type="button" class="btn btn-default show-commend">
 	<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>
@@ -11,6 +11,7 @@
 </button>
 </div>-->
 
+<!--多说评论界面 2nd test
 <div id="duoshuo-box" class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
 
 <script type="text/javascript">
@@ -24,4 +25,27 @@ var duoshuoQuery = {short_name:"dlyang"};//short_name根据实际情况设定。
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
+</script>-->
+
+<!--多说评论界面 3rd test-->
+<script>var duoshuoQuery = {short_name:"dlyang"};</script>
+<script src="http://static.duoshuo.com/embed.js"></script>
+
+<script type="text/javascript">
+function toggleDuoshuoComments(container, id, url){
+  if(jQuery(container).has("div").length>0){
+    jQuery(container).empty();
+    return;
+  }
+  var el = document.createElement('div');
+  el.setAttribute('data-thread-key', id);
+  el.setAttribute('data-url', url);
+  DUOSHUO.EmbedThread(el);
+  jQuery(container).append(el);
+}
 </script>
+
+<a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box', {{page.title}}, {{page.url}});">
+<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i></a>
+
+<div id="comment-box" ></div>
