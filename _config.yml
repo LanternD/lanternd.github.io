@@ -5,13 +5,20 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# 作者信息
+# 作者信息，不要的就自己删除掉吧，以及about.html页面里面的。
 author: 
   name: LanternD
   email: yangdavid028@gmail.com
   link: http://dlyang.me/
   weibo: http://weibo.com/LanternD
   github: http://github.com/LanternD
+  instagram: http://instagram.com/lantern_d
+  facebook: https://www.facebook.com/yangdavid1028
+  twitter: https://twitter.com/WalleLantern
+  googleplus: https://plus.google.com/104828574371554105582/posts
+  linkedin: http://cn.linkedin.com/pub/deliang-yang/80/a93/649
+  youtube: http://www.youtube.com/channel/UCvTjnJtDt4O4FG7hwmC4oqQ
+  flickr: https://www.flickr.com/photos/lanternd
 
 # 站点信息
 title: LanternD's Caravel 
