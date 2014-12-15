@@ -17,20 +17,18 @@ body, html {
   padding-right: 0px;
   text-align: center;
 }
+
 .aside1 > .nav > li > a {
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
+  font-size: 16px;
   color:#fcfcfc;
 }
 
-.nav a {
-  color: #fcfcfc;
-}
-
-.nav a:hover {
-  color: #2a6496;
-    font-weight: bold;
+.aside1 > .nav > li > a:hover {
+  color:#428bca;
+  font-weight: bold;
 }
 
 .avatar {width: 60px; height: 60px;}
@@ -80,18 +78,17 @@ a:hover {
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
   color: #2a6496;
   background-color: #fafaf6;
-  font-weight: bold;
 }
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
 
-/*#page-tags {
+#page-tags {
     font-size: 12px; 
     line-height: 1.5;
     text-align: center;
     background-color: #cbcbcb;
     border-radius: 2px;
-}*/
+
 
 .flickr-container {
     position: relative;
