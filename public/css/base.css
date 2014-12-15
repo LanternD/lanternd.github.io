@@ -28,6 +28,11 @@ body, html {
   color: #fcfcfc;
 }
 
+.nav a:hover {
+  color: #2a6496;
+    font-weight: bold;
+}
+
 .avatar {width: 60px; height: 60px;}
 .aside1_bottom {
   width: 100%;
@@ -60,7 +65,9 @@ body, html {
 }
 .aside3-content {padding-left: 30px;padding-right: 30px;}
 /* 文章内容排版 */
-a:hover {text-decoration:none;}
+a:hover {
+  text-decoration:none;
+}
 #content {font-size: 18px; line-height: 1.5;}
 #content p {margin: 20px 0px;}
 #content ul, ol, dl, li {margin: 10px 0px;}
