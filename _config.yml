@@ -9,14 +9,14 @@ kramdown:
 author: 
   name: LanternD
   email: yangdavid028@gmail.com
-  link: http://dlyang.me
+  link: http://dlyang.me/
   weibo: http://weibo.com/LanternD
   github: http://github.com/LanternD
 
 # 站点信息
 title: LanternD's Caravel 
 description: Survive Technically
-url: http://dlyang.me
+url: http://dlyang.me/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
