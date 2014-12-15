@@ -2425,13 +2425,13 @@ textarea.input-lg,select[multiple].input-lg {
 	background-color:#333
 }
 .btn-primary {
-	color:#fff;
-	background-color:#1a7d47;
+	color:#10783f;
+	background-color:#fcfcfc;
 	border-color:#237fcf
 }
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open>.dropdown-toggle.btn-primary {
-	color:#fff;
-	background-color:#3071a9;
+	color:#fcfcfc;
+	background-color:#10783f;
 	border-color:#285e8e
 }
 .btn-primary:active,.btn-primary.active,.open>.dropdown-toggle.btn-primary {
