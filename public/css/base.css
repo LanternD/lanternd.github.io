@@ -23,6 +23,11 @@ body, html {
   border-radius: 0px;
   color:#fcfcfc;
 }
+
+a .nav {
+  color: #fcfcfc;
+}
+
 .avatar {width: 60px; height: 60px;}
 .aside1_bottom {
   width: 100%;
@@ -131,13 +136,10 @@ a:hover {text-decoration:none;}
 img{
   max-height: 100%
 }
-/*
+
 a.fa{
   color: #266153;
   background-color: #fcfcfc;
 }
-
-ul .nav {
-  color: #fcfcfc;
-  background-color: #266153;
-}*/
+/*
+*/
