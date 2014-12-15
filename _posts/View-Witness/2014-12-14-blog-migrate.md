@@ -76,13 +76,15 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 ### 建站
 
-　其实我想说**理论上**把博客托管在Github上完全不需要建立本地环境：下载一个[Github for windows](https://windows.github.com/)， 然后先在Github网站上注册用户，建立一个Repository，名叫“xxxxx.github.io”或者“xxxxx.github.com” ( 记住只能变xxxxx这段，其他的别动哈 )，然后点击Repos界面右侧的Clone in Desktop，就会在Github for windows里面出现了。指定了文件夹以后就会在本地生成了。
+　其实我想说**理论上**把博客托管在Github上完全不需要建立本地环境：下载一个[Github for windows](https://windows.github.com/)， 然后先在Github网站上注册用户，建立一个Repository，名叫“xxxxx.github.io”或者“xxxxx.github.com” ( 记住只能变xxxxx这段，其他的别动 )，然后点击Repos界面右侧的Clone in Desktop，就会在Github for windows里面出现了。指定了文件夹以后就会在本地生成了。
 
 　这时只要去别人的Github打包下载整个Repository解压到自己文件夹，修改后再上传到自己Repository就可以了，也可以fork到自己的Github里，然后改名字。
 
-　——其实也没比装Wordpress复杂多少，至于后期调整的折腾程度，我觉得**两者也差不多**。
+　最常用的几个命令： `git status`，`git add .`，`git commit -m "Say something"`，`git push`。没多复杂，很容易就记住了。
 
-　如果有什么问题也可以留言，我会尽我所能回答哈。
+　——其实建站也没比装Wordpress复杂多少，至于后期调整的折腾程度，我觉得**两者也差不多**。
+
+　貌似没啥可说的了，如果有什么问题也可以留言，我会尽我所能回答的。
 
 ### 主题选择
 
@@ -160,7 +162,7 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 * 　Markdown写文章的时候，段首空格用**全角的空格**比较好。例如，这是半角空格“ ”，这是全角空格“　”。全角空格会被当做一个正常的字来识别，占用的位置也是一整个，**显示效果更好**，更重要的是**不会受各种因素的制约**，比如排版，渲染器等等。例如有时候按了四个空格就变成pre标签了，要么影响到下一段的排列。现在把全文写完了，shift + space，挨个段落打上空格就完事，如画龙点睛一般，哈哈。
 
 * 　如果想在文章里插入公式和数学符号，可以在文章开头加入以下代码：
-```html
+```
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ```
