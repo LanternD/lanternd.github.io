@@ -82,7 +82,7 @@ hr {
 	height:0
 }
 pre {
-	overflow:auto
+	overflow-y:hidden;
 }
 code,kbd,pre,samp {
 	font-family:monospace,monospace;
