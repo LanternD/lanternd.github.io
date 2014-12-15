@@ -71,13 +71,13 @@ a:hover {text-decoration:none;}
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
 
-#page-tags {
+/*#page-tags {
     font-size: 12px; 
     line-height: 1.5;
     text-align: center;
     background-color: #cbcbcb;
     border-radius: 2px;
-}
+}*/
 
 .flickr-container {
     position: relative;
@@ -125,4 +125,8 @@ a:hover {text-decoration:none;}
 /* 滚动条滑块悬停 */
 ::-webkit-scrollbar-thumb:hover {
   background: #6d6d6d; 
+}
+
+img{
+  max-height: 100%
 }

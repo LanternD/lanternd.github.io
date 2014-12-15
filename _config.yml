@@ -20,7 +20,7 @@ url: http://dlyang.me
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: http://lanternd.qiniudn.com/Logo_200x.png
+gavatar: http://lanternd.qiniudn.com/Logo_100x.png
 favicon: http://lanternd.qiniudn.com/favicon.ico
 
 # google analytics 设置
@@ -34,7 +34,7 @@ disqus:
 
 # disqus 设置
 duoshuo:
-  username: LanternD
+  short_name: dlyang
 
 # 主题设置，自动激活某个标签
 active: 视·界

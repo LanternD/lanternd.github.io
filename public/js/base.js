@@ -57,28 +57,16 @@ $(document).ready(function() {
     $(this).data('clicked',!isClicked);
 
   });
-/*
-  $("#comment-show").on('click', function() {
-      $(this).hide(700);
+
+  $("#back-top").click(function() {
+      $(window).animate({ scrollTop: 0 }, 700);
+      $(window).scrollTo(0, 0);
   });
-
-
+/*
   $("#back-top").click(function() {
       $(".container").animate({ scrollTop: 0 }, 700);
   });
-
-  $("#comment-toggle").on('click', function(){
-    isClicked = $(this).data('clicked');
-
-    comment_click(!isClicked);
-
-    $(this).data('clicked',!isClicked);
-
-  });
-
-  $("#comment-hide").on('click', function(){
-    $('#duoshuo-box').hide(600);
-  });*/
+*/
   
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
