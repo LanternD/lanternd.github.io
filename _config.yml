@@ -39,7 +39,7 @@ ga:
 disqus:
   shortname: lanternd
 
-# disqus 设置
+# duoshuo 设置
 duoshuo:
   short_name: dlyang
 

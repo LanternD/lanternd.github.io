@@ -119,6 +119,61 @@ blockquote p {
 }
 /* 显示评论按钮 */
 .show-commend {
-  width: 100%;
+  width: 40%;
   margin-bottom: 40px;
+  left: 5%;
+}
+
+.show-commend-duoshuo{
+  width: 40%;
+  margin-bottom: 40px;
+  right: 5%;
+}
+
+.flickr-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.flickr-container iframe,
+.flickr-container object,
+.flickr-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+  width:8px;
+  margin-right:2px
+}
+/* 水平滚动条 */
+::-webkit-scrollbar:horizontal {
+  height:8px;
+  margin-bottom:2px
+}
+/* 滚动条外层轨道 */
+::-webkit-scrollbar-track {
+    border-radius: 8px;
+}
+/* 滚动条内层轨道 */
+::-webkit-scrollbar-track-piece {
+    background-color: #EEEEEE;
+  border-radius: 8px;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  width:10px;
+    border-radius: 5px;
+    background: #bababa; 
+}
+/* 滚动条滑块悬停 */
+::-webkit-scrollbar-thumb:hover {
+  background: #6d6d6d; 
 }
