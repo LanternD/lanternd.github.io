@@ -2,53 +2,24 @@
 layout: base
 ---
 <div class="row">
-  <div class="col-md-12 aside3-title">
+  <div class="col-md-13 aside3-title">
     <br>
     <h2 id="#identifier">{{ page.title }}</h2>
-    {{ page.date | date:"%Y 年 %m 月 %d 日" }}
-	<br>
+    {{ page.date | date:"%Y年%m月%d日" }}
   </div>
-  <div class="col-md-12 aside3-content">
-    
+  <div class="col-md-13 aside3-content">
     <hr>
-    <div id="page-tag">
-      <center>TAG: {{ page.tags }}</center>
-    </div>
-
-    <br>
-
     <div id="content">
       {{ content }}
     </div>
-	<blockquote>
-	  <p>
-	  <strong>LanternD</strong>  <br>
-	  <img src="http://lanternd.qiniudn.com/Logos/LanternD_Logo.png?imageView2/0/h/60" alt="LanternD_Logo" title="LanternD's Signature">  </p>
-	</blockquote>
-	<hr>
-	 {% include disqus.html %}	
-	 
-	 </div>
-
-	<!--显示目录-->
-	<div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
+    <hr>
+    {% include disqus.html %}
+  </div>
+  <!-- 目录 -->
+  <div id="content_table" style="position:fixed;right:20px;top:120px;display:none;">
     <div class="panel panel-success">
       <div class="panel-body" id="nav"></div>
     </div>
-  	</div>
-
-	<div style="position:fixed;right:10px;top:62px;">
-	  <button id="content_btn" class="btn btn-primary" style="width:43px; height:34px;">
-	    <i class="fa fa-lg fa-list-ul"></i>
-	  </button>
-	</div>
-
-<!-- 	<div id="back-top" style="position:fixed;right:15px;bottom:40px;">
-		<button class="btn btn-primary">
-	    	<i class="fa fa-lg fa-chevron-up"></i>
-		  </button>
-	</div> -->
-	
-
+  </div>
 </div>
 

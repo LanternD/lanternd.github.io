@@ -1,10 +1,9 @@
 ---
-layout: page
-title: 归档
+layout: page_title
+title: <i class="fa fa-archive fa-lg"></i>
+titlename: 归档
 comments: false
 ---
-
-<br>
 
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

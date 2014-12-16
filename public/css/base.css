@@ -1,135 +1,124 @@
 /* 页面配置 */
-.container {width: 100%; height: 100%;}
+.container {
+  width: 100%;
+  height: 100%;
+}
 body, html {
   margin: 0px;
   height: 100%;
-  overflow: hidden;
-  background-color: #1c463c;
+  overflow: hidden; 
+  background-color: #303030;
 }
-.row {height: 100%;}
+.row {
+  height: 100%;
+}
 /* 导航栏 + 目录栏 */
-.aside {height: 100%;}
+.aside {
+  height: 100%;
+}
 /* 左侧导航栏 */
 .aside1 {
-  background-color: #1c463c;
+  /*background-color: #1f2c39;*/
+  background-color: #1abc9c;
+  /*background-image: url(/public/img/bg_grid.jpg);*/
   height: 100%;
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
-
+  /*box-shadow: inset -15px 0 20px -15px #77AEF4;*/
 }
-
 .aside1 > .nav > li > a {
-  color:#fafaf6;
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
-  font-size: 16px;
-  
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 10px;
+
 }
 
-.aside1 > .nav > li > a:hover, .aside1 > .nav > li > a:focus {
-  color:#428bca;
-  font-weight: bold;
+.aside1> .nav > li > a:hover {
+  color:#fff;
+  background-color: #16a085;
 }
 
-.avatar {width: 60px; height: 60px;}
+.aside1 > .nav-pills>li.active>a ,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
+  color: #fff;
+  /*background-color: #fafaf6;*/
+  /*background-image: url(/public/img/body_bg.jpg);*/
+  background-color: #303030;
+}
+
+.avatar {
+  width: 56px;
+  /*height: 90px;*/
+  border: 0px solid #fff;
+}
 .aside1_bottom {
   width: 100%;
   position: absolute;
   bottom: 0px;
   left: 0px;
 }
-.aside1_bottom > .table {margin-bottom: 0px;}
-#content ul, ol, dl, li {margin: 0px;}
+.aside1_bottom > .table {
+  margin-bottom: 0px;
+}
 /* 中部目录栏 */
 .aside2 {
-  background-color: #fafaf6;
+  /*background-color: #fafaf6;*/
+  /*background-image: url(/public/img/body_bg.jpg);*/
+
+  background-color: #303030;
   height: 100%;
-  border-right: 2px solid #18bc9c;
+  border-right: 2px solid #303030;
   overflow-y: auto;
+  font-color: #fff;
+  margin-top: 40px;
 }
+
 /* 右侧内容栏 */
 .aside3 {
   height: 100%;
   overflow-y: auto;
-  background-color: #fafaf6;
+  background-color: #fff;
   overflow-x: hidden;
+
+  /*background-image: url(/public/img/bg_lines1.jpg);*/
 }
 .aside3-title {
-  background-color: #1c463c;
+  background-color: #f5f5f5;
+  /*background-image: url(/public/img/bg_grid.jpg);*/
+  border-bottom: 1px solid #f5f5f5;
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;
-  color: #FFF;
+  color: #303030;
 }
-.aside3-content {padding-left: 30px;padding-right: 30px;}
-/* 文章内容排版 */
-a:hover {
-  text-decoration:none;
+.aside3-content {
+  padding-left: 40px;
+  padding-right: 40px;
+  color: #656565;
+  line-height: 1.42857143;
 }
-#content {font-size: 18px; line-height: 1.5;}
-#content p {margin: 20px 0px;}
-#content ul, ol, dl, li {margin: 10px 0px;}
-.nav > li {margin: 0px;}
-#content h2, h3 {line-height: 2;}
-#content blockquote > :first-child {margin-top: 0; }
-#content blockquote > :last-child {margin-bottom: 0;}
+#content {
+  font-size: 18px;
+}
+#content h2, h3 {
+  line-height: 2;
+}
+blockquote p {
+  font-size: 20px;
+}
 /* 其他配置 */
-.center { text-align: center;}
+.center {
+  text-align: center;
+}
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-  color: #2a6496;
-  background-color: #fafaf6;
-  font-weight: bold;
+  color: #fff;
+  background-color: #303030;
 }
 /* 显示评论按钮 */
-.show-commend {width: 100%; margin-bottom: 40px;}
-
-.flickr-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
+.show-commend {
+  width: 100%;
+  margin-bottom: 40px;
 }
-
-.flickr-container iframe,
-.flickr-container object,
-.flickr-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-/* 设置滚动条的样式 */
-::-webkit-scrollbar {
-  width:8px;
-  margin-right:2px
-}
-/* 水平滚动条 */
-::-webkit-scrollbar:horizontal {
-  height:8px;
-  margin-bottom:2px
-}
-/* 滚动条外层轨道 */
-::-webkit-scrollbar-track {
-    border-radius: 8px;
-}
-/* 滚动条内层轨道 */
-::-webkit-scrollbar-track-piece {
-    background-color: #EEEEEE;
-  border-radius: 8px;
-}
-/* 滚动条滑块 */
-::-webkit-scrollbar-thumb {
-  width:10px;
-    border-radius: 5px;
-    background: #bababa; 
-}
-/* 滚动条滑块悬停 */
-::-webkit-scrollbar-thumb:hover {
-  background: #6d6d6d; 
-}
-
