@@ -853,11 +853,12 @@ input,button,select,textarea {
 	line-height:inherit
 }
 a {
-	color:#428bca;
+	/*color:#428bca;*/
+	color:#265e51;
 	text-decoration:none
 }
 a:hover,a:focus {
-	color:#2a6496;
+	color:#1c463c;
 	text-decoration:underline
 }
 a:focus {

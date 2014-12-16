@@ -19,7 +19,7 @@ body, html {
 }
 
 .aside1 > .nav > li > a {
-  color:#1c463c;
+  color:#fafaf6;
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
@@ -79,6 +79,7 @@ a:hover {
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
   color: #2a6496;
   background-color: #fafaf6;
+  font-weight: bold;
 }
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
