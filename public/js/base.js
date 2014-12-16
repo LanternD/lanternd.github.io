@@ -31,11 +31,11 @@ function nav_click(is_show) {
 /* 控制文章章节列表按钮 */
 function content_click(is_show){
   if (is_show) {
-    $('#content_table').show(300);
-    $('#content_btn i').removeClass('fa-list-ul').addClass('fa-minus');
+    $('#content_table').show();
+    $('#content_btn i').removeClass('fa-plus').addClass('fa-minus');
   } else {
-    $('#content_table').hide(200);
-    $('#content_btn i').removeClass('fa-minus').addClass('fa-list-ul');
+    $('#content_table').hide();
+    $('#content_btn i').removeClass('fa-minus').addClass('fa-plus');
   }
 }
 
@@ -58,17 +58,6 @@ $(document).ready(function() {
 
   });
 
-  $("#back-top").click(function() {
-      $('.aside3').animate({ scrollTop: 0 }, 700);
-      //$(.aside3).scrollTo(0, 0);
-  });
-/*
-  $("#back-top").click(function() {
-      $(".container").animate({ scrollTop: 0 }, 700);
-  });
-*/
-  
-
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
   $(document).on("pjax:end", function() {
     if($("body").find('.container').width() < 992)
@@ -76,10 +65,18 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
-
+  $('body').on('click', '.show-commend', function(){
+    var ds_loaded = false;
+    window.disqus_shortname = $('.show-commend').attr('name');
+    $.ajax({
+      type: "GET",
+      url: "http://" + disqus_shortname + ".disqus.com/embed.js",
+      dataType: "script",
+      cache: true
+    });
+  });
   contentEffects();
 });
-
 function contentEffects(){
   //remove the asidebar
   $('.row-offcanvas').removeClass('active');
