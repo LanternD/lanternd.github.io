@@ -77,7 +77,7 @@ $(document).ready(function() {
     contentEffects();
   });
 
-  //contentEffects();
+  contentEffects();
 });
 
 function contentEffects(){
