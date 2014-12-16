@@ -39,11 +39,6 @@ function content_click(is_show){
   }
 }
 
-$("#back-top").click(function() {
-    //$('.aside3').animate({ scrollTop: 0 }, 700);
-    $('.aside3').scrollTo(0, 0);
-});
-
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
@@ -70,18 +65,10 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
-  $('body').on('click', '.show-commend', function(){
-    var ds_loaded = false;
-    window.disqus_shortname = $('.show-commend').attr('name');
-    $.ajax({
-      type: "GET",
-      url: "http://" + disqus_shortname + ".disqus.com/embed.js",
-      dataType: "script",
-      cache: true
-    });
-  });
+
   contentEffects();
 });
+
 function contentEffects(){
   //remove the asidebar
   $('.row-offcanvas').removeClass('active');
