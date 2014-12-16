@@ -59,8 +59,8 @@ $(document).ready(function() {
   });
 
   $("#back-top").click(function() {
-      $(window).animate({ scrollTop: 0 }, 700);
-      $(window).scrollTo(0, 0);
+      $(.aside3).animate({ scrollTop: 0 }, 700);
+      //$(.aside3).scrollTo(0, 0);
   });
 /*
   $("#back-top").click(function() {
