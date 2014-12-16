@@ -28,7 +28,7 @@ var duoshuoQuery = {short_name:"dlyang"};//short_name根据实际情况设定。
 </script>-->
 
 <!--多说评论界面 3rd test-->
-<script>var duoshuoQuery = {short_name:"dlyang"};</script>
+<script>var duoshuoQuery = {short_name:"{{ site.duoshuo.short_name }}"};</script>
 <script src="http://static.duoshuo.com/embed.js"></script>
 
 <script type="text/javascript">
@@ -46,7 +46,7 @@ function toggleDuoshuoComments(container){
 <a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');$(this).one();">
 <button id="comment-show" type="button" class="btn btn-default show-commend-duoshuo">
 	<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i>多说
-</button></i>
+</button>
 </a>
 
 <div id="comment-box" ></div>

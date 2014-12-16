@@ -1,0 +1,29 @@
+<script>var duoshuoQuery = {short_name:"{{ site.duoshuo.short_name }}"};</script>
+<script src="http://static.duoshuo.com/embed.js"></script>
+
+<script type="text/javascript">
+function toggleDuoshuoComments(container){
+    var el = document.createElement('div');//该div不需要设置class="ds-thread"
+    el.setAttribute('data-thread-key', '{{page.id}}');//必选参数
+    el.setAttribute('data-title', '{{page.title}}');//必选参数
+    el.setAttribute('data-url', 'http://dlyang.me{{page.url}}');//必选参数
+    el.setAttribute('data-author-key', 'LanternD');//可选参数
+    DUOSHUO.EmbedThread(el);
+    jQuery(container).append(el);
+}
+</script>
+<div>
+	<div id="disqus_thread">
+	  <button type="button" name="{{ site.disqus.shortname }}" class="btn btn-default show-commend" onclick="$(this).hide(200);">	
+	  	<i class="fa fa-comment-o fa-2x" style="color: #16a095;"></i> Disqus     <!-- 修改显示评论按钮图标-->
+	  </button>
+	</div>
+
+	<a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');$(this).hide(200);">
+		<button id="comment-show" type="button" class="btn btn-default show-commend-duoshuo">
+			<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i> 多说
+		</button>
+	</a>
+</div>
+
+<div id="comment-box" ></div>
