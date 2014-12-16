@@ -59,7 +59,7 @@ $(document).ready(function() {
   });
 
   $("#back-top").click(function() {
-      $(.aside3).animate({ scrollTop: 0 }, 700);
+      $('.aside3').animate({ scrollTop: 0 }, 700);
       //$(.aside3).scrollTo(0, 0);
   });
 /*

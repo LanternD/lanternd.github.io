@@ -85,14 +85,6 @@ a:hover {
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
 
-#page-tags {
-    font-size: 12px; 
-    line-height: 1.5;
-    text-align: center;
-    background-color: #cbcbcb;
-    border-radius: 2px;
-}
-
 .flickr-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -141,13 +133,3 @@ a:hover {
   background: #6d6d6d; 
 }
 
-/*img{
-  max-width: 100%
-}*/
-
-.fa a{
-  color: #266153;
-  background-color: #fcfcfc;
-}
-/*
-*/
