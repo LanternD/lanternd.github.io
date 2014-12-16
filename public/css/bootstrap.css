@@ -3197,16 +3197,22 @@ textarea.input-lg, select[multiple].input-lg {
 }
 
 .btn-primary {
-    color: #fff;
+/*    color: #fff;
     background-color: #16a085;
-    border-color: #16a090;
+    border-color: #16a090;*/
+    color:#10783f;
+    background-color:#fcfcfc;
+    border-color:#237fcf
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
-    color: #fff;
+/*    color: #fff;
     background-color: #1abc9c;
-    border-color: #1abc9c;
+    border-color: #1abc9c;*/
+    color:#fcfcfc;
+    background-color:#10783f;
+    border-color:#285e8e
 }
 
 .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {

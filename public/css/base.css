@@ -118,16 +118,15 @@ blockquote p {
   background-color: #303030;
 }
 /* 显示评论按钮 */
-.show-commend {
-  width: 40%;
+.show-comment {
+  width: 95%;
   margin-bottom: 40px;
-  left: 5%;
+
 }
 
-.show-commend-duoshuo{
-  width: 40%;
-  margin-bottom: 40px;
-  right: 5%;
+.show-comment-duoshuo{
+  width: 95%;
+  margin-bottom: 10px;
 }
 
 .flickr-container {

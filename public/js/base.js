@@ -65,9 +65,9 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
-  $('body').on('click', '.show-commend', function(){
+  $('body').on('click', '.show-comment', function(){
     var ds_loaded = false;
-    window.disqus_shortname = $('.show-commend').attr('name');
+    window.disqus_shortname = $('.show-comment').attr('name');
     $.ajax({
       type: "GET",
       url: "http://" + disqus_shortname + ".disqus.com/embed.js",
