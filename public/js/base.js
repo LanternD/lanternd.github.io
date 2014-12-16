@@ -64,6 +64,7 @@ $(document).ready(function() {
       $('#nav_btn').click();
     $('.aside3').scrollTop(0);
     contentEffects();
+    window.location.reload();
   });
 
   contentEffects();
