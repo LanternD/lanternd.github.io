@@ -19,14 +19,15 @@ body, html {
 }
 
 .aside1 > .nav > li > a {
+  color:#1c463c;
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
   font-size: 16px;
-  color:#1c463c;
+
 }
 
-.aside1 > .nav > li > a:hover {
+.aside1 > .nav > li > a:hover, .aside1 > .nav > li > a:focus {
   color:#428bca;
   font-weight: bold;
 }
@@ -88,7 +89,7 @@ a:hover {
     text-align: center;
     background-color: #cbcbcb;
     border-radius: 2px;
-
+}
 
 .flickr-container {
     position: relative;
