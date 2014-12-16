@@ -39,6 +39,11 @@ function content_click(is_show){
   }
 }
 
+$("#back-top").click(function() {
+    //$('.aside3').animate({ scrollTop: 0 }, 700);
+    $('.aside3').scrollTo(0, 0);
+});
+
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
@@ -56,11 +61,6 @@ $(document).ready(function() {
 
     $(this).data('clicked',!isClicked);
 
-  });
-
-  $("#back-top").click(function() {
-      //$('.aside3').animate({ scrollTop: 0 }, 700);
-      $('.aside3').scrollTo(0, 0);
   });
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
