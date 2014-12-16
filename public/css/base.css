@@ -4,35 +4,24 @@ body, html {
   margin: 0px;
   height: 100%;
   overflow: hidden;
-  background-color: #1c463c;
+  background-color: #1f2c39;
 }
 .row {height: 100%;}
 /* 导航栏 + 目录栏 */
 .aside {height: 100%;}
 /* 左侧导航栏 */
 .aside1 {
-  background-color: #1c463c;
+  background-color: #1f2c39;
   height: 100%;
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
-
 }
-
 .aside1 > .nav > li > a {
-  color:#fafaf6;
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
-  font-size: 16px;
-  padding: 10px 10px;
 }
-
-.aside1 > .nav > li > a:hover{
-  color:#428bca;
-  font-weight: bold;
-}
-
 .avatar {width: 60px; height: 60px;}
 .aside1_bottom {
   width: 100%;
@@ -54,10 +43,9 @@ body, html {
   height: 100%;
   overflow-y: auto;
   background-color: #fafaf6;
-  overflow-x: hidden;
 }
 .aside3-title {
-  background-color: #1c463c;
+  background-color: #1f2c39;
   padding-left: 30px;
   padding-right: 30px;
   text-align: center;
@@ -65,9 +53,7 @@ body, html {
 }
 .aside3-content {padding-left: 30px;padding-right: 30px;}
 /* 文章内容排版 */
-a:hover {
-  text-decoration:none;
-}
+a:hover {text-decoration:none;}
 #content {font-size: 18px; line-height: 1.5;}
 #content p {margin: 20px 0px;}
 #content ul, ol, dl, li {margin: 10px 0px;}
@@ -80,18 +66,10 @@ a:hover {
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
   color: #2a6496;
   background-color: #fafaf6;
-  font-weight: bold;
 }
 /* 显示评论按钮 */
 .show-commend {width: 100%; margin-bottom: 40px;}
 
-#page-tags {
-    font-size: 12px; 
-    line-height: 1.5;
-    text-align: center;
-    background-color: #cbcbcb;
-    border-radius: 2px;
-}
 
 .flickr-container {
     position: relative;
@@ -144,10 +122,3 @@ a:hover {
 img{
   max-width: 100%
 }
-
-.fa a{
-  color: #266153;
-  background-color: #fcfcfc;
-}
-/*
-*/
