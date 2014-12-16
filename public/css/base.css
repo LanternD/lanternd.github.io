@@ -25,10 +25,10 @@ body, html {
   padding-right: 0px;
   border-radius: 0px;
   font-size: 16px;
-  padding: 5px 5px;
+  padding: 10px 10px;
 }
 
-.aside1 > .nav > li > a:hover, .aside1 > .nav > li > a:focus {
+.aside1 > .nav > li > a:hover{
   color:#428bca;
   font-weight: bold;
 }
