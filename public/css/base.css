@@ -16,6 +16,7 @@ body, html {
   padding-left: 0px;
   padding-right: 0px;
   text-align: center;
+
 }
 
 .aside1 > .nav > li > a {
@@ -24,7 +25,7 @@ body, html {
   padding-right: 0px;
   border-radius: 0px;
   font-size: 16px;
-
+  padding: 5px 5px;
 }
 
 .aside1 > .nav > li > a:hover, .aside1 > .nav > li > a:focus {
@@ -141,7 +142,7 @@ a:hover {
 }
 
 img{
-  max-height: 100%
+  max-width: 100%
 }
 
 .fa a{
