@@ -31,11 +31,11 @@ function nav_click(is_show) {
 /* 控制文章章节列表按钮 */
 function content_click(is_show){
   if (is_show) {
-    $('#content_table').show();
-    $('#content_btn i').removeClass('fa-plus').addClass('fa-minus');
+    $('#content_table').show(300);
+    $('#content_btn i').removeClass('fa-list-ul').addClass('fa-minus');
   } else {
-    $('#content_table').hide();
-    $('#content_btn i').removeClass('fa-minus').addClass('fa-plus');
+    $('#content_table').hide(200);
+    $('#content_btn i').removeClass('fa-minus').addClass('fa-list-ul');
   }
 }
 
@@ -56,6 +56,11 @@ $(document).ready(function() {
 
     $(this).data('clicked',!isClicked);
 
+  });
+
+  $("#back-top").click(function() {
+      //$('.aside3').animate({ scrollTop: 0 }, 700);
+      $('.aside3').scrollTo(0, 0);
   });
 
   $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
