@@ -175,3 +175,7 @@ blockquote p {
 ::-webkit-scrollbar-thumb:hover {
   background: #6d6d6d; 
 }
+
+.tag-label{
+  border-top: 1px, #FFFFFF, solid;
+}
