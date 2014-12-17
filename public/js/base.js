@@ -39,7 +39,7 @@ function content_click(is_show){
   }
 }
 
-$back_to_top = $('.cd-top');
+var $back_to_top = $('.cd-top');
 
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
