@@ -5,6 +5,7 @@ permalink: /fried-fish-eggplant-stew-soup/
 categories: [料理食代]
 tags: [炒, 炖, 煎, 鱼, 美食]
 date: 2014-09-17
+thread: 2014091700
 ---
 
 <pre>这个帖子的菜有点黑暗系风格。卖相不是特别好，不过味道还是不错滴。</pre>

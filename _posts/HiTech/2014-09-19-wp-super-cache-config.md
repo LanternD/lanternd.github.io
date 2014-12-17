@@ -5,6 +5,7 @@ permalink: /wp-super-cache-config/
 categories: [HiTech]
 tags: [WP Super Cache, 配置]
 date: 2014-09-19
+thread: 2014091900
 --- 
 
 　在启用了多站点模式，并新建好了子站点以后，我突然发现WP Super Cache插件不能正常工作了。这是怎么回事该怎么解决呢？

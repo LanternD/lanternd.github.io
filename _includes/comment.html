@@ -4,7 +4,7 @@
 <script type="text/javascript">
 function toggleDuoshuoComments(container){
     var el = document.createElement('div');//该div不需要设置class="ds-thread"
-    el.setAttribute('data-thread-key', '{{page.date}}');//必选参数
+    el.setAttribute('data-thread-key', '{{page.id | jsonify}}');//必选参数
     el.setAttribute('data-title', '{{page.title}}');//必选参数
     el.setAttribute('data-url', 'http://dlyang.me{{page.url}}');//必选参数
     el.setAttribute('data-author-key', 'LanternD');//可选参数
