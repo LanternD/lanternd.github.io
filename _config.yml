@@ -27,7 +27,7 @@ url: http://dlyang.me/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/Logo_100x.png
+gavatar: /public/img/logo_100x.png
 favicon: http://lanternd.qiniudn.com/favicon.ico
 
 # google analytics 设置
