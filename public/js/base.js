@@ -67,7 +67,7 @@ $(document).ready(function() {
   });
 
   $('body').on('click', '.show-comment', function(){
-    // var ds_loaded = false;
+    var ds_loaded = false;
     window.disqus_shortname = $('.show-comment').attr('name');
     $.ajax({
       type: "GET",
