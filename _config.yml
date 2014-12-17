@@ -46,15 +46,14 @@ duoshuo:
 # 主题设置，自动激活某个标签
 active: 视·界
 
-# 首页除了最新文章外显示分类
+# 首页除了最新文章外显示分类，需要填写tag名词，不是category名称
 cates: 
-  - 视·界
-  - HiTech
+  - 相册
 
 # 中文本地化
 locals:
   tags: 标签
   about: 关于
   newest: 最新文章
-  archive: 归档
+  archive: 时间线
   content: 目录
