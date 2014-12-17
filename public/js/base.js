@@ -67,7 +67,7 @@ $(document).ready(function() {
   });
 
   $('body').on('click', '.show-comment', function(){
-    var ds_loaded = false;
+    // var ds_loaded = false;
     window.disqus_shortname = $('.show-comment').attr('name');
     $.ajax({
       type: "GET",
@@ -87,13 +87,13 @@ $(document).ready(function() {
   // });
 
   //smooth scroll to top
-  $('.cd-top').on('click', function(event){
-    event.preventDefault();
-    $('.aside3').animate({
-      scrollTop: 0 ,
-      }, 700
-    );
-  });
+  // $('.cd-top').on('click', function(event){
+  //   event.preventDefault();
+  //   $('.aside3').animate({
+  //     scrollTop: 0 ,
+  //     }, 700
+  //   );
+  // });
 });
 
 function contentEffects(){
