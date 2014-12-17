@@ -39,8 +39,6 @@ function content_click(is_show){
   }
 }
 
-var $back_to_top = $('.cd-top');
-
 $(document).ready(function() {
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
@@ -81,15 +79,15 @@ $(document).ready(function() {
 
   contentEffects();
 
-  $('.aside3').scroll(function(){
-    ( $(this).scrollTop() > 300 ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
-    if( $(this).scrollTop() > 1000 ) { 
-      $back_to_top.addClass('cd-fade-out');
-    }
-  });
+  // $('.aside3').scroll(function(){
+  //   ( $(this).scrollTop() > 300 ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+  //   if( $(this).scrollTop() > 1000 ) { 
+  //     $back_to_top.addClass('cd-fade-out');
+  //   }
+  // });
 
   //smooth scroll to top
-  $back_to_top.on('click', function(event){
+  $('.cd-top').on('click', function(event){
     event.preventDefault();
     $('.aside3').animate({
       scrollTop: 0 ,
