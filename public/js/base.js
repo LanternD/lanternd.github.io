@@ -65,6 +65,7 @@ $(document).ready(function() {
     $('.aside3').scrollTop(0);
     contentEffects();
   });
+
   $('body').on('click', '.show-comment', function(){
     var ds_loaded = false;
     window.disqus_shortname = $('.show-comment').attr('name');
@@ -75,7 +76,25 @@ $(document).ready(function() {
       cache: true
     });
   });
+
   contentEffects();
+
+    $(window).scroll(function(){
+    ( $(this).scrollTop() > 300 ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
+    if( $(this).scrollTop() > 1000 ) { 
+      $back_to_top.addClass('cd-fade-out');
+    }
+  });
+
+  //smooth scroll to top
+  $back_to_top.on('click', function(event){
+    event.preventDefault();
+    $('body,html').animate({
+      scrollTop: 0 ,
+      }, 700
+    );
+  });
+
 });
 function contentEffects(){
   //remove the asidebar
