@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   contentEffects();
 
-    $(window).scroll(function(){
+  $(".aside3").scroll(function(){
     ( $(this).scrollTop() > 300 ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
     if( $(this).scrollTop() > 1000 ) { 
       $back_to_top.addClass('cd-fade-out');
@@ -94,8 +94,8 @@ $(document).ready(function() {
       }, 700
     );
   });
-
 });
+
 function contentEffects(){
   //remove the asidebar
   $('.row-offcanvas').removeClass('active');
