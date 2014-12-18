@@ -10,6 +10,7 @@ paginate: 8
 permalink: /:title
 
 title: LanternD's Caravel
+description: Survive Technically
 url: http://dlyang.me/
 feed: /atom.xml
 author_info: <a href="http://dlyang.me/">LanternD</a>
