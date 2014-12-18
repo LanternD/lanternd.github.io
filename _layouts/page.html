@@ -3,5 +3,27 @@ layout: default
 ---
 
 <div id="content">
-    {{ content }}
+    <div class="entry">
+        <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+        
+        {{ content }}
+        
+    </div>
+
+    <div class="sidenav">
+        Somethings needs to place here, haven't decided yet, plz wait a moment.
+    </div>
+
+    <div class="sidenav">
+        <h2>图书馆分类法</h2>
+        <ul class="artical-list">
+            <li><a href="/">视·界</a></li>
+            <li><a href="/hi-tech">Hi-Tech</a></li>
+            <li><a href="/viewfinder">取景器</a></li>
+            <li><a href="/cuisine">料理时</a></li>
+            <li><a href="/archive.html">时间线</a></li>
+        </ul>
+    </div>
+
 </div>
+<script src="/js/post.js" type="text/javascript"></script>
