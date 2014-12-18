@@ -42,3 +42,6 @@ ga:
 
 disqus:
   shortname: lanternd
+
+duoshuo:
+  shortname: dlyang
