@@ -15,7 +15,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.料理食代 %}
+        {% for post in site.categories.cuisine %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

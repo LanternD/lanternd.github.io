@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 给自己的生日礼物
+description： 我的生日是10月28号，作为第一个在国外过的生日，就隆重庆祝一下吧。
 permalink: /birthday-gift/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [PC, 生日礼物]
 date: 2014-10-27
 --- 

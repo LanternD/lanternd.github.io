@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 2014年摄影杂集·毕业前
+description: 毕业前后是个分水岭，但是上半年主要也是弄毕业设计，拍照不太多。
 permalink: /2014-photo-album-before-graduation/
-categories: [取景器]
+categories: [viewfinder, 取景器]
 tags: [相册, 2014]
 date: 2014-10-10
 --- 

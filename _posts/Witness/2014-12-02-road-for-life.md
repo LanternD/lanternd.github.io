@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 为生命让道
+description: 我发现，在美国大家都会主动为紧急车辆让道。
 permalink: /road-for-life/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [停车, 生命, 紧急车辆, 让路]
 date: 2014-12-02
 --- 

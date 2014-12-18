@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 关于《环太平洋》的杂想，找Bug的
+description: 乱想而已，科幻片太认真就输了。或许有剧透，谨慎围观。
 permalink: /pacific-rim-review/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [环太平洋, 观后感, 怪兽]
 date: 2013-08-10
 --- 

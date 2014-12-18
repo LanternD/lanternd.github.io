@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WordPress多站点模式下WP Super Cache无法正确配置的问题
+description: WP Super Cache在多站点模式下不能正常工作？系统设置需要改一下。
 permalink: /wp-super-cache-config/
 categories: [HiTech]
 tags: [WP Super Cache, 配置]

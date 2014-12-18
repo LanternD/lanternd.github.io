@@ -1,8 +1,9 @@
 ---
 layout: post
 title: HIT成就榜
+description: 如果在哈工大(HIT)上过学，不妨来测试一下吧。亲手打造，欢迎集思广益，添砖加瓦。
 permalink: /hit-achievement-list/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [哈工大, 大学, 成就]
 date: 2014-09-19
 --- 

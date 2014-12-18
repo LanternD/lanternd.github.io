@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Hello World!
+description: 当初Hello World日志是用英文写的，本来应该将中文站中文化的，但是为了纪念一下就维持原样吧。
 permalink: /hello-world/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [Hello world]
 date: 2014-09-08
 --- 

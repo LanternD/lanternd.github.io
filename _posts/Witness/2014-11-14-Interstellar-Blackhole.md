@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Interstellar(星际穿越)里面的黑洞为什么是这个样子[多图]
+description: 来谈谈片中黑洞的设定。
 permalink: /Interstellar-Blackhole/
-categories: [视·界]
-tags: [Interstellar, 星际穿越, 黑洞]
+categories: [blog, 视·界]
+tags: [Interstellar, 星际穿越, 黑洞, 观后感]
 date: 2014-11-14
 ---
 

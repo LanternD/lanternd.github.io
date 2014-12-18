@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 博客搬迁完毕与一些小心得
+description: 到了假期，想着就把博客迁移一下，大概12月8号开工，到12月14号基本完事了，改动了不少东西，花了一些些时间，并导入了文章。写个文章mark一下这一时刻，同时记录一些心得体会。
 permalink: /blog-migrate/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [博客, wordpress, github, jekyll]
 date: 2014-12-14
 --- 
@@ -126,7 +127,9 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 * 修改了左下角**图标的大小**，并增加了链接页面
 * 修改了**滚动条样式**
 
-　调整仍会继续，以后可能还会换。就不在这里更新了。
+### 2014.12.18 Update
+
+之前的总有细节调整不太方便，决定换成BeiYuu的了。
 
 ## 迁移后的变化
 
