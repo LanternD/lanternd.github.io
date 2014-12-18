@@ -15,7 +15,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.Hi-Tech %}
+        {% for post in site.categories.hitech %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
