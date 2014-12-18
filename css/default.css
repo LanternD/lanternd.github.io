@@ -103,7 +103,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
-.index-content .artical-list li { margin-bottom:70px; }
+.index-content .artical-list li { margin-bottom:70px; font-size: 18px}
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
@@ -148,8 +148,9 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .home-menu-icon:hover,
 .home-follow:hover { color:#fff; text-decoration:none; }
 .home-contact { color:#fff; margin-top:2px; background:#000; padding:8px 0 7px; text-align:center;}
-.home-contact a { width:30px; height: 30px; display:inline-block; color:#FFFFFF; font-size:18px;}
+.home-contact a { width:32px; height: 32px; display:inline-block; color:#FFFFFF; font-size:18px;}
 .home-contact img { width:18px; }
+.home-contact i {padding-right: 3px;}
 
 @media screen and (max-width: 750px){
     body {font-size:14px;}
