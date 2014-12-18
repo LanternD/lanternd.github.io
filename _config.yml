@@ -1,9 +1,18 @@
-permalink: /:title/
-paginate: 10
+auto: true
+
 markdown: kramdown
 
 kramdown:
   input: GFM
+
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: LanternD's Caravel
+url: http://dlyang.me/
+feed: /atom.xml
+author_info: <a href="http://dlyang.me/">LanternD</a>
 
 # 作者信息，不要的就自己删除掉吧，以及about.html页面里面的。
 author: 
@@ -20,40 +29,15 @@ author:
   youtube: http://www.youtube.com/channel/UCvTjnJtDt4O4FG7hwmC4oqQ
   flickr: https://www.flickr.com/photos/lanternd
 
-# 站点信息
-title: LanternD's Caravel 
-description: Survive Technically
-url: http://dlyang.me/
-rss_url: /pages/atom.xml
-
 # gavatar头像及Favicon
 gavatar: /public/img/logo_100x.png
 favicon: http://lanternd.qiniudn.com/favicon.ico
+
 
 # google analytics 设置
 ga:
   id: UA-54601036-1
   url: dlyang.me
 
-# disqus 设置
 disqus:
   shortname: lanternd
-
-# duoshuo 设置
-duoshuo:
-  short_name: dlyang
-
-# 主题设置，自动激活某个标签
-active: 视·界
-
-# 首页除了最新文章外显示分类，需要填写tag名词，不是category名称
-cates: 
-  - 相册
-
-# 中文本地化
-locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 时间线
-  content: 目录
