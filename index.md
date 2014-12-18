@@ -6,8 +6,8 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>视·界</span></a></li>
-            <li><a href="/viewfinder"><span>Hi-Tech</span></a></li>
-            <li><a href="/hi-tech"><span>取景器</span></a></li>
+            <li><a href="/hi-tech"><span>Hi-Tech</span></a></li>
+            <li><a href="/viewfinder"><span>取景器</span></a></li>
             <li><a href="/cuisine"><span>料理时</span></a></li>
             <li><a href="/archive.html"><span>时间线</span></a></li>
         </ul>
