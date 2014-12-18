@@ -18,30 +18,35 @@ layout: default
         <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
         <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
         {{ content }}
+        <blockquote>
+          <p>
+          <strong>LanternD</strong>  <br>
+          <img src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature">  </p>
+        </blockquote>
     </div>
 
     <div class="sidenav">
-        <iframe width="100%" height="75" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=75&fansRow=2&ptype=1&speed=0&skin=5&isTitle=0&noborder=0&isWeibo=0&isFans=0&uid=1855270953&verifier=375b89d6&dpc=1"></iframe>
+        Somethings needs to place here, haven't decided yet, plz wait a moment.
     </div>
 
     <div class="sidenav">
-        <h2>Blog</h2>
+        <h2>视·界</h2>
         <ul class="artical-list">
         {% for post in site.categories.blog%}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
-        <h2>Opinion</h2>
+        <h2>取景器</h2>
         <ul class="artical-list">
-        {% for post in site.categories.opinion%}
+        {% for post in site.categories.viewfinder%}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
 
-        <h2>Project</h2>
+        <h2>Hi-Tech</h2>
         <ul class="artical-list">
-        {% for post in site.categories.project%}
+        {% for post in site.categories.hitech%}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
