@@ -49,32 +49,32 @@ layout: default
     <div class="sidenav">
         <h2>更多关于{{page.categories.first}}的文章</h2>
         <ul class="artical-list">
-<!-- test0 -->
+
+<!-- test0 
             {% assign current_cate = page.categories.first %}
 
             {% for posts in site.posts %}{% if posts.categories.first == current_cate %}
               <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}{% endfor %}
-<!-- test1 -->
+            {% endif %}{% endfor %}-->
+<!-- test1 
             {% for post in site.categories.current_cate %}
               <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-<!-- test2 -->
-            <a href="\_includes\show-category.html?cat={{page.categories}}">{{ post.title }}</a>
-            <!-- test3 -->
+            {% endfor %}-->
+<!-- test2 
+            <a href="\_includes\show-category.html?cat={{page.categories}}">{{ post.title }}</a> 
             {% for post in site.categories.{{page.categories.first}} %}
                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-<!-- test4 -->
+            {% endfor %}-->
+<!-- test3 
             {% for cat in site.categories %}{% if cat == page.categories.first %}
                 {% for post in site.categories.[cat] %}
                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}{% endfor %}
-<!-- test5 -->
+            {% endif %}{% endfor %}-->
+<!-- test4 
             {% for post in site.categories.[page.category] %}
                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-<!-- test6 -->
+            {% endfor %}-->
+<!-- test5 -->
         {% case page.categories.first %}
 
             {% when 'blog' %}
