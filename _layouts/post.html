@@ -80,22 +80,22 @@ layout: default
             {% when 'blog' %}
                 {% for post in site.categories.blog limit:15%}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% end for %}
+                {% endfor %}
 
             {% when 'hitech' %}
                 {% for post in site.categories.hitech limit:15 %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% end for %}
+                {% endfor %}
 
             {% when 'viewfinder' %}
                 {% for post in site.categories.viewfinder limit:15 %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% end for %}
+                {% endfor %}
 
             {% when 'cuisine' %}
                 {% for post in site.categories.cuisine limit:15 %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% end for %}
+                {% endfor %}
 
             {% else %}
                 {% for post in site.posts limit:15 %}
