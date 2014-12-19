@@ -1,10 +1,15 @@
-<script>var duoshuoQuery = {short_name:"{{ site.duoshuo.short_name }}"};</script>
+<!-- 多说的js代码 Start -->
+<script>var duoshuoQuery = {short_name:"{{ site.duoshuo.shortname }}"};</script>
 <script src="http://static.duoshuo.com/embed.js"></script>
 
 <script type="text/javascript">
 function toggleDuoshuoComments(container){
+    if(jQuery(container).has("div").length>0){
+        jQuery(container).empty();
+        return;
+    }
     var el = document.createElement('div');//该div不需要设置class="ds-thread"
-    el.setAttribute('data-thread-key', '{{page.id | jsonify}}');//必选参数
+    el.setAttribute('data-thread-key', '{{page.id | remove:'/'}}');//必选参数
     el.setAttribute('data-title', '{{page.title}}');//必选参数
     el.setAttribute('data-url', 'http://dlyang.me{{page.url}}');//必选参数
     el.setAttribute('data-author-key', 'LanternD');//可选参数
@@ -12,21 +17,49 @@ function toggleDuoshuoComments(container){
     jQuery(container).append(el);
 }
 </script>
+<!-- 多说的js代码 End-->
+<!-- 如果其中一个不用的可以自己注释掉，以提高访问速度 -->
+<!-- Disqus的js代码 Start-->
+
+<script type="text/javascript">
+
+    var disqus_shortname = 'lanternd'; // required: replace example with your forum shortname
+
+function toggleDisqusComments(container){
+    if(jQuery(container).has("div").length>0){
+        jQuery(container).empty();
+        return;
+    }
+    var disqus_shortname = '{{ site.disqus.shortname }}';
+    var disqus_identifier = '{{page.id | remove:'/'}}';
+    var disqus_title = '{{page.title}}';
+    var disqus_url = 'http://dlyang.me{{page.url}}';
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+}
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- Disqus的js代码 End-->  
+
+<!-- 以下是评论框架，放置在评论需要展示的地方 -->
+
+<div id="duoshuo_container">
+    <div>
+    	<a href="javascript:void(0);" class="comment" onclick="toggleDuoshuoComments('#comment-box-duoshuo');">
+    		查看<strong>多说</strong>评论
+    	</a>
+    </div>
+
+    <div id="comment-box-duoshuo" ></div>
+<div>
 
 <div id="disqus_container">
-    <div style="margin-bottom:20px" class="right">
-        
-    </div>
-    <a href="#" class="comment" onclick="return false;"></i><font size="3"> Disqus</font></a>
+    <div style="margin-bottom:20px" class="right"></div>
+
+        <a href="#" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
+            查看<strong>Disqus</strong>评论
+        </a>
+
     <div id="disqus_thread"></div>
 </div>
-
-	<hr>
-
-<div>
-	<a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box');$(this).hide(200);">
-		<i class="fa fa-comments-o fa-2x" style="color: #0d5d56;"></i><font size="3"> 使用多说</font>
-	</a>
-</div>
-
-<div id="comment-box" ></div>
