@@ -3,7 +3,7 @@ layout: post
 title: COC里那些我熟知的名字
 description: 哈尔滨Coc相忘于江湖，“相忘”系列主营，成立于2013年12月26日，成立者xqif。纪念我在Clash of Clans的日子。
 permalink: /coc-facebook/
-categories: [视·界]
+categories: [blog, 视·界]
 tags: [COC, 部落, 主营]
 date: 2014-10-29
 --- 
