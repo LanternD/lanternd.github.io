@@ -235,6 +235,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .pagination .prev, .pagination .next {
     border: 1px #999999;
     font-size: 16px;
+    display:inline-block;
 }
 
 .pagination .disabled {
