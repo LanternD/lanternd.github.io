@@ -30,7 +30,16 @@ layout: default
     </div>
 
     <div class="sidenav">
-        Somethings needs to place here, haven't decided yet, plz wait a moment.
+        <h2>搜</h2>
+        <script type="text/javascript">
+          (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+          (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+          e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+          })(window,document,'script','//s.swiftypecdn.com/install/v1/st.js','_st');
+
+          _st('install','9X8oksMUypbkzXX-GknR');
+        </script>
+
     </div>
 
     <div class="sidenav">
@@ -40,13 +49,15 @@ layout: default
             <li><a href="/hi-tech">Hi-Tech</a></li>
             <li><a href="/viewfinder">取景器</a></li>
             <li><a href="/cuisine">料理时</a></li>
-            <li><a href="/archive.html">时间线</a></li>
+            <hr>
+            <li><a href="/archive.html"><strong>时间线</strong></a></li>
         </ul>
+
     </div>
 
     <!-- {% include tag-cloud.html %} -->
     <div class="sidenav">
-        <h2>更多关于『{{page.categories offset:1}}』的文章</h2>
+        <h2>更多关于『{{page.categories offset:2}}』的文章</h2>
         <ul class="artical-list">
 
         {% case page.categories.first %}
