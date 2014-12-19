@@ -58,16 +58,20 @@ layout: default
               <li><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
 <!-- test2 -->
-        <a href="\_includes\show-category.html?cat={{page.categories}}">{{ post.title }}</a>
-        <!-- test3 -->
-        {% for post in site.categories.{{page.categories.first}} %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
+            <a href="\_includes\show-category.html?cat={{page.categories}}">{{ post.title }}</a>
+            <!-- test3 -->
+            {% for post in site.categories.{{page.categories.first}} %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
 <!-- test4 -->
-        {% for cat in site.categories %}{% if cat == page.categories.first %}
-            {% for post in site.categories.cat %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}{% endfor %}
+            {% for cat in site.categories %}{% if cat == page.categories.first %}
+                {% for post in site.categories.[cat] %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}{% endfor %}
+<!-- test5 -->
+            {% for post in site.categories.[page.category] %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
         </ul>
     </div>
 </div>
