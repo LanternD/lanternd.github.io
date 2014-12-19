@@ -21,9 +21,7 @@ layout: default
         
     </div>
 
-    <div class="sidenav">
-        Somethings needs to place here, haven't decided yet, plz wait a moment.
-    </div>
+    {% include swiftype.html %}
 
     <div class="sidenav">
         <h2>图书馆分类法</h2>
@@ -32,8 +30,16 @@ layout: default
             <li><a href="/hi-tech">Hi-Tech</a></li>
             <li><a href="/viewfinder">取景器</a></li>
             <li><a href="/cuisine">料理时</a></li>
-            <li><a href="/archive.html">时间线</a></li>
+            <hr>
+            <li><a href="/archive.html"><strong>时间线</strong></a></li>
         </ul>
+    </div>
+
+    <div class="sidenav">
+        <h2>近况·有善可陈</h2>
+        {% for post in site.posts limit:15 %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
     </div>
 
 </div>
