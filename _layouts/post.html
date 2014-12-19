@@ -25,6 +25,7 @@ layout: default
           <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br></p>
         </blockquote>
 
+        {% include pagination.html %}
         {% include comment.html %}
     </div>
 
@@ -46,7 +47,8 @@ layout: default
     <div class="sidenav">
         <h2>更多关于{{page.categories.first}}的文章</h2>
         <ul class="artical-list">
-        {% for post in site.categories.{{page.categories.first}} %}
+        <a href="\_includes\show-category.html?cat={{page.categories}}">{{ post.title }}</a>
+        {% for post in site.categories.[page.category] %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
         </ul>
