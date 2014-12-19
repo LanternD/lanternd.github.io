@@ -35,7 +35,7 @@ body .hide{display:none;}
 body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
-a.external {padding-right:13px;background:url('/img/external_link.gif') no-repeat right 1px;}
+a.external {padding-right:13px;background:url('/img/icons.gif') no-repeat right 1px;}
 a.external:hover {background-position:right -15px;}
 .entry-title,.entry-title a {font-size:30px;font-weight:bold;margin-bottom:6px;color:#000;text-align:center;word-wrap: break-word;}
 .entry-title a:hover {text-decoration:none;}
@@ -58,7 +58,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 /****************entry style**************/
 .sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
 .sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
-.sidenav ul { margin-bottom:50px; }
+.sidenav ul { margin-bottom:30px; }
 .sidenav li { margin-bottom:12px; word-break: break-all;}
 .sidenav a { color:#555; font-size:14px; display:block;}
 .entry{margin-bottom:80px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
@@ -127,9 +127,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 /***************contact style*************/
 #disqus_container {font-size:14px;margin-bottom: 10px;margin-top: 5px;}
-#disqus_container a.comment{font-size:18px;}
+#disqus_container a.comment{font-size:18px; background: transparent;}
 #duoshuo_container {font-size:14px;margin-top: 5px;}
-#duoshuo_container a.comment{font-size:18px;}
+#duoshuo_container a.comment{font-size:18px; background: transparent;}
 h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .about-link a {margin-right:10px;font-weight:bold;font-style:italic;font-size:13px;color:#E50053}
 
