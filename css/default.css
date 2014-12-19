@@ -232,10 +232,20 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 ::-webkit-scrollbar-thumb:hover {  background: #6d6d6d; }
 
 /*分页导航样式*/
+.pagination {display: block;width: 90%;}
+
 .pagination .prev, .pagination .next {
     border: 1px #999999;
     font-size: 16px;
     display:inline-block;
+}
+
+.pagination .prev{
+    float: left;
+}
+
+.pagination .next{
+    float: right;
 }
 
 .pagination .disabled {
