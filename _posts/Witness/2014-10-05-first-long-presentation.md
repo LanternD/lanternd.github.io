@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 我的第一个长Presentation
-description: Presentation on BodyBeat - 09/30/2014 15:00-16:15 
-刚来美国不到2个月，面临的竟然是长达50min的英文Presentation，这该如何是好……
+description: 刚来美国不到2个月，面临的竟然是长达50min的英文Presentation，这该如何是好……
 permalink: /first-long-presentation/
 categories: [blog, 视·界]
 tags: [Presentation]
