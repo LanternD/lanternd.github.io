@@ -164,4 +164,5 @@ id: about
   </p>
 </blockquote>
 
+<hr>
 {% include comment.html %}

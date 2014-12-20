@@ -211,18 +211,18 @@ $(document).ready(function(){
           returnTop = $("div.back-top");
 
       // 滚动条的垂直偏移大于 0 时显示，反之隐藏
-      (scrollTopNum > 0) ? returnTop.fadeIn("fast") : returnTop.fadeOut("fast");
+      (scrollTopNum > 300) ? returnTop.fadeIn("fast") : returnTop.fadeOut("fast");
 
       // 给 IE6 定位
       if (!-[1,]&&!window.XMLHttpRequest) {
           returnTop.css("top", scrollTopNum + winHeight - 500);
-      }
+        }
 
-  });
+    });
 
-  // 点击按钮后，滚动条的垂直方向的值逐渐变为0，也就是滑动向上的效果
-  $("div.back-top").click(function() {
-      $("html, body").animate({ scrollTop: 0 }, 500);
-  });
+      // 点击按钮后，滚动条的垂直方向的值逐渐变为0，也就是滑动向上的效果
+    $('div.back-top').click(function() {
+          $('html, body').animate({ scrollTop: 0 }, 500);
+    });
 
 });
