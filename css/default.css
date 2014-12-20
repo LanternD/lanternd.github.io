@@ -72,7 +72,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     margin: 0 0 20px;
     font-size: 16px;
     border-left: 5px solid #eee}
-.entry img{max-width:670px;display:block;margin:10px auto;}
+.entry img{max-width:670px;display:block;margin:10px auto; border-width: 2px;border-color: #f5f5f5;border-radius: 1px;}
 
 
 .index-content .aside {
@@ -149,8 +149,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:#000;  }
 .home-menu-icon:hover,
 .home-follow:hover { color:#fff; text-decoration:none; }
-.home-contact { color:#fff; margin-top:2px; background:#000; padding:8px 0 10px; text-align:center;display: none;}
-.home-contact a { width:32px; height: 32px; display:inline-block; color:#FFFFFF; font-size:18px;}
+.home-contact { color:#fff; margin-top:2px; background:#000; padding:10px 0 4px; text-align:center;display: none;}
+.home-contact a { width:30%; height: 32px; display:inline-block; color:#FFFFFF; font-size:18px;}
 .home-contact img { width:18px; }
 .home-contact i {margin-right: 3px;}
 
@@ -251,6 +251,10 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     float: right;
 }
 
+.pagination a:hover{
+    text-decoration:none;
+}
+
 .pagination .disabled {
     background-color: #ed8a8a;
     border-radius: 10px;
@@ -270,3 +274,29 @@ hr{
 /*About页面的icon样式*/
 blockquote .about-icon a i {color: #1c463c;}
 blockquote .about-icon a {background: transparent;}
+
+blockquote{    
+    padding: 10px 10px;
+    margin: 0 0 20px;
+    font-size: 16px;
+    border-left: 5px solid #eee}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}

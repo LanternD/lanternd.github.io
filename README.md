@@ -19,11 +19,11 @@
 * 把浏览文章时右侧的“更多文章”由原来的**所有文章**改成了**当前文章所在分类**的其他文章；
 * 增加了“归档/时间线”功能；
 * 修改了Home-menu的图标，使用[Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/)的图标；
-* 增加了**留言板**和**关于**页面；
+* 增加了**留言板**和**关于**页面 ( 替换了Home-menu中的豆瓣和微博 )；
 * 增加了Page layout的格式，和post趋于一致；
 * 修改了滚动条样式 ( 详见default.css )；
 * 增加了“上一篇”，“下一篇”的导航功能；
-* 加入了搜索功能
+* 加入了搜索功能，使用第三方插件Swiftype。
 
 
 * to be updated
