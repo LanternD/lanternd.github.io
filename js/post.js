@@ -208,7 +208,7 @@ $(document).ready(function(){
       var scrollTopNum = $(document).scrollTop(),
           // 获取浏览器当前窗口的高度
           winHeight = $(window).height(),
-          returnTop = $("#back-top");
+          returnTop = $("div.back-top");
 
       // 滚动条的垂直偏移大于 0 时显示，反之隐藏
       (scrollTopNum > 300) ? returnTop.fadeIn("fast") : returnTop.fadeOut("fast");
@@ -221,7 +221,7 @@ $(document).ready(function(){
     });
 
       // 点击按钮后，滚动条的垂直方向的值逐渐变为0，也就是滑动向上的效果
-    $('#back-top').click(function() {
+    $('div.back-top').click(function() {
           $('html, body').animate({ scrollTop: 0 }, 500);
     });
 
