@@ -88,16 +88,16 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .col1 .aside{
-    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
+    background-image:url('/img/aside3.jpg');
 }
 .col2 .aside{
-    background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
+    background-image:url('/img/aisde6.jpg');
 }
 .col3 .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg');
+    background-image:url('/img/aisde5.jpg');
 }
 .col4 .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg');
+    background-image:url('/img/aisde4.jpg');
 }
 
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
