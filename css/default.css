@@ -310,6 +310,6 @@ blockquote{
     background-color:#fafafa;
 }
 /*选择文本的颜色*/
-::selection { background:#d3d3d3; color:#555;}
-::-moz-selection { background:#d3d3d3; color:#555;}
-::-webkit-selection { background:#d3d3d3; color:#555;}
+::selection { background:#b5b5b5; color:#000; border-radius: 6px;}
+::-moz-selection { background:#b5b5b5; color:#000;border-radius: 6px;}
+::-webkit-selection { background:#b5b5b5; color:#000;border-radius: 6px;}
