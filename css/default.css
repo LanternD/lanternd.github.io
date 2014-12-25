@@ -1,6 +1,7 @@
 /**
  * Author:           BeiYuu
  * Contact:          beiyuu.com
+ * Revised by:       LanternD
  */
 
 /* 重置浏览器CSS */
@@ -197,7 +198,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .home-menu { position:absolute; }
 }
 
-/*以下为自定义css*/
+/*==========以下为自定义css==========*/
 
 /* 固定Flickr框架原宽高比 */
 .flickr-container {
@@ -300,7 +301,7 @@ blockquote{
     -ms-user-select: none;
     user-select: none
 }
-
+/*返回顶部按钮样式*/
 .back-top {
     display: block;
     width: 45px;height: 34px;
@@ -308,3 +309,7 @@ blockquote{
     position:fixed;right:15px;bottom:20px;
     background-color:#fafafa;
 }
+/*选择文本的颜色*/
+::selection { background:#d3d3d3; color:#555;}
+::-moz-selection { background:#d3d3d3; color:#555;}
+::-webkit-selection { background:#d3d3d3; color:#555;}
