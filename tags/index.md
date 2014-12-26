@@ -20,7 +20,7 @@ id: tags
       {% for post in tag[1] %}
         <li class="listing-item" style="list-style-type:none;">
         <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-        <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
+        <a href="{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
         </li>
     {% endfor %}
   {% endfor %}
@@ -49,3 +49,11 @@ id: tags
             });
     });
 </script>
+
+<div class="back-top" title="返回顶部">
+    <button class="btn btn-primary">
+      <i class="fa fa-lg fa-chevron-up" style="color:#0e0e0e"></i>
+    </button>
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
