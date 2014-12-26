@@ -365,7 +365,8 @@ blockquote{
 .footer-navi {
     text-align:right;
     margin-right:4%;
-    margin-bottom:-45px;
+    margin-bottom:-43px;
+    margin-top: 22px;
 }
 .footer-navi a{
     color:#808080;
