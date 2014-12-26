@@ -2,16 +2,17 @@
 <div class="pagination">
   <ul>
   {% if page.previous %}
-    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; 后顾-{{ page.previous.title }}</a></li>
+    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="上一篇：{{ page.previous.title }}">&larr; 后顾-{{ page.previous.title }}</a></li>
   {% else %}
     <li class="prev disabled"><a>&larr; 尽头</a></li>
   {% endif %}
 
   {% if page.next %}
-    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }}-前瞻 &rarr;</a></li>
+    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="下一篇：{{ page.next.title }}">{{ page.next.title }}-前瞻 &rarr;</a></li>
   {% else %}
     <li class="next disabled"><a>彼岸 &rarr;</a>
   {% endif %}
   </ul>
+  
 </div>
 <hr>
