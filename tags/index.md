@@ -7,24 +7,22 @@ id: tags
 ---
 
 <center><i class="fa fa-tags fa-3x"></i></center>
-<br>
-<br>
 
-<div id='tag_cloud'>
+<div id='tag_cloud' style="width:90%;margin:30px 0px 30px 5%;line-height:2em;">
   {% for tag in site.tags reversed%}
   <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
   {% endfor %}
 </div>
 
-<ul class="listing">
+<ul class="listing" style="list-style-type:none;margin-left:7%;margin-top:20px;">
   {% for tag in site.tags reversed%}
-    <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
-  {% for post in tag[1] %}
-    <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+    <li class="listing-seperator" style="list-style-type:none;" id="{{ tag[0] }}">{{ tag[0] }}</li>
+      {% for post in tag[1] %}
+        <li class="listing-item" style="list-style-type:none;">
+        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+        <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
+        </li>
+    {% endfor %}
   {% endfor %}
 </ul>
 

@@ -321,10 +321,10 @@ blockquote{
 }
 
 .listing ul, .listing ul li{
-        list-style-type: none;
+    list-style-type: none;
 }
 
-.listing-item, .listing-seperator {
+.entry .listing-item, .entry  .listing-seperator {
     list-style-type: none;
 }
 
