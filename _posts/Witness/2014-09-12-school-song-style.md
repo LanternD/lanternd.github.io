@@ -1,17 +1,109 @@
 ---
 layout: post
 title: 校歌歌词的风格
-description: 两所母校，高中就不提及具体名字啦，认识我的人应该会知道各是哪个的。
+description: 几所母校的校歌，高中就不提及具体名字啦，认识我的人应该会知道各是哪个的。
 permalink: /school-song-style/
 categories: [blog, 视·界]
 tags: [校歌, 高中, 大学]
 date: 2014-09-12
 --- 
 
-<pre>两所母校，高中就不提及具体名字啦，认识我的人应该会知道各是哪个的。</pre>
+<pre>几所母校，高中就不提及具体名字啦，认识我的人应该会知道各是哪个的。</pre>
 
-##《哈工大 之歌》
+## MSU
+
+### 校歌
+
 <div style="text-align:center">
+
+<font size="3">MSU Alma Mater--Shadows</font><br><br>
+
+MSU, we love thy shadows<br><br>
+
+When twilight silence falls,<br><br>
+
+Flushing deep and softly paling<br><br>
+
+O'er ivy covered halls;<br><br>
+
+Beneath the pines we'll gather<br><br>
+
+To give our faith so true,<br><br>
+
+Sing our love for Alma Mater<br><br>
+
+And thy praises, MSU.<br><br>
+
+When from these scenes we wander<br><br>
+
+And twilight shadows fade<br><br>
+
+Our memory still will linger<br><br>
+
+Where light and shadows played<br><br>
+
+In the evening oft we'll gather<br><br>
+
+And pledge our faith anew<br><br>
+
+Sing our love for Alma Mater<br><br>
+
+And thy praises, MSU. <br><br>
+
+</div>
+
+-----
+
+### Spartan战歌
+
+<div style="text-align:center">
+
+<font size="3">MSU Fight Song--Falcone Fight</font><br><br>
+
+On the banks of theRed Cedar,<br><br>
+
+There's a school that's known to all<br><br>
+
+Its specialty is winning<br><br>
+
+And those Spartans play goodball;<br><br>
+
+Spartan teams are never beaten,<br><br>
+
+All through the game they fight;<br><br>
+
+Fight for the only colors:<br><br>
+
+Green and White.<br><br>
+
+Go right through for MSU,<br><br>
+
+Watch the points keep growing,<br><br>
+
+Spartan teams are bound to win,<br><br>
+
+They're fighting with a vim!<br><br>
+
+Rah! Rah! Rah![3] <br><br>
+
+See their team is weakening,<br><br>
+
+We're going to win this game,<br><br>
+
+Fight! Fight! Rah! Team, Fight!<br><br>
+
+Victory for MSU!<br><br>
+
+</div>
+
+------
+
+## 哈工大
+
+<div style="text-align:center">
+
+<font size="3">《哈工大之歌》</font><br><br>
+
 为了理想 为了未来<br><br>
 
 我们携手在滔滔的松花江畔<br><br>
@@ -42,10 +134,14 @@ date: 2014-09-12
 
 </div>
 
+-----
 
-##《YG校歌》
+## YG
 
 <div style="text-align:center">
+
+<font size="3">《YG校歌——2008百年华诞》</font><br><br>
+
 大容嵡嵷，山木苍苍<br><br>
 
 卓哉吾校，烁爚四方<br><br>
@@ -84,4 +180,12 @@ date: 2014-09-12
 
 ----
 
-　两个生活过学习过的地方，两种不同的氛围，两种不同风格的校歌。愿她们都能越来越好。
+　三个生活过学习过的地方，三种不同的氛围，三种不同风格的校歌。愿她们都能越来越好。
+
+## 2014.12.25.Update说明
+
+　加入MSU的校歌和战歌，其实我也不知道怎么唱，在YouTube看过一次别人唱的，感觉风格有点怪。
+
+参考源：
+
+> http://en.wikipedia.org/wiki/Michigan_State_University_Fight_Song
