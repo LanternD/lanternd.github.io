@@ -313,3 +313,29 @@ blockquote{
 ::selection { background:#d9d9d9; color:#000;}
 ::-moz-selection { background:#d9d9d9; color:#000;}
 ::-webkit-selection { background:#d9d9d9; color:#000;}
+
+/*标签页面相关样式*/
+.listing {
+
+}
+.listing-item, .listing-seperator {
+    list-style-type: none;
+}
+.listing-item a {
+    padding: 0.2em 2em;
+}
+.listing-item time {
+    color: #768185;
+    padding-left: 2.2em;
+    font-family: "Verdana", sans-serif;
+}
+.listing-seperator {
+    font-weight: bold;
+    color: #3f4142;
+}
+.listing-item-a, .listing-seperator {
+    font-family: "Verdana", "Microsoft YaHei", sans-serif;
+}
+
+#tag_cloud a {}
+#tag_cloud a:hover {}

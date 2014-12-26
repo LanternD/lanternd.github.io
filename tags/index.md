@@ -24,8 +24,9 @@ id: tags
 {% endfor %}
 </ul>
 
-<script src="/medias/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
-<script src="/medias/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+
 <script language="javascript">
     $.fn.tagcloud.defaults = {
         size: {start: 14, end: 42, unit: 'px'},
