@@ -1,27 +1,31 @@
 ---
-title: 标签
+title: 标签云
 layout: page
 date: 2014-12-26 14:46:12 +0500
 permalink: /tags/
 id: tags
 ---
 
+<center><i class="fa fa-tags fa-3x"></i></center>
+<br>
+<br>
+
 <div id='tag_cloud'>
-{% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-{% endfor %}
+  {% for tag in site.tags reversed%}
+  <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+  {% endfor %}
 </div>
 
 <ul class="listing">
-{% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
-{% for post in tag[1] %}
-  <li class="listing-item">
-  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
-  </li>
-{% endfor %}
-{% endfor %}
+  {% for tag in site.tags reversed%}
+    <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  {% for post in tag[1] %}
+    <li class="listing-item">
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="/cn/{{ post.url }}" title="{{ post.title }}" class="listing-item-a">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  {% endfor %}
 </ul>
 
 <script src="/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 

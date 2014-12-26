@@ -316,26 +316,44 @@ blockquote{
 
 /*标签页面相关样式*/
 .listing {
-
+    list-style-type: none;
+    margin: 30px 3% 10px 7%;
 }
+
+.listing ul, .listing ul li{
+        list-style-type: none;
+}
+
 .listing-item, .listing-seperator {
     list-style-type: none;
 }
+
 .listing-item a {
     padding: 0.2em 2em;
 }
+
 .listing-item time {
     color: #768185;
     padding-left: 2.2em;
     font-family: "Verdana", sans-serif;
 }
+
 .listing-seperator {
     font-weight: bold;
     color: #3f4142;
 }
+
 .listing-item-a, .listing-seperator {
     font-family: "Verdana", "Microsoft YaHei", sans-serif;
 }
 
-#tag_cloud a {}
-#tag_cloud a:hover {}
+#tag_could {
+    width: 90%;
+    margin: 40px 0 40px;
+    margin-left: 5%;
+    line-height: 2em;
+
+}
+
+#tag_cloud a {text-decoration: none;}
+#tag_cloud a:hover {text-decoration: none;}
