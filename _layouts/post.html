@@ -25,12 +25,13 @@ layout: default
           <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br><br></p>
         </blockquote>
 
-        <div style="text-align:right;color:#a3a3a3;">
+        {% include pagination.html %}
+
+        <div style="text-align:right;color:#a3a3a3;margin-right:3%;margin-bottom:-20px">
             <a href="/archive.html"><i class="fa fa-archive"></i> 归档</a>　
             <a href="/tags"><i class="fa fa-tags"></i> 标签</a>
         </div>
 
-        {% include pagination.html %}
         {% include comment.html %}
     </div>
 
