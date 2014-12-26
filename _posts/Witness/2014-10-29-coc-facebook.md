@@ -23,133 +23,143 @@ date: 2014-10-29
 　祝每个人玩coc都能愉快。愿主营未来安好。
 
 ----
+<div style="text-align:center">
 
-<center>Lee-52099</center>
+<br>Lee-52099
 
-<center>小杨猪二</center>
+<br>小杨猪二
  
-<center>xqif</center>
+<br>xqif
  
-<center>YZY</center>
+<br>YZY
  
-<center>Mr. William</center>
+<br>Mr. William
 
-<center>abcd0000abcd</center>
+<br>abcd0000abcd
 
-<center>穷得响叮当</center>
+<br>穷得响叮当
 
-<center>云浮</center>
+<br>云浮
 
-<center>娃哥府邸</center>
+<br>牛逼山寨
 
-<center>经纬国度</center>
+<br>龙门镖局
 
-<center>紫禁城</center>
+<br>任冬冬
 
-<center>、山顶洞人</center>
+<br>娃哥府邸
 
-<center>美女走光了</center>
+<br>经纬国度
 
-<center>邹晋言 & 娜娜</center>
+<br>紫禁城
 
-<center>呆呆村/小二呆</center>
+<br>、山顶洞人
 
-<center>Bryant</center>
+<br>美女走光了
 
-<center>Alex1128</center>
+<br>邹晋言 & 娜娜
 
-<center>王康小镇</center>
+<br>呆呆村/小二呆
 
-<center>鹏宇</center>
+<br>Bryant
 
-<center>MG</center>
+<br>Alex1128
 
-<center>三颗猫饼干</center>
+<br>王康小镇
 
-<center>太好了</center>
+<br>鹏宇
 
-<center>地球第一村</center>
+<br>MG
 
-<center>=惠比特=</center>
+<br>三颗猫饼干
 
-<center>Desperado</center>
+<br>太好了
 
-<center>Heaven77</center>
+<br>地球第一村
 
-<center>恶人谷</center>
+<br>=惠比特=
 
-<center>Rock</center>
+<br>Desperado
 
-<center>Lee</center>
+<br>Heaven77
 
-<center>胜迪哑嗝</center>
+<br>恶人谷
 
-<center>米纳斯提力斯</center>
+<br>Rock
 
-<center>Mike</center>
+<br>Lee
 
-<center>荧之森</center>
+<br>胜迪哑嗝
 
-<center>雷宅子</center>
+<br>米纳斯提力斯
 
-<center>完美MM</center>
+<br>Mike
 
-<center>好人村</center>
+<br>荧之森
 
-<center>芊芊梦魂</center>
+<br>雷宅子
 
-<center>ASD</center>
+<br>完美MM
 
-<center>天束幽花</center>
+<br>好人村
 
-<center>永不磨灭的番号</center>
+<br>芊芊梦魂
 
-<center>小松鼠</center>
+<br>ASD
 
-<center>暴风雪</center>
+<br>天束幽花
 
-<center>xs</center>
+<br>永不磨灭的番号
 
-<center>闪金</center>
+<br>小松鼠
 
-<center>若熙</center>
+<br>暴风雪
 
-<center>泰坦拖拉机</center>
+<br>xs
 
-<center>大臭臭 & 大美美</center>
+<br>闪金
 
-<center>勇猛善战</center>
+<br>若熙
 
-<center>BraveKun</center>
+<br>泰坦拖拉机
 
-<center>Kaky</center>
+<br>大臭臭 & 大美美
 
-<center>木叶</center>
+<br>勇猛善战
 
-<center>狼堡</center>
+<br>BraveKun
 
-<center>JY</center>
+<br>Kaky
 
-<center>静沫喆</center>
+<br>木叶
 
-<center>尚东造型</center>
+<br>狼堡
 
-<center>天恕</center>
+<br>JY
 
-<center>萌托</center>
+<br>静沫喆
 
-<center>迪化</center>
+<br>尚东造型
 
-<center>疯子戴朵小花</center>
+<br>天恕
 
-<center>拆那卡斯特姆</center>
+<br>萌托
 
-<center>zhousiquan</center>
+<br>迪化
 
-<center>小特务</center>
+<br>疯子戴朵小花
 
-<center>……</center>
+<br>拆那卡斯特姆
 
+<br>zhousiquan
+
+<br>小特务
+
+<br>……
+
+<br>
+
+</div>
 ----
 
 　铁打的营盘流水的兵，貌似可以凑成一个班了。另外还有很多我已经暂时想不起来的名字的朋友。

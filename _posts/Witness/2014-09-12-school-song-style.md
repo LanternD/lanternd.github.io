@@ -184,8 +184,8 @@ Victory for MSU!<br><br>
 
 ## 2014.12.25.Update说明
 
-　加入MSU的校歌和战歌，其实我也不知道怎么唱，在YouTube看过一次别人唱的，感觉风格有点怪。
+　加入了MSU的校歌和战歌，其实我也不知道怎么唱，在YouTube看过一次别人唱的，感觉风格有点怪。
 
 参考源：
 
-> http://en.wikipedia.org/wiki/Michigan_State_University_Fight_Song
+> [Wikipedia - MSU Fight Song](http://en.wikipedia.org/wiki/Michigan_State_University_Fight_Song)
