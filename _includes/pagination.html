@@ -2,9 +2,9 @@
 <div class="pagination">
   <ul>
   {% if page.previous %}
-    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="上一篇：{{ page.previous.title }}">&larr; 后顾-{{ page.previous.title }}</a></li>
+    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="上一篇：{{ page.previous.title }}">&larr; 后顾-{{ page.previous.title }}</a></li><br><br>
   {% else %}
-    <li class="prev disabled"><a>&larr; 尽头</a></li>
+    <li class="prev disabled"><a>&larr; 尽头</a></li><br><br>
   {% endif %}
 
   {% if page.next %}
