@@ -8,7 +8,7 @@ tags: [Google, 动画, 假日, 2014]
 date: 2014-12-26 21:56:00
 --- 
 
-不经意间偶遇的美好。
+　大家也知道Google没事干就在logo那里搞些小彩蛋，这里说说今天在不经意间偶遇的美好。
 
 <div class="flickr-container">
 <iframe class="flickr-frame" width="560" height="315" src="//www.youtube.com/embed/rpKQ7WP8jKc" frameborder="0" allowfullscreen></iframe></div>
