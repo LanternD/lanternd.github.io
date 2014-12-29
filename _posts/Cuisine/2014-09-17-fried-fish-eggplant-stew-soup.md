@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 煎鱼、茄子&炖菜 [3 Pic]
+title: 煎鱼、茄子&炖菜 [3Pic]
 description: 几个初试做饭时的小菜。
 permalink: /fried-fish-eggplant-stew-soup/
 categories: [cuisine, 料理]

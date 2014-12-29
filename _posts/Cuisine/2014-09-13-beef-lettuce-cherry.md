@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 白果炖牛肉&果蔬 [3 Pic]
+title: 白果炖牛肉&果蔬 [3Pic]
 description: 开始做饭的生涯了，了解食材也有些必要。
 permalink: /beef-lettuce-cherry/
 categories: [cuisine, 料理]
