@@ -237,7 +237,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 ::-webkit-scrollbar-thumb:hover {  background: #6d6d6d; }
 
 /*分页导航样式*/
-.pagination {display: block;height: 65px;margin-top: 10px;margin-bottom: 20px; margin-left: 2%}
+.pagination {display: block;height: 65px;margin-top: 10px; margin-left: 2%}
 
 .pagination .prev, .pagination .next {
     border-radius: 10px;

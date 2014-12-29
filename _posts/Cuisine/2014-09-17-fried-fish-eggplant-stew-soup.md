@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 煎鱼、茄子&炖菜
+title: 煎鱼、茄子&炖菜 [3 Pic]
 description: 几个初试做饭时的小菜。
 permalink: /fried-fish-eggplant-stew-soup/
 categories: [cuisine, 料理]
 tags: [炒, 炖, 煎, 鱼, 美食]
 date: 2014-09-17
-thread: 2014091700
 ---
 
 <pre>这个帖子的菜有点黑暗系风格。卖相不是特别好，不过味道还是不错滴。</pre>
