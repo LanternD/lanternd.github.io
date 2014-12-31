@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 烤蘑菇，硕大的蘑菇 [6 Pic]
+title: 烤蘑菇，硕大的蘑菇 [6Pic]
 permalink: /toasted-mushroom
 description: 第一次自己做烤蘑菇，还是比较成功的，顺带不负责地写写制作方法。这是一个卖相不太好但是挺好吃的菜。
 categories: [cuisine, 料理]
