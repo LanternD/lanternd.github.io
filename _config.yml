@@ -38,7 +38,7 @@ favicon: http://lanternd.qiniudn.com/favicon.ico
 # google analytics 设置
 ga:
   id: UA-54601036-1
-  url: dlyang.me
+  url: http://dlyang.me
 
 disqus:
   shortname: lanternd

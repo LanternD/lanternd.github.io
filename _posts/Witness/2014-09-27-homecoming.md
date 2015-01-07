@@ -10,12 +10,12 @@ date: 2014-09-27 21:30:00
 
 ## 前言
 
-<center>Homecoming Parade</center>
+<center>Homecoming Parade</center><br>
 
-<center>一年一度返校日，</center>
-<center>绿满兰辛盛装行。</center>
-<center>初秋日暮寒意近，</center>
-<center>不减万人爱校情。</center>
+<center>一年一度返校日，</center><br>
+<center>绿满兰辛盛装行。</center><br>
+<center>初秋日暮寒意近，</center><br>
+<center>不减万人爱校情。</center><br>
 
 　Homecoming意思是“回老家聚会活动”，通常指一年一度的校友返校节。 返校日是美国特有的文化，美国的大中小学校都会在每年的**秋天选一个周末**作为**返校日** ( Homecoming Day)，招待校友返校，有选美，营火会（烧烤BBQ），舞会，彩车游行等活动，是最热闹的一天。通常Homecoming会在10月份之前，今年是2014年9月26日。
 
