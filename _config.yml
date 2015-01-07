@@ -39,6 +39,7 @@ favicon: http://lanternd.qiniudn.com/favicon.ico
 ga:
   id: UA-54601036-1
   url: http://dlyang.me
+  userid: 54601036
 
 disqus:
   shortname: lanternd
