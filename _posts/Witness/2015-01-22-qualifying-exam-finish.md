@@ -40,6 +40,7 @@ date: 2015-01-22 23:24:12
 
 -----
 <center>墓碑分割线</center>
+-----
 
 　为什么我看到“Do both of the two problems. Two problems are equally weighted. ”会感觉有压力呢？因为**往年的题目**都是有3 problems，选两道写就行了，如下图，现在没得选了！
 
@@ -51,7 +52,7 @@ date: 2015-01-22 23:24:12
 
 ![power1](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/power1.jpg 'Power System1')
 
-　　这样子：
+　这样子：
 
 ![power2](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/power2.jpg 'Power System2')
 
@@ -69,6 +70,7 @@ date: 2015-01-22 23:24:12
 
 -----
 <center>叹气分割线</center>
+-----
 
 　说句良心话，Power真的不容易，上面**其他三科**，包括另外一篇日志里提到的许多**其他可选科目**，基本上都是**一门课程**，**一本教材**就能搞定了。而power呢，电机学，电力电子，电力系统就**三本书**了。电机里面直流电机，感应电机，同步电机，都是要下大功夫搞定的；电力电子里面有大量的电源拓扑结构（整流/逆变/PWM/DC-DC），每个都有对应的公式需要记忆，都有波形需要分析；电力系统根本和我本科的方向没关系，但是难度也是不低的。
 
