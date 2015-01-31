@@ -1,7 +1,39 @@
 ---
-layout:         page
-title:          出错啦！
+layout: blank_page
+title: 404 Not Found
 ---
-<h1>出错啦。。。</h1>
+<center> <img src="/img/404.png" style="width:100%" alt="404" title="Klein Bottle - Möbius strip - Klein Bottle"></center>
 
-<p>看看别的吧先</p>
+<p>　你来到了更高维度的空间，很遗憾，浏览器版本和性能不够是看不到的。</p>
+
+<p>　要不就降维吧——</p>
+
+<p>
+	<center>
+	<font size="5"><a href="/">返回首页</a>　|　<a href="/archive.html">时间线</a>　|　<a href="/tags">标签云</a></font>
+	</center>
+</p>
+
+    <h2>　搜之</h2>
+	<script type="text/javascript">
+      (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+      (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+      e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+      })(window,document,'script','//s.swiftypecdn.com/install/v1/st.js','_st');
+
+      _st('install','9X8oksMUypbkzXX-GknR');
+    </script>
+        
+    <center><form>
+        <input type="text" id="st-search-input" class="st-search-input" />
+    </form></center><br><br>
+
+    <h2>　分类</h2>
+    <center>
+        <a href="/"><font size="4">视·界</font></a>　·　<a href="/hi-tech"><font size="4">Hi-Tech</font></a>　·　<a href="/viewfinder"><font size="4">取景器</font></a>　·　<a href="/cuisine"><font size="4">料理时</font></a>
+        </center><br><br>
+
+    <h2>　最新文章</h2>
+    {% for post in site.posts limit:15 %}
+            <li style="padding-left:20%;margin-bottom:10px;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}

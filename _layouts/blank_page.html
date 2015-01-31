@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1025px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content" style="width:70%;margin-left:15%;margin-right:15%">
+    <div class="entry">
+        <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+        
+        {{ content }}
+        
+    </div>
+</div>
