@@ -86,20 +86,32 @@ date: 2014-10-27
 
 ----
 
-## 组装过程：（to be updated）
+## 组装过程
 
 * 机箱：
 
+![Tower Case](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/tower-case.jpg "Tower Case")
+
 * CPU：
 
-* VGA：
+![CPU](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/cpu-motherboard.jpg "CPU Assembly")
+
+* 内存
+
+![memory](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/memory.jpg "内存")
 
 * 电源：
 
-* 内存：
+![电源](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/vga.jpg "电源&主板")
 
-* 硬盘：
+* VGA：
 
-* 水冷系统：
+![显卡](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/vga.jpg "显卡")
 
+* 水冷系统 & 总体装配：
  
+![doodle6](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/all-assembled.jpg "水冷系统、总装配")
+
+　反正最后大概是装完啦，一开机就好使，还算有点成就感，虽然以前都会。
+
+　但愿它能顺利陪伴我度过x年僧涯。
