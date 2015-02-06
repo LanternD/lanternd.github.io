@@ -27,13 +27,13 @@ date: 2014-12-26 21:56:00
 
 ![doodle1](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle1.jpg "Bicycle")
 
-　当然，有的不算交通方式，但是几乎所有**“在路上”**的方式都被展现了个遍。
+　当然，有的不算交通方式，但是几乎所有**「在路上」**的方式都被展现了个遍。
 
 　动画里的主角也在不停的变换，无论是小朋友，大学生，还是风华正茂的上班族，抑或是步入中年，再或是矍铄的老人，都能在片子里找到代入感。
 
 ![doodle2](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle2.jpg "Ship")
 
-　里面也有一些**有意思**的故事。一个是小朋友从轻轨里面出来的时候，礼物后端被车门缝夹住了，这时一个挺潮的大哥过来把小朋友连人带礼物提了起来，“拔”出了车门，让人忍俊不禁。
+　里面也有一些**有意思**的故事。一个是小朋友从轻轨里面出来的时候，礼物后端被车门缝夹住了，这时一个挺潮的大哥过来把小朋友连人带礼物提了起来，「拔」出了车门，让人忍俊不禁。
 
 ![doodle3](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle3.jpg "Moment")
 

@@ -27,7 +27,7 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 ### 出路
 
-　我刚开始使用WP的时候是9月初，那时候就听Jeffrey说过**Github和Jekyll**，以及“静态化”等高级词汇，我那时候对各种网站相关的东西处于零基础状态，连Google都不知道从哪个词开始，不知道他们背后的工作原理。断断续续折腾了三个月，感觉入坑也挺深了，接触了好多新的名词，技术也有较大进步。这期间我找JY咨询过很多问题 ( 有大腿抱就是好啊 )，同是看过好多好多人的技术Blog，确实感觉山外有山人外有人。
+　我刚开始使用WP的时候是9月初，那时候就听Jeffrey说过**Github和Jekyll**，以及「静态化」等高级词汇，我那时候对各种网站相关的东西处于零基础状态，连Google都不知道从哪个词开始，不知道他们背后的工作原理。断断续续折腾了三个月，感觉入坑也挺深了，接触了好多新的名词，技术也有较大进步。这期间我找JY咨询过很多问题 ( 有大腿抱就是好啊 )，同是看过好多好多人的技术Blog，确实感觉山外有山人外有人。
 
 　我在保持主站是wp的情况下，拿原来的空间主机和英文站域名进行了**若干平台的测试**，typecho，dropplets之类，同时还侧面了解了一些其他的，但是没上手尝试的，如结合印象笔记生成博客的，结合dropbox生成博客的，等等。最后看了一圈，各有特点，但是也总有不如人意的地方。
 
@@ -74,11 +74,11 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 * [告别wordpress，拥抱jekyll0 - 阳志平](http://www.yangzhiping.com/tech/wordpress-to-jekyll.html)
 
-　好多东西我也不是很熟练，就不“误导”别人了哈。建立本地的Jekyll主要是为了调试一些效果，不然就得修改一点东西就commit一次，也挺费劲的。
+　好多东西我也不是很熟练，就不「误导」别人了哈。建立本地的Jekyll主要是为了调试一些效果，不然就得修改一点东西就commit一次，也挺费劲的。
 
 ### 建站
 
-　其实我想说**理论上**把博客托管在Github上完全不需要建立本地环境：下载一个[Github for windows](https://windows.github.com/)， 然后先在Github网站上注册用户，建立一个Repository，名叫“xxxxx.github.io”或者“xxxxx.github.com” ( 记住只能变xxxxx这段，其他的别动 )，然后点击Repos界面右侧的Clone in Desktop，就会在Github for windows里面出现了。指定了文件夹以后就会在本地生成了。
+　其实我想说**理论上**把博客托管在Github上完全不需要建立本地环境：下载一个[Github for windows](https://windows.github.com/)， 然后先在Github网站上注册用户，建立一个Repository，名叫「xxxxx.github.io」或者「xxxxx.github.com」 ( 记住只能变xxxxx这段，其他的别动 )，然后点击Repos界面右侧的Clone in Desktop，就会在Github for windows里面出现了。指定了文件夹以后就会在本地生成了。
 
 　这时只要去别人的Github打包下载整个Repository解压到自己文件夹，修改后再上传到自己Repository就可以了，也可以fork到自己的Github里，然后改名字。
 
@@ -173,16 +173,16 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 ## 一些小心得
 
-* 　Markdown写文章的时候，段首空格用**全角的空格**比较好。例如，这是半角空格“ ”，这是全角空格“　”。全角空格会被当做一个正常的字来识别，占用的位置也是一整个，**显示效果更好**，更重要的是**不会受各种因素的制约**，比如排版，渲染器等等。例如有时候按了四个空格就变成pre标签了，要么影响到下一段的排列。现在把全文写完了，shift + space，挨个段落打上空格就完事，如画龙点睛一般，哈哈。
+* 　Markdown写文章的时候，段首空格用**全角的空格**比较好。例如，这是半角空格「 」，这是全角空格「　」。全角空格会被当做一个正常的字来识别，占用的位置也是一整个，**显示效果更好**，更重要的是**不会受各种因素的制约**，比如排版，渲染器等等。例如有时候按了四个空格就变成pre标签了，要么影响到下一段的排列。现在把全文写完了，shift + space，挨个段落打上空格就完事，如画龙点睛一般，哈哈。
 
 * 　如果想在文章里插入公式和数学符号，可以在文章开头加入以下代码：
 ```
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ```
-　——这个用的是Mathjax渲染，效果也蛮不错的。在文章[必须吐槽的美国单位制](http://dlyang.me/usa-unit/)和[AT&T的话费计算与iPhone 6的价格](http://dlyang.me/att-iphone-6/)中，我就用了这个渲染器，可以点这里看看具体的源代码：[usa-unit](https://raw.githubusercontent.com/LanternD/lanternd.github.io/master/_posts/Witness/2014-10-22-usa-unit.md) | [at-t](https://raw.githubusercontent.com/LanternD/lanternd.github.io/master/_posts/Witness/2014-09-22-att-iphone-6.md)。不但可以实现行内公式， 也可以实现分段的。只要把要渲染的东西放在两个“\$\$”之间就行了，行开头打上**空格**以后就可以**居中**了。具体的语法就得自己查了，网上特别多。我个人感觉**不用放到模板文件里**，毕竟不是什么文章都要写公式的，加载还要时间呢。具体就看个人需要了。
+　——这个用的是Mathjax渲染，效果也蛮不错的。在文章[必须吐槽的美国单位制](http://dlyang.me/usa-unit/)和[AT&T的话费计算与iPhone 6的价格](http://dlyang.me/att-iphone-6/)中，我就用了这个渲染器，可以点这里看看具体的源代码：[usa-unit](https://raw.githubusercontent.com/LanternD/lanternd.github.io/master/_posts/Witness/2014-10-22-usa-unit.md) | [at-t](https://raw.githubusercontent.com/LanternD/lanternd.github.io/master/_posts/Witness/2014-09-22-att-iphone-6.md)。不但可以实现行内公式， 也可以实现分段的。只要把要渲染的东西放在两个「\$\$」之间就行了，行开头打上**空格**以后就可以**居中**了。具体的语法就得自己查了，网上特别多。我个人感觉**不用放到模板文件里**，毕竟不是什么文章都要写公式的，加载还要时间呢。具体就看个人需要了。
 
-* 　在实践中发现的问题，其实也是我没把Github的官方说明当回事造成的：如果Repository的名字叫：“xxxx.github.io”或“xxxx.github.com”的话，站点的文件放在**master分支**就可以了，如果Repository的名字是**其他的**或者自己乱取的，应该得放在**gh-pages分支**，这样Github才会用Jekyll去渲染它。否则就长期**404**了。[仅仅是我自己no zuo no die发现的规律，可能样本不够多，不知道是不是准确的]
+* 　在实践中发现的问题，其实也是我没把Github的官方说明当回事造成的：如果Repository的名字叫：「xxxx.github.io」或「xxxx.github.com」的话，站点的文件放在**master分支**就可以了，如果Repository的名字是**其他的**或者自己乱取的，应该得放在**gh-pages分支**，这样Github才会用Jekyll去渲染它。否则就长期**404**了。[仅仅是我自己no zuo no die发现的规律，可能样本不够多，不知道是不是准确的]
 
 * 　网上Github和Jekyll的教程特别多，还是以搜索到的为主吧，我这里**有不及而无过之**。
 

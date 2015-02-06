@@ -42,7 +42,7 @@ date: 2015-01-22 23:24:12
 <center>墓碑分割线</center>
 -----
 
-　为什么我看到“Do both of the two problems. Two problems are equally weighted. ”会感觉有压力呢？因为**往年的题目**都是有3 problems，选两道写就行了，如下图，现在没得选了！
+　为什么我看到「Do both of the two problems. Two problems are equally weighted. 」会感觉有压力呢？因为**往年的题目**都是有3 problems，选两道写就行了，如下图，现在没得选了！
 
 ![instruction](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/instruction1.jpg '27Instruction')
 
