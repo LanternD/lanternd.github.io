@@ -18,11 +18,11 @@ date: 2015-02-12 23:19:12
 
 -----
 
-# 上古时代
+## 上古时代
 
 　「上古」大约是我高中前的日子。对于手机，那时候自己没有什么选择权，也没有什么经济实力。于是通常就是捡爸妈淘汰了的来用，和另一个较大的群体不同的是，我从没用过Nokia的手机，直到最近……因为爸妈也不是诺记的粉丝。
 
-## UT Starcom 702-U
+### UT Starcom 702-U
 
 ![702-U](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/UT-Starcom-702-U.jpg "UT Starcom 702-U")
 
@@ -34,7 +34,7 @@ date: 2015-02-12 23:19:12
 
 　这手机到初中的时候就是被长期放在抽屉里软禁的料了。现在在家里翻箱倒柜或许能重见天日。
 
-## Samsung T108
+### Samsung T108
 
 ![T108](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-T108.jpg "Samsung T108")
 
@@ -50,11 +50,11 @@ date: 2015-02-12 23:19:12
 
 ------
 
-# 中世纪
+## 中世纪
 
 　「中世纪」是高中以后，大学以前的日子，手机比以前有了不少进步，但也不是特别大，大概就像人类文明从公元初发展到中世纪的这个样子吧。
 
-## Motorola A768i
+### Motorola A768i
 
 ![A768i](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Motorola-A768i.jpg "Motorola A768i")
 
@@ -68,7 +68,7 @@ date: 2015-02-12 23:19:12
 
 　这手机前几年一直放在家里的一个柜子上当吸尘器，现在不知道去向何方，再也没有关注过。
 
-## Samsung D888
+### Samsung D888
 
 ![D888](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-D888.jpg "Samsung D888")
 
