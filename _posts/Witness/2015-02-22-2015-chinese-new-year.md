@@ -4,7 +4,7 @@ title:  国外的第一个春节
 description: 目测毕业前都不会在国内过春节。于是这个春节就走了五分之一的进度了。大概记录一下在国外过的第一个春节。
 permalink: /2015-chinese-new-year/
 categories: [blog, 视·界]
-tags: [春节, 新年, 聚会, 美国,,]
+tags: [春节, 新年, 聚会, 国外, 除夕, 国内]
 date: 2015-02-22 12:29:00
 --- 
 
