@@ -188,7 +188,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .col5 .aside {display:none;background-image:none;}
 }
 
-@media (max-width: 1025px){
+@media screen and (max-width: 1025px){
     #menuIndex {display:none;}
     .home-menu { position:absolute; }
     .index-content .cate-bar ,
@@ -197,8 +197,9 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .sidenav {display:none;}
     .entry {float:none;width:auto;background:transparent;padding:0;box-shadow:none;}
     #content {width:85%;margin:100px auto 50px; }
+
 }
-@media (max-width: 1300px){
+@media screen and (max-width: 1300px){
     .home-menu { position:absolute; }
 }
 
@@ -394,22 +395,22 @@ blockquote{
 */
 ul.cuisine-container {
     margin-left: 0px;
-    background: url("/img/timeline-background.png") repeat-y scroll 30px 0 transparent;
     margin: 40px 0;
     padding: 0;
+    background: url("/img/timeline-background.png") repeat-y scroll 30px 0 transparent;
 }
 
 ul.cuisine-container li.dish-container {
     list-style: none;
 }
 
-.cuisine-line :before{
+/*.cuisine-line :before{
     display: inline-block;
     color: #ccc;
     padding-left:30px;
     height: 100%;
     width: 30px;
-}
+}*/
 
 .cuisine-date {
     background-color: #ff9966;
@@ -428,8 +429,16 @@ ul.cuisine-container li.dish-container {
     font-weight: bolder;
 }
 
+@media screen and (max-width:750px){
+/* Timeline Series adjustment for small screen */
+    ul.cuisine-container {
+	background: url("/img/timeline-background.png") repeat-y scroll 0px 0 transparent;}
+
+	.cuisine-date {margin-left: -20px;}
+}
+
 div .cuisine-title {
-    margin-top: -2.5em;
+    margin-top: -2.6em;
     margin-left: 0.5em;
 }
 
