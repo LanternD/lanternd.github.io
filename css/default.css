@@ -377,3 +377,77 @@ blockquote{
     color:#808080;
     text-decoration: none;
 }
+
+/*Cuisine模板样式*/
+
+/*.cuisine-container:before{
+    position: absolute;
+    width: 10px;
+    background: rgba(251, 198, 150, 0.8);
+    top: 0px;
+    left: 11.5%;
+    margin-left: -2px;
+    content: '';
+    height: 200%;
+    z-index: -100;
+}
+*/
+ul.cuisine-container {
+    margin-left: 0px;
+    background: url("/img/timeline-background.png") repeat-y scroll 30px 0 transparent;
+    margin: 40px 0;
+    padding: 0;
+}
+
+ul.cuisine-container li.dish-container {
+    list-style: none;
+}
+
+.cuisine-line :before{
+    display: inline-block;
+    color: #ccc;
+    padding-left:30px;
+    height: 100%;
+    width: 30px;
+}
+
+.cuisine-date {
+    background-color: #ff9966;
+    border-radius: 30%;
+    width: 65px;
+    height: 55px;
+    margin-left: 10px;
+}
+
+.cuisine-date span {
+    display: inline-block;
+    padding-top: 19%;
+    padding-left: 7%;
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+div .cuisine-title {
+    margin-top: -2.5em;
+    margin-left: 0.5em;
+}
+
+div .cuisine-title h2{
+    display: inline-block;
+    padding-left: 2.5em;
+    font-size: 2em;
+    width: 80%;
+    color: #694816;
+    margin-bottom: 0.5em;
+}
+
+.cuisine-photo img {
+    margin-left: 15%;
+    width: 80%;
+    border-radius: 5%;
+}
+
+.cuisine-info {
+    margin-left: 15%;
+}

@@ -1,0 +1,167 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/js/prettify/prettify.css" />
+<style type="text/css">
+    body { background:#e8e8e8; }
+    @media screen and (max-width: 750px){
+        body { background:#fff; }
+    }
+    @media screen and (max-width: 1025px){
+        body { background:#fff; }
+    }
+</style>
+
+<div id="content">
+    <div class="entry">
+        <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+        
+        
+        
+        <ul class="cuisine-container">
+            {% for dishes in page.dish %}
+            <!-- Whitespace added for readability -->
+            <li class="dish-container">
+            <div class="cuisine-date"><span>
+                {% assign d = dishes.date | date: "%-d"  %}
+                {% case d %}
+                  {% when '1' or '21' or '31' %}{{ d }}st
+                  {% when '2' or '22' %}{{ d }}nd
+                  {% when '3' or '23' %}{{ d }}rd
+                  {% else %}{{ d }}th
+                {% endcase %}
+            </span></div>
+            
+            <div class="cuisine-title"><h2>{{ dishes.title }}</h2></div>
+
+            <div class="cuisine-line"></div>
+                
+                    <div class="cuisine-photo"><img src="http://lanternd.qiniudn.com/Pic4Post/Cuisine/{{ dishes.date | date: "%Y" }}/{{ dishes.date | date: "%m" }}/{{ dishes.photo }}.JPG" alt="date: {{ dishes.date }}" title="{{ dishes.title }}" ></div>
+                    <div class="cuisine-info">
+                        味道：
+                            {% if dishes.taste == 1 %}
+                                <span class="cuisine-star">★☆☆☆☆</span>
+                            {% elsif dishes.taste == 2 %}
+                                <span class="cuisine-star">★★☆☆☆</span>
+                            {% elsif dishes.taste == 3 %}
+                                <span class="cuisine-star">★★★☆☆</span>
+                            {% elsif dishes.taste == 4 %}
+                                <span class="cuisine-star">★★★★☆</span>
+                            {% elsif dishes.taste == 5 %}
+                                <span class="cuisine-star">★★★★★</span>
+                            {% elsif dishes.taste == 0 %}
+                                <span class="cuisine-star">☆☆☆☆☆</span>
+                            {% endif %}
+                        　　难度：
+                            {% if dishes.difficulty == 1 %}
+                                <span class="cuisine-star">★☆☆☆☆</span>
+                            {% elsif dishes.difficulty == 2 %}
+                                <span class="cuisine-star">★★☆☆☆</span>
+                            {% elsif dishes.difficulty == 3 %}
+                                <span class="cuisine-star">★★★☆☆</span>
+                            {% elsif dishes.difficulty == 4 %}
+                                <span class="cuisine-star">★★★★☆</span>
+                            {% elsif dishes.difficulty == 5 %}
+                                <span class="cuisine-star">★★★★★</span>
+                            {% endif %}
+                        　　掌勺：{{ dishes.cook }}　
+                        <br>加特技：{{ dishes.method }}
+                        <br>原料：{{ dishes.ingredient }}
+                        <br>口味：{{ dishes.flavor }}
+                        <br>{% if dishes.description != null %}——{{ dishes.description }}
+                        {% endif %}
+                    </div>
+            </li><br>
+        {% endfor %}
+        </ul>
+        <hr>
+
+        {{ content }}
+        
+<!-- Personal Logo and Signature -->
+
+        <blockquote style="margin-bottom:1%">
+          <p>
+          <strong>LanternD</strong>  <br>
+          <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br></p><br><br><br>
+        </blockquote>
+
+<!-- Pagination -->
+
+        {% include pagination.html %}
+
+<!-- Comment -->
+
+        <div class="footer-navi">
+            <a href="/archive.html"><i class="fa fa-archive"></i> 归档</a>　
+            <a href="/tags"><i class="fa fa-tags"></i> 标签</a>
+        </div>
+
+        {% include comment.html %}
+    </div>
+
+<!-- Search Engine -->
+
+    {% include swiftype.html %}
+
+<!-- Side Navi Section -->
+
+    <div class="sidenav">
+        <h2>图书馆分类法</h2>
+        <ul class="artical-list">
+            <li><a href="/">视·界</a></li>
+            <li><a href="/hi-tech">Hi-Tech</a></li>
+            <li><a href="/viewfinder">取景器</a></li>
+            <li><a href="/cuisine">料理时</a></li>
+            <hr>
+            <li><a href="/archive.html"><i class="fa fa-archive"></i> <strong>时间线</strong></a></li>
+            <li><a href="/tags"><i class="fa fa-tags"></i> <strong>标签云</strong></a></li>
+        </ul>
+
+    </div>
+
+    <div class="sidenav">
+        <h2>更多关于『{{page.categories.first}}』的文章</h2>
+        <ul class="artical-list">
+
+        {% case page.categories.first %}
+
+            {% when 'blog' %}
+                {% for post in site.categories.blog limit:15%}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            {% when 'hitech' %}
+                {% for post in site.categories.hitech limit:15 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            {% when 'viewfinder' %}
+                {% for post in site.categories.viewfinder limit:15 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            {% when 'cuisine' %}
+                {% for post in site.categories.cuisine limit:15 %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+
+            {% else %}
+                {% for post in site.related_posts limit:15 %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+        {% endcase %}
+        </ul>
+    </div>
+</div>
+
+<!-- Back to top button -->
+
+<div class="back-top" title="返回顶部">
+    <button class="btn btn-primary">
+      <i class="fa fa-lg fa-chevron-up" style="color:#0e0e0e"></i>
+    </button>
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
