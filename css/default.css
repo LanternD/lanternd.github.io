@@ -459,4 +459,9 @@ div .cuisine-title h2{
 .poem {
     font-family: "STFangsong";
     text-align: center;
+    font-size: 20px;
+}
+
+.poem h6 {
+    font-size: 25px;
 }
