@@ -404,14 +404,6 @@ ul.cuisine-container li.dish-container {
     list-style: none;
 }
 
-/*.cuisine-line :before{
-    display: inline-block;
-    color: #ccc;
-    padding-left:30px;
-    height: 100%;
-    width: 30px;
-}*/
-
 .cuisine-date {
     background-color: #ff9966;
     border-radius: 30%;
@@ -429,14 +421,6 @@ ul.cuisine-container li.dish-container {
     font-weight: bolder;
 }
 
-@media screen and (max-width:750px){
-/* Timeline Series adjustment for small screen */
-    ul.cuisine-container {
-	background: url("/img/timeline-background.png") repeat-y scroll 0px 0 transparent;}
-
-	.cuisine-date {margin-left: -20px;}
-}
-
 div .cuisine-title {
     margin-top: -2.6em;
     margin-left: 0.5em;
@@ -451,6 +435,17 @@ div .cuisine-title h2{
     margin-bottom: 0.5em;
 }
 
+@media screen and (max-width:750px){
+/* Timeline Series adjustment for small screen */
+    ul.cuisine-container {
+    background: url("/img/timeline-background.png") repeat-y scroll 0px 0 transparent;}
+
+    .cuisine-date {margin-left: -20px;}
+
+    div .cuisine-title h2{padding-left: 2.5em;}
+    div .cuisine-title {margin-top: -2.8em;}
+}
+
 .cuisine-photo img {
     margin-left: 15%;
     width: 80%;
@@ -459,4 +454,9 @@ div .cuisine-title h2{
 
 .cuisine-info {
     margin-left: 15%;
+}
+
+.poem {
+    font-family: "STFangsong";
+    text-align: center;
 }
