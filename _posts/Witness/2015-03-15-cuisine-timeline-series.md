@@ -95,4 +95,5 @@ date: 2015-03-15 20:39:00
 
 　——相关日志的传送门
 
-- [二〇一四年 · 九月](http://dlyang.me/cuisine-2014-09/)
+- [【料理】 二〇一四年 · 九月](http://dlyang.me/cuisine-2014-09/)
+- [【料理】 二〇一四年 · 十月](http://dlyang.me/cuisine-2014-10/)
