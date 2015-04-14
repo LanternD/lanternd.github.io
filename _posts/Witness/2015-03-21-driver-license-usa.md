@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  在USA考驾照
+title:  在Michigan考驾照
 description: 刚刚把驾照考试搞定了，写个日志Mark之。同时说说在Michigan考驾照的整个流程。好多人都写过类似的帖子，网上一搜一大堆，但是其实各个州各个人的情况不一样，所以写写应该也能帮到一些人。
 permalink: /driver-license-usa/
 categories: [blog, 视·界]
