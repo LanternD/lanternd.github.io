@@ -14,7 +14,7 @@
                 <author>LanternD</author>
                 <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H %z" }}</pubDate>
-                <link>{{ site.url }}{{ post.url }}</link>
+                <link>{{ site.url }}{{ post.url | remove:'/' }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url | remove:'/'}}</guid>
             </item>
         {% endfor %}
