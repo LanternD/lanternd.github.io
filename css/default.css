@@ -30,7 +30,20 @@ body .hide{display:none;}
 .left,.right{display:inline;}
 .left{float:left;}
 .right{float:right;}
-
+table th, table td {
+  padding: 8px;
+  line-height: 20px;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+table {
+  margin-bottom: 20px;
+  max-width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: table;
+  border-color: gray;
+}
 
 /***********default settings**********/
 body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
