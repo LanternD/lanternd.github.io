@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  用鼠标拖动窗口晃动可以最小化其他窗口
-description: 一个Win 7/Win8/Win 8.1 有的功能，可能我发现的有点晚…
+description: 一个Win 7/Win 8/Win 8.1 有的功能，可能我发现的有点晚…
 permalink: /window-drag-minimize/
 categories: [HiTech]
 tags: [Windows, 窗口, 最小化, 拖动, 系统]

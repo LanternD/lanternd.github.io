@@ -164,7 +164,7 @@ id: about
 >  　 
 >  2014.12.12. 所有数据迁移完毕，步入正常化轨道，同时决定先**暂时放弃英文站**。 
 >  　 
->  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些改动。 
+>  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些[改动](https://github.com/LanternD/lanternd.github.io/blob/master/README.md)。 
 >  　 
 >  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅。[注: 移动端看不到侧边栏的话可以点这的链接订阅]
 
