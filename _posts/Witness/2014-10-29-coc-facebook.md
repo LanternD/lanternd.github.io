@@ -6,9 +6,7 @@ permalink: /coc-facebook/
 categories: [blog, 视·界]
 tags: [COC, 部落, 主营]
 date: 2014-10-29
---- 
-
-<pre>　哈尔滨Coc相忘于江湖，「相忘」系列主营，成立于2013年12月26日，成立者xqif。</pre>
+---
 
 ![1](http://lanternd.qiniudn.com/Pic4Post/coc-facebook/2014-10-29-17.37.12.png?imageView/0/w/400/ "哈尔滨Coc相忘于江湖")
 

@@ -6,9 +6,7 @@ permalink: /bus-charge-card/
 categories: [blog, 视·界]
 tags: [公车, 找零卡]
 date: 2014-12-20 12:04:00
---- 
-<pre>
-在Lansing坐公车没有零钱怎么办？没关系，收钱机会打印一个小票 ( 不知道怎么翻译，就叫公车券吧 )，上面会有余额，下次还可以继续用……但是怎么把券用完呢。</pre>
+---
 
 　Lansing区域只有一家公共汽车公司，叫Capital Area Transportation Authority，简称[CATA](http://cata.org)，由于和cat挺像，logo就用了一个奔跑的猫科动物，但我也不认识名字。下图是找钱吐出来那张票的背面，印有CATA的LOGO。
 

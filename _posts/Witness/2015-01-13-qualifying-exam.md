@@ -6,9 +6,7 @@ permalink: /qualifying-exam/
 categories: [blog, 视·界]
 tags: [qualifying, exam, 考试, phd]
 date: 2015-01-13 15:55:12
---- 
-
-<pre>虽然一开始就知道有Qualifying Exam，但没想到这么快，才第二个学期刚开始啊。已经准备了一段时间了，抽空跑上来发个日志。看来QE是吹响了准备要忙碌大半年的号角。</pre>
+---
 
 　去年底收到了系里的邮件，说2015年1月22号晚上6点-9点考EE PhD的Qualifying Exam。这邮件让我「心神不宁」了一个寒假。每天惦记着，数着还剩下多少日子。
 

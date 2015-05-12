@@ -10,9 +10,7 @@ date: 2014-09-19
 
 ![1](http://lanternd.qiniudn.com/Pic4Post/hit-achievement-list/HIT_logo.jpg?imageView/0/w/640/ "HIT Logo")
 
-<pre>如果在哈工大(HIT)上过学，不妨来测试一下吧。亲手打造，欢迎集思广益，添砖加瓦。</pre>
-
-##写在前面
+## 写在前面
 
 * 难度共四个等级，表示完成的难易程度；得分分五级，表示稀有程度。这个没法避免主观因素，求轻拍~
 

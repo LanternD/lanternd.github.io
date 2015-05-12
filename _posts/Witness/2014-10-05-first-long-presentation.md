@@ -8,8 +8,7 @@ tags: [Presentation]
 date: 2014-10-05
 --- 
 
-<pre>「BodyBeat @ 09/30/2014 15:00-16:15」 
-刚来美国不到2个月，面临的竟然是长达50min的英文Presentation，这该如何是好……</pre>
+「BodyBeat @ 09/30/2014 15:00-16:15」 
 
 ## 前言
 　虽然是准PhD学生，但是我选的课并不多，这学期两门，其中一门是Advanced Computer Network and Communication。这门课给出了十五六篇论文的Reading List，要求每个人写8篇400字以上的论文总结(Summary)，还有一个项目(Project)，同时，还有一个「最让我头疼」的，以那堆论文中的一篇作为主题的Presentation。为什么打上双引号呢，因为那是我做Presentation之前的感受。

@@ -8,8 +8,6 @@ tags: [qualifying exam, power, 吐槽]
 date: 2015-01-22 23:24:12
 --- 
 
-<pre>这是滑铁卢吗，可能算也可能不算，但我实在是不甘心。</pre>
-
 　大约9天前，我写过个[关于Qualifying Exam的日志](http://dlyang.me/qualifying-exam/)。今天晚上考试结束，心力交瘁，但是还是必须吐槽！
 
 　之前提到我选了**电路分析，数电，power，自动控制原理**。

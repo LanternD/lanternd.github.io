@@ -6,9 +6,7 @@ permalink: /pacific-rim-review/
 categories: [blog, 视·界]
 tags: [环太平洋, 观后感, 怪兽]
 date: 2013-08-10
---- 
-
-<pre>乱想而已，科幻片太认真就输了。或许有剧透，谨慎围观。</pre>
+---
 
 ![Pacific Rim Post](http://lanternd.qiniudn.com/Pic4Post/pacific-rim-review/pacificrim-post.jpg?imageView/0/w/619/)
 
