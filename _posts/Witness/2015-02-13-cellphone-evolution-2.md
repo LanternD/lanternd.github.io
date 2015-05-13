@@ -8,7 +8,7 @@ tags: [手机, 历史, 进化, 升级]
 date: 2015-02-13 15:16:12
 --- 
 
-<pre>紧接着[上篇](http://dlyang.me/cellphone-evolution-1)的内容继续吧。继续讲讲我的手机进化史。多图，较长文。</pre>
+　传送门：[上篇](http://dlyang.me/cellphone-evolution-1)
 
 -------
 

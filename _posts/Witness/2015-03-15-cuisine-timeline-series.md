@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  料理时间线启动
-description: 用一个帖子为「料理时间线」这一系列做一个总介绍
+description: 用一个帖子为「料理时间线」这一系列做一个总介绍。
 permalink: /cuisine-timeline-series/
 categories: [blog, 视·界]
 tags: [菜谱时间线]
 date: 2015-03-15 20:39:00
 --- 
-
-<pre>用一个帖子为「料理时间线」这一系列做一个总介绍。</pre>
 
 　本日志目前在「视·界」分类中，作为广告宣传一下，几个月后会放到「料理」分类下。
 

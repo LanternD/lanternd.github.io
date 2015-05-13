@@ -6,9 +6,7 @@ permalink: /window-drag-minimize/
 categories: [HiTech]
 tags: [Windows, 窗口, 最小化, 拖动, 系统]
 date: 2015-04-22 22:49:00
---- 
-
-<pre>一个Win 7/Win8/Win 8.1 有的功能，可能我发现的有点晚…</pre>
+---
 
 　我发现这个功能是很久以前的事情，只是最近才写了这个文章。
 

@@ -6,9 +6,7 @@ permalink: /driver-license-usa/
 categories: [blog, 视·界]
 tags: [驾照, 笔试, 路考, USA]
 date: 2015-03-21 15:39:00
---- 
-
-<pre>刚刚把驾照考试搞定了，写个日志Mark之。同时说说在Michigan考驾照的整个流程。</pre>
+---
 
 ## 流水账
 

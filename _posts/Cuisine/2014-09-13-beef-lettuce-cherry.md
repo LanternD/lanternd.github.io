@@ -8,7 +8,7 @@ tags: [水果, 牛肉, 蔬菜, 美食]
 date: 2014-09-13
 --- 
 
-##白果炖牛肉 
+## 白果炖牛肉 
 @ 08/13/2014 by Me
 
 ![Beef](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_3102.jpg "Beef")
