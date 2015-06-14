@@ -39,6 +39,21 @@ function toggleDisqusComments(container){
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 }
 </script>
+<!-- 以下代码用于获取Disqus的评论条数 -->
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'lanternd';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <!-- Disqus的js代码 End-->  
 
@@ -49,7 +64,7 @@ function toggleDisqusComments(container){
     <div>
     	<a href="#comment-duoshuo" class="comment" onclick="toggleDuoshuoComments('#comment-box-duoshuo');">
     		查看<strong>多说</strong>评论
-    	</a>
+    	</a><span class="comment-count">（<span class="ds-thread-count" data-thread-key="{{page.id | remove:'/'}}" data-count-type="comments"></span>）</span>
     </div>
 
     <div id="comment-box-duoshuo" ></div>
@@ -60,7 +75,7 @@ function toggleDisqusComments(container){
 
         <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
             查看<strong>Disqus</strong>评论
-        </a>
+        </a><span class="comment-count">（<a href="http://dlyang.me{{page.url}}#disqus_thread" style="font-size:18px;">N/A</a>）</span>
 
     <div id="disqus_thread"></div>
 </div>
