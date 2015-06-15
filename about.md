@@ -162,13 +162,17 @@ id: about
 >  　 
 >  2014.12.08. 从SAE迁出，放弃Wordpress，改用Github托管，由Jekyll驱动。 
 >  　 
->  2014.12.12. 所有数据迁移完毕，步入正常化轨道，同时决定先**暂时放弃英文站**。 
+>  2014.12.12. 所有数据迁移完毕，步入正常化轨道，同时决定先暂时放弃英文站。 
 >  　 
 >  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些[改动](https://github.com/LanternD/lanternd.github.io/blob/master/README.md)。 
 >  　 
 >  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅。[注: 移动端看不到侧边栏的话可以点这的链接订阅]
+>  
+>  2015.05.01  已重新启用英文站，为了省事，英文Blog直接用[Tumblr](http://lanternd.tumblr.com/)来写了。仅用来作为副业练习英文写作，并没有什么特别值得关注的内容。
+>
+>  2015.06.13. 添加了显示评论数的功能。
 
-Last Update: 2015.04.02
+Last Update: 2015.06.13
 
 –
 
