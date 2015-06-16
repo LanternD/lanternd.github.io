@@ -152,25 +152,25 @@ id: about
 >  　 
 >  2014.09.08. 20:56. Wordpress安装成功，自动发表Hello World日志
 >  　 
->  2014.09.14. 16:50. Wordpress多站点模式配置成功，<a href="http://en.dlyang.me">en.dlyang.me</a>英文站正式成立。
+>  2014.09.14. 16:50. Wordpress多站点模式配置成功，<a href="http://en.dlyang.me">en.dlyang.me</a>英文站正式成立
 >  　 
->  2014.09.16. 把DNS解析从Dnspod转移到Cloudflare下。
+>  2014.09.16. 把DNS解析从Dnspod转移到Cloudflare下
 >  　 
->  2014.11.01. 网站被恶意代码注入，出现严重安全问题。
+>  2014.11.01. 网站被恶意代码注入，出现严重安全问题
 >  　 
->  2014.11.24. 13:39. 将网站从Laoxuehost迁移至Sina App Engine (SAE)，安全问题被成功修复，依旧使用Wordpress作为博客程序，改为单站点模式。
+>  2014.11.24. 13:39. 将网站从Laoxuehost迁移至Sina App Engine (SAE)，安全问题被成功修复，依旧使用Wordpress作为博客程序，改为单站点模式
 >  　 
->  2014.12.08. 从SAE迁出，放弃Wordpress，改用Github托管，由Jekyll驱动。 
+>  2014.12.08. 从SAE迁出，放弃Wordpress，改用Github托管，由Jekyll驱动
 >  　 
->  2014.12.12. 所有数据迁移完毕，步入正常化轨道，同时决定先暂时放弃英文站。 
+>  2014.12.12. 所有数据迁移完毕，步入正常化轨道，同时决定先暂时放弃英文站
 >  　 
->  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些[改动](https://github.com/LanternD/lanternd.github.io/blob/master/README.md)。 
+>  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些[改动](https://github.com/LanternD/lanternd.github.io/blob/master/README.md)
 >  　 
->  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅。[注: 移动端看不到侧边栏的话可以点这的链接订阅]
->  
->  2015.05.01  已重新启用英文站，为了省事，英文Blog直接用[Tumblr](http://lanternd.tumblr.com/)来写了。仅用来作为副业练习英文写作，并没有什么特别值得关注的内容。
->
->  2015.06.13. 添加了显示评论数的功能。
+>  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅[注: 移动端看不到侧边栏的话可以点这的链接订阅]
+>  　 
+>  2015.05.01  已重新启用英文站，为了省事，英文Blog直接用[Tumblr](http://lanternd.tumblr.com/)来写了，域名依旧是[en.dlyang.me](http://en.dlyang.me)。仅用来作为副业练习英文写作，并没有什么特别值得关注的内容
+>  　 
+>  2015.06.13. 添加了显示评论数的功能
 
 Last Update: 2015.06.13
 
