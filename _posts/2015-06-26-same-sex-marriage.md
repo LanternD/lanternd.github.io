@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 美国同性婚姻的合法化
 description: 2015年6月26日美国最高法院通过决议，同性婚姻在美国50个州合法化。
 permalink: /same-sex-marriage/
