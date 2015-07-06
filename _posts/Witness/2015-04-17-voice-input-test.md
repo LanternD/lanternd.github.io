@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  麦克风和语音输入法的测试
+title: 麦克风和语音输入法的测试
 description: 最近买了一个麦克风，其实也是一时冲动买的，但是东西到手以后总能物尽其用。之后下了一个语音输入法，讯飞。正好写一篇日志测测语音输入法的效果。
 permalink: /voice-input-test/
 categories: [blog, 视·界]

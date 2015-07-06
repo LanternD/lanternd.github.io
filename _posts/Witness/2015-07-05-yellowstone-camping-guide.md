@@ -1,10 +1,11 @@
 ---
+layout: post
 title: 黄石国家公园露营简易攻略
 description: 【多图预警】去Yellowstone National Park旅游回来，照片过多来不及整理，先写个关于Camping的攻略吧，顺手在路上记的，希望能帮到有需要的人。
 permalink: /yellowstone-camping-guide/
-date: 2015-07-05 09:16
-catagories: [blog, 视·界]
+categories: [blog, 视·界]
 tags: [黄石, 露营, camping, yellowstone, campground]
+date: 2015-07-05 19:16:00
 --- 
 
 <!-- http://lanternd.qiniudn.com/Pic4Post/ -->
