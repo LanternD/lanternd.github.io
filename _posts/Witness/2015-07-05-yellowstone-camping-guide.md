@@ -12,6 +12,10 @@ date: 2015-07-05 19:16:00
 
 ![Fox Creek Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-fox-creek-tent.jpg "Fox Creek Campground")
 
+　开头放个传送门，黄石之旅的相册：
+
+- [2015. Yellowstone and Grand Teton National Park](/2015-yellowstone-grand-teton)
+
 ## 黄石之缘
 
 　Yellowstone National Park（以下可能会简称YNP）是世界上第一个国家公园，建立于1872年。国家公园对保护动物多样性，环境、地貌多样性具有重要的意义，同时也为人们提供了娱乐休闲观光的好去处，总之利大于弊。小时候听说黄石的时候心中充满了向往，然而黄石逐渐远离了我的视线，更早一次听说它还是在「2012末日论」四处传播的时候。当我确定了去YNP的计划之后却是很平静的，甚至我都忘了黄石里面除了Old Faithful Geyser（老忠实泉）以外有哪些值得一看的景点…

@@ -2,8 +2,8 @@
 layout: post
 title: 2015. Yellowstone and Grand Teton National Park
 description: 2015年时间最长的旅行，也刷新了我心中的最美的地方。太丰富的地貌，太多的地质奇迹。黄石国家公园，大提顿国家公园，美不胜收的奇观。
-permalink: /2015-yellowstone-grand-teton
-categories: [取景器]
+permalink: /2015-yellowstone-grand-teton/
+categories: [viewfinder, 取景器]
 tags: [相册, 2015]
 date: 2015-07-12 14:21:00
 --- 
@@ -18,7 +18,13 @@ date: 2015-07-12 14:21:00
 
 　也可以点进Flickr或者用Flickr的App围观。
 
-<iframe src="https://www.flickr.com/photos/lanternd/sets/72157655789538381/player/" width="1024" height="683" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+------
+
+<div class="flickr-container">
+<iframe src="https://www.flickr.com/photos/lanternd/sets/72157655789538381/player/" width="1200" height="800" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+------
 
 　此次旅行两台相机加起来拍了5500+的相片（大约53 GB）。删掉了一部分，剩下的也都挺好，但是相同的场景尽可能**只挑一张**最好的，所以最后剩下了一百多张。时间倒是有点赶，筛选还不是非常完美，可能以后心血来潮还会往里加。
 
