@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hakuna Matata: Chapter II
+title: Hakuna Matata - Chapter II
 description:  接着上一篇写写我和她开始相处的日子……
 permalink: /hakuna-matata-2/
 categories: [blog, 视·界]
