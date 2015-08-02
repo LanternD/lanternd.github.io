@@ -12,7 +12,7 @@ date: 2015-08-01 21:04:00
 
 ## 抉择
 
-　如上文所述，这把刀是在去年的感恩节买的，下单的时间是November 28, 2014，购买于Amazon。
+　如上文所述，这把刀是在去年的感恩节买的，下单的时间是November 28, 2014，购买于[Amazon](http://www.amazon.com/Global-G-2-inch-Chefs-Knife/dp/B00005OL44/ref=sr_1_1?ie=UTF8&qid=1438485767&sr=8-1&keywords=global+g-2)。
 
 　当时家里的菜刀并不是很好用，而我又不小心误入歧途，点了谢熊猫君一篇[关于菜刀测评的文章](http://zhuanlan.zhihu.com/xiepanda/19629951)，这篇文章是他翻译的，原文在[这里](http://www.cookingforengineers.com/article/129/Chefs-Knives-Rated)。我就是看了这篇文章才动了这念头买菜刀的念头。文章诚实地承认Global G-2这一把菜刀价格是比较高的，不过我一看好像还可以接受，终于在犹豫了一阵之后点了购买。当时的价格是\$76.15。现在的价格涨到了\$90多，贵的时候能到\$110多，那就跟股票一样不稳定。
 
