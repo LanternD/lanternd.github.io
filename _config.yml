@@ -47,3 +47,8 @@ disqus:
 
 duoshuo:
   shortname: dlyang
+
+gems:
+  - jekyll-sitemap
+
+production_url: http://dlyang.me/
