@@ -51,4 +51,5 @@ duoshuo:
 gems:
   - jekyll-sitemap
 
-production_url: http://dlyang.me/
+# for sitemap.txt
+production_url: http://dlyang.me
