@@ -69,7 +69,7 @@ date: 2015-08-01 21:04:00
 
 ![Blade 2](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6314.jpg "刀柄")
 
-　再来个手柄的特写。握着的时候**异常舒服**，不过前提是手上没有水，不然会有一种抓着一块海绵或者占有洗涤剂的感觉。
+　再来个手柄的特写。握着的时候**异常舒服**，不过前提是手上没有水，不然会有一种抓着一块海绵或者粘有洗涤剂的感觉。
 
 ![Cutting Test](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6322.jpg "下刀测试")
 
