@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何优雅地降低视力——在床上看iPad的架子
+title: 【DIY】如何优雅地降低视力——在床上看iPad的架子
 description: 【较多图】这个东西是我两年多前做的，那时候还是大三吧或许。说不上完美，但我自己还挺满意的。
 permalink: /ipad-holder-on-bed/
 categories: [HiTech]
@@ -77,27 +77,27 @@ date: 2015-09-16 23:29:00
 
 　第二步是把横梁先安装好，这样就能保证结构坚固和一体化了。由于所有接口都是一一对上的，所以安装没什么难度，放对孔，上胶水，然后循环。上图是已经安装好的底座。由于是透明的，所以好像都没看出来已经安装完成了……
 
-![Step 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step4.JPG "")
+![Step 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step4.JPG "iPad架")
 
 　开始装iPad架，依旧是老套路，放进去，上胶水，循环。
 
-![Step 4](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step3.JPG "")
+![Step 4](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step3.JPG "iPad架继续组装")
 
 　马上完事了。
 
-![Step 5](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step5.JPG "")
+![Step 5](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step5.JPG "完工")
 
 　一体化程序完成！
 
-![Final 1](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final1.JPG "")
+![Final 1](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final1.JPG "实际使用效果图")
 
 　终于到真身了。所以现在应该对全局有很好的把握了。看起来还不错，自卖自夸一下。
 
-![Final 2](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final2.JPG "")
+![Final 2](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final2.JPG "俯视图")
 
 　这个是躺在床上的角度看iPad的样子。怎么说呢，相机有点变形，实际用起来还是很舒服的。我想知道有什么无级调节角度的方法，现在我也没想出个合适的方案，上面的设计是用档位调节的。
 
-![Final 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final3.JPG "")
+![Final 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final3.JPG "主视图")
 
 　又一个角度。当时的床饰都是固定的备品，一点特色没有。
 
