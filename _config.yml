@@ -6,7 +6,7 @@ kramdown:
   input: GFM
 
 pygments: true
-paginate: 10
+paginate: 15
 permalink: /:title
 
 # For RSS xml
