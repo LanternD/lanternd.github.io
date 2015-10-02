@@ -9,7 +9,7 @@ layout: home
             <li class="on"><a href="/hi-tech"><span>Hi-Tech</span></a></li>
             <li><a href="/viewfinder"><span>取景器</span></a></li>
             <li><a href="/cuisine"><span>料理时</span></a></li>
-            <li><a href="/archive.html"><span>时间线</span></a></li>
+            <li><a href="/archive"><span>时间线</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
