@@ -118,7 +118,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .col4 .aside{
     background-image:url('/img/aside4.jpg');
 }
-
+.col5 .aside{
+    background-image:url('/img/aside2.jpg');
+}
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:10%; ;}
 
 .index-content .artical-list { width:70%; margin:0 auto; }
