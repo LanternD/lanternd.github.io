@@ -134,7 +134,7 @@ id: about
 >  日式城堡-姬路城</center> 
 >  <font size="1">Source: <a href="http://imgarcade.com/1/japanese-castle-drawing/">by candyworx</a></font>
 >  　 
->  　嗯，我的梦想就是以后自己建一座城堡。
+>  　嗯，我的梦想就是以后自己建一座城堡。现在正处于并长期处于YY阶段。
 >  　 
 >  　目前博客由Jekyll驱动，托管在Github，主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些科研上或者DIY的成果技术分享。相册也有，但主要是在文章中添加Flickr的框架，希望没被墙。
 >   　
