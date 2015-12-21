@@ -3,7 +3,7 @@ layout: post
 title: 第一个付费软件，StackEdit
 description: 可能很多人都听过这软件（网页）。除了我为它付费了之外也并没有什么特别的。
 permalink: /stack-edit/
-categories: [Hi-Tech]
+categories: [HiTech]
 tags: [软件, 盗版, 付费, 排版, Markdown]
 date: 2015-11-06 14:37:00
 --- 
