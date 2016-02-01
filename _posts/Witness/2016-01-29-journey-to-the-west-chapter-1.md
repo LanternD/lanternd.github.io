@@ -72,7 +72,7 @@ date: 2016-01-29 12:23:00
 
 　一路上还有很多的观景台。冬天被雪覆盖的山，在阴天的薄雾小雪笼罩下时隐时现。虽然我不是个合格的吃货，但是看起来山群就像绵延层叠的培根片。
 
-![Rocky Mountain National Park](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A5840.jpg)
+![Rocky Mountain National Park](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A5870.jpg)
 
 　Rocky Mountain区域的山岩石也很多样，陡峭的，圆润的，层叠的……它们在雪下也展现出不同的样子。远远看上去有点像蒙牛的「随便」雪糕（请原谅我没有什么其他的比喻了）。景区里的山相对海拔不高，尤其是冬天，谈不上壮阔，但也隐藏有一些婉约的温柔。
 
