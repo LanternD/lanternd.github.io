@@ -3,7 +3,7 @@ layout: post
 title: 玩美国国家公园的正确姿势
 description: 美国的国家公园怎么多，用什么姿势入门比较好呢？
 permalink: /visiting-national-parks-tips/
-categories: [Blog, 视·界]
+categories: [blog, 视·界]
 tags: [美国, 国家公园, 护照, 年票, 建议]
 date: 2016-01-05 13:24:00
 --- 

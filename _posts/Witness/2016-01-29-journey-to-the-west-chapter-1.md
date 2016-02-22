@@ -3,7 +3,7 @@ layout: post
 title: 岁末西游 · 上篇
 description: 这是关于旅途的第一篇游记，计划一共写三篇。大约21图，页面大小12MB左右。长文预警。
 permalink: /journey-to-the-west-chapter-1/
-categories: [Blog, 视·界]
+categories: [blog, 视·界]
 tags: [2015, 自驾, 游记, 横穿美国, 旅游, 国家公园]
 date: 2016-01-29 12:23:00
 --- 

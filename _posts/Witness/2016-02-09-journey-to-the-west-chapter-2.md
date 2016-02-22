@@ -3,7 +3,7 @@ layout: post
 title: 岁末西游 · 中篇
 description: 这是关于寒假旅途的第二篇游记，一共写三篇。本日志大约29图，页面大小16MB左右。长文预警。
 permalink: /journey-to-the-west-chapter-2/
-categories: [Blog, 视·界]
+categories: [blog, 视·界]
 tags: [2015, 自驾, 游记, 横穿美国, 旅游, 国家公园]
 date: 2016-02-09 12:23:34
 --- 

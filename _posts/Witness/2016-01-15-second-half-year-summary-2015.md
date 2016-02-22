@@ -3,7 +3,7 @@ layout: post
 title: 伪2015下半年总结
 description: 上半年的总结已经发过了，现在补上下半年的总结。知道我的「总结」风格的朋友应该对「伪」还是很了解的哈。
 permalink: /second-half-year-summary-2015/
-categories: [Blog, 视·界]
+categories: [blog, 视·界]
 tags: [总结, 2015, 第一次, 记录, 时间线]
 date: 2016-01-15 12:23:00
 --- 

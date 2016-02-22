@@ -3,7 +3,7 @@ layout: post
 title: 盘点人生中那些没有被我避开的游戏
 description: 细数一下曾经玩过的游戏。100+款也不是闹着玩的了……「盘点」是游戏门户网站的高频词汇，在这里用来应景一下。
 permalink: /played-game-log/
-categories: [Blog, 视·界]
+categories: [blog, 视·界]
 tags: [游戏, 年份, 统计]
 date: 2015-12-12 22:52:00
 --- 
