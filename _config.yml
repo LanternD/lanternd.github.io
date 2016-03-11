@@ -3,7 +3,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-highlighter: pygments
+highlighter: rouge
 paginate: 15
 permalink: /:title
 
