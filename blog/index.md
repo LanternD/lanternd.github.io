@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /event-horizon/
 ---
 
 <div class="index-content col5">
