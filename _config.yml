@@ -1,11 +1,9 @@
-auto: true
-
 markdown: kramdown
 
 kramdown:
   input: GFM
 
-pygments: true
+highlighter: pygments
 paginate: 15
 permalink: /:title
 
@@ -50,6 +48,7 @@ duoshuo:
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 # for sitemap.txt
 production_url: http://dlyang.me
