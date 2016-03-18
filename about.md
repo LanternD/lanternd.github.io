@@ -86,6 +86,19 @@ id: about
 
 – 
 
+<strong><font size="5">Pages</font></strong>
+
+> 这里存放一些不定期更新的页面，独立于日志存在。或许能从里面挖掘到我的不同的状态和特点。
+> 　<br> <br> 
+> 《[已玩过的游戏列表](/played-games/)》
+> 　<br> <br> 
+> 《[硬件及装备推荐页](/stuff-recommendation/)》
+> 　<br> <br> 
+> 《[软件及服务推荐页](/software-recommendation/)》
+> 　<br> <br> 
+> 《[Y](/y/)》
+
+
 <strong><font size="5">SNS &amp; Contact</font></strong>
 
 >  <p class="about-icon">
