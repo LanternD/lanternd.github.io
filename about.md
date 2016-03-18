@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于
-date: 2014-12-12 12:12:12 +0500
 permalink: /about/
 id: about
 ---
@@ -40,7 +39,7 @@ id: about
 > 　<br> <br> 
 >  [喵星人](/hakuna-matata/)观察员，不定期进行全方位无死角观察。 
 > 　<br> <br> 
->  拾获[扫描仪](/scanner-found)一台，长期进行对各种东西和地点进行test。
+>  拾获[扫描仪](/scanner-found/)一台，长期进行对各种东西和地点进行test。
 > 　<br> <br> 
 >  打多羽毛球，导致身体左右不对称，目前在努力挽回。 
 > 　<br> <br> 
@@ -88,7 +87,7 @@ id: about
 
 <strong><font size="5">Pages</font></strong>
 
-> 这里存放一些不定期更新的页面，独立于日志存在。或许能从里面挖掘到我的不同的状态和特点。
+> 　这里存放一些不定期更新的页面，独立于日志存在。或许能从里面挖掘到我的不同的状态和特点。
 > 　<br> <br> 
 > 《[已玩过的游戏列表](/played-games/)》
 > 　<br> <br> 
@@ -96,8 +95,8 @@ id: about
 > 　<br> <br> 
 > 《[软件及服务推荐页](/software-recommendation/)》
 > 　<br> <br> 
-> 《[Y](/y/)》
 
+-
 
 <strong><font size="5">SNS &amp; Contact</font></strong>
 
@@ -159,7 +158,7 @@ id: about
 > 
 >  　嗯，我的梦想就是以后自己建一座城堡。现在正处于并长期处于YY阶段。
 > <br><br>
->  　目前博客由Jekyll驱动，托管在Github，主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些科研上或者DIY的成果技术分享。相册也有，但主要是在文章中添加Flickr的框架，希望没被墙。
+>  　目前博客由Jekyll驱动，托管在Github。主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些科研上或者DIY的成果技术分享。相册也有，但主要是在文章中嵌入Flickr的框架，希望没被墙。
 > <br><br>
 >  　虽然没有期待会被转载但是也在此说明一下：**文章可以自由转载，但请注明该页面的链接，同时加上我的ID，「LanternD」**，谢谢。
 
@@ -194,13 +193,19 @@ id: about
 > <br><br>
 >  2014.12.18. 更换为<a href="http://BeiYuu.com">BeiYuu</a>的主题，简单的黑白灰风格，同时进行了一些[改动](https://github.com/LanternD/lanternd.github.io/blob/master/README.md)
 > <br><br>
->  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅[注: 移动端看不到侧边栏的话可以点这的链接订阅]
+>  2015.04.02. 添加了[RSS]({{site.url}}rss.xml)功能，方便订阅 [注: 移动端看不到侧边栏的话可以点这的链接订阅]
 > <br><br>
 >  2015.05.01  已重新启用英文站，为了省事，英文Blog直接用[Tumblr](http://lanternd.tumblr.com/)来写了，域名依旧是[en.dlyang.me](http://en.dlyang.me)。仅用来作为副业练习英文写作，并没有什么特别值得关注的内容
 > <br><br>
 >  2015.06.13. 添加了显示评论数的功能
+> <br><br>
+>  2015.12.12. 添加了《[已玩过的游戏列表](/played-games/)》页面
+> <br><br>
+>  2016.03.17. 添加了《[硬件及装备推荐页](/stuff-recommendation/)》和《[软件及服务推荐页](/software-recommendation/)》两个页面
 
-Last Update: 2016.03.11
+-
+
+"About" Last Update: 2016.03.18
 
 ---
 
