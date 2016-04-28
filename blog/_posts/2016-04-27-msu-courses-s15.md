@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MSU的课程体系 (2): Spring 2015
+title: MSU的课程体系 (2)：Spring 2015
 description: 翻以前的日志列表发现有这么个系列，想起来已经好久没更新过了，回忆往事更新一篇。
 permalink: /msu-courses-s15/
 categories: [blog, 视·界]
