@@ -20,7 +20,7 @@ date: 2016-05-26 12:23:34
 
 　材料列表其实很容易弄到，对F1签证来说就不用相信网上那些长篇大论了。就是确认要递签以后去网银或者中信银行ATM交钱，然后得到收据，之后登录网站之后他会自动识别出你的收据号，不需要自己一个个往里输入。
 
-　最后一步，平时生成「面签确认信」的那个地方现在会变成「文件提交信（Drop Box Confirmation Letter）」。
+　最后一步，平时生成「面签确认信」的那个地方现在会变成「文件提交信（Drop Box Confirmation Letter）」，这个文件上很详细地写了你要提交的材料列表，基本按照上面的弄就行了，不用额外弄什么别的东西。
 
 　弄这个的时候我已经在中信银行（珠江新城支行）了（地址：广州市金穗路32号）。结果发现东西需要打印，后来问了工作人员，然后又自己找了找，最后在「汇美大厦」背面发现了一家打印店，叫「天意快印」，丫的一张纸要一块钱。
 
@@ -141,24 +141,24 @@ Status Updated Date:17-May-2016）你的护照仍然于领事馆中
 
 （M：Me，V：VO）
 
-M: Good Morning.
-V:  Hold a second. I'll be ready soon.
-M: OK.
-(30 seconds later)
-V: Hi.
-M: Hi. I tried to apply for my F1 visa via drop off service, however I received a 221(g) notice. And I bring all the required documents here today.
-（VO继续面无表情，我交材料）
-V: What's your research field?
-M: It's about embedded system, in Electrical Engineering.
-(10 seconds later)
-V: Are you still in the same program?
-M: Yep.
-(20 seconds later)
-V: Are you still doing the same research as before?
-M: Yep.
-(30 seconds, 从右侧文件夹抽出绿纸——又一张221(g))
-V: Your application needs some more time to process. But it would be quicker this time. 
-M: OK. Thank you. 
+M: Good Morning.<br>
+V:  Hold a second. I'll be ready soon.<br>
+M: OK.<br>
+(30 seconds later)<br>
+V: Hi.<br>
+M: Hi. I tried to apply for my F1 visa via drop off service, however I received a 221(g) notice. And I bring all the<br> required documents here today.<br>
+（VO继续面无表情，我交材料）<br>
+V: What's your research field?<br>
+M: It's about embedded system, in Electrical Engineering.<br>
+(10 seconds later)<br>
+V: Are you still in the same program?<br>
+M: Yep.<br>
+(20 seconds later)<br>
+V: Are you still doing the same research as before?<br>
+M: Yep.<br>
+(30 seconds, 从右侧文件夹抽出绿纸——又一张221(g))<br>
+V: Your application needs some more time to process. But it would be quicker this time. <br>
+M: OK. Thank you. <br>
 
 　后来他一直面无表情，也不和我说「Thank you」或者「Good Bye」，感觉思绪还在上一个老奶奶身上。
 
