@@ -24,6 +24,8 @@ date: 2016-01-05 13:24:00
 
 　如果凭我浅薄的经验来看，国家公园应该怎么玩更有意思呢？两条入门级别的建议就是**Annual Pass和Passport**。
 
+![Passport collection](http://lanternd.qiniudn.com/Pic4Post/visiting-national-parks-tips/collection.jpg "Passport collection")
+
 ## Annual Pass
 
 　第一次知道Annual Pass是从以前室友Weida那里听来的。简而言之，Annual Pass就是一年之内都能使用的**国家公园年票**。
