@@ -14,7 +14,7 @@ date: 2016-08-21 21:21:00
 
 　Cincinnati则是相反的画面，街上人很少，有一种奇特的宁静的气氛。整个城市难得听到噪音。出乎我意料的是[许多大公司的总部](https://en.wikipedia.org/wiki/List_of_companies_in_Greater_Cincinnati)也都在Cincinnati。例如宝洁（P&G）、Macy's、Kroger。
 
-　也可以点进Flickr网页版或者在手机上用Flickr的App围观。（注：可能需要翻墙）
+　也可以点进Flickr网页版或者在手机上用Flickr的App围观。（注：可能需要翻墙，可以通过[改Host实现](https://laod.org/hosts/2016-google-hosts.html)）
 
 ------
 
