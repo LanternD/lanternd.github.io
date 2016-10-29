@@ -128,7 +128,18 @@ date: 2016-10-27 13:23:34
 > 
 > Step 3: Depending on the conditions of the present organ's installation, you may wish to consider hiring an insured professional to remove the organ in order to protect the building and its furnishings, as well as anyone who might be injured in the process. Please feel free to include a summary of your situation in the Message section on the APOBA Contact page and check with your local APOBA builder for advice. There may be a small consultation fee involved, but it is imperative that an organ be properly removed for preservation. Occasionally an organ is removed in exchange for the cost of removal; this ensures its preservation and prevents the harmful portions of the organ (lead and tin) from being improperly disposed.
 
-太长了明天接着翻译。
+在某些时候教堂需要卖掉里面的管风琴。我们初步的建议是，如果教堂里有空间，那就不要卖掉它。即使没有近期使用的想法也要保留并维护好管风琴，有一天大伙做礼拜的时候还会希望管风琴回来的。管风琴启示教众的功能是喇叭产生的电子音效不能比肩的。那些传统教堂礼拜里的吉他和鼓也不行。更进一步说，日渐上涨的管风琴建造费用会让未来做买新琴的决定更加纠结。好的管理层通常都会仔细斟酌之前人们的投资。
+
+也就是说，你面临的第一重困难是给管风琴定个合适的价值（不是价格）。管风琴的制造者，大小，发音设计，地点（安装难度）以及键操作难度变化范围很广，给定价造成很大难度。而且你必须很清楚了解市场价值、保险值、折余价值这三者的区别。你还要了解购买者的意向，他们可能需要对管风琴进行重新设计、配置和调音，以和你们的礼拜情况、物理空间和声学特性相匹配。总而言之，这一步你需要一家管风琴建造公司。最好你现在的管风琴提供商会帮忙，不然的话考虑APOBA的成员公司也是不错的选择。
+
+第二步：考虑为卖管风琴做广告的财政预算。我们建议上网联系教堂管风琴中介机构。他们经营各种和管风琴有关的买卖。我们还建议在《美国管风琴家》和《调音》杂志上发布分类广告。网络广告当然也可以。
+
+第三步：根据目前管风琴的安装状况，你可能需要雇一位有担保的专家来保证不影响建筑及其装修的前提下拆卸管风琴，也要保证施工中的人身安全。可以把管风琴状况报告提交一份给APOBA，这可能要一点咨询费，但是对管风琴本身好处是大大滴。甚至有的时候管风琴的移除都要用来抵消移除的成本，这也是为了保证保藏的需要，同时避免环境有害的物质扩散，如铅和锡等（注：为了保证环境和管风琴本身的良好，需要一些移除费和保护费，如果这个超过了管风琴本身的价值，卖掉管风琴可能并没有收益，我猜的）。
+
+## 多说几句
+
+可以看到，管风琴似乎出现的地点都是以教堂为主，而且都有很浓厚的宗教色彩，尤其是基督教。但是管风琴在很多音乐厅也是可以见到的（有可能是专门用来演奏宗教曲目）。我本身是不信宗教的，只是对其音乐效果感到震撼，所以还在想以后有没有办法给家里搞一台小型的，嗯哼，反正[二手的价格](http://organ.wicks.com/organs/)也没有上面说的那么夸张。再给力一点的话，我可能还会自己做一台，啊哈。
+
 
 ## 扩展阅读
 
