@@ -72,7 +72,7 @@ date: 2016-10-23 13:23:34
 ### Darkness Falls
 
 - 2003
-- IMDb: /10
+- IMDb: 4.9/10
 - Thriller
 - ![](https://upload.wikimedia.org/wikipedia/en/0/0d/Darkness_Falls_movie.jpg)
 
