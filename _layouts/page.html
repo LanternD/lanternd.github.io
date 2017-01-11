@@ -40,9 +40,11 @@ layout: default
 
     <div class="sidenav">
         <h2>近况·有善可陈</h2>
+        <ul class="artical-list">
         {% for post in site.posts limit:15 %}
                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
+        </ul>
     </div>
 
 </div>
