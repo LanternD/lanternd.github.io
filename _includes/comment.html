@@ -2,24 +2,21 @@
 
 <script type="text/javascript">
 function toggleLiveReComments(container){
-    if(jQuery(container).has("div").length>0){
-        jQuery(container).empty();
+    if(jQuery(container).has("iframe").length>0){
+        var iframe_id = $(container+" iframe").attr("id");
+        jQuery(container+" iframe#"+iframe_id).toggle();
         return;
     }
+    var j, e = document.getElementsByTagName('script')[0];
+    
+    // if (typeof LivereTower === 'function') {return; }
 
-	<div >
-    (function(d, s) {
+    j = document.createElement('script');
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
 
-	      	var j, e = d.getElementsByTagName(s)[0];
+    e.parentNode.insertBefore(j, e);
 
-	        if (typeof LivereTower === 'function') { return; }
-
-	        j = d.createElement(s);
-	        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-	        j.async = true;
-
-	        e.parentNode.insertBefore(j, e);
-	    })(document, 'script');
 }
 </script>
 <!-- LiveRe的js代码 End-->
@@ -32,8 +29,10 @@ function toggleLiveReComments(container){
     var disqus_shortname = 'lanternd'; // required: replace example with your forum shortname
 
 function toggleDisqusComments(container){
-    if(jQuery(container).has("div").length>0){
-        jQuery(container).empty();
+    if(jQuery(container).has("iframe").length>0){
+        // jQuery(container).empty();
+        var iframe_id = $(container+" iframe").attr("id");
+        jQuery(container+" iframe#"+iframe_id).toggle();
         return;
     }
     var disqus_shortname = '{{ site.disqus.shortname }}';
@@ -66,25 +65,15 @@ function toggleDisqusComments(container){
 <!-- 以下是评论框架，放置在评论需要展示的地方 -->
 
 <br>
-<div id="lv-container" data-id="city" data-uid="MTAyMC8yODcxNi81Mjg3">
-    <!-- <div>
-    	<a href="#comment-duoshuo" class="comment" onclick="toggleDuoshuoComments('#comment-box-duoshuo');">
-    		查看<strong>多说</strong>评论
-    	</a><span class="comment-count">（<span class="ds-thread-count" data-thread-key="{{page.id | remove:'/'}}" data-count-type="comments"></span>）</span>
+<div id="livere_container">
+
+    <div id="lv-container" data-id="city" data-uid="MTAyMC8yODcxNi81Mjg3"><!-- 换成自己的UID -->
+    <a href="#comment-livere" class="comment" onclick="toggleLiveReComments('#lv-container');">
+        查看<strong>LiveRe</strong>评论</a>
+    <!-- <div id="lv-container"></div> -->
     </div>
-
-    <div id="comment-box-duoshuo" ></div> -->
-    <!-- LiveRe City install code -->
-
-    <div>
-    	<a href="#comment-livere" class="comment" onclick="toggleDuoshuoComments('#comment-box-livere');">
-    		查看<strong>LiveRe</strong>评论
-    	</a>
-    </div>
-
 
 </div>
-	<!-- completed City install code -->
 
 <div id="disqus_container">
     <div style="margin-bottom:20px" class="right"></div>
