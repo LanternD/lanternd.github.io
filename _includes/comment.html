@@ -9,8 +9,6 @@ function toggleLiveReComments(container){
     }
     var j, e = document.getElementsByTagName('script')[0];
     
-    // if (typeof LivereTower === 'function') {return; }
-
     j = document.createElement('script');
     j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
     j.async = true;
@@ -38,7 +36,7 @@ function toggleDisqusComments(container){
     var disqus_shortname = '{{ site.disqus.shortname }}';
     var disqus_identifier = '{{page.id | remove:'/'}}';
     var disqus_title = '{{page.title}}';
-    var disqus_url = 'http://dlyang.me{{page.url}}';
+    var disqus_url = 'http://dlyang.me{{page.id | remove:'/'}}';
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
@@ -59,7 +57,6 @@ function toggleDisqusComments(container){
     }());
 </script>
 
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <!-- Disqus的js代码 End-->  
 
 <!-- 以下是评论框架，放置在评论需要展示的地方 -->
@@ -72,7 +69,6 @@ function toggleDisqusComments(container){
         查看<strong>LiveRe</strong>评论</a>
     <!-- <div id="lv-container"></div> -->
     </div>
-
 </div>
 
 <div id="disqus_container">
