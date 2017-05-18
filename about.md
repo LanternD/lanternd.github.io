@@ -39,7 +39,7 @@ id: about
 > 　<br> <br> 
 >  [喵星人](/hakuna-matata/)观察员，不定期进行全方位无死角观察。 
 > 　<br> <br> 
->  拾获[扫描仪](/scanner-found/)一台，长期进行对各种东西和地点进行test。
+>  拾获[扫描仪](/scanner-found/)一台，长期与其进行对各种东西和地点的test。
 > 　<br> <br> 
 >  打多羽毛球，导致身体左右不对称，目前在努力挽回。 
 > 　<br> <br> 
@@ -55,7 +55,7 @@ id: about
 > 　<br> <br> 
 >  现在在打Paper怪升级，学海无涯不影响我攒经验和升级装备。 
 > 　<br> <br> 
->  坚持[Instagram](http://instagram.com/lantern_d/)每日一图，实际完成度差强人意。 
+>  坚持[Instagram](https://instagram.com/lantern_d/)每*三*日一图，实际完成度差强人意。 
 > 　<br> <br> 
 >  永远对生活报以热情，因为它会像镜子一样，把热再返回来。　
 > 　<br> <br> 
@@ -73,7 +73,7 @@ id: about
 >  <br>
 >  Department of Electrical and Computer Engineering 
 >  <br>
->  @ Michigan State University (<a href="http://www.msu.edu">MSU</a>) 
+>  @ Michigan State University (<a href="https://www.msu.edu">MSU</a>) 
 >  <br>
 >  East Lansing, MI, USA, 48824
 >  
@@ -208,10 +208,13 @@ id: about
 >  2015.12.12. 添加了《[已玩过的游戏列表](/played-games/)》页面
 > <br><br>
 >  2016.03.17. 添加了《[硬件及装备推荐页](/stuff-recommendation/)》和《[软件及服务推荐页](/software-recommendation/)》两个页面
-
+> <br><br>
+>  2016.05.17. 因多说（Duoshuo）停止运营，将评论系统改为LiveRe，配合原有的Disqus一起使用；修改了评论系统加载的JS代码
+> <br><br>
+>  2016.05.18. 将英文站从[Tumblr](http://lanternd.tumblr.com/)迁出，放在Netlify，网址不变；内容主要为和科研学习相关的东西
 -
 
-"About" Last Update: 2016.03.18
+"About" Last Update: 2017.05.18
 
 ---
 
