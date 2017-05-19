@@ -23,25 +23,36 @@ function toggleLiveReComments(container){
 <!-- Disqus的js代码 Start-->
 
 <script type="text/javascript">
+    function toggleDisqusComments(container){
+        if(jQuery(container).has("iframe").length>0){
+            var iframe_id = $(container+" iframe").attr("id");
+            jQuery(container+" iframe#"+iframe_id).toggle();
+            return;
+        }
 
-    var disqus_shortname = 'lanternd'; // required: replace example with your forum shortname
+        var disqus_config = function () {
+            this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}';  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = '{{page.id | remove:'/' }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
 
-function toggleDisqusComments(container){
-    if(jQuery(container).has("iframe").length>0){
-        // jQuery(container).empty();
-        var iframe_id = $(container+" iframe").attr("id");
-        jQuery(container+" iframe#"+iframe_id).toggle();
-        return;
+        var d = document, s = d.createElement('script');
+        s.src = 'https://' + '{{ site.disqus.shortname }}' + '.disqus.com/embed.js';
+        s.async = true;
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        
+
+        // var disqus_shortname = '{{ site.disqus.shortname }}';
+        // var disqus_identifier = '{{page.id | remove:'/'}}';
+        // var disqus_title = '{{page.title}}';
+        // var disqus_url = 'https://dlyang.me{{page.id | remove:'/'}}';
+        // var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        // dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        // (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }
-    var disqus_shortname = '{{ site.disqus.shortname }}';
-    var disqus_identifier = '{{page.id | remove:'/'}}';
-    var disqus_title = '{{page.title}}';
-    var disqus_url = 'http://dlyang.me{{page.id | remove:'/'}}';
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-}
 </script>
+
+
 <!-- 以下代码用于获取Disqus的评论条数 -->
 
 <script type="text/javascript">
@@ -52,7 +63,7 @@ function toggleDisqusComments(container){
     (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>
