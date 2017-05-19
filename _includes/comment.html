@@ -94,7 +94,7 @@ function toggleLiveReComments(container){
 <div id="disqus_container">
     <div style="margin-bottom:20px" class="right"></div>
 
-        <a href="{{ site.url }}{{page.id | remove:'/'}}/#comment_disqus" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
+        <a rel="canonical" href="{{ page.url }}#comment_disqus" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
             查看<strong>Disqus</strong>评论
         </a><span class="comment-count">（<a href="https://dlyang.me{{page.url}}#disqus_thread" style="font-size:18px;">0</a>）</span>
 
