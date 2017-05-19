@@ -16,7 +16,7 @@ id: tags
 
 <ul class="listing" style="list-style-type:none;margin-left:7%;margin-top:20px;">
   {% for tag in site.tags reversed%}
-    <li class="listing-seperator" style="list-style-type:none;" id="{{ tag[0] }}">{{ tag[0] }}</li>
+    <li class="listing-seperator" style="list-style-type:none;" id="{{ tag[0] }}">#{{ tag[0] }}</li>
       {% for post in tag[1] %}
         <li class="listing-item" style="list-style-type:none;">
         <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>

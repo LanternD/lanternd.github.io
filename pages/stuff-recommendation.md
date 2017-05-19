@@ -15,6 +15,8 @@ id: stuff-recommendation
 
 - 数位板：[Wacom Intuos Tablet (Medium)](https://www.wacom.com/en-us/store/pen-tablets/intuos-art-black-medium)
 - NAS：[Synology DS216j](http://a.co/jc7u0rh)
+- NAS硬盘：[Westen Digital Red 4TB NAS-HDD, 5400 RPM, 64MB Cache](http://a.co/1tP6TtO)
+- Chromebook：[Acer Chromebook 14](http://a.co/gWMvsoY)
 
 ### 摄影器材
 
@@ -29,11 +31,13 @@ id: stuff-recommendation
 - 美工刀：[OLFA AK-4](http://www.olfa.com/cushion-grip-knife-%28ak-4%29/9164.html)
 - 工具刀：[OLFA 5019 SVR-2](http://www.olfa.com/stainless-steel-body-auto-lock-utility-knife-with-blade-snapper-%28svr-2%29/5019.html)
 - 台钳：[Wilton 11104 Bench Vise](http://a.co/9dlypx9)
+- 木刻刀：[Power Grip Carving Tools](http://a.co/4QTcXQc)
 
 ### 家居
 
-- 主厨刀：[Global（具良治） G-2](http://global-knife.com/products/global_g/)
+- 主厨刀：[Global（具良治） G-2](http://global-knife.com/products/global_g/)，开箱文：[切菜的享受——Global G-2开箱](/global-g-2-unboxing/)
 - 理发配件：[伞状斗篷](http://amzn.com/B00PDCAT8S)
+- 滤水器：[Brita Standard Replacement Water Filter](http://a.co/9qGWfgL)
 
 ### 运动用品
 
@@ -43,6 +47,7 @@ id: stuff-recommendation
 
 - 钢笔：[Lamy Safari](http://www.lamyusa.com/lamy_fountain_L14_safari.php)
 - 黑色墨水：[Noodler's Ink Bulletproof Black](http://www.pentorium.com/2013/03/09/ink-review-noodlers-bulletproof-black/)
+- iPad手写笔：[MEKO 2-in-1 Disc Stylus](http://a.co/1zAniOW)
 
 ### 电工电子
 
@@ -54,3 +59,7 @@ id: stuff-recommendation
 
 - 吉他：[Yamaha FS830](http://a.co/0SAQbbn)
 - 电钢琴：[Yamaha P45](http://a.co/dKxNdjb)
+
+### 宠物用品
+
+- 猫胃中残留毛发去除：[Tomlyn Laxatone in Tuna for Hairball Relief](http://a.co/8NoyxHx)
