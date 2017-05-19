@@ -225,4 +225,24 @@ $(document).ready(function(){
           $('html, body').animate({ scrollTop: 0 }, 500);
     });
 
+    window.disqus_shortname = 'lanternd'; // required: replace example with your forum shortname
+    $('#disqus_container .comment').on('click',function(){
+        if($('#disqus_container').has("iframe").length>0){
+            var iframe_id = $("#disqus_container iframe").attr("id");
+            jQuery("#disqus_container iframe#"+iframe_id).slideToggle();
+            return;
+        }
+                var disqus_config = function () {
+                    this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}';  // Replace PAGE_URL with your page's canonical URL variable
+                    this.page.identifier = '{{ page.id | remove:'/' }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                };
+                (function() { // DON'T EDIT BELOW THIS LINE
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://lanternd.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();        
+    });
+
 });
+
