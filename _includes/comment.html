@@ -30,10 +30,11 @@ function toggleLiveReComments(container){
             return;
         }
 
-        // var disqus_config = function () {
-        //     this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}';  // Replace PAGE_URL with your page's canonical URL variable
-        //     this.page.identifier = '{{page.id | remove:'/' }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-        // };
+        // window.location = window.location.href.split(/[?#]/)[0] + '#comment-disqus'
+        var disqus_config = function () {
+            this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}';  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = '{{page.id | remove:'/' }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
 
         // var d = document, s = d.createElement('script');
         // s.src = 'https://' + '{{ site.disqus.shortname }}' + '.disqus.com/embed.js';
@@ -41,13 +42,22 @@ function toggleLiveReComments(container){
         // s.setAttribute('data-timestamp', +new Date());
         // (d.head || d.body).appendChild(s);
         
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://lanternd.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
 
-        var disqus_identifier = '{{page.id | remove:'/'}}';
-        var disqus_title = '{{page.title}}';
-        var disqus_url = '{{ site.url }}{{page.id | remove:'/'}}';
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'https://' + '{{ site.disqus.shortname }}' + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        // alert(window.location.href);
+        // var page_url = window.location.href.split(/[?#]/)[0] + '#comment-disqus';
+        // alert(page_url);
+        // var disqus_identifier = '{{page.id | remove:'/'}}';
+        // var disqus_title = '{{page.title}}';
+        // var disqus_url = '{{ site.url }}{{ page.id | remove:'/' }}/';
+        // var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        // dsq.src = 'https://' + '{{ site.disqus.shortname }}' + '.disqus.com/embed.js';
+        // (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     }
 </script>
 
@@ -84,9 +94,26 @@ function toggleLiveReComments(container){
 <div id="disqus_container">
     <div style="margin-bottom:20px" class="right"></div>
 
-        <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
+        <a href="{{ site.url }}{{page.id | remove:'/'}}/#comment_disqus" class="comment" onclick="toggleDisqusComments('#disqus_thread');">
             查看<strong>Disqus</strong>评论
         </a><span class="comment-count">（<a href="https://dlyang.me{{page.url}}#disqus_thread" style="font-size:18px;">0</a>）</span>
 
     <div id="disqus_thread"></div>
+
+<!--     <div id="disqus_thread"></div>
+<script>
+
+
+var disqus_config = function () {
+this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';  
+this.page.identifier = '{{page.id | remove:'/'}}'; 
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://lanternd.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script> -->
 </div>
