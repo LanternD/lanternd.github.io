@@ -243,7 +243,7 @@ id: about
 > 
 > 2017.05.18. 将英文站从[Tumblr](http://lanternd.tumblr.com/)迁出，放在[Netlify](https://www.netliy.com)，[网址](https://en.dlyang.me)不变；内容主要为和科研学习相关的东西
 > 
-> 2017.05.19. 修复了Disqus评论数不准确以及链接带有Get、Post请求时Disqus异步加载无法正常显示评论的Bug
+> 2017.05.19. 修复了Disqus评论数不准确以及链接带有Get、Post请求时Disqus异步加载无法正常显示评论的Bug；在此感谢[Lattespirit](https://www.lattespirit.com/)在近段时间以来的帮助
 
 </div>
 

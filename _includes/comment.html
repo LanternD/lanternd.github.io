@@ -36,12 +36,6 @@
             jQuery(container+" iframe#"+iframe_id).toggle();
             return;
         }
-
-        var disqus_config = function () {
-            this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}';  
-            this.page.identifier = '{{page.id | remove:'/' }}';
-        };
-
         
         (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
