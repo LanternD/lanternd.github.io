@@ -1,0 +1,23 @@
+
+<form  class="form-horizontal">
+  <div class="input-group" id="search-container">
+
+    <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+    <input type="text" class="form-control" id="search-input" placeholder="寻声暗问弹者谁，琵琶声停欲语迟">    
+  </div>
+  <div class="list-group"><ul id="results-container"></ul></div>
+</form>
+
+
+
+<script src="/node_modules/simple-jekyll-search/dest/jekyll-search-bundle.js" type="text/javascript"></script>
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<li class="list-group-item" style="padding: 5px 5px"><span>{date}</span> <a href="{{ site.url }}{url}">{title}</a></li>',
+  fuzzy: true,
+  limit: 10
+})
+</script>

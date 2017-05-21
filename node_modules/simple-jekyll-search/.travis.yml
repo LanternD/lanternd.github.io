@@ -1,0 +1,12 @@
+language: node_js
+sudo: false
+node_js:
+- '0.11'
+- '0.12'
+script:
+- npm run build
+deploy:
+  provider: npm
+  email: crifei93@gmail.com
+  api_key:
+    secure: JQwJYppw11Gmu6Pcp5Pcl1HAX4S6g4ib/voLFI4IT9n1KRhzjXR03UufU61T7wybRAkTg2IfUi/T7IFB7Ey8c3U7jqK1LZBuGMMYGNgygzwClGaLrKlKshKnFGYRfB6UOHBV5zFGB0mtDxtiZohtdT9d/jWom6V4DpvAFUjwS0Y=

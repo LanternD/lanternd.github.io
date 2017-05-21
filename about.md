@@ -5,7 +5,7 @@ permalink: /about/
 id: about
 ---
 
-<strong><font size="5">我？</font></strong>
+<h2 class="about-title">我？</h2>
 
 <div id="bq-about" markdown="1">
 
@@ -58,7 +58,7 @@ id: about
 > 
 > 现在在打Paper怪升级，学海无涯不影响我攒经验和升级装备。 
 > 
-> 坚持[Instagram](https://instagram.com/lantern_d/)每*三*日一图，实际完成度差强人意。 
+> 坚持[Instagram](https://instagram.com/lantern_d/)每**三**日一图，实际完成度差强人意。 
 > 
 > 永远对生活报以热情，因为它会像镜子一样，把热再返回来。　
 > 
@@ -69,7 +69,7 @@ id: about
 
 – 
 
-<strong><font size="5">Education</font></strong>
+<h2 class="about-title">Education</h2>
 
 <div id="bq-about-edu" markdown="1">
 
@@ -101,7 +101,7 @@ id: about
 
 – 
 
-<strong><font size="5">Pages</font></strong>
+<h2 class="about-title">Pages</h2>
 
 <div id="bq-about" markdown="1">
 
@@ -119,7 +119,7 @@ id: about
 
 -
 
-<strong><font size="5">SNS &amp; Contact</font></strong>
+<h2 class="about-title">SNS &amp; Contact</h2>
 
 <div id="bq-about" markdown="1">
 
@@ -165,7 +165,7 @@ id: about
 
 – 
 
-<strong><font size="5">博客及其名字</font></strong>
+<h2 class="about-title">博客及其名字</h2>
 
 <div id="bq-about" markdown="1">
 
@@ -196,9 +196,9 @@ id: about
 
 </div>
 
-– 
+–
 
-<strong><font size="5">博客时间线</font></strong>
+<h2 class="about-title">博客时间线</h2>
 
 <div id="bq-about" markdown="1">
 
@@ -239,9 +239,11 @@ id: about
 > 
 > 2016.03.17. 添加了《[硬件及装备推荐页](/stuff-recommendation/)》和《[软件及服务推荐页](/software-recommendation/)》两个页面
 > 
-> 2017.05.17. 因多说（Duoshuo）停止运营，将评论系统改为LiveRe，配合原有的Disqus一起使用；修改了评论系统加载的JS代码
+> 2016.12.10. 在Cloudfare启用Flexible SSL，Blog进入「伪Https」模式
 > 
-> 2017.05.18. 将英文站从[Tumblr](http://lanternd.tumblr.com/)迁出，放在[Netlify](https://www.netliy.com)，[网址](https://en.dlyang.me)不变；内容主要为和科研学习相关的东西
+> 2017.05.17. 因多说（Duoshuo）停止运营，将评论系统改为LiveRe，配合原有的Disqus一起使用；修改了加载评论系统的JS代码
+> 
+> 2017.05.18. 将英文站从[Tumblr](http://lanternd.tumblr.com/)迁出，放在[Netlify](https://www.netliy.com)，[网址](https://en.dlyang.me)不变；内容主要为和科研、学习相关的东西
 > 
 > 2017.05.19. 修复了Disqus评论数不准确以及链接带有Get、Post请求时Disqus异步加载无法正常显示评论的Bug；在此感谢[Lattespirit](https://www.lattespirit.com/)在近段时间以来的帮助
 
@@ -249,16 +251,15 @@ id: about
 
 -
 
-"About" Last Update: 2017.05.19
+「About」页面最后更新: 2017.05.19
 
 ---
 
->  <strong>LanternD</strong>  
->  <img align="left" src="/img/LanternD_Logo.png" style="margin-bottom:10px;" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature">
+> <strong>LanternD</strong>  
+> <img align="left" src="/img/LanternD_Logo.png" style="margin-bottom:10px;" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature">
 > <br>
 > <br>　
 
 <hr>
 　如果想**留言**可以[点这里](/guestbook/)到Guestbook页面进行评论。 ：）
 
-<script src="/js/post.js" type="text/javascript"></script>

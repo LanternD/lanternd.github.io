@@ -1,15 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    {% include header.html %}
+{% include header.html %}
 </head>
 <body>
 
-    {% include homemenu.html %}
+{% include homemenu.html %}
 
-    {{ content }}
+{{ content }}
 
-    {% include footer.html %}
-    
+{% include footer.html %}
+
+<!-- Back to top button -->
+
+
+
+<div class="back-top" title="返回顶部">
+  <button class="btn btn-primary" style="color:#0e0e0e">
+    <i class="fa fa-lg fa-chevron-up" style="color:#0e0e0e"></i>
+  </button>
+</div>
+
+<script src="/js/post.js" type="text/javascript"></script>
+
 </body>
 </html>

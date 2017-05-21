@@ -30,30 +30,22 @@ id: tags
 <script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
 
 <script language="javascript">
-    $.fn.tagcloud.defaults = {
-        size: {start: 14, end: 42, unit: 'px'},
-        color: {start: '#ACE6E6', end: '#226666'}
-    };
-    $(function () {
-    var recentColor, recentSize;
-        $('#tag_cloud a')
-            .tagcloud()
-            .mouseover(function(){
-                var thiz = $(this);
-                recentColor = thiz.css('color');
-                //recentSize = thiz.css('font-size');
-                thiz.css({'color': '#226666'});
-            })
-            .mouseout(function(){
-                $(this).css({'color': recentColor});
-            });
-    });
+  $.fn.tagcloud.defaults = {
+      size: {start: 14, end: 42, unit: 'px'},
+      color: {start: '#ACE6E6', end: '#226666'}
+  };
+  $(function () {
+  var recentColor, recentSize;
+    $('#tag_cloud a')
+      .tagcloud()
+      .mouseover(function(){
+        var thiz = $(this);
+        recentColor = thiz.css('color');
+        //recentSize = thiz.css('font-size');
+        thiz.css({'color': '#226666'});
+      })
+      .mouseout(function(){
+        $(this).css({'color': recentColor});
+      });
+  }); 
 </script>
-
-<div class="back-top" title="返回顶部">
-    <button class="btn btn-primary">
-      <i class="fa fa-lg fa-chevron-up" style="color:#0e0e0e"></i>
-    </button>
-</div>
-
-<script src="/js/post.js" type="text/javascript"></script>

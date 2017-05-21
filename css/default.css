@@ -70,13 +70,15 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 
 /****************entry style**************/
-.sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
+.sidenav { width:245px; background:#fff; float:right; padding:20px; margin-bottom:35px; box-shadow:0 1px 4px #ccc; }
+.sidenav h1 { font-weight:bold; color:#222; margin-bottom:15px; }
 .sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
+.sidenav h3 { font-size:16px; color:#333; margin-bottom:15px; }
 .sidenav ul { margin-bottom:15px; }
 .sidenav li { margin-bottom:12px; word-break: break-all;}
 .sidenav a { color:#555; font-size:14px; display:block;}
 .sidenav .rss {font-size: 16px; color:#333;}
-.entry{margin-bottom:80px;width:680px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; }
+.entry{margin-bottom:80px;width:780px; float:left; background:#fff; padding:30px; box-shadow:0 2px 6px #ccc; min-height: 440px;}
 .entry ul{margin-bottom:25px;margin-left:25px;}
 .entry p+ul {margin-top:-20px;}
 .entry ul li{margin-bottom:5px;list-style:disc;line-height:2.0em;}
@@ -100,6 +102,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     margin-bottom: 0.5em;
     line-height: 1.5em;
         margin-left: 0.8em;
+}
+.entry .about-title{
+    font-size:27px;font-weight:bold;margin-bottom:15px;color:#000;text-align:left;word-wrap: break-word;
 }
 .entry img{max-width:670px;display:block;margin:10px auto; border-width: 2px;border-color: #f5f5f5;border-radius: 1px;}
 
@@ -172,10 +177,11 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex a {display:block; padding:2px 0; }
 #menuIndex a:hover {text-decoration:none;}
 #menuIndex ul {margin-bottom:10px;}
-#menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:10px;}
+#menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:5px;}
 #menuIndex ul li.on{background-color:#f5f5f5;}
-#menuIndex li.h1{font-size:14px;font-weight:normal;padding-left:0;margin-bottom:10px;}
-#menuIndex li.h3{padding-left:25px;}
+#menuIndex li.h1{padding-left:0;margin-bottom:10px;margin-top:-5px;}
+#menuIndex li.h1 a{font-size:18px;font-weight:bold;}
+#menuIndex li.h3{padding-left:15px;margin-top: 0px;}
 
 .home-menu { position:fixed; top:15px; left:15px; z-index:5; font-size:0; }
 .home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#000; }
@@ -442,7 +448,11 @@ blockquote{
     width: 45px;height: 34px;
     border-radius: 4px;
     position:fixed;right:15px;bottom:20px;
-    background-color:#fafafa;
+    background-color:#fafafa !important;
+}
+
+.back-top .btn{
+    background-color:#fafafa !important;
 }
 /*选择文本的颜色*/
 ::selection { background:#d9d9d9; color:#000;}
@@ -590,3 +600,123 @@ div .cuisine-title h2{
 .poem h6 {
     font-size: 25px;
 }
+
+/*Search Box CCS*/
+
+.modal-open {
+  overflow: hidden;
+}
+
+.modal {
+  display: none;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: @zindex-modal;
+  -webkit-overflow-scrolling: touch;
+
+  outline: 0;
+
+    .translate(0, -25%);
+    .transition-transform(~"0.3s ease-out");
+  }
+  &.in .modal-dialog { .translate(0, 0) }
+}
+.modal-open .modal {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.modal-dialog {
+  position: relative;
+  width: auto;
+  margin: 10px;
+}
+
+.modal-content {
+  position: relative;
+  background-color: @modal-content-bg;
+  border: 1px solid @modal-content-fallback-border-color; //old browsers fallback (ie8 etc)
+  border: 1px solid @modal-content-border-color;
+  border-radius: @border-radius-large;
+  .box-shadow(0 3px 9px rgba(0,0,0,.5));
+  background-clip: padding-box;
+  outline: 0;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: @zindex-modal-background;
+  background-color: @modal-backdrop-bg;
+  &.fade { .opacity(0); }
+  &.in { .opacity(@modal-backdrop-opacity); }
+}
+
+.modal-header {
+  padding: @modal-title-padding;
+  border-bottom: 1px solid @modal-header-border-color;
+  &:extend(.clearfix all);
+}
+.modal-header .close {
+  margin-top: -2px;
+}
+
+.modal-title {
+  margin: 0;
+  line-height: @modal-title-line-height;
+}
+
+.modal-body {
+  position: relative;
+  padding: @modal-inner-padding;
+}
+
+.modal-footer {
+  padding: @modal-inner-padding;
+  text-align: right; // right align buttons
+  border-top: 1px solid @modal-footer-border-color;
+  &:extend(.clearfix all);
+
+.btn + .btn {
+    margin-left: 5px;
+    margin-bottom: 0; 
+  }
+  .btn-group .btn + .btn {
+    margin-left: -1px;
+  }
+  .btn-block + .btn-block {
+    margin-left: 0;
+  }
+}
+
+.modal-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+
+@media (min-width: @screen-sm-min) {
+  .modal-dialog {
+    width: @modal-md;
+    margin: 30px auto;
+  }
+  .modal-content {
+    .box-shadow(0 5px 15px rgba(0,0,0,.5));
+  }
+
+  .modal-sm { width: @modal-sm; }
+}
+
+@media (min-width: @screen-md-min) {
+  .modal-lg { width: @modal-lg; }
+}
+
