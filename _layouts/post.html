@@ -30,8 +30,19 @@ layout: default
       <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br></p><br><br><br>
   </blockquote>
 
-  {% include pagination.html %}
-  {% include comment.html %}
+<hr>
+<div class="post-tag">
+  {% if page.tags.size > 0 %}
+  <i class="fa fa-tags"></i> 标签：
+    
+    {% for tag in page.tags %}
+      <span class="label"><a href="/tags/#{{tag}}">{{ tag }}</a></span>
+    {% endfor %}
+  {% endif %}
+</div>
+
+{% include pagination.html %}
+{% include comment.html %}
 </div>
 
 {% include sidenav-upper.html %}

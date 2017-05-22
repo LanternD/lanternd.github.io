@@ -1,13 +1,51 @@
 
-<form  class="form-horizontal">
-  <div class="input-group" id="search-container">
+<div class="search-btn" style="display: none;" title="搜索">
+  <button type="button" class="btn btn-primary" style="color:#0e0e0e" data-toggle="modal" data-target="#search-modal">
+    <i class="fa fa-search fa-lg" aria-hidden="true" style="color:#0e0e0e"></i>
+  </button>
+</div>
 
-    <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
-    <input type="text" class="form-control" id="search-input" placeholder="寻声暗问弹者谁，琵琶声停欲语迟">    
+<script type="text/javascript">
+
+  $(window).scroll(function() { 
+  var wide_screen = $(this).width() > 1025 ? true : false;
+  if ($(this).scrollTop()> 100 && wide_screen) { 
+  $('.search-btn').fadeIn(); 
+  } else { 
+  $('.search-btn').fadeOut(); 
+  } 
+  });
+</script>
+
+<!-- <button type="button" id="search-btn" class="btn btn-info btn-lg" data-toggle="modal" data-target="#search-modal"><i class="fa fa-search fa-2" aria-hidden="true"></i></button> -->
+
+<!-- Modal -->
+<div id="search-modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h3 class="modal-title"> - 问渠那得清如许 - </h3>
+      </div>
+      <div class="modal-body">
+        <form  class="form-horizontal">
+          <div class="input-group" id="search-container">
+
+            <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+            <input type="text" class="form-control" id="search-input" placeholder="寻声暗问弹者谁，琵琶声停欲语迟">    
+          </div>
+          <div class="list-group"><ul id="results-container"></ul></div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal" title="关闭搜索框">云开月明</button>
+      </div>
+    </div>
+
   </div>
-  <div class="list-group"><ul id="results-container"></ul></div>
-</form>
-
+</div>
 
 
 <script src="/node_modules/simple-jekyll-search/dest/jekyll-search-bundle.js" type="text/javascript"></script>

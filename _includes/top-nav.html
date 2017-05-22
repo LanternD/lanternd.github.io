@@ -1,0 +1,31 @@
+<nav class="navbar navbar-default affix" style="display: none;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <h3><a class="navbar-brand active" style="margin-left: -7px; color: #333;" href="/">LanternD</a></h3>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><button class="btn search-btn-nav" type="button" style="background-color: transparent;" data-toggle="modal" data-target="#search-modal"><i class="fa fa-search fa-lg" aria-hidden="true"></i> 搜索</button></li>
+        <li><a href="{{ site.author.instagram }}" target="_blank" title="My Instagram"><i class="fa fa-instagram fa-lg"></i> INS</a></li>
+        <li><a href="/about/" title="关于我"><i class="fa fa-user fa-lg" style=></i> 关于</a></li>
+        <li><a href="/guestbook/" title="留言板"><i class="fa fa-pencil-square-o fa-lg" ></i> 留言</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<script type="text/javascript">
+$(window).scroll(function() {
+  var narrow_screen = $(this).width() < 1025 ? true : false;
+  if ($(this).scrollTop() > 200 && narrow_screen) { 
+  $('nav').fadeIn(); 
+  } else { 
+  $('nav').fadeOut(); 
+  } 
+});
+</script>
