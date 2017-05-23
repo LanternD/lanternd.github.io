@@ -53,8 +53,8 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-  searchResultTemplate: '<li class="list-group-item" style="padding: 5px 5px"><span>{date}</span> <a href="{{ site.url }}{url}">{title}</a></li>',
+  searchResultTemplate: '<li class="list-group-item" style="padding: 5px 5px"><span>{date}</span> <a href="{{ site.baseurl }}{url}/">{title}</a></li>',
   fuzzy: false,
-  limit: 10
+  limit: 11
 })
 </script>
