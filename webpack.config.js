@@ -2,9 +2,9 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-  entry: './src/lattespirit.js',
+  entry: './src/lanternd.js',
   output: {
-    filename: 'lattespirit.js',
+    filename: 'lanternd.js',
     path: path.resolve(__dirname, 'js')
   },
 
