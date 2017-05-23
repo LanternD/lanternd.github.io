@@ -30,8 +30,8 @@ author:
   flickr: https://www.flickr.com/photos/lanternd
 
 # gavatar头像及Favicon
-gavatar: /public/img/logo_100x.png
-favicon: http://lanternd.qiniudn.com/favicon2.ico
+gavatar: /img/logo_100x.png
+favicon: /img/favicon2.ico
 
 
 # google analytics 设置
@@ -42,6 +42,9 @@ ga:
 
 disqus:
   shortname: lanternd
+
+livere:
+  uid: MTAyMC8yODcxNi81Mjg3
 
 gems:
   - jekyll-sitemap

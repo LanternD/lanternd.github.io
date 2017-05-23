@@ -16,7 +16,7 @@
     var j, e = document.getElementsByTagName('script')[0];
 
     j = document.createElement('script');
-    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.src = '//cdn-city.livere.com/js/embed.dist.js';
     j.async = true;
 
     e.parentNode.insertBefore(j, e);
@@ -61,7 +61,7 @@
   (function () {
     var s = document.createElement('script'); s.async = true;
     s.type = 'text/javascript';
-    s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
     (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
   }());
 </script>
@@ -73,7 +73,7 @@
 <br>
 <div id="livere_container">
 
-  <div id="lv-container" data-id="city" data-uid="MTAyMC8yODcxNi81Mjg3"><!-- 换成自己的UID -->
+  <div id="lv-container" data-id="city" data-uid="{{ site.livere.uid }}"><!-- 换成自己的UID -->
     <a href="#comment-livere" class="comment" onclick="toggleLiveReComments('#lv-container');">
     查看<strong>LiveRe</strong>评论</a>
   </div>
