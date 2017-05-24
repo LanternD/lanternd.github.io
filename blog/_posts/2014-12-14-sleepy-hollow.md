@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sleepy Hollow State Park的半天游
-permalink: /sleepy-hollow
+permalink: /sleepy-hollow/
 description: 我去的第一个州立公园，冬天比较萧瑟，但是也见识到不少有意思的东西…
 categories: [blog, 视·界]
 tags: [公园]
