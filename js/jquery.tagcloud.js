@@ -78,3 +78,50 @@
   }
 
 })(jQuery);
+
+$( document ).ready(function() {
+
+  function tag_get_post(tag_name){
+    console.log(tag_name);
+    $.ajax({
+          url: '/tags.json',
+          dataType: 'json',
+      })
+      .done(function(tag_post){
+        wanted_post = tag_post.map(function(tag){
+          let name = tag.name, post = tag.post;
+          if (name == tag_name){
+            var tmpl = '<h3>属于该Tag的文章</h3>';
+            tmpl += '<ul class="listing" style="list-style-type:none;margin-left:7%;margin-top:20px;">';
+            for (var i = 0; i < post.length; i++) {
+              tmpl += '<li class="listing-item" style="list-style-type:none;"><time datetime="'+ post[i].date +'">' + post[i].date + '</time>';
+              tmpl += '<a href="' + post[i].url + '" title="' + post[i].title + '" class="listing-item-a">' + post[i].title + '</a></li>';
+            }
+            result_container = '#tag-post-container';
+            if ($(result_container).has('ul .listing')){
+              $(result_container).empty();
+            }
+
+            $(result_container).append($(tmpl));
+            var scroll_num = $(result_container).offset().top;
+            $('body, html').animate({scrollTop: scroll_num - 25}, 400, 'swing');
+          }        
+      });
+    });
+
+  }
+
+  $('#tag_cloud a').click(function(){
+    var tag_name = this.title;
+    tag_get_post(tag_name);
+  });
+
+  if(window.location.hash != ''){
+    console.log("The path contains a tag, process it.");
+    var tag_name = window.location.hash.slice(1);
+
+    tag_get_post(tag_name);
+  }else{
+    console.log("it is a root path for the tag page, do nothing");
+  }
+});

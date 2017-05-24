@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 记Homecoming Parade 返校日游行[多图]
-permalink: /homecoming
+permalink: /homecoming/
 description: 返校日游行对于美国的大学来说是个非常隆重的节日，也是所在镇上一年一度的盛事。
 categories: [blog, 视·界]
 tags: [游行, 返校日, 大学]

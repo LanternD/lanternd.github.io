@@ -52,6 +52,7 @@
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
+  noResultsText: '——「好像内心深处有什么东西缺失了……」<br>——「大概是搜索结果吧。」',
   json: '/search.json',
   searchResultTemplate: '<li class="list-group-item" style="padding: 5px 5px"><span>{date}</span> <a href="{{ site.baseurl }}{url}/">{title}</a></li>',
   fuzzy: false,
