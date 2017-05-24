@@ -16,7 +16,7 @@ date: 2017-05-18 12:33:44
 
 ## 多说下线
 
-　博客圈混久的应该都知道这件事了吧。今年三月份的时候，**多说**宣布将在2017年6月1日下线，停止运营。离写Blog这天也不远了。
+　博客圈混久的应该都知道这件事了吧。今年三月份的时候，**多说**宣布将在2017年6月1日下线，停止运营。离写本篇Blog这天也不远了。
 
 ![Goodbye Duoshuo](http://lanternd.qiniudn.com/Pic4Post/goodbye-duoshuo/goodbye-duoshuo.png)
 

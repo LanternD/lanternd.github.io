@@ -55,6 +55,7 @@ SimpleJekyllSearch({
   json: '/search.json',
   searchResultTemplate: '<li class="list-group-item" style="padding: 5px 5px"><span>{date}</span> <a href="{{ site.baseurl }}{url}/">{title}</a></li>',
   fuzzy: false,
-  limit: 11
+  limit: 11,
+  exclude: ['我', '的']
 })
 </script>
