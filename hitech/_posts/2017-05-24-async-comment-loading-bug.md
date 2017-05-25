@@ -69,7 +69,7 @@ $('#disqus_container .comment').on('click',function(){
 
 - 官方的代码长下面这个样子：
 
-```js
+```html
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
@@ -84,11 +84,12 @@ var d = document, s = d.createElement('script');
   (d.head || d.body).appendChild(s);
 })();
 </script>
+
 ```
 
 - 我之前出错的代码是这样的：
 
-```js
+```html
 <div id="disqus_container">
   <div style="margin-bottom:20px" class="right"></div>
     <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');";> 
@@ -155,7 +156,7 @@ var disqus_config = function () {
 
 　更新以后（当时抱着试一试的心态而已）变成了：
 
-```js
+```html
 <script type="text/javascript">
 
 var disqus_config = function () {
