@@ -26,6 +26,10 @@ $(document).ready(function(){
     $.getScript('/js/css3-ani.js',function(){});
   }
   
+  
+});
+
+(function(){
   var narrow_screen = $(this).width() < 1025 ? true : false;
   console.log(narrow_screen);
   if (!narrow_screen){
@@ -182,4 +186,4 @@ $(document).ready(function(){
       }
     })();
   }
-});
+})();
