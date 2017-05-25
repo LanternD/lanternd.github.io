@@ -92,7 +92,7 @@ var d = document, s = d.createElement('script');
 ```html
 <div id="disqus_container">
   <div style="margin-bottom:20px" class="right"></div>
-    <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');";> 
+    <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');"> 
       查看<strong>Disqus</strong>评论
     </a><span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span>
 <div id="disqus_thread"></div>
@@ -126,7 +126,7 @@ function toggleDisqusComments(container){
 　中间尝试了不少方案，主要围绕Url的处理展开，比如
 
 ```html
-<a href="{{ site.url }}{{ page.id }}/#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');";> 
+<a href="{{ site.url }}{{ page.id }}/#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');"> 
       查看<strong>Disqus</strong>评论
     </a><span class="comment-count">
 ```
