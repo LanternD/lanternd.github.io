@@ -79,7 +79,7 @@
 
 })(jQuery);
 
-$( document ).ready(function() {
+(function() {
 
   function tag_get_post(tag_name){
     console.log(tag_name);
@@ -124,4 +124,4 @@ $( document ).ready(function() {
   }else{
     console.log("it is a root path for the tag page, do nothing");
   }
-});
+})();

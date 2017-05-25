@@ -181,5 +181,5 @@ $(document).ready(function(){
           $('#menuIndex').css('max-height',$(window).height()-80);
       }
     })();
-  }  
+  }
 });
