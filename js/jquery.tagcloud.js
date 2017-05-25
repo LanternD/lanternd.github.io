@@ -92,7 +92,7 @@
           let name = tag.name, post = tag.post;
           if (name == tag_name){
             var tmpl = '<h3>属于该Tag的文章</h3>';
-            tmpl += '<ul class="listing" style="list-style-type:none;margin-left:7%;margin-top:20px;">';
+            tmpl += '<ul class="listing" id="tag-post-list" >';
             for (var i = 0; i < post.length; i++) {
               tmpl += '<li class="listing-item" style="list-style-type:none;"><time datetime="'+ post[i].date +'">' + post[i].date + '</time>';
               tmpl += '<a href="' + post[i].url + '" title="' + post[i].title + '" class="listing-item-a">' + post[i].title + '</a></li>';

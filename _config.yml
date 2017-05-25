@@ -2,8 +2,10 @@ markdown: kramdown
 
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
 
 highlighter: rouge
+
 paginate: 15
 permalink: /:title
 
@@ -49,6 +51,7 @@ livere:
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - rouge
 
 # for sitemap.txt
 production_url: https://dlyang.me

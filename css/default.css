@@ -62,7 +62,7 @@ p {margin-bottom:30px;line-height:1.8em;}
 code {background:#eee;border:1px solid #ccc;padding:0 5px;font-family:"Courier";line-height:14px;font-size:14px;word-wrap:break-word; }
 pre {background-color:#000;padding:15px;overflow:auto;margin-bottom:40px;word-wrap:normal;font-size:14px;border: 1px solid #eee;-webkit-border-radius: 4px 4px 4px 4px;-moz-border-radius: 4px 4px 4px 4px;border-radius: 4px 4px 4px 4px;color:#b9bdb6;margin-top:-20px; }
 h4+pre, h3+pre { margin-top:20px; }
-pre code{background-color:transparent;border:none;padding:10px;word-wrap:normal;overflow-x: }
+pre code{background-color:transparent;border:none;padding:0px;word-wrap:normal;overflow-x: }
 pre ol{margin-left:25px;list-style-type:decimal;}
 
 /************layout style*****************/
@@ -147,10 +147,11 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .wiki ul ul{list-style:circle;margin-top:10px;margin-bottom:10px;}
 
 /***************contact style*************/
+.ld-comment-container {display: inline-block;width: 100%;}
 #disqus_container {font-size:14px;margin-bottom: 10px;margin-top: 5px;}
 #disqus_container a.comment {font-size:18px; background: transparent;}
 #disqus_container span.comment-count {font-size:18px; color: #4A75B5;}
-#livere_container {font-size:14px;}
+#livere_container {font-size:14px; margin-top: 20px;}
 #livere_container a.comment {font-size:18px; background: transparent;}
 #livere_container span.comment-count {font-size:18px; color: #4A75B5;}
 h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
@@ -193,6 +194,19 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
   display: none;
 }
 
+.listing #tag-post-list {list-style-type:none;margin-left:7%;margin-top:20px;}
+
+@media screen and (max-width: 550px){
+  #tag-post-container ul {
+    margin-left:0px;
+  }
+  #tag-post-list .listing-item time {
+    color: #768185;
+    padding-left: 0em;
+    font-family: "Verdana", sans-serif;
+  }
+}
+
 /*屏幕宽度分辨率小于750px的设备，如iPhone*/
 @media screen and (max-width: 767px){
   .visible-s {display: block !important;}
@@ -229,7 +243,10 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
   #top-toc-table .h1 {font-size: 18px; font-weight: bold;}
   #top-toc-table .h2 {font-size: 16px; margin: 5px 0px 10px 5px;}
   #top-toc-table .h3 {font-size: 14px; margin: 5px 0px 10px 25px;}
+
+  .footer-navi {display: none;}
 }
+
 
 @media screen (min-width: 768px) and (max-width: 991px){
   .visible-m {display: block !important;}
@@ -312,6 +329,10 @@ nav ul li i {color: #777;}
 ::-webkit-scrollbar-thumb:hover {  background: #6d6d6d; }
 
 /*文章导航样式*/
+.post-footer {
+  padding-top: 10px;
+}
+
 .pagination {
   display: block;
   height: 65px;
@@ -326,7 +347,7 @@ nav ul li i {color: #777;}
   display: inline-block;
   padding: 2px 5px 2px 5px;
 }
-.pagination ul {margin-left: 2%;}
+.pagination ul {margin-left: 2%;margin-bottom: 0px;}
 .pagination .prev{float: left;}
 .pagination .next{
   float: right;
