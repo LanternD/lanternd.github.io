@@ -14,7 +14,7 @@ date: 2017-05-24 12:33:44
 
 　鉴于我现在已经把这个Bug修复了，这个Bug在我这不太好重现。我先描述一下吧。
 
-如果使用正常网址，比如
+　如果使用正常网址，比如
 
 > https://dlyang.me/my-new-chromebook/
 
@@ -24,7 +24,7 @@ date: 2017-05-24 12:33:44
 
 　这时候评论就无法显示了，因为Disqus后台认为这是一篇新的文章，id是「/my-new-chromebook/?foo=bar」而不是「/my-new-chromebook/」。
 
-　奇特的是，这种现象只有**异步加载**的时候才会产生。
+　奇特的是，这种现象只有**异步加载**（也就是点击「加载XXX评论」的时候才会加载评论框）的时候才会产生。
 
 　如前面所述，我的Blog暂时没法重现这个Bug，鉴于我Blog的主题是从BeiYuu.com继承来的，我决定拿他的站点来重现（他的主题换了，不过评论框还是一样）。
 
@@ -61,13 +61,13 @@ window.disqus_shortname = 'your_short_name';
 $('#disqus_container .comment').on('click',function(){
    $(this).html('加载中...');
    var that = this;
-   $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
+   $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js', function(){$(that).remove()});
 });
 ```
 
-　出错的一个问题在于，他没有指定本页面的Disqus的Url和ID。
+　出错的一个问题在于，他没有指定本页面的Disqus的Url和ID。如果没有指定，Disqus的embed.js就会从当前页面的Url里去找文章的ID，导致出问题。
 
-- 官方的代码长下面这个样子：
+- 官方的代码长下面这个样子（在同步加载的时候工作正常）：
 
 ```html
 <div id="disqus_thread"></div>
@@ -87,7 +87,7 @@ var d = document, s = d.createElement('script');
 
 ```
 
-- 我之前出错的代码是这样的：
+- 我之前出错的代码是这样的（下面链接以本文链接为例）：
 
 ```html
 <div id="disqus_container">
@@ -119,19 +119,19 @@ function toggleDisqusComments(container){
 </script>
 ```
 
-　基本上我的代码就是在官方代码外面套了一层壳而已。我既定义了变量`page.url`，又给了`page.identifier`结果还是不行。
+　基本上我的代码就是在官方代码外面套了一层壳而已。点击以后触发函数去加载评论框。我既定义了变量`page.url`，又给了`page.identifier`结果还是不行。
 
 ## 失败的尝试
 
-　中间尝试了不少方案，主要围绕Url的处理展开，比如
+　中间尝试了不少方案去Debug，主要围绕Url的处理展开，比如
 
 ```html
-<a href="{{ site.url }}{{ page.id }}/#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');"> 
+<a href="{{ site.url }}{{ page.id | remove: '/'}}/#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');"> 
       查看<strong>Disqus</strong>评论
     </a><span class="comment-count">
 ```
 
-　我把href强制指到了没有「?foo=bar」的链接去。但是这样点击以后加载的页面会回到窗口的顶端，用户体验很不好。
+　我把href强制指到了没有「?foo=bar」的链接去。但是这样点击以后加载的**页面会回到窗口的顶端**，用户体验很不好。
 
 　后来还试了在JS代码里面把Url手动更新，修改`window.location.href`之类的全局变量。也还是会回到页面顶端。
 
@@ -150,11 +150,11 @@ var disqus_config = function () {
 
 　这段代码中，this的作用范围导致的。
 
-　这段代码放在`toggleDisqusComments()`函数中的时候，`this`指代`toggleDisqusComments`这个函数，而放在外面的时候，指代的是`window`或者`Document`之类的。而`disqus_config `也沦为了局部变量而不是全局变量。
+　这段代码放在`toggleDisqusComments()`函数中的时候，`this`指代`toggleDisqusComments`这个函数，而放在外面的时候，指代的是`window`或者`Document`之类的。在前一种情况下，`disqus_config`也沦为了局部变量而不是全局变量。
 
 　换句话说，错误代码里面压根没有给Disqus提供该页面的正确Url和ID。
 
-　更新以后（当时抱着试一试的心态而已）变成了：
+　更新以后（当时只是抱着试一试的心态而已）变成了目前的正确代码：
 
 ```html
 <script type="text/javascript">
@@ -183,13 +183,13 @@ function toggleDisqusComments(container){
 
 　Bug修复后，即使在本地运行Jekyll，也就是在`127.0.0.1:4000`中访问页面评论的时候也可以加载原站点(https://dlyang.me)的Disqus评论了。
 
-　我猜测如果`disqus_config `放在`toggleDisqusComments`里，把`this`改成`window`也可行。但没有尝试过。
+　我猜测如果`disqus_config`放在`toggleDisqusComments`里，把`this`改成`window`也可行。但没有尝试过。
 
 ## 最后
 
 　我对前端并不是很了解，纯属瞎折腾玩的，学习也不系统。所以写出来的代码特别丑，还多Bug。另外，上面这几段关于`this`话的描述可能也是错的，不过代码是好使的。我现在现在都是做出一个控件，然后就在它下面加一段JavaScript代码，结构零散杂乱。最近了解到了Browserify、Webpack之类的前端坑。总有一天我会把各种JS、CSS集成到一两个文件里，不过不会是最近。我得休息一下了。
 
-　最后的最后，还得感谢Lattesprit在过程中提供的帮助。
+　最后的最后，还得感谢Lattespirit在过程中提供的帮助。
 
 ## 参考源
 
