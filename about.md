@@ -155,7 +155,7 @@ id: about
 >   
 >  [ 目前仅在部分SNS活跃 ( Instagram / FB / Twi / Flickr ) ]
 >   
->  Email：yangdavid1028 AT gmail.com [个人]　yangdeli AT msu.edu [工作]
+>  Email：lanternd1028 AT gmail.com
 >   
 >  坐标： East Lansing, Michigan, USA
 >   

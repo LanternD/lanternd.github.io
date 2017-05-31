@@ -1,12 +1,24 @@
 ---
 layout: post
-title:  MSU的课程体系 (1)： Fall 14 
+title:  MSU的课程体系 (1)：Fall 2014 
 description: 又一个学期结束了，记录一下我在这上过的课，和本科差别还是蛮大的。为了省省篇幅，决定先记一学期的。
 permalink: /msu-courses-f14/
 categories: [blog, 视·界]
 tags: [MSU, 美国, 课程, Project]
 date: 2015-05-11 22:16:00
 --- 
+
+## 系列传送门
+
+- (1) Fall 2014 —— 本文
+- [(2) Spring 2015](/msu-courses-s15/)
+- [(3) Fall 2015](/msu-courses-f15/)
+- [(4) Spring 2016](/msu-courses-s16/)
+- [(5) Fall 2016](/msu-courses-f16/)
+- [(6) Spring 2017](/msu-courses-s17/)
+- [(7) Fall 2017](/msu-courses-f17/)
+
+（注：目前完成了前三，剩下的用来占坑。）
 
 ## 放个Milestone
 
