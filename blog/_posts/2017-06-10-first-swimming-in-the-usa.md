@@ -51,7 +51,7 @@ date: 2017-06-10 14:16:00
 ![swimming trunk](https://m.media-amazon.com/images/S/aplus-media/vc/90f45142-1600-4793-87b8-0115859c266c._SR285,285_.png)
 （图片来源：[Amazon](https://www.amazon.com/Speedo-Marina-Basic-Watershorts-XX-Large/dp/B005QXF9RK/ref=sr_1_1?ie=UTF8&qid=1497122185&sr=8-1&keywords=swimming%20marine%20trunk)）
 
-　更多的可以看[Amazon搜索链接](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=swimming%20marine%20trunk)。这种裤子海里也可以用，沙滩也可以用，我觉得平时穿都可以，还挺舒服的。和普通短裤的区别大概是拉紧的那跳绳是在外面的。
+　更多的可以看[Amazon搜索链接](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=swimming%20marine%20trunk)。这种裤子海里也可以用，沙滩也可以用，我觉得平时穿都可以，还挺舒服的。和普通短裤的区别大概是拉紧的那条绳是在外面的。
 
 　国内常见的特别贴身的（男士）泳裤在这里好像是专门的运动员才会穿的。对于非运动员而言，游泳更像是一项娱乐性质的有氧运动，穿紧身的短泳裤有点过于「严肃」。
 
