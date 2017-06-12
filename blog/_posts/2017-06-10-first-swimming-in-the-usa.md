@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第一次在美国游泳
-description: 在学校的IM Circle游泳池有了个泳，聊聊见闻。
+description: 在学校的IM Circle游泳池游了个泳，聊聊见闻。
 permalink: /first-swimming-in-the-usa/
 categories: [blog, 视·界]
 tags: [游泳, 校园, 体育馆, 第一次]
