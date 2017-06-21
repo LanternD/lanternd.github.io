@@ -84,3 +84,11 @@ date: 2017-06-11 22:16:00
 ## 末了
 
 　大概就是这样吧，要不我怎么会在[上一篇](/first-swimming-in-the-usa/)说我和游泳无缘呢。
+
+## 2017-06-20 Update
+
+　拆线的时候发现一共被缝了10针。在LUC的时候确实没收我钱，但是账单寄给保险公司了。今天保险公司账单到了，告诉我要付\$74.63。
+
+![My bill](http://lanternd.qiniudn.com/Pic4Post/first-treatment-in-the-usa-hospital/insurance-bill.png)
+
+　又有两顿Red Lobster大餐没有了。印象中这样的手术在国内大约需要100多RMB，现在不知道行情如何了。总之这次74刀大概还可以接受吧，去看病不花钱也是不可能的事情。

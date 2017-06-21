@@ -72,7 +72,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 /****************entry style**************/
 .sidenav { width:245px; background:#fff; float:right; padding:20px; margin-bottom:35px; box-shadow:0 1px 4px #ccc; }
 .sidenav h1 { font-weight:bold; color:#222; margin-bottom:15px; }
-.sidenav h2 { font-size:18px; color:#333; margin-bottom:15px; }
+.sidenav h2 { font-size:18px; color:#333; margin-bottom:20px; }
 .sidenav h3 { font-size:16px; color:#333; margin-bottom:15px; }
 .sidenav ul { margin-bottom:15px; }
 .sidenav li { margin-bottom:12px; word-break: break-all;}
@@ -94,6 +94,15 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry div.post-tag a {font-size: 14px;font-weight: normal;}
 .entry div.post-tag span.label {background-color: #f1f1f1; }
 
+figure img{
+	width: 50%;
+	margin-left: 25%;
+}
+
+figure figcaption {
+	margin:auto;
+}
+
 .index-content .aside {
   position: fixed;
   top: 0;
@@ -106,20 +115,20 @@ pre ol{margin-left:25px;list-style-type:decimal;}
   background-size:cover;
   background-position:50% 50%;
 }
-.col1 .aside{
+.col1 .aside{/*main index*/
+  background-image:url('/img/aside1.jpg');
+}
+.col2 .aside{/*hi tech*/
+  background-image:url('/img/aside2.jpg');
+}
+.col3 .aside{/*viewfinder*/
   background-image:url('/img/aside3.jpg');
 }
-.col2 .aside{
-  background-image:url('/img/aside8.jpg');
-}
-.col3 .aside{
-  background-image:url('/img/aside5.jpg');
-}
-.col4 .aside{
+.col4 .aside{/*cuisine*/
   background-image:url('/img/aside4.jpg');
 }
-.col5 .aside{
-  background-image:url('/img/aside2.jpg');
+.col5 .aside{/*event-horizen*/
+  background-image:url('/img/aside5.jpg');
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:10%; ;}
 

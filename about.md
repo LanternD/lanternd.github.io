@@ -189,7 +189,7 @@ id: about
 > 
 > 目前博客由Jekyll驱动，托管在Github。主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些DIY的成果技术分享。相册也有，但主要是在文章中嵌入Flickr的框架，希望没被墙。
 > 
-> 英文站为：[https://en/dlyang.me](https://en/dlyang.me)，主要是写一些科研和学习相关的东西。
+> 英文站为：[https://en.dlyang.me](https://en.dlyang.me)，主要是写一些科研和学习相关的东西。
 > 
 > 从来不（全文）转载其他人的链接，所以这里的文章都是原创。虽然没有期待会被转载但是也在此说明一下：**文章可以自由转载或修改，但请注明指向该文章页面的链接，同时加上我的ID，「LanternD」**，谢谢。
 >
@@ -198,10 +198,14 @@ id: about
 
 –
 
-<h2 class="about-title">微信公众号</h2>
+<h2 class="about-title">订阅</h2>
 
 <div id="bq-about" markdown="1">
 
+> <h3>RSS订阅源（Feed）</h3>
+> 把[此链接](/rss.xml)复制到订阅源即可添加。目前我用的是[Inoreader](https://www.inoreader.com/)，也可以用[Feedly](https://feedly.com/i/welcome)。
+> 
+> <h3>微信公众号</h3>
 > 和很多人想象的可能不一样，我的公众号**不是用来写文章**的，只是用来推送新文章提醒。每写好一篇我都会把日志的**摘要或者前言**写成图文消息发送出去。如果想继续看看就点「阅读原文」。说白了就是RSS阅读器的翻版。
 > 
 > <img src="/img/wx-QRCode.jpg" alt="wx-QRCode" title="WeChat QRCode">
@@ -262,12 +266,13 @@ id: about
 > 2017.05.19. 修复了Disqus评论数不准确以及链接带有Get、Post请求时Disqus异步加载无法正常显示评论的Bug；在此感谢[Lattespirit](https://www.lattespirit.com/)在近段时间以来的帮助
 > 
 > 2017.05.21. 加入了搜索功能，宽屏幕下搜索按钮在右下角，窄屏幕时在顶部导航栏。但目前是匹配结果按时间排序，所以比较低端，将在未来调整完善
-
+> 
+> 2017.06.20. 侧边栏加入了微信公众号订阅二维码的弹出框
 </div>
 
 -
 
-「About」页面最后更新: 2017.05.19
+「About」页面最后更新: 2017.06.20
 
 ---
 
