@@ -27,7 +27,7 @@ date: 2017-07-05 17:16:00
 
 ### 操作难度
 
-佳能的单反有很多的控制芯片，600D用的是[DIGIC 4](https://en.wikipedia.org/wiki/DIGIC#DIGIC_4)。似乎可以通过连接电脑看到的参数并不多。
+佳能的单反有很多的控制芯片，600D用的是[DIGIC 4](https://en.wikipedia.org/wiki/DIGIC#DIGIC_4)。似乎可以通过连接电脑看到的参数并不多。所以查到快门次数比其他的型号难度要稍微大一点。
 
 ## 不靠谱的方法
 
@@ -99,7 +99,7 @@ Seriously?
 
 ![ml-debug](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/ml-debug.png)
 
-就是这么Easy。
+就是这么Easy。说白了相机一直存着这个数，只不过一般读取不到而已。
 
 看完快门就可以去玩其他的东西了。我还用过的功能有陷阱对焦、自动拍照（固定间隔，设定B门时间。这样就不需要快门线了）、回放突出暗部两部、黄金分割构图指示线等等，更多的功能还得自己探索，可以参考他们的[UserGuide](http://wiki.magiclantern.fm/userguide)。
 
