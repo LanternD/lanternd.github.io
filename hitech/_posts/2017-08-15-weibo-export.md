@@ -51,7 +51,7 @@ date: 2017-08-15 22:27:34
 
 　【注意！】上面第二步提到的按F12的方法现在已经看不到正常的 `getIndex` 网址了，直接在下面代码的基础上改动，「type=uid&value=23XXXXXXXX」这串Value变成想导出的人的数字ID即可。看起来 `containerid` 这个值并不重要。
 
-``` bash
+``` bash 
 #!/bin/bash
 
 url='https://m.weibo.cn/api/container/getIndex?type=uid&value=23XXXXXXXX&containerid=2304132384538187&page='
