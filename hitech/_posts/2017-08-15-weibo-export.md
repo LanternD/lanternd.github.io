@@ -37,19 +37,19 @@ date: 2017-08-15 22:27:34
 　直接看就好了，不过为了省事，大概说一下流程：
 
 1. 如果是500条微博以下，在桌面端直接去[移动端的微博网页版](https://m.weibo.cn/)，登陆后一直按End键刷到底，然后打印整个网页；
-2. 如果是500条以上，按F12打开网页开发工具，点进Network选项卡，然后刷新页面，拖到最底下，自动加载新的10条微博，此时会出现`getIndex`开头的一串网址，访问即可得到服务器返回的新加载微博的`.json`文件（记得看下面的「【注意！】」一行）；
-3. 在Shell里面利用For循环遍历全部Page和用curl命令下载完全部的`.json`存到本地（每个Page会有10条新微博）；
-4. 利用Python格式化`.json`文件，得到想要的输出。
+2. 如果是500条以上，按F12打开网页开发工具，点进Network选项卡，然后刷新页面，拖到最底下，自动加载新的10条微博，此时会出现 `getIndex` 开头的一串网址，访问即可得到服务器返回的新加载微博的 `.json` 文件（记得看下面的「【注意！】」一行）；
+3. 在Shell里面利用For循环遍历全部Page和用curl命令下载完全部的 `.json` 存到本地（每个Page会有10条新微博）；
+4. 利用Python格式化 `.json` 文件，得到想要的输出。
 
 ## 贴代码
 
-　上面提到的答主在回答里有代码，我细化一下贴在这里，仅供参考。
+　上面提到的答主在回答里有代码，我细化一下贴在这里，仅供参考。一共有3个文件： `download_json.sh` 、 `json2html.py` 和 `default.css` 。
 
 - `download_json.sh`
 
-　这个是下载`.json`文件的脚本。
+　这个是下载 `.json` 文件的脚本。
 
-　【注意！】上面第二步提到的按F12的方法现在已经看不到正常的`getIndex`网址了，直接在下面代码的基础上改动，「type=uid&value=23XXXXXXXX」这串Value变成想导出的人的数字ID即可。
+　【注意！】上面第二步提到的按F12的方法现在已经看不到正常的 `getIndex` 网址了，直接在下面代码的基础上改动，「type=uid&value=23XXXXXXXX」这串Value变成想导出的人的数字ID即可。看起来 `containerid` 这个值并不重要。
 
 ``` bash
 #!/bin/bash
@@ -64,11 +64,11 @@ done
 
 　保存好以后记得在同级文件夹下建个名叫「result」的子文件夹，用来存放下载的结果。
 
-　在（Windows的）PowerShell里面`cd`到脚本所在目录，然后执行即可。
+　在（Windows的）PowerShell里面 `cd` 到脚本所在目录，然后执行即可。
 
 ![execute sh](http://lanternd.qiniudn.com/Pic4Post/weibo-export/execute.png)
 
-　我有723条微博，大概用了3-4分钟下完。然后result会有73个`.json`文件（微博数除以10再向上取整）。
+　我有723条微博，大概用了3-4分钟下完。然后result会有73个 `.json` 文件（微博数除以10再向上取整）。
 
 ![downloading](http://lanternd.qiniudn.com/Pic4Post/weibo-export/downloading.png)
 
@@ -78,9 +78,9 @@ done
 
 　至于说到Python的代码似乎就有点魔性了，因为中文编码让我比较头疼。总之我下面的代码好使，但可能有更简洁的办法。
 
-　原答主贴的代码是Python 2.7的，而且都是`print`函数，我在这里用的是Python 3.5，直接把格式化后的`json`写到`.html`文件里，然后就可以直接看了。当然，Print出来再粘到`.html`文件里会省去不少在编码上出现问题的麻烦。
+　原答主贴的代码是Python 2.7的，而且都是 `print` 函数，我在这里用的是Python 3.5，直接把格式化后的 `json` 写到 `.html` 文件里，然后就可以直接看了。当然，Print出来再粘到 `.html` 文件里会省去不少在编码上出现问题的麻烦。
 
-``` Python 
+``` python 
 #!/usr/bin/python
 # coding=utf-8
 
@@ -143,7 +143,7 @@ img.orig{
 }
 ```
 
-　最后出来的`.html`文件在**浏览器中打开**，然后保存网页或者打印成PDF格式即可。因为我大都是Instagram的图，最后出来的PDF有70MB之多。把PDF收好就OK，任务完成。
+　最后出来的 `.html` 文件在**浏览器中打开**，然后保存网页或者打印成PDF格式即可。因为我大都是Instagram的图，最后出来的PDF有70MB之多。把PDF收好就OK，任务完成。
 
 ## 缺点
 
