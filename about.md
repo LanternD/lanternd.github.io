@@ -125,9 +125,6 @@ id: about
 
 > 
 >  <p class="about-icon">
-    <a href="{{ site.author.weibo }}" target="_blank" title="微博">
-      <i class="fa fa-weibo fa-3x"></i>
-    </a>  
     <a href="{{ site.author.twitter }}" target="_blank" title="Twitter">
      <i class="fa fa-twitter-square fa-3x"></i>
     </a>  
