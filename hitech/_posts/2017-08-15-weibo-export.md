@@ -10,6 +10,8 @@ date: 2017-08-15 22:27:34
 
 <!--「http://lanternd.qiniudn.com/Pic4Post/」-->
 
+![title pic](http://lanternd.qiniudn.com/Pic4Post/weibo-export/2017-08-15-weibo.png)
+
 ## 一退保平安
 
 　我不是「原教旨反微博玩家」。但我也不是特别喜欢微博，主要原因：

@@ -10,6 +10,8 @@ date: 2017-06-15 22:16:00
 
 <!--「http://lanternd.qiniudn.com/Pic4Post/」-->
 
+![titile pic](http://lanternd.qiniudn.com/Pic4Post/wechat-mp-reincarnation/2017-06-10-wechat.png)
+
 ## 才想起来
 
 　大概一周前读到了Shuiba.co的《[关于网络，也关于人生](https://blog.shuiba.co/about-web-about-life)》。似乎大伙都在远离微信公众平台的趋势，坚持在独立Blog的写作。
