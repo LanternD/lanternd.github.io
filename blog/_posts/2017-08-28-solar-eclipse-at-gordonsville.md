@@ -29,10 +29,10 @@ date: 2017-08-28 22:27:34
 　一开始选的地方是Cabondale，在Illinois的最南边。一个是它离我们相对比较近，另一个是它离日食的两个最佳观测点之一Greatest Duration（GD）比较近。Lansing几乎就在两点连线的垂直平分线上。
 
 > 两个最佳观测点：
+> 　
+> **Greatest Eclipse** (GE). This is the instant when the axis of the Moon's shadow cone passes closest to Earth's center. 
 > 
-> - **Greatest Eclipse** (GE). This is the instant when the axis of the Moon's shadow cone passes closest to Earth's center. 
-> 
-> - **Greatest Duration** (GD). This is the location along the center line of the path of totality where totality lasts the longest.
+> **Greatest Duration** (GD). This is the location along the center line of the path of totality where totality lasts the longest.
 
 　靠近这两个点还是很有必要的，因为在Oregon西海岸那边的日全食时间要比GD少40秒！
 
@@ -182,7 +182,9 @@ date: 2017-08-28 22:27:34
 
 　我们挑了一块前景没有什么遮挡的草坪，把椅子各种东西搬过来。
 
-　我们旁边是一拨老美，其中有位从Alabama来的天文爱好者，他架了两部天文望远镜，每个都是800 mm以上焦距的（具体没记住），还还配备了赤道仪，或者叫「Sky Tracker」，也就是说设置好以后太阳可以一直处于视场的中心。除了这位天文爱好者老美以外，剩下的好像都是陪他来玩的，和平常Party一样吃东西聊天，对我们几个亚洲「老外」不是很感兴趣。
+　我们旁边是一拨老美，其中有位从Alabama来的天文爱好者，他架了两部天文望远镜，每个都是800 mm以上焦距的（具体没记住），还还配备了赤道仪，或者叫「Sky Tracker」，也就是说设置好以后太阳可以一直处于视场的中心。除了这位天文爱好者老美以外，剩下的好像都是陪他来玩的，和平常Party一样吃东西聊天，对我们几个亚洲「老外」不是很感兴趣。下图左边戴帽子的小哥就是天文爱好者。
+
+![enthusiast](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-5.jpg)
 
 　下图是日食开始前在他天文望远镜中看到的太阳。不同的太阳滤镜由于透过的光频率不同，因而能看到不同「颜色」的太阳，我们的是比较平淡无色的太阳，而他们的是火红火红的太阳。实际上细节比图片上要多，可以清晰看到太阳黑子，不过手机拍不出来。
 
@@ -214,7 +216,7 @@ date: 2017-08-28 22:27:34
 
 　到了只剩下「日牙」的时候天空开始明显地暗下来了。这时候有一种「三体人」的感觉——太阳在远离我们这颗行星，光变得暗淡无力。短短几分钟内，环境亮度大约从平时日落前1小时变成日落时的亮度。
 
-**进入日全食时刻**！
+　**进入日全食时刻**！
 
 　取景器里面的月牙逐渐消失，我赶紧摘下了罩在镜头前的滤镜。这时候就该全程不加滤镜拍摄了！然而坑爹的是对焦又不知道对哪里去了，我只好颤抖着手慢慢拧对位置。这时候太阳已经变成了耀眼的一个点，直接用眼睛看还是很痛苦。这对焦过程让太阳在我眼里留下了好长时间的残留影像。
 
