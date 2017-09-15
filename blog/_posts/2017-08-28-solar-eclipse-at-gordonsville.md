@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 田州戈登镇的逐日
+title: 田州戈登镇的日食追逐
 description: 标题有点奇葩，总的来说就是记录在Tennessee的Gordonsville看日食的经历。众所周知2017年8月21日美国有X年难得一见的日全食，我们也按捺不住体验这神奇的自然奇观，所以特地驱车前往观看。长文慎点。附带巴德膜滤镜制作过程。共20张图，预计流量9.00 MB。
 permalink: /solar-eclipse-at-gordonsville/
 categories: [blog, 视·界]
@@ -86,7 +86,7 @@ date: 2017-08-28 22:27:34
 ![canon 24-105](http://whitemetal.com/canon/ef_24_105_40/canon_L_%20039_1280.jpg)
 （图片来源：[whitemetal](http://whitemetal.com/canon/ef_24_105_40/)）
 
-接着大叔又拿出了一个二手[EF 75-300 mm](https://www.amazon.com/Canon-75-300mm-4-5-6-Telephoto-Cameras/dp/B00004THD0/ref=sr_1_13?ie=UTF8&qid=1504056443&sr=8-13&keywords=EF%2075-300%20mm)的渣画质镜头，告诉我这个100刀，又拿出了个二手[EF 100-400 mm](https://www.bhphotovideo.com/bnh/controller/home?A=details&O=&Q=&ap=y&c3api=1876,%7Bcreative%7D,%7Bkeyword%7D&gclid=Cj0KCQjwoZTNBRCWARIsAOMZHmFHTkbwghlbHYBXeRLRHCM93K3gw1AnQxkdadDBhsjifQkezNPX_4waAmR2EALw_wcB&is=USA&m=Y&sku=162616)告诉我800刀。
+　接着大叔又拿出了一个二手[EF 75-300 mm](https://www.amazon.com/Canon-75-300mm-4-5-6-Telephoto-Cameras/dp/B00004THD0/ref=sr_1_13?ie=UTF8&qid=1504056443&sr=8-13&keywords=EF%2075-300%20mm)的渣画质镜头，告诉我这个100刀，又拿出了个二手[EF 100-400 mm](https://www.bhphotovideo.com/bnh/controller/home?A=details&O=&Q=&ap=y&c3api=1876,%7Bcreative%7D,%7Bkeyword%7D&gclid=Cj0KCQjwoZTNBRCWARIsAOMZHmFHTkbwghlbHYBXeRLRHCM93K3gw1AnQxkdadDBhsjifQkezNPX_4waAmR2EALw_wcB&is=USA&m=Y&sku=162616)告诉我800刀。
 
 　我偷偷查了一下Amazon发现二手的75-300是70几块钱，想想差价30块就当运费了，然后一咬牙买了下来。毕竟拍个太阳画质并不是很重要。该镜头的第一块玻璃后面有个硕大的灰尘——不过我也无所谓了。
 
