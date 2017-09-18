@@ -21,7 +21,7 @@ url: https://dlyang.me/
 feed: /rss.xml
 author_info: <a href="https://dlyang.me/">LanternD</a>
 
-# 作者信息，不要的就自己删除掉吧，以及about.html页面里面的。
+# 作者信息，不要的就自己删除掉吧，以及about.md页面里面的。
 author: 
   name: LanternD
   email: yangdavid028@gmail.com
