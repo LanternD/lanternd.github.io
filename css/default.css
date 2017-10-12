@@ -567,11 +567,10 @@ blockquote{
   .footer-navi {
     text-align:right;
     margin-right:4%;
-    margin-bottom:-43px;
-    margin-top: 22px;
+    margin-bottom:-25px;
   }
   .footer-navi a{
-    color:#808080;
+    color:#868686;
     text-decoration: none;
   }
 

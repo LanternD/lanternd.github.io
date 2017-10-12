@@ -23,7 +23,8 @@ layout: default
   {% endif %}
 
   {{ content }}
-  
+
+
   <blockquote style="margin-bottom:1%">
     <p>
       <strong>LanternD</strong>  <br>
@@ -31,6 +32,12 @@ layout: default
   </blockquote>
 
 <hr>
+
+<div class="footer-navi">
+  <a href="/archive/"><i class="fa fa-archive"></i> 时间线</a>　
+  <a href="/tags/"><i class="fa fa-tags"></i> 标签云</a>
+</div>
+
 <div class="post-tag">
   {% if page.tags.size > 0 %}
   <i class="fa fa-tags"></i> 标签：
@@ -39,7 +46,9 @@ layout: default
       <span class="label"><a href="/tags/#{{tag}}">{{ tag }}</a></span>
     {% endfor %}
   {% endif %}
+
 </div>
+
 
 {% include pagination.html %}
 {% include comment.html %}
