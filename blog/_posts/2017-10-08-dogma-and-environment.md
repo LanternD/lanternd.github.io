@@ -8,7 +8,7 @@ tags: [养生, 理论, 医学, 常识]
 date: 2017-10-08 23:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-3.jpg」-->
+![Dogma-food](http://lanternd.qiniudn.com/Pic4Post/dogma-and-environment/dogma.png)
 
 　事情从我妈来美国玩开始。那天我和她去逛超市，路过摆蘑菇的货架，她说：「不要买蘑菇，会体寒的」。无独有偶，在卖西兰花（还是花椰菜？白色的那种）她又说：「这个也别买了」。苦瓜、竹笋什么同理可证。
 <!--「http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-3.jpg」-->

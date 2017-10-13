@@ -4,7 +4,7 @@ title: 田州戈登镇的日食追逐 · 堵车篇
 description: 上一篇文章的花絮类似物。众所周知2017年8月21日美国有X年难得一见的日全食，我们也按捺不住体验这神奇的自然奇观，所以特地驱车前往观看。结束后遭遇了我人生中难忘的一次堵车。
 permalink: /solar-eclipse-at-gordonsville-traffic-jam/
 categories: [blog, 视·界]
-tags: [日食, 堵车]
+tags: [日食, 堵车, 游记]
 date: 2017-09-13 22:27:34
 --- 
 

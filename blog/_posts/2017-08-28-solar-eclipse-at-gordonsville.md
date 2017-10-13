@@ -4,7 +4,7 @@ title: 田州戈登镇的日食追逐
 description: 标题有点奇葩，总的来说就是记录在Tennessee的Gordonsville看日食的经历。众所周知2017年8月21日美国有X年难得一见的日全食，我们也按捺不住体验这神奇的自然奇观，所以特地驱车前往观看。长文慎点。附带巴德膜滤镜制作过程。共20张图，预计流量9.00 MB。
 permalink: /solar-eclipse-at-gordonsville/
 categories: [blog, 视·界]
-tags: [日食, 准备, 滤镜, 加油站, 天文]
+tags: [日食, 准备, 滤镜, 加油站, 天文, 游记]
 date: 2017-08-28 22:27:34
 --- 
 

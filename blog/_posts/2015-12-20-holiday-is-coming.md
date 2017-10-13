@@ -4,7 +4,7 @@ title: 收拾行囊和心情，准备穿越去
 description: 假期的旅程马不停蹄地开始啦。
 permalink: /holiday-is-coming/
 categories: [blog, 视·界]
-tags: [旅行, 寒假, 美国, 横穿]
+tags: [旅行, 寒假, 美国, 游记]
 date: 2015-12-20 22:55:00
 --- 
 
