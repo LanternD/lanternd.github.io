@@ -37,7 +37,7 @@ date: 2017-10-25 22:34:56
 
 　下一步，可以感受一下我们常用的复制粘贴剪切的快捷键： `Ctrl+c` 、 `Ctrl+v` 、 `Ctrl+x` 。有没有觉得手腕得扭一下才能按得到？但是如果用Caps Lock代替了Ctrl键呢？有没有觉得特别符合人体工学？！
 
-　所以我才有了一种想见恨晚的感觉，\*为什么从来没有想过用Caps Lock代替了Ctrl键呢？\*
+　所以我才有了一种想见恨晚的感觉， **为什么从来没有想过用Caps Lock代替了Ctrl键呢？**
 
 
 ## 更换方法
@@ -58,7 +58,7 @@ date: 2017-10-25 22:34:56
 
 ---
 
-　WhatPulse还能帮忙记录按\*快捷键\*的数据，我当年的快捷键那是各种组合肆意变换，现在只剩下Ctrl开头的为主了……这周的统计数据如下：
+　WhatPulse还能帮忙记录按 **快捷键** 的数据，我当年的快捷键那是各种组合肆意变换，现在只剩下Ctrl开头的为主了……这周的统计数据如下：
 
 ![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-key-combo.png "WhatPulse!截图 - 快捷键")
 
