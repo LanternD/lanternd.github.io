@@ -9,9 +9,12 @@ date: 2017-10-25 22:34:56
 ---
 
 
-# 前言
+# 　
 
-　折腾Emacs除了为了提高编程效率以外还为了实现文字编辑工作的大一统。纯文本、Markdown、LaTeX，这些都是我平时会用到的文本输出修饰（Markup）语言，除了格式外我还在各种平台书写东西：Evernote，Google Docs和StackEdit等等，本地有Sublime Text负责日常文本小修改。
+
+## 前言
+
+　折腾Emacs除了为了提高编程效率以外还为了实现文字编辑工作的大一统。纯 文本、Markdown、LaTeX，这些都是我平时会用到的文本输出修饰（Markup）语 言，除了格式外我还在各种平台书写东西：Evernote，Google Docs和StackEdit 等等，本地有Sublime Text负责日常文本小修改。
 
 　事实上我用了很多时去间学习和使用各种工具，用不同的软件处理不同的文件，如TeXStudio写LaTeX等等。那么到底有没有必要把他们统一起来呢？哪个更好我没法下结论，但是首先来尝试一下不同的可能性再说。
 
@@ -20,7 +23,7 @@ date: 2017-10-25 22:34:56
 　然而Emacs的上手难度复杂，学习曲线奇异，在中文Blog不太想写太技术性的东西，所以这里没打算介绍我的学习历程。感兴趣可以看看[英文Blog](https://en.dlyang.me)。
 
 
-# 后言舞池
+## 后言舞池
 
 　主要想说说长期以来被我忽视的Caps Lock键。Caps Lock在角落偏安一隅。对我来说，他就像一座孤岛，被一群高频按键所围绕。
 
@@ -37,7 +40,7 @@ date: 2017-10-25 22:34:56
 　所以我才有了一种想见恨晚的感觉，\*为什么从来没有想过用Caps Lock代替了Ctrl键呢？\*
 
 
-# 更换方法
+## 更换方法
 
 　这种事前人早就总结好了，可参考文章[EmacsWiki: Moving The Ctrl Key](https://www.emacswiki.org/emacs/MovingTheCtrlKey#toc14)。我已经直接用锚点跳到Windows如何设置了。因为对于用Linux的朋友来说，这好像不是什么难事，而OS X可以在设置里直接改。
 
@@ -57,7 +60,7 @@ date: 2017-10-25 22:34:56
 
 　WhatPulse还能帮忙记录按\*快捷键\*的数据，我当年的快捷键那是各种组合肆意变换，现在只剩下Ctrl开头的为主了……这周的统计数据如下：
 
-![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-combo.png "WhatPulse!截图 - 快捷键")
+![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-key-combo.png "WhatPulse!截图 - 快捷键")
 
 　最后再安利一下Org-mode，上手可能需要一些时间，但是一旦适应了那么编辑起来就是行云流水了。不是程序员也可以用，被虐过之后也可以成小半个程序员了。可以看下面的链接继续被安利……
 
