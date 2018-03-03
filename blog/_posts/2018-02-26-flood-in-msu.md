@@ -3,9 +3,9 @@ layout: post
 title: 冬天里的洪水
 description: 冬天快要（并没有）结束的时候学校里面发洪水了……
 permalink: /flood-in-msu/
-categories: [Blog, 视·界]
+categories: [Blog, 视・界]
 tags: [洪水, MSU, 冬天]
-date: 2018-01-03 12:34:56
+date: 2018-02-26 12:34:56
 ---
 
 # 　
@@ -54,7 +54,7 @@ date: 2018-01-03 12:34:56
 
 　我也没怎么到学校围观，上学路上会路过一条比较高的路，所以只能从桥上瞄一眼洪水。某天晚些时候我路过了Shaw Hall（学生宿舍兼食堂），我到了它河对岸，拍了一张河边夜景。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/flood-in-msu/shaw-hall-nocturne.jpg "Shaw Nocturne")
+![img](http://lanternd.qiniudn.com/Pic4Post/flood-in-msu/shaw-hall-nocturne.jpg "lazy cat")
 
 　（iPhone的夜景能力真是渣渣，为了快门速度牺牲画质，后期加曝光的时候出来的全都是色块，完全没有细节可言。不过其他手机估计也差不多。）
 
