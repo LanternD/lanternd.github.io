@@ -64,6 +64,8 @@ do
 done
 ```
 
+　（**2018.03.05 Update**： 评论区中**D.D.**提到`containerid`也是有用的，以及在Firefox浏览器用F12还是可以看到相关信息，总之优先尝试F12这种方法吧。）
+
 　保存好以后记得在同级文件夹下建个名叫「result」的子文件夹，用来存放下载的结果。
 
 　在（Windows的）PowerShell里面 `cd` 到脚本所在目录，然后执行即可。
@@ -127,6 +129,8 @@ with open('example.html', 'wb') as f_html:
     print('Task finished.')
     f_html.close()
 ```
+
+　（**2018.03.05 Update**： 评论区**Zhang Garry**表示上面Python代码中，`items = json.loads(content)`需要修改为`items = json.loads(content).get('data')`才可以正常提取`json`数据。我之后没试过了，大家可以尝试一下。）
 
 - `default.css`
 
