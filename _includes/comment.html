@@ -52,7 +52,7 @@
 </script>
 
 <!-- 以下代码用于获取Disqus的评论条数 -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   /* * * CONFIGURATION VARIABLES * * */
   var disqus_shortname = 'lanternd';
 
@@ -63,7 +63,7 @@
     s.src = '//' + disqus_shortname + '.disqus.com/count.js';
     (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
   }());
-</script>
+</script> -->
 
 <!-- Disqus的js代码 End-->    
 
@@ -82,7 +82,8 @@
     <div style="margin-bottom:20px" class="right"></div>
       <a href="#comment-disqus" class="comment" onclick="toggleDisqusComments('#disqus_container');";> 
         查看<strong>Disqus</strong>评论
-      </a><span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span>
+      </a>
+      <!-- <span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span> -->
     <div id="disqus_thread"></div>
 
   </div>
