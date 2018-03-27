@@ -60,7 +60,11 @@ a.external:hover {background-position:right -15px;}
 .entry-date {text-align:center;color:#999;margin-bottom:30px;margin-top:20px;font-size:14px;}
 
 h2 {font-size:22px;font-weight:bold;margin-bottom:25px;}
+h2.page-h2 {color: #323232;}
+h2.page-h2:before {content:"⌬ ";margin-left: -15px; padding-right: 7px;}
+h3.page-h3 {color: #18453B;}
 h3 {font-size:18px;font-weight:bold;margin-bottom:25px;}
+h3.page-h3:before {content:"☘ ";margin-left: -15px; padding-right: 7px;}
 h4,h5,h6 {font-weight:bold;margin-bottom:15px;}
 p {margin-bottom:30px;line-height:1.8em;}
 code {background:#eee;border:1px solid #ccc;padding:0 5px;font-family:"Courier";line-height:14px;font-size:14px;word-wrap:break-word; }
@@ -180,7 +184,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex ul li.on{background-color:#f5f5f5;}
 #menuIndex li.h1{padding-left:0;margin-bottom:10px;margin-top:-5px;}
 #menuIndex li.h1 a{font-size:18px;font-weight:bold;}
-#menuIndex li.h3{padding-left:15px;margin-top: 0px;}
+#menuIndex li.h3{padding-left:10px;margin-top: 0px;}
 
 .home-menu { position:absolute; top:15px; left:15px; z-index:5; font-size:0; }
 .home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#000; }
@@ -192,9 +196,12 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .home-contact img { width:18px;border-width: 2px;border-color: #f5f5f5;border-radius: 1px; }
 .home-contact i {margin-right: 3px;}
 
+/* Top navi */
 #top-toc-table .h1 {font-size: 20px; font-weight: bold;}
-#top-toc-table .h2 {font-size: 18px; margin: 5px 0px 10px 5px;}
-#top-toc-table .h3 {font-size: 16px; margin: 5px 0px 10px 5px;}
+#top-toc-table .toc-h2 {font-size: 18px; margin: 5px 0px 10px 5px;}
+#top-toc-table .toc-h3 {font-size: 16px; margin: 5px 0px 10px 5px;}
+
+li.toc-h3 {margin-left: 5px;}
 
 /*自适应布局控制*/
 @-ms-viewport {

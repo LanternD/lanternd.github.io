@@ -13,6 +13,8 @@
 
 {{ content }}
 
+
+
 <script type="text/javascript">
 (function(){
   var narrow_screen = $(this).width() < 1025 ? true : false;
@@ -31,12 +33,14 @@
             var h2item = {};
             h2item.name = $(item).text();
             h2item.id = 'menuIndex'+index;
+            item.setAttribute("class", "page-h2");
             h2.push(h2item);
             h2index++;
           }else{
             var h3item = {};
             h3item.name = $(item).text();
             h3item.id = 'menuIndex'+index;
+            item.setAttribute("class", "page-h3");
             if(!h3[h2index-1]){
               h3[h2index-1] = [];
             }
@@ -50,18 +54,18 @@
 
       function genTmpl(){
         var h1txt = $('h1').text();
-        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#">' + h1txt + '</a></li>';
+        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#' + h1txt + '">' + h1txt + '</a></li>';
 
         var heading = initHeading();
         var h2 = heading.h2;
         var h3 = heading.h3;
-        console.log(heading);
+        // console.log(heading);
         for(var i=0;i<h2.length;i++){
-          tmpl += '<li><a href="#" data-id="'+h2[i].id+'">+ '+h2[i].name+'</a></li>';
+          tmpl += '<li><a href="#" data-id="'+h2[i].id+'">⌬ '+h2[i].name+'</a></li>';
 
           if(h3[i]){
             for(var j=0;j<h3[i].length;j++){
-              tmpl += '<li class="side h3"><a href="#" data-id="'+h3[i][j].id+'">- '+h3[i][j].name+'</a></li>';
+              tmpl += '<li class="side h3"><a href="#" data-id="'+h3[i][j].id+'">↪ '+h3[i][j].name+'</a></li>';
             }
           }
         }
