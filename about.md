@@ -150,7 +150,7 @@ id: about
       <i class="fa fa-youtube-square fa-3x"></i>
     </a></p>
 >   
->  [ 目前仅在部分SNS活跃 ( Instagram / FB / Twi / Flickr ) ]
+>  [ 目前仅在部分SNS活跃 ( Instagram / FB / ~~Twi~~ / Flickr ) ]
 >   
 >  Email：lanternd1028 AT gmail.com
 >   
@@ -222,7 +222,7 @@ id: about
 > 
 > 2014.09.06. 发现学院网页里面可以添加自己的个人主页，于是突发奇想拥有一个自己的网站，并开始搜索资料
 > 
-> 2014.09.08. 17:25. 在Godaddy购买域名<a href="http://dlyang.me">dlyang.me</a>，有效期一年
+> 2014.09.08. 17:25. 在Godaddy购买域名<a href="https://dlyang.me">dlyang.me</a>，有效期一年
 > 
 > 2014.09.08. 17:55. 在Laoxuehost购买美国Los Angeles主机，有效期一年
 > 
@@ -230,7 +230,7 @@ id: about
 > 
 > 2014.09.08. 20:56. Wordpress安装成功，自动发表Hello World日志
 > 
-> 2014.09.14. 16:50. Wordpress多站点模式配置成功，<a href="http://en.dlyang.me">en.dlyang.me</a>英文站正式成立
+> 2014.09.14. 16:50. Wordpress多站点模式配置成功，<a href="https://en.dlyang.me">en.dlyang.me</a>英文站正式成立
 > 
 > 2014.09.16. 把DNS解析从Dnspod转移到Cloudflare下
 > 
@@ -265,11 +265,13 @@ id: about
 > 2017.05.21. 加入了搜索功能，宽屏幕下搜索按钮在右下角，窄屏幕时在顶部导航栏。但目前是匹配结果按时间排序，所以比较低端，将在未来调整完善
 > 
 > 2017.06.20. 侧边栏加入了微信公众号订阅二维码的弹出框
+> 
+> 2018.03.21. 去掉了Disqus评论的计数，这样加载页面的时候完全不会去访问Disqus的服务器了。
 </div>
 
 -
 
-「About」页面最后更新: 2017.06.20
+「About」页面最后更新: 2018.03.21
 
 ---
 
