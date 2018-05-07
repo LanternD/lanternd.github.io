@@ -12,7 +12,7 @@
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <author>LanternD</author>
-                <description>&lt;pre&gt;{{ post.description }}&lt;/pre&gt; &lt;br&gt; &lt;br&gt;{{ post.content | xml_escape }}</description>
+                <description>&lt;pre&gt;{{ post.description }}&lt;/pre&gt; {{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date: "%a, %d %b %Y %H %z" }}</pubDate>
                 <link>{{ site.url }}{{ post.url | remove:'/' }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url | remove:'/'}}</guid>
