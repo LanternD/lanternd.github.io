@@ -24,15 +24,15 @@ id: about
 > 
 > 喜欢DIY，目前受阻于学业和科研对时间的暴征横敛。 
 > 
-> 玩摄影，在拍照之外一般只能远观器材。 
+> 玩摄影，在拍照之外一般远观器材。 
 > 
 > 会用很多软件，没几个精通的。 
 > 
-> 喜欢给文件夹和相册等起有意思的名字，结果还得花不少时间去熟记。
+> 喜欢给文件夹和相册等起有意思的名字，结果还得花不少时间去熟记。 
 > 
-> 百分制下，模仿能力仅40，表演能力为30，即兴表演能力20。 
+> 百分制下，模仿能力仅50，表演能力为40，即兴表演能力30。 
 > 
-> 唱歌水平为负数，自娱自乐和写段子的能力可能比前面加起来要多。 
+> 唱歌水平浅不可测，自娱自乐和写段子的能力可能比前面加起来要多。 
 > 
 > 曾经玩过大量游戏，相关记忆存档正逐渐被时间删除。 
 > 
@@ -42,7 +42,7 @@ id: about
 > 
 > [喵星人](/hakuna-matata/)观察员，不定期进行全方位无死角观察。 
 > 
-> 拾获[扫描仪](/scanner-found/)一台，长期与其进行对各种东西和地点的test。
+> 拾获「扫描仪」一台，长期与其进行对各种东西和地点的test。 
 > 
 > 打多羽毛球，导致身体左右不对称，目前在努力挽回。 
 > 
@@ -58,7 +58,7 @@ id: about
 > 
 > 现在在打Paper怪升级，学海无涯不影响我攒经验和升级装备。 
 > 
-> 坚持[Instagram](https://instagram.com/lantern_d/)每**三**日一图，实际完成度差强人意。 
+> 坚持[Instagram](https://instagram.com/lantern_d/)，实际完成度差强人意。 
 > 
 > 永远对生活报以热情，因为它会像镜子一样，把热再返回来。　
 > 
@@ -126,31 +126,32 @@ id: about
 > 
 >  <p class="about-icon">
     <a href="{{ site.author.twitter }}" target="_blank" title="Twitter">
-     <i class="fa fa-twitter-square fa-3x"></i>
+      <i class="fab fa-twitter-square fa-3x"></i>
     </a>  
     <a href="{{ site.author.github }}" target="_blank" title="Github">
-      <i class="fa fa-github-square fa-3x"></i>
+      <i class="fab fa-github-square fa-3x"></i>
     </a>  
     <a href="{{ site.author.facebook }}" target="_blank" title="Facebook">
-      <i class="fa fa-facebook-square fa-3x"></i>
+      <i class="fab fa-facebook-square fa-3x"></i>
     </a>  
     <a href="{{ site.author.flickr }}" target="_blank" title="Flickr">
-      <i class="fa fa-flickr fa-3x"></i>
+      <i class="fab fa-flickr fa-3x"></i>
     </a>  
+    <a href="{{ site.author.youtube }}" target="_blank" title="YouTube">
+      <i class="fab fa-youtube-square fa-3x"></i>
+    </a>
     <a href="{{ site.author.instagram }}" target="_blank" title="Instagram">
-      <i class="fa fa-instagram fa-3x"></i>
+      <i class="fab fa-instagram fa-3x"></i>
     </a>  
-    <a href="{{ site.author.googleplus }}" target="_blank" title="Google+">
-      <i class="fa fa-google-plus-square fa-3x"></i>
+    <a href="{{ site.author.500px }}" target="_blank" title="500px">
+      <i class="fab fa-500px fa-3x"></i>
     </a>  
     <a href="{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
-      <i class="fa fa-linkedin-square fa-3x"></i>
+      <i class="fab fa-linkedin-square fa-3x"></i>
     </a>
-    <a href="{{ site.author.youtube }}" target="_blank" title="YouTube">
-      <i class="fa fa-youtube-square fa-3x"></i>
-    </a></p>
+    </p>
 >   
->  [ 目前仅在部分SNS活跃 ( Instagram / FB / ~~Twi~~ / Flickr ) ]
+>  [ 目前仅在部分SNS活跃 ( Instagram / ~~Facebook~~ / ~~Twi~~ / 500px / Flickr ) ]
 >   
 >  Email：lanternd1028 AT gmail.com
 >   
@@ -266,14 +267,16 @@ id: about
 > 
 > 2017.06.20. 侧边栏加入了微信公众号订阅二维码的弹出框
 > 
-> 2018.03.21. 去掉了Disqus评论的计数，这样加载页面的时候完全不会去访问Disqus的服务器了。
+> 2018.03.21. 去掉了Disqus评论的计数，这样加载页面的时候完全不会去访问Disqus的服务器了
 > 
-> 2018.03.27. 加入了锚链接，增加了二、三级标题前的Bullets。
+> 2018.03.27. 加入了锚链接，增加了二、三级标题前的Bullets
+> 
+> 2018/06.03 更新了CSS字体设置，尤其是英文字体。消灭了微软雅黑里面超宽的单引号
 </div>
 
 -
 
-「About」页面最后更新: 2018.03.27
+「About」页面最后更新: 2018.06.03
 
 ---
 

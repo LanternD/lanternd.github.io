@@ -116,7 +116,8 @@ cd C:\xampp\php
 
 　使用过程中遇到个Bug。在Disqus的[Import portal](https://import.disqus.com)里面给我提示：
 
-> - disqus.xml
+> &#8722; disqus.xml
+> 
 > XML sytax error: Input is not proper UTF-8, indicate encoding !
 > Bytes: 0xE6 0xB7 0x8B 0xE6, line 3129, column 38 (line 3129)
 

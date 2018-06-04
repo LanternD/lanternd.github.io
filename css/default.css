@@ -50,7 +50,7 @@ table {
 }
 
 /***********default settings**********/
-body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
+body {font-family: "Helvetica Neue", "Helvetica", "Segoe UI", "Tahoma", "freesans", "STXihei", "华文细黑", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", "文泉驿微米黑", "Microsoft YaHei", "微软雅黑", "Arial", "sans-serif"; font-size:16px;}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
 a.external {padding-right:13px;background:url('/img/icons.gif') no-repeat right 1px;}
@@ -94,7 +94,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:2.0em;}
 .entry blockquote{padding: 10px 10px;margin: 0 0 20px;font-size: 15px;border-left: 5px solid #eee}
-.entry blockquote p{margin-bottom: 0px;line-height: 1.5em;}
+.entry blockquote p{margin-bottom: 0px;line-height: 1.5em; color: #656565; font-size: 15px;}
 .entry div#bq-about p{margin-bottom: 1.5em;line-height: 1.5em;margin-left: 0.8em;}
 .entry div#bq-about-edu p{margin-bottom: 0.5em;line-height: 1.5em;margin-left: 0.8em;}
 .entry .about-title{font-size:27px;font-weight:bold;margin-bottom:15px;color:#000;text-align:left;word-wrap: break-word;}
@@ -183,7 +183,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:5px;}
 #menuIndex ul li.on{background-color:#f5f5f5;}
 #menuIndex li.h1{padding-left:0;margin-bottom:10px;margin-top:-5px;}
-#menuIndex li.h1 a{font-size:18px;font-weight:bold;}
+#menuIndex li.h1 a{font-size:18px;font-weight:bold; line-height: 1.3em;}
 #menuIndex li.h3{padding-left:10px;margin-top: 0px;}
 
 .home-menu { position:absolute; top:15px; left:15px; z-index:5; font-size:0; }
