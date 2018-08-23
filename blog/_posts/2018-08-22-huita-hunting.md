@@ -11,15 +11,17 @@ date: 2018-08-22 12:29:26
 
 # 　
 
+
 ## 小型脊椎动物的天敌
 
 　小型脊椎动物在美国不难见到，除了各种鸟还有老鼠松鼠之类的。而它们最大的敌人——当然是人类。除了车祸以外，人类对他们主要是间接威胁；它们的另一个巨大的敌人就是看似萌系实则凶残的猫了。应该有很多文章分析过猫对小型动物的威胁。因此流浪猫的数量是要有效控制的。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-1.png "看似安分的灰塔")
+![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-1.jpg "看似安分的灰塔")
 
 　流浪猫活动范围广阔，行踪不定，搞埋伏的话小动物肯定是躲不起。我一直以为家猫应该位于频谱的另一侧——活动受限，行踪可循。应该对小动物没啥威胁。所以我通常放灰塔在阳台自由活动。
 
 　——直到它抓了一只小麻雀。
+
 
 ## 经过是这样的
 
@@ -31,7 +33,7 @@ date: 2018-08-22 12:29:26
 
 　于是我把灰塔抱了起来，然后它松了嘴；麻雀惊恐地朝窗外飞去，结果「Piaji」撞玻璃上了。蹦跶的时候还吓得拉出了两坨细屎——这真的是「吓屎了」。我感慨没有回声定位就是不靠谱。然后麻雀就不知所措定在玻璃边上，一动不动。如下图所示。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-2.png "懵逼的麻雀")
+![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-2.jpg "懵逼的麻雀")
 
 　我把灰塔弄进了房间锁上了门。然后去对付麻雀。看麻雀的站姿，我以为它的腿被咬瘸了，于是带上一次性手套以后我向麻雀慢慢靠近。我还以为它会老实被抓住，结果刚伸手它又开始扑腾了。看起来毫发无伤。应该是猫咬住了它脖子但是没有用力。
 
@@ -39,7 +41,7 @@ date: 2018-08-22 12:29:26
 
 　下一步就是放生了。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-3.png "放生之")
+![img](http://lanternd.qiniudn.com/Pic4Post/huita-hunting/ht-hunting-3.jpg "放生之")
 
 　放生前拍了个照，刚想切换成录像记录飞走的过程，结果一疏忽直接让它飞走了。它马力全开向西边飞去。我想给这一幕取名为《麻雀西游记》。
 
