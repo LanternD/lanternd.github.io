@@ -85,7 +85,7 @@ date: 2018-03-18 20:34:56
 
 ![img]({{site.img-hosting}}/Pic4Post/customized-folder-icon/method3-5.png "Method 3-5")
 
-　最后在补几张我的文件夹图。
+　最后再补几张我的文件夹图。
 
 ![img]({{site.img-hosting}}/Pic4Post/customized-folder-icon/overview1.png "Overview 1")
 

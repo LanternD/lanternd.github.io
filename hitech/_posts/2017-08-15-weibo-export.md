@@ -8,7 +8,7 @@ tags: [数据, 微博, 导出, 代码]
 date: 2017-08-15 22:27:34
 --- 
 
-<!--「{{site.img-hosting}}/Pic4Post/」-->
+
 
 ![title pic]({{site.img-hosting}}/Pic4Post/weibo-export/2017-08-15-weibo.png)
 

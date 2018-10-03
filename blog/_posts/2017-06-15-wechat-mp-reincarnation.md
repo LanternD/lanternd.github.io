@@ -8,7 +8,7 @@ tags: [微信, 公众平台, 推送, 更新]
 date: 2017-06-15 22:16:00
 --- 
 
-<!--「{{site.img-hosting}}/Pic4Post/」-->
+
 
 ![titile pic]({{site.img-hosting}}/Pic4Post/wechat-mp-reincarnation/2017-06-10-wechat.png)
 

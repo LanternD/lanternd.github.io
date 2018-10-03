@@ -8,7 +8,7 @@ tags: [Urgent Care, 急诊, 医院, 治疗, 外伤, 美国]
 date: 2017-06-11 22:16:00
 --- 
 
-<!--「{{site.img-hosting}}/Pic4Post/」-->
+
 
 ![title pic]({{site.img-hosting}}/Pic4Post/first-treatment-in-the-usa-hospital/2017-06-13-sutures.png)
 

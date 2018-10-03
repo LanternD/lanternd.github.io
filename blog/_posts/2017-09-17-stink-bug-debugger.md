@@ -8,7 +8,7 @@ tags: [杀虫, 捕捉, DIY]
 date: 2017-09-17 17:16:00
 --- 
 
-<!--「{{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-3.jpg」-->
+# 　
 
 ## 烦人的虫子
 
