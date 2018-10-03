@@ -18,7 +18,7 @@ date: 2018-09-25 21:46:21
 
 　我第一次遇上这种事的时候大概是本科时候玩人人期间。人人里面有个连续登陆X天的东西，显示在主页头像旁边。这个操作不算难，每天刷一下就好。难的当然是每天都完成。现在点进人人我还能找到当年的连续登陆纪录——287天。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/renren-login-streak.png "人人连续登陆")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/renren-login-streak.png "人人连续登陆")
 
 　我已记不清当我在第289天刷人人的时候发现前一天没有登陆人人时候的心情了，大概是有些懊恼和愤怒吧。圈子里有的是比我厉害的大神们，连续两三年都是有的。
 
@@ -43,13 +43,13 @@ date: 2018-09-25 21:46:21
 
 　Guardian成就可谓是谋事在人成事在天，因为Portal是公共的，每个人都能走到相应的位置把你的Portal打掉并据为己有。所以在玩家活跃的地带，想要长时间占有一个Portal比登天还难。于是游戏里就出现了两股势力：一股专门找些犄角旮旯人迹罕至的Portal占领，并定期给它「充电」，如果连续7天没人充电就会变成无人占领Portal；另一股势力则是「Guardian hunter」，他们专门到处找那些被长时间占领Portal并打掉，就是要气死你（他在游戏中并不会得到更多的物品）。当然这两股势力是有交集的，一个玩家可能既自己找Portal占着，同时又打别人的Portal。因为这是基于地理位置的游戏，当然就有人会作弊。有人甚至冒着被封号的危险，伪造自己的定位，只为把别人刷成就的Portal打掉……这类玩家大概就是在鄙视链的最底端了。关于这个知乎上有很多朋友[分享他们的相关经历](https://www.zhihu.com/question/53932743)。
 
-我曾经在兰辛村找到很多偏僻的Portal并占领之，然后静观其变拿成就，但是敌方阵营太过强大。几个月下来没有一个Portal能撑到20天。每次到附近城市转转的时候我都会占领一堆Portal并一直给它们充电。但是最坚挺的也就撑了70多天。我一度要放弃这个成就，直到有一次去北密（密歇根上半岛）玩的时候占了一堆Portal。那个地方玩家少，地广人稀，大家玩Ingress积极性没这么高，于是乎我可以持续不断地给Portal充电续命。终于在第二年（2017年）的雷锋节前后我拿到了Guardian成就的黑牌。就在拿完牌后的不到10天，我那个遗世独立、茕茕孑立形影相吊、不食人间烟火、民至老死而不相往来的Portal就被打掉了。真是捏了一把汗。既然奖杯到手，那就没啥可以牵挂的了。
+　我曾经在兰辛村找到很多偏僻的Portal并占领之，然后静观其变拿成就，但是敌方阵营太过强大。几个月下来没有一个Portal能撑到20天。每次到附近城市转转的时候我都会占领一堆Portal并一直给它们充电。但是最坚挺的也就撑了70多天。我一度要放弃这个成就，直到有一次去北密（密歇根上半岛）玩的时候占了一堆Portal。那个地方玩家少，地广人稀，大家玩Ingress积极性没这么高，于是乎我可以持续不断地给Portal充电续命。终于在第二年（2017年）的雷锋节前后我拿到了Guardian成就的黑牌。就在拿完牌后的不到10天，我那个遗世独立、茕茕孑立形影相吊、不食人间烟火、民至老死而不相往来的Portal就被打掉了。真是捏了一把汗。既然奖杯到手，那就没啥可以牵挂的了。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/ingress-guardian.png "Ingress Guardian Onyx Badge")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/ingress-guardian.png "Ingress Guardian Onyx Badge")
 
 　大概是由于围绕Guardian的这个圈子乱象丛生，江湖恩怨颇多，Ingress在今年4月2号取消了这个成就奖牌。后来的玩家再也拿不到这个奖牌了。不过玩家个人数据统计里面还是有一项「Max Time Portal Held」。我有一次回国的时候去乡下的某个村子里一个偏僻的地方占了一个Portal，正好有友军的一位大神在帮忙维护，现在我的这项统计数据已经到了252天了。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/ingress-stats.png "Personal Stats")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/ingress-stats.png "Personal Stats")
 
 　（↑Ingress同好玩家可以交流交流数据和故事哈。）
 
@@ -59,7 +59,7 @@ date: 2018-09-25 21:46:21
 
 　在17年的1月份这样，我终于搞到了Sojourner的白金牌，也就是连续Hack portal 180天。我踌躇满志，准备朝后半截旅程继续进发。转折点在2017年初的时候。学校举办了个Hackathon，两天之内要弄出点东西来。我貌似通宵了两个晚上弄那个东西，结果错过了Hack portal的时机。事实上我有机会Hack portal，也确实Hack了，也许是我那时候神情恍惚，算错了时间间隔，系统判定我不是连续的Hack。而之后我又连续2天Hack，但那个数字都没有变化的时候，我只好承认，我这辈子再也拿不到这个黑牌了。数字定格在198天。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/ingress-guardian.png "Ingress Sojourner Onyx Badge")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/ingress-guardian.png "Ingress Sojourner Onyx Badge")
 
 　那段时间我确实有点心灰意冷（仅在空闲的时候）。每当我掏出Ingress的时候，总有点失落。如果不是为了这个成就，我可能早就放弃这个游戏了。那是最后一根稻草，尽管这跟稻草很粗壮。198天和人人连续登陆的287天比看似并不是那么「出众」，但我得承认，我在Ingress里的这个遗憾可要比人人的大多了，因为两者的付出是完全不一样的：人人只需要点几下屏幕就能搞定，Ingress Sojourner则是凝聚了我几百公里的行走历程的。就像网上的一个段子说的：「付出感是谋杀感情的元凶」。
 
@@ -73,23 +73,23 @@ date: 2018-09-25 21:46:21
 
 　Keep主打运动社交，徽章系统比其他的运动App可要多得多。对于行走、骑行、跑步、健身课程等都分别对应有连续X天，连续X周这样的奖励。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/keep-badges-got.png "Keep里获得的徽章")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/keep-badges-got.png "Keep里获得的徽章")
 
 　我对Keep的态度和Ingress稍有不同，Ingress真的只是娱乐而已，对身体可不见得有好处，虽然在走路，但是走路看手机还伤眼呢，基本上是零和状态。而Keep里的运动那是货真价实的运动——背肌腹肌胸肌肱二三头肌……那可是真的在做了功。之前去弄「连续X天成就」主要还是为了完成任务。而我去完成Keep里的连续成就则是一种鞭策我去锻炼的手段。天天坐在电脑前还不运动那可真是很容易就小病缠身了。
 
 　我最多试过连续运动53天（每天目标可以修改，我是15分钟）。后来就断断续续，毕竟有时候要赶Deadline。时间充裕的时候我还是保证每天都去运动一下，夏天主要是户外走路、跑步、骑车，冬天则是练各种肌肉。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/keep-my-day-streak.png "Keep连续运动天数")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/keep-my-day-streak.png "Keep连续运动天数")
 
 　如果说Ingress那次让我一只脚迈出了坑，那Keep里面多次中断的「连续锻炼X天」成就则是让我另一只脚也踏出了坑。我现在几乎不会在意我连续运动了几天，也不会去挂机完成每天的任务。
 
 　现在唯一残留的念想就是完成「连续达标52周」的成就。我还在用我「强迫症」的最后一丝意念在挣扎。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/keep-unachieved-day-streak-badges.png "Keep连续31周达标")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/keep-unachieved-day-streak-badges.png "Keep连续31周达标")
 
 　目前是连续31周达标。离52周不太远了。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/x-continuous-days-achivement-predicament/keep-unachieved-day-streak-badges.png "Keep未获得的徽章")
+![img]({{site.img-hosting}}/Pic4Post/x-continuous-days-achivement-predicament/keep-unachieved-day-streak-badges.png "Keep未获得的徽章")
 
 　Keep里最难的徽章要数「连续运动1000天」了。统计显示，现在有97个人实现了连续运动1000天。如果一年前我看到这个数字，我会由衷敬佩这97个人，他们真是有超越常人的毅力。而现在我看到了，我只会说，这97个人可真无聊。
 

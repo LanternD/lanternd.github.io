@@ -12,7 +12,7 @@ date: 2016-04-08 23:43:34
 
 　我个人认为，收藏夹整理最关键的部分之一就是控制每一个收藏页面的**名字长度**——能用一个字母表示，就只用一个字母表示。对于那些Logo非常明显的网站，一个字母就已经足够了，比如知乎、CnBeta、维基百科、YouTube、TED、豆瓣等等，以及其他自己非常熟悉的——实在不行就两个字母。这样可以节省非常多的空间，因为收藏夹栏的长度是有限的，这样可以在很小的空间使用非常多的收藏页面。一些特殊情况，比如如果英文维基百科和中文维基百科都添加到收藏栏中，发现Logo都是一样的，但是可以简单用一个字区别它们，英文维基百科用「i」，中文维基百科用「维」（或者其他随便什么相关的名字）。
 
-![bookmark bar](http://lanternd.qiniudn.com/Pic4Post/bookmark-organization/bookmark-bar.png "My bookmark bar")
+![bookmark bar]({{site.img-hosting}}/Pic4Post/bookmark-organization/bookmark-bar.png "My bookmark bar")
 
 　我经常看到很多人打开浏览器后，上面仅有几个页面占据了整个收藏栏，看起来也是没有什么规律随便收藏的页面，这样还不如把收藏栏关掉算了。
 
@@ -28,13 +28,13 @@ date: 2016-04-08 23:43:34
 
 　第二点就是善用文件夹，这点应该不用多说，把同一大类分在同一个文件夹是最合适的方法，比如和专业相关的，和摄影相关的，和学术相关的，和健康相关的，还有新闻，社交网站，购物网站等等。分类做好了索引以后会非常快。
 
-![Folder](http://lanternd.qiniudn.com/Pic4Post/bookmark-organization/folder.png "Folder")
+![Folder]({{site.img-hosting}}/Pic4Post/bookmark-organization/folder.png "Folder")
 
 　文件夹名也是越短越好，用足够的几个字母就能够代替的东西就不要用多。比如在我这儿「PG」表示「Photography」，SNS用「SN」即可，Blog类就用「Blo」表示，健康相关的用「HL」，学术相关的用「Scho」，购物的是「ShP」……总之越短越好，还要不影响自己阅读，一看就知道是什么东西。
 
 　如果文件夹里的子项也控制好了，会发现菜单的宽度很小，东西很好找，一目了然。
 
-![Folder](http://lanternd.qiniudn.com/Pic4Post/bookmark-organization/msu-folder.png "Folder")
+![Folder]({{site.img-hosting}}/Pic4Post/bookmark-organization/msu-folder.png "Folder")
 
 　至于**子文件夹**可以酌情使用，比如某个分类涵盖范围太广，子文件夹可以让我我们思路清晰地寻找内容。比如我这里EE相关的内容下面还有「Low Power」和「High Power」的区别。
 

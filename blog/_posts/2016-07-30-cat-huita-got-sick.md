@@ -18,7 +18,7 @@ date: 2016-07-30 09:23:34
 
 　最后确认灰塔连猫草也不吃，决定最快速度让人帮忙送她去宠物医院。由于那天是周六，全城只有为数不多的几家医院开门所以也没得选择了，最后去了我们MSU自己的宠物「校医」。
 
-![Huita staring](http://lanternd.qiniudn.com/Pic4Post/cat-huita-got-sick/huita-stare.jpg)
+![Huita staring]({{site.img-hosting}}/Pic4Post/cat-huita-got-sick/huita-stare.jpg)
 
 　我忙完以后赶到宠物医院，收到的情况是：已经做完了基本的物理检查，体温104.4华氏度，高于正常水准。可能的原因是Infection（感染）、Inflammation（发炎）或者Cancer（癌症）。推荐做血液和X光检查。并被告知，血液检查要160刀，X光要180刀……似乎还推荐了尿液检查，但是多少钱忘记了。
 
@@ -42,7 +42,7 @@ date: 2016-07-30 09:23:34
 
 　这几天灰塔学会了个新技能，钻被子。以前从来没见过她放这招，这次她会自己找到铺开的被子在床沿的缝隙，然后钻进去，而且钻到中间的位置，也不需要透气什么的。似乎发烧期间猫会比较畏寒。灰塔睡觉也很有意思，每过个十来分钟她就会醒来伸个懒腰，换个没那么热的地方继续睡，于是就会每次搬完了一件家具去看一眼灰塔都不在原来的地方，被子凸起的小包会移动，一个下午下来运动的轨迹画出了个「Ω」型。
 
-![Huita sitting](http://lanternd.qiniudn.com/Pic4Post/cat-huita-got-sick/huita-sit.jpg)
+![Huita sitting]({{site.img-hosting}}/Pic4Post/cat-huita-got-sick/huita-sit.jpg)
 
 　每天最困难的就是喂药，医生给了了没有针头的，比较圆滑的注射器，让我们吸那个液态的抗生素，注射到猫的嘴里。第一次还是很顺利的， 但是猫吃了以后挣扎万分，痛苦难耐的样子，估计也是很难吃的节奏。结果第二次喂就很难敲开她的嘴巴了，想尽各种方式挣扎脱开束缚，有时候还会申爪子出来，一扫病态时的颓靡。后来的经验是，必须把灰塔放在双腿上，双手夹住猫身子的两侧，确保各个方向都没有退路可走。另一个人负责让她抬头并撬开嘴把药灌进去（这句话看起来有点内涵，故意改掉了个别词汇…）。成功以后把她放走让她找个地方挣扎，过后喂两颗Treat以平息民愤。
 
@@ -80,7 +80,7 @@ date: 2016-07-30 09:23:34
 
 　这日志流水账比较多，下篇再讲讲美国的兽医体系，只能说是非常之好，除了贵。
 
-![Huita yawning](http://lanternd.qiniudn.com/Pic4Post/cat-huita-got-sick/huita-yawn.jpg)
+![Huita yawning]({{site.img-hosting}}/Pic4Post/cat-huita-got-sick/huita-yawn.jpg)
 
 ------
 

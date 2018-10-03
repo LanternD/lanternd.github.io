@@ -16,7 +16,7 @@ date: 2017-10-12 12:55:00
 
 　视频里介绍了播主Destin自己练习骑一辆反向自行车（他称之为Backward bike）的经历。
 
-![reverse-bike](http://lanternd.qiniudn.com/Pic4Post/reverse-bike-and-brain/reverse-bike.png)
+![reverse-bike]({{site.img-hosting}}/Pic4Post/reverse-bike-and-brain/reverse-bike.png)
 （图片来源：视频截图）
 
 　所谓反向自行车并**不是车子倒着走**。这辆车的特别之处在于它的车把手和前轮直接不是直接连接，而是加了一级齿轮传动，也就是说这辆车的**转向是和直觉相反的**。

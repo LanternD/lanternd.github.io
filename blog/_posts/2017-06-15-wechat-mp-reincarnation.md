@@ -8,9 +8,9 @@ tags: [微信, 公众平台, 推送, 更新]
 date: 2017-06-15 22:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
-![titile pic](http://lanternd.qiniudn.com/Pic4Post/wechat-mp-reincarnation/2017-06-10-wechat.png)
+![titile pic]({{site.img-hosting}}/Pic4Post/wechat-mp-reincarnation/2017-06-10-wechat.png)
 
 ## 才想起来
 
@@ -28,7 +28,7 @@ date: 2017-06-15 22:16:00
 
 　而今年4月的时候还留下了一个违规记录。
 
-![violation record](http://lanternd.qiniudn.com/Pic4Post/wechat-mp-reincarnation/violation-record.png)
+![violation record]({{site.img-hosting}}/Pic4Post/wechat-mp-reincarnation/violation-record.png)
 
 　这两天把个人认证又重新弄了一遍，大约又是一个开始吧。
 
@@ -65,7 +65,7 @@ date: 2017-06-15 22:16:00
 
 　最后，欢迎扫描关注，不错过信息。
 
-![wechat qrcode](http://lanternd.qiniudn.com/Pic4Post/wechat-mp-reincarnation/lt-castle-qrcode.jpg)
+![wechat qrcode]({{site.img-hosting}}/Pic4Post/wechat-mp-reincarnation/lt-castle-qrcode.jpg)
 
 ------
 

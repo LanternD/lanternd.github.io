@@ -8,7 +8,7 @@ tags: [猫, 黑猫, 地下室, 房间]
 date: 2015-07-26 11:04:00
 --- 
 
-![Sleepy H M](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-3.jpg "Sleepy H M")
+![Sleepy H M]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-3.jpg "Sleepy H M")
 
 ## 冒险开始
 
@@ -22,7 +22,7 @@ date: 2015-07-26 11:04:00
 
 　这里有必要说说黑猫Ozzy，是高端那种黑……他是一只三岁大的公猫，体型偏胖。平时为数不多和人接触的环节就是来闻人的手，偶尔舔一下。如果一旦发现有人要抚摸他或者要抱他起来（的倾向），第一件事就是跑开。他的原主人最近外出，就由我接管他了。
 
-![Obsidian](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-oz.jpg "Obsidian - Ozzy")
+![Obsidian]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-oz.jpg "Obsidian - Ozzy")
 
 　然而虽然我以前和他也不算陌生，但是在发现主人不见以后就对我保持高度的警觉，时刻保持和我的距离在3米以上，无论如何召唤也不会过来。就连我一个劲晃动超市买的美味宠物零食盒子他也无动于衷，往常绝对是屁颠屁颠就过来了。在有一次我想把它从沙发顶上抱下来未遂之后他干脆进入一级警戒状态。每天做的事情就是躲在地下室的一个沙发底下，那个地方高度很小，人趴着才能看到，由于鞭长莫及，我也没办法碰到他，他在里面还很灵活，专门绕开我的位置。这样持续了两天以后我决定破罐子破摔，每天就负责加吃的，换水和铲屎，剩下时候他爱干嘛干嘛。于此同时我也准备实施我自己蓄谋已久的领养计划，这才有了[上一篇日志](/hakuna-matata/)的故事。
 
@@ -64,7 +64,7 @@ date: 2015-07-26 11:04:00
 
 　这一晚上注定是个不眠之夜。我第一次醒来是3点，她又来回在床上踱步了两圈，把我从Limbo中完全唤醒。我已经好久没有在这个点起来过了，醒了以后特别难睡着，我一边摸着她的头，一边让自己睡眠技能赶紧冷却结束，中间间间断断又睡着了几次。然而天亮以后，大概6点多，窗外一声清脆的鸟鸣之后，HM不知从哪里以最快速度奔向了窗口，死死盯着外面的鸟窝（鸟窝是人工的，挂在一个铁架子上）。然后就有了下面这张性感的照片。
 
-![Watching birds](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-2.jpg "Watching birds")
+![Watching birds]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-2.jpg "Watching birds")
 
 　她臀部还有一块做手术被剃掉的毛还没长出来。她的身子比我想象中要修长一些。因为偏瘦，她的四肢和躯干的分界线都很明显（形成鲜明对比的是一整团的Ozzy）。让我觉得最特别的是她尾巴尖端的那个小白点。她趴着休息的时候会晃尾巴，这个晃动的小白点简直让整个房间都可爱了。
 
@@ -76,7 +76,7 @@ date: 2015-07-26 11:04:00
 
 　换完粮和水，我上楼了。
 
-![Cat roll](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-8.jpg "鹦鹉螺猫")
+![Cat roll]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-8.jpg "鹦鹉螺猫")
 
 ------
 

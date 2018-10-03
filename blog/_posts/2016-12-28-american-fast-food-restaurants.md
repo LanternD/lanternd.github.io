@@ -8,7 +8,7 @@ tags: [快餐, 饮食, 餐厅, 汉堡, 可乐]
 date: 2016-12-28 12:23:34
 --- 
 
-![Spicy Chicken Sandwich](http://lanternd.qiniudn.com/Pic4Post/american-fast-food-restaurants/wendys.jpg "Spicy Chicken Sandwich")
+![Spicy Chicken Sandwich]({{site.img-hosting}}/Pic4Post/american-fast-food-restaurants/wendys.jpg "Spicy Chicken Sandwich")
 
 ## 插播「广告」
 

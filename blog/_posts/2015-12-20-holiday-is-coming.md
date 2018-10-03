@@ -18,11 +18,11 @@ date: 2015-12-20 22:55:00
 
 　由于地方比较多，一张图还没法概括，已经到了Google Maps允许的最大路经站点限制了。所以将由两幅图构成：
 
-![Trip Part 1](http://lanternd.qiniudn.com/Pic4Post/holiday-is-coming/lan-lv.jpg "Trip Part 1")
+![Trip Part 1]({{site.img-hosting}}/Pic4Post/holiday-is-coming/lan-lv.jpg "Trip Part 1")
 
 　第一：Drive Home to Las Vegas, NV 2,556 miles, 40 h
 
-![Trip Part 2](http://lanternd.qiniudn.com/Pic4Post/holiday-is-coming/lv-la.jpg "Trip Part 2")
+![Trip Part 2]({{site.img-hosting}}/Pic4Post/holiday-is-coming/lv-la.jpg "Trip Part 2")
 
 　第二：Drive Las Vegas, NV to Los Angeles, CA 1,168 miles, 20 h 57 min
 

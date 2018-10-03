@@ -28,7 +28,7 @@ date: 2015-09-16 23:29:00
 
 　这次说的是一个用于在床上看iPad的架子。说到这个东西，网上有很多的「奇思妙想」，比如下面这些……
 
-![IDEAS](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/holder-mix.jpg "各种iPad架")
+![IDEAS]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/holder-mix.jpg "各种iPad架")
 
 　（图片来自网络，侵删）
 
@@ -51,13 +51,13 @@ date: 2015-09-16 23:29:00
 
 　我的铁架子支撑起来也蛮大的，只有铁架子图片好像没拍有，可以参考最后面的效果图。为了省钱和减轻重量，我选用了较薄的亚克力板，大约3 mm厚，本身比较柔软，出于这些考虑，中间必须加一些横梁作为支撑。
 
-![CAD](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/cad.jpg "CAD")
+![CAD]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/cad.jpg "CAD")
 
 　上图是最终的效果图，一共有三个部分，底座用于固定在铁架子上，iPad架理所当然是用来放iPad，iPad架两侧是两个短板，用于调节角度。
 
 　还没完事，建模以后还需要把各个零部件变成dwg格式的图纸，才能给卖家加工。
 
-![CAD Draft](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/draft.jpg "CAD Draft")
+![CAD Draft]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/draft.jpg "CAD Draft")
 
 　细节就不一一描述了。
 
@@ -67,43 +67,43 @@ date: 2015-09-16 23:29:00
 
 　淘宝找卖家加工，问了好几家，不同的卖家以各种理由加钱，有的都报￥120+。最后选了一家只要￥60的。大概4天之后到货了，而亚克力胶水我本来就有，于是就开始组装的好戏了。
 
-![Step 1](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step1.JPG "第一步")
+![Step 1]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/step1.JPG "第一步")
 
 　第一步当然是把全部零件摆到桌子上……假装按照图纸里面摆。角落的棕色瓶子就是亚克力胶水了。当时用的手机还是Motorola MB525。底架两侧有两条导轨，那就是给上面的架子移动用的了。
 
 　好像我还没有说过亚克力胶水怎么用呢，其实更加特别，是用注射器注射到缝里的。基本上这个方法可以保证胶水一点也不浪费。如果是两块板粘合的话，由于毛细作用，注射到缝里的胶水可以渗透到整个平面里。
 
-![Step 2](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step2.JPG "横梁安装")
+![Step 2]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/step2.JPG "横梁安装")
 
 　第二步是把横梁先安装好，这样就能保证结构坚固和一体化了。由于所有接口都是一一对上的，所以安装没什么难度，放对孔，上胶水，然后循环。上图是已经安装好的底座。由于是透明的，所以好像都没看出来已经安装完成了……
 
-![Step 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step4.JPG "iPad架")
+![Step 3]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/step4.JPG "iPad架")
 
 　开始装iPad架，依旧是老套路，放进去，上胶水，循环。
 
-![Step 4](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step3.JPG "iPad架继续组装")
+![Step 4]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/step3.JPG "iPad架继续组装")
 
 　马上完事了。
 
-![Step 5](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/step5.JPG "完工")
+![Step 5]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/step5.JPG "完工")
 
 　一体化程序完成！
 
-![Final 1](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final1.JPG "实际使用效果图")
+![Final 1]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/final1.JPG "实际使用效果图")
 
 　终于到真身了。所以现在应该对全局有很好的把握了。看起来还不错，自卖自夸一下。
 
-![Final 2](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final2.JPG "俯视图")
+![Final 2]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/final2.JPG "俯视图")
 
 　这个是躺在床上的角度看iPad的样子。怎么说呢，相机有点变形，实际用起来还是很舒服的。我想知道有什么无级调节角度的方法，现在我也没想出个合适的方案，上面的设计是用档位调节的。
 
-![Final 3](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/final3.JPG "主视图")
+![Final 3]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/final3.JPG "主视图")
 
 　又一个角度。当时的床饰都是固定的备品，一点特色没有。
 
 　其实这个设计还是有点硬伤的，四个腿相连那个地方是没有梁的，变成了整个结构最脆弱的部分。不过也还可以接受，没有发生任何事故。
 
-![Comparison](http://lanternd.qiniudn.com/Pic4Post/ipad-holder-on-bed/comparison.jpg "效果对比图")
+![Comparison]({{site.img-hosting}}/Pic4Post/ipad-holder-on-bed/comparison.jpg "效果对比图")
 
 　最后一张图**对比一下设计图和效果图**，嗯哼。数控加工的东西就是比自己切割的要靠谱点。
 

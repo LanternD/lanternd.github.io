@@ -8,7 +8,7 @@ tags: [日食, 准备, 滤镜, 加油站, 天文, 游记]
 date: 2017-08-28 22:27:34
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 时刻准备
 
@@ -49,13 +49,13 @@ date: 2017-08-28 22:27:34
 
 　为了好看的前景，我们放弃了Cabondale，任务变成了继续找好的前景。因为Missouri州的St. Louis有个很有名的拱门（[The Gateway Arch](https://goo.gl/maps/G7QHg3ksvyD2)），我们还想过找个好位置拍出日全食在拱门中间出现的场景，YY中这将是一张大片。后来一看St. Louis根本已经出了日全食带了，只好放弃。顺带一提的是，St. Louis的最大日食时的Azimuth角度（下面提到）是188°，和The Gateway Arch的伸展角度几乎一样！也就是说几乎不可能看到日全食在拱门中间的这样一个视角。
 
-![YY-Gateway](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/2017-08-28-solar-gateway.jpg)
+![YY-Gateway]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/2017-08-28-solar-gateway.jpg)
 
 > 号外——NASA的地图还会告诉你每个点日食的两个参数：**Altitude**和**Azimuth**。Altitude就是常说的「太阳高度角」，也就是从视线出发，太阳位置和水平方向的夹角；而Azimuth是方位角，是（地图上）从正北方向，顺时针转过的角度，比如180°就是正南方，90°是正东方。
 
 　转而一看，我们找到了新的地标，在Kentucky的Hopkinsville往东15分钟车程的[Fairview](https://goo.gl/maps/ivh1kN4n8N92)。那里有个Jefferson Davis（1861-1865年美国总统）出生地点的纪念方尖碑。碑高107米，和华盛顿的那座有的一比。试想日全食出现在方尖碑的最高点，也是一个很不错的奇观啊。
 
-![YY-Fairview](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/2017-08-28-solar-obelisk.jpg)
+![YY-Fairview]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/2017-08-28-solar-obelisk.jpg)
 
 　我们信心满满，然后打电话过去问，结果被告知当天估计会有8000到1万名游客到那里看——果然自己能想到的别人也会想到。一看就是个灾难。
 
@@ -115,13 +115,13 @@ date: 2017-08-28 22:27:34
 - 把镜头贴上纸板，然后用纸片围一个圆柱，用透明胶固定形状
 - 用各种可行的办法把圆柱和滤镜弄到一起，我用的是热熔胶
 
-![Baader film-1](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-1.jpg)
+![Baader film-1]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-1.jpg)
 
-![Baader film-2](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-2.jpg)
+![Baader film-2]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-2.jpg)
 
 　做好滤镜以后第一件事当然是冲到室外给太阳拍个照啦。看到太阳黑子的时候我激动无比，第一次亲自以这样一个视野和亮度看太阳。
 
-![Round Sun](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_3800.jpg)
+![Round Sun]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_3800.jpg)
 
 　怕不够保险，我又额外多做了一个，然后还做了一个方形的给人眼直接看。据巴德膜的官方说法，这个膜不宜用于肉眼观看太阳。不过我就偶尔拿来看一眼，应该问题不大（至少到写这文章的时候还没瞎）。
 
@@ -157,13 +157,13 @@ date: 2017-08-28 22:27:34
 
 　Check-in以后第一件事就是赶紧查天气。不得不说很坑，大热门观看点Hopkinsville那一片都变成了多云。我们往西找一路都是多云，而且气人的是，只有日食那三个小时是多云，其他都是大晴天。虽说天气预报准确度不算高，但是我们确实也没有更好的信息源去判断该去哪个城市。附上当时的天气App截图：
 
-![weather forecast](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-12.jpg)
+![weather forecast]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-12.jpg)
 
 　总而言之，**睡一觉再说**。
 
 　第二天起来一看，Hopkinsville已经变成了好多好多云，日食前后都是云，看起来希望渺茫。而Tennessee那边则一路大晴天，我们于是决定奔向更远但是更靠谱的东南方向，目的地[Gordonsville](https://goo.gl/maps/fiGvzn8N9Wy)——终于和文章标题照应上了。
 
-![map](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-10.jpg)
+![map]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-10.jpg)
 
 
 　早上8点我们就出发了，因为不知道路上还会遇上什么情况，越早动身越好，离上班高峰近一分钟那么堵车时间可能就会多两分钟，就和滚雪球一样。
@@ -184,35 +184,35 @@ date: 2017-08-28 22:27:34
 
 　我们旁边是一拨老美，其中有位从Alabama来的天文爱好者，他架了两部天文望远镜，每个都是800 mm以上焦距的（具体没记住），还还配备了赤道仪，或者叫「Sky Tracker」，也就是说设置好以后太阳可以一直处于视场的中心。除了这位天文爱好者老美以外，剩下的好像都是陪他来玩的，和平常Party一样吃东西聊天，对我们几个亚洲「老外」不是很感兴趣。下图左边戴帽子的小哥就是天文爱好者。
 
-![enthusiast](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-5.jpg)
+![enthusiast]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-5.jpg)
 
 　下图是日食开始前在他天文望远镜中看到的太阳。不同的太阳滤镜由于透过的光频率不同，因而能看到不同「颜色」的太阳，我们的是比较平淡无色的太阳，而他们的是火红火红的太阳。实际上细节比图片上要多，可以清晰看到太阳黑子，不过手机拍不出来。
 
-![sun through telescope](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-3.jpg)
+![sun through telescope]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-3.jpg)
 
 　11:50，我把全部的东西都架好了，等着日食开始。12点整，日食正式开始。不得不吐槽的是我买的二手渣镜头，整个对焦的行程很短，如果从太阳最清晰（对上焦）的位置开始看，往前往后旋转0.5 mm都会失焦！对上焦以后简直碰都不能碰，还得提心吊胆镜筒会不会因为重力作用而自己运动……事实证明这点上还算靠谱。
 
-![gear to take photos](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-13.jpg)
+![gear to take photos]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-13.jpg)
 
 　一开始我特别兴奋，终于等到这一刻，但是这种感觉没有持续太长，因为月亮其实运动还是相当慢的。我用的是Canon 600D拍的太阳，但没带快门线，取而代之我用了在《[Canon 600D 如何查看快门次数](/canon-600d-shutter-count/)》一文中提到的Magic Lantern固件。它能设定多张照片的拍摄间隔，我设置让它拍300张，每张间隔15秒，这样就是一个半小时，差不多到日全食的时刻为止。
 
-![gear to take photos -2](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-7.jpg)
+![gear to take photos -2]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-7.jpg)
 
 　我的原计划是拍摄延时摄影，记录太阳从有到无，再从无到有的这么一个过程，但是和平时拍摄的延时摄影不太一样的是，**太阳一直在动**！我必须根据太阳的位置调整我的三脚架。解决这个问题的唯一办法是和上面的老美一样弄一个赤道仪。
 
-![se-1](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_7083.jpg)
+![se-1]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_7083.jpg)
 
 　大约每隔3-5分钟我就要调整一次云台。太阳在取景器内的活动轨迹是从左上角到右下角，当它移动到右下角的时候就要把它挪到左上角。所以这一个半小时我基本就没在闲着。
 
-![se-2](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_7261.jpg)
+![se-2]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_7261.jpg)
 
 　太阳差不多被遮住一半的时候可以明显感受到阳光还是很强烈，影子还是很明显，但是不热，气温则一直在慢慢下降。这个期间人都是不可以直接看太阳的。即使用余光看太阳也依旧是一个耀眼的大光斑挂在天空上。
 
-![se-4](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-4.jpg)
+![se-4]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-4.jpg)
 
 　不得不说一下天气，离日全食还有半小时的时候，一朵从远处生成的厚厚的白云往我们这边飘过来。把太阳给挡住了。除了这朵云还有好多白云在附近潜伏，伺机而动。好在大概七八分钟后云散去了，这段时间可以说是我最讨厌云的时刻。我们问旁边的老美，要是日全食的时候被云遮住了怎么办，答曰一点办法也没有。日全食真的太考验运气（所以我们的运气还算不差了）。
 
-![se-cloud](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_7232.jpg)
+![se-cloud]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_7232.jpg)
 
 　到了只剩下「日牙」的时候天空开始明显地暗下来了。这时候有一种「三体人」的感觉——太阳在远离我们这颗行星，光变得暗淡无力。短短几分钟内，环境亮度大约从平时日落前1小时变成日落时的亮度。
 
@@ -224,7 +224,7 @@ date: 2017-08-28 22:27:34
 
 　我虽然之前查过日食的各个阶段该用什么参数，但是……现场的我一片手忙脚乱！手动挡下我开始疯狂转动拨轮按各种按钮，然后按快门、按快门、按快门……我发现个问题，之前设置好的间隔拍摄还没结束，我还得去Magic Lantern的菜单关掉这个设置，耽误了宝贵的几秒钟。
 
-![Diamond Ring - 1](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_7404.jpg)
+![Diamond Ring - 1]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_7404.jpg)
 
 　周围的人群已经开始惊呼。
 
@@ -246,7 +246,7 @@ date: 2017-08-28 22:27:34
 
 　太阳已经完全没有了威力，仿佛一个黑洞出现在了地球上方。黑洞周围是错落有致，粗看均匀，细看明暗相间的光晕——人们称之为「[Baily's Beads](https://en.wikipedia.org/wiki/Baily%27s_beads)（[贝利珠](https://zh.wikipedia.org/wiki/%E5%80%8D%E9%87%8C%E7%8F%A0)）」。这大概是日全食最与众不同的地方了。
 
-![Baily's Beads](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/IMG_7463.jpg)
+![Baily's Beads]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/IMG_7463.jpg)
 
 　贝利珠持续的时间就是全食的时间，在我们这个位置可能是2分39秒，不得不说还是不够过瘾。（说明一下，贝利珠和钻石环在一定程度上指的是同样的景象，但我觉得钻石环应该有一个亮点。）
 
@@ -264,7 +264,7 @@ date: 2017-08-28 22:27:34
 
 　我静静看着日全食长达半分钟，时间很紧张，两分多钟很快就过去了。太阳耀眼的光芒从另一侧跳了出来。事不宜迟，按照在心中预演的参数调小了光圈，终于拍到了从另一侧出来的Diamond Ring。
 
-![Diamond Ring x 4](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-11.jpg)
+![Diamond Ring x 4]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-11.jpg)
 
 　人群中又是一阵惊呼。
 
@@ -292,11 +292,11 @@ date: 2017-08-28 22:27:34
 
 　和我们一起看日食的不单有人，还有草丛里的大蜘蛛和路过的蝴蝶。
 
-![Spider](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-6.jpg)
+![Spider]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-6.jpg)
 
 　这个品种的蜘蛛在这片有不少，样子有点狰狞， 腿还带刺。不知道毒性如何，总之没有招惹它。有一只特别锲而不舍，一直要爬到相机的顶端，但是每当出现在我视线之中后就会被我吹到地上去。如此反复三次后终于没看到它继续出现。
 
-![Butterfly](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-8.jpg)
+![Butterfly]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-8.jpg)
 
 　另外一只是蝴蝶，多次趴在我的相机上晒太阳。
 
@@ -360,6 +360,6 @@ date: 2017-08-28 22:27:34
 
 ### 总结图
 
-![se-total](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville/se-9.jpg)
+![se-total]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville/se-9.jpg)
 
 　收工。总体来说对这次行程表示满意。

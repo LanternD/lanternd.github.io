@@ -8,9 +8,9 @@ tags: [数据, 微博, 导出, 代码]
 date: 2017-08-15 22:27:34
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
-![title pic](http://lanternd.qiniudn.com/Pic4Post/weibo-export/2017-08-15-weibo.png)
+![title pic]({{site.img-hosting}}/Pic4Post/weibo-export/2017-08-15-weibo.png)
 
 ## 一退保平安
 
@@ -70,11 +70,11 @@ done
 
 　在（Windows的）PowerShell里面 `cd` 到脚本所在目录，然后执行即可。
 
-![execute sh](http://lanternd.qiniudn.com/Pic4Post/weibo-export/execute.png)
+![execute sh]({{site.img-hosting}}/Pic4Post/weibo-export/execute.png)
 
 　我有723条微博，大概用了3-4分钟下完。然后result会有73个 `.json` 文件（微博数除以10再向上取整）。
 
-![downloading](http://lanternd.qiniudn.com/Pic4Post/weibo-export/downloading.png)
+![downloading]({{site.img-hosting}}/Pic4Post/weibo-export/downloading.png)
 
 　第一阶段结束。
 

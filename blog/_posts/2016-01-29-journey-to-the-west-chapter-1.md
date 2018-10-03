@@ -33,7 +33,7 @@ date: 2016-01-29 12:23:00
 
 ## 12月22日，出征
 
-![Day 1 route](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/day1.jpg)
+![Day 1 route]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/day1.jpg)
 
 　9点从家出发，带H & C逛了逛MSU的校园。因为她们来自Syracuse，学校多山而小，她们一直在感叹MSU校园之大。开上高速以后路边的景物开始变得单调而重复了：一片树林，一片收割完的玉米地，一些个小湖，按一定的概率分布出现。此外并没有什么激动人心的东西。刷了一堆音乐之后，开始听《袁腾飞讲历史》，听了一路。中午在不知名小镇吃了M记（McDonald's）。
 
@@ -43,7 +43,7 @@ date: 2016-01-29 12:23:00
 
 ## 12月23日，跋涉
 
-![Day 2 route](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/day2.jpg)
+![Day 2 route]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/day2.jpg)
 
 　8:45启程，在一个叫Stuart的地方遇上能见度不到50米的大雾，虽然情况恶劣但还得继续赶往Denver。中午在一个叫Seward的小地方吃了Pizza Hut，服务员特别热情，可能没见过外国人来吃。继续在大雾中穿行到了下午3点豁然开朗，听着《解忧杂货店》的第一章，在刺眼的夕阳下狂奔，别有一番滋味。天色暗下来以后我们好像正式进入了山地区域，高速还是高速，但是海拔在不断提高，气温也随之下降。快到Denver的时候还飘起了雪，由于和车的相对速度很快，雪像是呼啸着从我们旁边飞过。
 
@@ -53,13 +53,13 @@ date: 2016-01-29 12:23:00
 
 　在周围乱逛的时候看到一座灯光很辉煌的建筑，在[丹佛艺术博物馆](https://goo.gl/maps/stB6RyMPeFN2)旁边，也是很漂亮的建筑。后来查了一下是[Denver County Court](https://goo.gl/maps/7kYmnoZDdLC2)来着。因为临近圣诞节，门口有耶稣出生于某羊棚的经典雕塑。下车拍了两张照片结果冻得哆嗦，赶紧上车里继续赶路了。如果白天来玩可以去那个艺术博物馆逛逛，有7层楼，应该好东西不少吧。在确定了也没什么可以玩的了之后我们启程回宾馆休息。住的依旧是Motel 6，61块钱。
 
-![Denver County Court](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A5840.jpg)
+![Denver County Court]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A5840.jpg)
 
 　现在回想起来我们订的Motel可能有点偏，在叫Fort Lupton的城郊上，往返于市中心区域的车程很长，接近50分钟。如果花费太多时间在路上可能会得不偿失。不过市区的住宿肯定也会贵一点，就看自己怎么在时间和钱上面平衡了。
 
 ## 12月24日，平安夜
 
-![Day 3 route](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/day3.jpg)
+![Day 3 route]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/day3.jpg)
 
 　9点出发，去沃尔玛补充了西红柿胡萝卜香蕉等新鲜食材。大家还想去看看白天的Downtown，如果人多就去逛逛。但是人算不如天算，平安夜的白天也没什么人想出来逛街。
 
@@ -71,13 +71,13 @@ date: 2016-01-29 12:23:00
 
 　继续开了20 mi左右遇到了封路的路段。再往前的冬季不再开放了。我们在封山的关卡处激动地查了一下海拔，9670 feet（2947 m）。赵总表示这是他到过的最高的海拔，大家还觉得自己有点高原反应了。总之应该是无惊无险。
 
-![Rocky Mountain National Park](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A5859.jpg)
+![Rocky Mountain National Park]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A5859.jpg)
 
 　落基山国家公园里的公路总体上看是一个大圆绕着整个山区，我们开的路段大概只是从一个入口到另一个入口的六分之一，地方还是很大的。夏天来的话会有很多Hiking的选择，能够深入这个大圆的中心地带，见到非常多样的风景，植被和动物。要是长期住在Denver的话真是一点也不愁没有地方去玩了，出了城就有国家公园。
 
 　一路上还有很多的观景台。冬天被雪覆盖的山，在阴天的薄雾小雪笼罩下时隐时现。虽然我不是个合格的吃货，但是看起来山群就像绵延层叠的培根片。
 
-![Rocky Mountain National Park](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A5870.jpg)
+![Rocky Mountain National Park]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A5870.jpg)
 
 　Rocky Mountain区域的山岩石也很多样，陡峭的，圆润的，层叠的……它们在雪下也展现出不同的样子。远远看上去有点像蒙牛的「随便」雪糕（请原谅我没有什么其他的比喻了）。景区里的山相对海拔不高，尤其是冬天，谈不上壮阔，但也隐藏有一些婉约的温柔。
 
@@ -85,7 +85,7 @@ date: 2016-01-29 12:23:00
 
 　下山以后我们为了不看到同样的风景绕了另一条路。几阵峰回路转之后，我们看到了一个平缓的盆地。道路这时候积雪消融了一些，只是沿着谷地蜿蜒。盆地腹地有几只鹿在悠闲地吃着草馅儿的无糖雪糕。
 
-![Rocky Mountain National Park](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6028.jpg)
+![Rocky Mountain National Park]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6028.jpg)
 
 　这算是我冬天逛过的第一个国家公园了。冬天的国家公园别有风味，然而由于封山，注定冬天是逛不久的。所以**不需要给国家公园安排很长的行程**。其实到了冬天，谷歌地图上都会有实时更新，地图放大以后可以看到哪些具体的路是关闭的。
 
@@ -97,11 +97,11 @@ date: 2016-01-29 12:23:00
 
 　我们开到晚上8点近9点，到了我们计划泡温泉的小镇Glenwood Springs，发现一家叫「[China Town](https://goo.gl/maps/Goq8MwQLr4R2)」的美式中餐，赶紧一拥而上大快朵颐。这一天其实相当累，这一顿饭也算是一个大补药了。
 
-![Glenwood Springs](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6047.jpg)
+![Glenwood Springs]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6047.jpg)
 
 　保暖之后在人烟稀少的Downtown游荡了一会。我们看到山坡上面有一个有城堡风格的[酒店](https://goo.gl/maps/8qngJm464562)，上面的装饰温馨而暖心，只是似乎大家都在家中团聚而忘记了街景。沿着过河天桥，我们走到了我们在网上看了一遍又一遍的[温泉山庄](https://goo.gl/maps/9uzq6mG1pUM2)（原计划是今天玩公园，滑个雪，泡个温泉然后走人的，但是平安夜都提前下班了，只好作罢）。从桥上往下看，温泉一览无余，但是腾着热气的池子里空无一人。
 
-![Glenwood Springs](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6051.jpg)
+![Glenwood Springs]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6051.jpg)
 
 　我们就这样画饼充饥地看了五分钟，然后走回车里继续赶往住处，Grand Junction边上的小镇Fruita。
 
@@ -111,7 +111,7 @@ date: 2016-01-29 12:23:00
 
 ## 12月25日，圣诞节
 
-![Day 4 route](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/day4.jpg)
+![Day 4 route]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/day4.jpg)
 
 　昨晚躺下后立刻不省人事，早上起来已经是10点了，我们打算brunch搞定今天的第一顿饭。本想省事起见，去旅店旁边的M记，结果因为圣诞节坑爹地关门了。我们想着，Subway这种万能的快餐应该比M坚挺一点吧，结果也倒下了。眼看着全城都要关门的节奏结果喜出望外地发现，中餐馆并没有这个魔咒，我们一问，一家叫[Dragon Treasure](https://goo.gl/maps/xmsxNAthRpE2)的中餐馆11点就开始营业，简直是救命的稻草。我们不自量力的点了三个菜两个汤，结果剩下了三分之一，打包了三个盒饭。老板十分nice，告诉了我们很多的建议，他说往西开还要翻过一座3000米高的大山，他说I-70到Salina可能会封路，如果雪大的话。吃到最后H君已经吃伤了，缓了大半天才恢复。
 
@@ -119,33 +119,33 @@ date: 2016-01-29 12:23:00
 
 　然而路上也不算特别顺利，我们遇到了肆虐模式的雪花，如果你盯着前方的雪，会发现他们像子弹一样射过来，直到快到挡风玻璃的时候被车体外围的空气推开。雪虽然大，但也不能阻止我们欣赏美景，我们在路边的一个观景台下车扫了一眼，站在高处往无际的雪原看去，和毛泽东词里写到的「北国风光，千里冰封，万里雪飘。 望长城内外，惟余莽莽」颇为相似。
 
-![Overview](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6112.jpg)
+![Overview]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6112.jpg)
 
 　下了高速又跑了一段，终于到了Arches National Park。这是美国十分著名的国家公园之一，只要提到拱门，肯定少不了这个国家公园的身影。维基百科介绍到：约三亿年前，这种盐层曾是海洋。海水消失的几百万年后，盐层被空气和水中的渣滓所覆盖，并和其它杂物挤压成岩石。后经地壳隆起以及天然风化，成为今天的拱门。这里大大小小散布着2000多座拱门。
 
 　到了山脚底下的Visitor Center，发现这里也关门了…整个公园里可能没有一个工作人员。我的冰箱贴和Passport盖章也都泡了汤。我决定下次来的时候把这个圣诞的章补上，说不定这就是世上为数不多的圣诞节章了。
 
-![ANP entrance](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6149.jpg)
+![ANP entrance]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6149.jpg)
 
 　整个公园里最著名的是Delicate Arch（精致拱门），整个国家公园系统的地标之一，我们为了赶路，打算玩完精致拱门就走人。沿着盘山公路，两边是形状各异的土黄色岩石，有的还偏赭红色，在风化的作用下变得光怪陆离。它们可能是曾经倒塌的拱门留下的。到精致拱门的路上还有不少景点。首先是一个峡谷观景台。这里是左右两侧都是风化的岩石，正前下方是平坦的谷地，仿佛两只手把游客围了起来。这个地方风不小，看景都有一种压迫感。
 
-![ANP viewpoint](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6192.jpg)
+![ANP viewpoint]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6192.jpg)
 
 　另外一个有意思的是南窗和北窗（North Window & South Window）。这两个景点必须徒步才能到达，离停车场大概有1英里的路程。我们徒步过去的时候天上飘着中雪，温度倒是不低，0度左右，但是忘了带围巾还是会冻脖子。整一个trail能看到三个形式各异的拱门，有的岩石从一个角度看没什么特别，但是再走一段路一转身会惊讶地发现那里竟然有个拱门。拱门是一种横看成岭侧成峰的东西，感谢大自然奇妙的锻造冶炼。
 
-![ANP Arch](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6309.jpg)
+![ANP Arch]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6309.jpg)
 
 　事实上我们可以拾级而上，走到North Window的正下方。透过拱门还能看到门后面数不尽的小拱门，这是名副其实的「开门见山」，如果天气晴朗那将会有很开阔的视野。抬头看天上的拱也是件神奇的事情，因为从来没见过一块岩石从天上跨过了整个视野，是的，拱门大到两边的支撑柱都快落到视野外了。
 
-![ANP Arch](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6364.jpg)
+![ANP Arch]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6364.jpg)
 
 　South Window就没这么顺利了，必须要爬将近30米高的危险石头才能到达门的下方，我们只好作罢。
 
-![ANP Arch](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6380.jpg)
+![ANP Arch]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6380.jpg)
 
 　有个大概200米外的平台能够同时看到North和South Window，它们并列在一起，有点像一副巨大的3D眼镜摆在面前。
 
-![ANP Arch](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6314.jpg)
+![ANP Arch]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6314.jpg)
 
 　可惜空气不通透，拍出来的照片也只能发灰了。我看网上的照片有个角度还能把拱门后面的一块大石头放在拱门的中央，这样看着就像是大自然的眼睛。
 
@@ -153,13 +153,13 @@ date: 2016-01-29 12:23:00
 
 　我们大概2点多3点这样开始爬的山，前面的路都还很顺利，虽然粗糙，都是人工铺好的，上面有积雪也有冰。但总归小心行得万年船，我们前三分之二的路程都蛮顺利的。有什么问题互相拉一把就OK。然而到了后面就开始路况恶化了。
 
-![ANP trail](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6405.jpg)
+![ANP trail]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6405.jpg)
 
 　一方面是冰冻的危险路面数量在增多，另一方面就是再也没有人工铺就的路了。还有个重要的问题是路上再也没有路标了，有很多地方上面有积雪也有人的脚印，可以很容易跟随，也有的地方是光秃秃的岩石走着走着会发现自己的方向不对劲。
 
 　Anyway，条条大路通罗马，总体方向是往山上的方向走。
 
-![ANP trail](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/8C9A6460.jpg)
+![ANP trail]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/8C9A6460.jpg)
 
 　貌似到了5点半左右，在我们快到终点的时候遇上了真正的大坑。这个时候有几十个人陆陆续续从观景台方向过来了，叮嘱我们，前面有一个非常危险的地方，又窄有滑，还有坡度，如果不小心可能会滑到山下面去。他们建议我们捡一些石头和树枝作为铺垫，这样能增大摩擦力，还有人说，没有别人的帮助根本过不去。正所谓三人成虎，一个人这么说我们还没放在心上，可是有一大拨人每个都这么说，那就很有问题了。我们被一种既看不到终点的风景还要原路返回的阴影笼罩着。
 
@@ -181,7 +181,7 @@ date: 2016-01-29 12:23:00
 
 　但我也高兴得有点早，后面的路是下面这样的，来自手机视频的截图。
 
-![ANP trail](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/trail.jpg)
+![ANP trail]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/trail.jpg)
 
 　后面的悬崖才是真悬崖，掉下去就是玩完了。不过好在路还不错。我回去朝他们喊了一下，告诉他们前面的路比那个滑坡好走。
 
@@ -191,7 +191,7 @@ date: 2016-01-29 12:23:00
 
 　有大概三秒钟，我感觉自己已经没法呼吸了。Delicate这个词还有一个意思是「易碎的」。精致拱门屹立在那里，突兀而无依无靠，任凭风吹雨打（其实这片降水量并不大），但是仍未倒塌，突然心中泛起一小阵敬意。
 
-![ANP Delicate Arch](http://lanternd.qiniudn.com/Pic4Post/journey-to-the-west-chapter-1/IMG_6474.jpg)
+![ANP Delicate Arch]({{site.img-hosting}}/Pic4Post/journey-to-the-west-chapter-1/IMG_6474.jpg)
 
 　不太大的观景台上只有我一个人，愣了一会我突然意识到我的相机在爬过来之前给C保管了…只好掏出手机又是拍照又是录像的，生怕错过了任何一秒这来之不易的成果。这时候太阳已经下山了，天色在慢慢变暗。为了不让天变黑，我又一路小跑地回去了。
 

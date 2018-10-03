@@ -8,7 +8,7 @@ tags: [跑步, 姿势, 呼吸, 节奏]
 date: 2015-05-18 23:46:00
 --- 
 
-![Trail2](http://lanternd.qiniudn.com/Pic4Post/better-runner/trail2.jpg)
+![Trail2]({{site.img-hosting}}/Pic4Post/better-runner/trail2.jpg)
 
 ## 关于跑步
 
@@ -28,7 +28,7 @@ date: 2015-05-18 23:46:00
 
 　最近一次他尝试的半马已经跑到了1小时48分。在实际比赛中应该能做得更好。
 
-![CXY's Running Record](http://lanternd.qiniudn.com/Pic4Post/better-runner/running-record.jpg)
+![CXY's Running Record]({{site.img-hosting}}/Pic4Post/better-runner/running-record.jpg)
 
 　他的跑量是如此之大，对跑步有着非常系统的研究，而我只是再按照我以前熟悉的套路一步一个脚印地跑，因而在这一领域就理所当然地成为了我的老师，我最近常和他交流跑步经验。
 
@@ -81,7 +81,7 @@ date: 2015-05-18 23:46:00
 
 　在跑步这一点上，**姿势决定是否舒服省力，甚至决定了成败**。当然，在中长跑方面还有许多的细节和注意事项，那些就暂时不提了，有机会我再写一篇。
 
-![Trail1](http://lanternd.qiniudn.com/Pic4Post/better-runner/trail1.jpg)
+![Trail1]({{site.img-hosting}}/Pic4Post/better-runner/trail1.jpg)
 
 ## 跑步的路
 

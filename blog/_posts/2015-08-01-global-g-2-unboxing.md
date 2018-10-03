@@ -8,7 +8,7 @@ tags: [菜刀, 主厨刀, 切菜, 锋利, 推荐, Global, 具良治]
 date: 2015-08-01 21:04:00
 --- 
 
-![Blade 1](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6312.jpg "刀刃")
+![Blade 1]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6312.jpg "刀刃")
 
 ## 抉择
 
@@ -22,12 +22,12 @@ date: 2015-08-01 21:04:00
 
 　废话不多说，我们直接进入开箱阶段。下图是G-2的外包装，这牌子的英文是GLOBAL。我比较奇怪，不知道他们为什么取这个名字。
 
-![Package](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6274.jpg "外包装")
+![Package]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6274.jpg "外包装")
 
 　对于「具良治」，我并不知道它来自于哪个具体的单词，可能是「YOSHIKIN」吧。总体来说这个包装还是比较有档次的。
 
 
-![Package Back](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6276.jpg "包装背面")
+![Package Back]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6276.jpg "包装背面")
 
 　包装的背面讲述了品牌的历史，磨刀的注意事项，下面局部摘抄一些：
 
@@ -41,37 +41,37 @@ date: 2015-08-01 21:04:00
 
 　大概就是说，刀的品质和精神来自于日本武士道精神的传承，用了牛B的钢造了牛B的刀。看起来就是国内百年老字号一类的广告词翻译成英文。
 
-![Open](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6279.jpg "开封")
+![Open]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6279.jpg "开封")
 
 　打开包装，整把的样子映入眼帘，要说和其他刀最不一样的地方，那刀柄首屈一指。
 
-![Knife Handle](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6282.jpg "刀柄")
+![Knife Handle]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6282.jpg "刀柄")
 
 　Global G-2的刀柄和刀身是在一体的，我不知道他们用什么加工工艺，或许是焊接，我感觉挺牛的。刀柄上有许多小凹槽用来防滑。这个造型的刀柄我是第一次见。
 
-![Logo on blade](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6288.jpg "刀面Logo")
+![Logo on blade]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6288.jpg "刀面Logo")
 
 　再往前看是刀刃上的牌子Logo，上面印的，CROMOVA 18。我看了一些刀钢相关的文章，世界各地都有自己有特色的刚才用于做刀。这一种日本产的钢，算是上乘水准的。其他还有什么大马士革钢等等，总之每一种钢的自己的工艺和特点，我不是这方面的专家，就不多说了。
 
-![Specification](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6290.jpg "Global刀具一览")
+![Specification]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6290.jpg "Global刀具一览")
 
 　包装里一起的还有一份说明书，上面列举了所有具良治生产的刀具，除了这把还有其他长度的主厨刀，以及切水果的、削皮的、砍骨刀等，各种长度各种形状。我觉得买完整套起码也得好几千美元。一般根据自己需要买合适的就行了，他家的刀柄都是一个类似的设计。
 
-![Blade view](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6304.jpg "刀刃后视图")
+![Blade view]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6304.jpg "刀刃后视图")
 
 　刀被我完全拆出来了，完全的开箱。我把它摆在案板上，把相机的光圈调到了最小，可是好像刀刃仍然占了不够一个像素，就是这么锋利。
 
 　用手摸刀片，感觉和刮胡刀（刀片）一样一样的，要是顺着刀刃轻轻一抹绝对会见红的。
 
-![Blade in light](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6308.jpg "光下的刀刃")
+![Blade in light]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6308.jpg "光下的刀刃")
 
 　再给Logo来个特写。这把刀的条纹是垂直于刀刃的。我印象中其他不少刀以平行于刀刃的条纹为主。
 
-![Blade 2](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6314.jpg "刀柄")
+![Blade 2]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6314.jpg "刀柄")
 
 　再来个手柄的特写。握着的时候**异常舒服**，不过前提是手上没有水，不然会有一种抓着一块海绵或者粘有洗涤剂的感觉。
 
-![Cutting Test](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6322.jpg "下刀测试")
+![Cutting Test]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6322.jpg "下刀测试")
 
 　刚好要做菜，找了个鲜红的番茄做了测试品。轻轻把刀架在番茄上，什么也没发生。以刀柄末尾为支点，把刀抬高1厘米，自由落体，然后就有了上面这张图，真算是不费吹灰之力。
 
@@ -79,7 +79,7 @@ date: 2015-08-01 21:04:00
 
 　**切菜就是这样一种享受**，削「菜」如泥。
 
-![Two knives](http://lanternd.qiniudn.com/Pic4Post/global-g-2/IMG_6327.jpg "双立人 &  具良治")
+![Two knives]({{site.img-hosting}}/Pic4Post/global-g-2/IMG_6327.jpg "双立人 &  具良治")
 
 　这是原来的刀和现在刀的对比。原来的双立人刀（双人Logo和正常的不太一样，国际版的，但是应该是一个牌子）上面有一些凹槽防滑防粘啥的，倒算是个优点，但是是以牺牲了薄度为前提的。
 

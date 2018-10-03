@@ -8,7 +8,7 @@ tags: [日食, 堵车, 游记]
 date: 2017-09-13 22:27:34
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 前段小堵怡情
 
@@ -18,19 +18,19 @@ date: 2017-09-13 22:27:34
 
 　下图是理想的路线：
 
-![total map](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-all.png)
+![total map]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-all.png)
 
 　总计时间8个半小时，我们3点出发，路上吃喝用些时间，十二点多就可以到家了。
 
 　但是实际情况是……
 
-![map-jam](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-gor-lou.png)
+![map-jam]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-gor-lou.png)
 
 　……去Louisville的路上一片大堵，到达时间直接增加了3h以上。一个叫[Elizabethtown](https://goo.gl/maps/FxSkgfTF9GD2)的地方正在修路，两车道的高速也只能一车道慢慢地过去，所以保险起见还是绕过这个地方再上高速。而这条I-65高速是这附近唯一一条南北方向的主要高速。一路可以开到Indianapolis。如果不走这条高速，时间会长得多。
 
 　从Gordonsville出来没多久地图都显示堵得连高速都上不去，迫不得已我们从Local先往北开了，伺机找个人少的口上高速上。
 
-![map-actual](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-gor-lou-actural.png)
+![map-actual]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-gor-lou-actural.png)
 
 　Local是非多，虽然地图上和高速平行，看着也很直，但是放大来看就是各种上下坡加绕弯，平均速度特慢，修路的情况也不少见，中间还有几处突发车祸堵了近半个小时的车。路上没啥风景，Kentucky这边气候比较湿润，好多农户都在种着烟草。可能也是和其他玉米地州不一样之处吧。
 
@@ -40,7 +40,7 @@ date: 2017-09-13 22:27:34
 
 　当时的情况是下面这样的：
 
-![](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-1.png)
+![]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-1.png)
 
 　理想情况是走①→②→③就可以上高速了，当时地图上显示③是**蓝色的**（虽然我自己涂了个橙色上去），也就是**不堵的**。我们天真的以为，只要熬完①②两段就可以万事大吉，只要能上高速，在高速上堵一点也无所谓。
 
@@ -50,7 +50,7 @@ date: 2017-09-13 22:27:34
 
 　②这段虽然短，只有0.2 Mile（300多米），但是我们足足在这里卡了**40分钟**以上！因为这队车流**十分被动**，路口有个红绿灯，无论是哪边绿灯，我们并道的优先级都是最低的。
 
-![map-intersection-detail](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-d.png)
+![map-intersection-detail]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-d.png)
 
 　如上图，因为我们有个岔口给右转，我们这边直行的绿灯对我们**没有任何帮助**，而绿色和紫色的车流在他们绿灯的时候一辆接一辆很快地往道上开，我们这边可能平均一分钟才能找到个空挡挤进去，所以说很被动。我们这边还有很多猪队友，从后面假装是要直行，而到了岔口就往右转这边挤（低素质的哪里都有，无法避免），让情况更为复杂。
 
@@ -58,7 +58,7 @@ date: 2017-09-13 22:27:34
 
 　终于并完道，到下图蓝色△的时候我就傻眼了。上高速的这条匝道之所以在地图上是**蓝色的**是因为它**被关了**！被几个牌子拦着不让进入，而路上显然不是在修路。
 
-![map-x](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-x.png)
+![map-x]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/intersection-x.png)
 
 　我简直眼前一黑。车流都在往前走，只有一辆不遵守规矩的车从拦路的路牌旁边绕了过去，直接上了高速。堵了几个小时，最后发现上不了高速也是一件令人发火的事，直接拐上匝道这种行为也算情有可原。事实上我还是对老美的遵守规矩的能力表示佩服，在国内如果没有警察，拦路牌子目测就是纸老虎了。
 
@@ -76,17 +76,17 @@ date: 2017-09-13 22:27:34
 
 　看这堵的架势，绕远路才是最快的方案。这就是一念之差，如果在上上上图的蓝色①的路口右转，那最后到家时间还能**早一个半小时**。
 
-![map-local](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-eliz-lou.png)
+![map-local]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/map-eliz-lou.png)
 
 　后来我们挑了上图类似的路线前往Louisville。开了一段州内高速以后又走了一段伸手不见五指的Local夜路，终于在一个小镇找到了高速口并了进去。长叹一口气。这时候可能已经快十点钟了。
 
 　十点多搜索I-65从南往北的路线，显示还堵了1个小时23分钟，可想而知傍晚的时候是怎样一种惨烈的景象。
 
-![map-jam-1](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/IMG_3783.png)
+![map-jam-1]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/IMG_3783.png)
 
 　到了凌晨12点24的时候我搜索从I-65去Louisville的路线，结果显示还有长达58分钟的堵车时间…
 
-![map-jam-2](http://lanternd.qiniudn.com/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/IMG_3785.png)
+![map-jam-2]({{site.img-hosting}}/Pic4Post/solar-eclipse-at-gordonsville-traffic-jam/IMG_3785.png)
 
 　后面就没啥新鲜事了，和MS换着开一直开到凌晨三四点才到家，全程用了十二个多小时，心好累。
 

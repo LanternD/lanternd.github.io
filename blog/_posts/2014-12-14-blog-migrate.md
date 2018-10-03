@@ -147,17 +147,17 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 　这是现在的分数
 
-![Score1](http://lanternd.qiniudn.com/Pic4Post/blog-migrate/blogtest-1.jpg "Test Score1")
+![Score1]({{site.img-hosting}}/Pic4Post/blog-migrate/blogtest-1.jpg "Test Score1")
 
 　这是和以前的对比：
 
-![Score2](http://lanternd.qiniudn.com/Pic4Post/blog-migrate/blogtest-2.jpg "Test Score2")
+![Score2]({{site.img-hosting}}/Pic4Post/blog-migrate/blogtest-2.jpg "Test Score2")
 
 　——所以说体积上就小了个数量级，不可同日而语，我也搞不清楚原来为什么这么大……
 
 * [Web Page Test](http://www.webpagetest.org/result/141215_EC_XH7/)
 
-![Score3](http://lanternd.qiniudn.com/Pic4Post/blog-migrate/blogtest-3.jpg?imageView/0/w/900/ "Test Score3")
+![Score3]({{site.img-hosting}}/Pic4Post/blog-migrate/blogtest-3.jpg?imageView/0/w/900/ "Test Score3")
 
 　总之基本上大概就是秒开啦，用户体验还可以。
 
@@ -165,7 +165,7 @@ PS：现在SAE上的也[能访问](http://dlyang.sinaapp.com)，但是停止更�
 
 　这里贴个图，纪念以前Wordpress的博客的样子，缅怀一下，继往开来。
 
-![WP_OLD](http://lanternd.qiniudn.com/Pic4Post/blog-migrate/blogtest-4.jpg?imageView/0/w/900/ "Former Blog UI")
+![WP_OLD]({{site.img-hosting}}/Pic4Post/blog-migrate/blogtest-4.jpg?imageView/0/w/900/ "Former Blog UI")
 
 ## 一些小心得
 

@@ -8,7 +8,7 @@ tags: [影评, 侏罗纪, Bug]
 date: 2015-06-14 20:41:00
 --- 
 
-![Jurassic World Poster](http://lanternd.qiniudn.com/Pic4Post/jurassic-world-review/jurassic-world-poster.jpg)
+![Jurassic World Poster]({{site.img-hosting}}/Pic4Post/jurassic-world-review/jurassic-world-poster.jpg)
 
 　刚去看了IMAX的《侏罗纪世界》，趁我还能记得细节赶紧来找找Bug。
 

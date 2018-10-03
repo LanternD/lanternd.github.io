@@ -10,7 +10,7 @@ date: 2014-12-20 12:04:00
 
 　Lansing区域只有一家公共汽车公司，叫Capital Area Transportation Authority，简称[CATA](http://cata.org)，由于和cat挺像，logo就用了一个奔跑的猫科动物，但我也不认识名字。下图是找钱吐出来那张票的背面，印有CATA的LOGO。
 
-![ticket back](http://lanternd.qiniudn.com/Pic4Post/bus-ticket/ticket-back.jpg "back")
+![ticket back]({{site.img-hosting}}/Pic4Post/bus-ticket/ticket-back.jpg "back")
 
 　为什么说公车券**不好用完**呢？
 
@@ -22,7 +22,7 @@ date: 2014-12-20 12:04:00
 
 　一开始拿了3个quarter硬币去坐车，弹出的票显示余额为15美分的票给下次用。下图就是公车券背面了。上面有磁条记录信息。
 
-![ticket front](http://lanternd.qiniudn.com/Pic4Post/bus-ticket/ticket-front.jpg "front")
+![ticket front]({{site.img-hosting}}/Pic4Post/bus-ticket/ticket-front.jpg "front")
 
 　官方名字是Charge Card，找零卡。\$0.15那行就是第一次坐车留下的。
 

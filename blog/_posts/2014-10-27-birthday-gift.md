@@ -88,27 +88,27 @@ date: 2014-10-27
 
 * 机箱：
 
-![Tower Case](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/tower-case.jpg "Tower Case")
+![Tower Case]({{site.img-hosting}}/Pic4Post/birthday-gift/tower-case.jpg "Tower Case")
 
 * CPU：
 
-![CPU](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/cpu-motherboard.jpg "CPU Assembly")
+![CPU]({{site.img-hosting}}/Pic4Post/birthday-gift/cpu-motherboard.jpg "CPU Assembly")
 
 * 内存
 
-![memory](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/memory.jpg "内存")
+![memory]({{site.img-hosting}}/Pic4Post/birthday-gift/memory.jpg "内存")
 
 * 电源：
 
-![电源](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/power-motherboard.jpg "电源&主板")
+![电源]({{site.img-hosting}}/Pic4Post/birthday-gift/power-motherboard.jpg "电源&主板")
 
 * VGA：
 
-![显卡](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/vga.jpg "显卡")
+![显卡]({{site.img-hosting}}/Pic4Post/birthday-gift/vga.jpg "显卡")
 
 * 水冷系统 & 总体装配：
  
-![All Assembled](http://lanternd.qiniudn.com/Pic4Post/birthday-gift/all-assembled.jpg "水冷系统、总装配")
+![All Assembled]({{site.img-hosting}}/Pic4Post/birthday-gift/all-assembled.jpg "水冷系统、总装配")
 
 　反正最后大概是装完啦，一开机就好使，还算有点成就感，虽然以前都会。
 

@@ -35,6 +35,9 @@ author:
   flickr: https://www.flickr.com/photos/lanternd
   500px: https://500px.com/lanternd
 
+# 图床链接Prefix
+img-hosting: https://raw.githubusercontent.com/LanternD/blog-img/master
+
 # gavatar头像及Favicon
 gavatar: /img/logo_100x.png
 favicon: /img/favicon2.ico

@@ -28,7 +28,7 @@ date: 2015-02-22 12:29:00
 
 　国内初一7点半-中午12点，各种慢慢爬起床，收拾东西去拜年；国外，我和室友在师兄家和大家喝酒吃肉，还有必备的**饺子**，愉快地享受着年夜饭。这是Potluck式的Home Party，Potluck这个词是怎么来的不知道，意思是一人带一个菜去，凑成一桌菜大家一起吃。下图是盛况，右下侧的**叉烧鸡柳**和上面的**蒸鱼**是我和Weida带去的，大体上还可以吧，哈哈。
 
-![年夜饭](http://lanternd.qiniudn.com/Pic4Post/2015-chinese-new-year/chuxi-potluck-party.jpg "Potluck Style Part")
+![年夜饭]({{site.img-hosting}}/Pic4Post/2015-chinese-new-year/chuxi-potluck-party.jpg "Potluck Style Part")
 
 　吃饱后开始了三国杀之旅，第一次在国外玩三国杀，之前也好几年不玩了，简单温习了一下。3人局、5人局、6人局都玩了一把，一片欢乐祥和的气氛。不知不觉到了晚上11点，酒精应该已经散掉了，收工回家了。第一次蹭了室友的车开，也是我第一次开夜路，顺利到家。国外的第一个除夕圆满结束。美中不足是没有看到烟花，没有听到鞭炮声。其实兰辛村是有放烟花的，但是离我家比较远就没法围观了。回到家大概晚上11点半，我们把去年公寓门口贴的春联撕掉了换了新的，还贴上了更大号的「福」字。白天时间比较紧，这种活动只能留到深夜完成了。
 
@@ -38,7 +38,7 @@ date: 2015-02-22 12:29:00
 
 　国内迎来了大年初二，我这准备过周末了（周五没有课）。周五又和师兄去滑了次雪，继续挑战小山坡群，摔得惨不忍睹。
 
-![山丘群](http://lanternd.qiniudn.com/Pic4Post/2015-chinese-new-year/ski-hills.jpg "Skiing @ Hills")
+![山丘群]({{site.img-hosting}}/Pic4Post/2015-chinese-new-year/ski-hills.jpg "Skiing @ Hills")
 
 　之后，国内有条不紊地过春节；国外，我有条不紊地过周末。
 

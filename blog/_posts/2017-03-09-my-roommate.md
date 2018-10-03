@@ -79,7 +79,7 @@ date: 2017-03-09 10:23:34
 - [Hakuna Matata!](/hakuna-matata/)
 - [Hakuna Matata - Chapter II](/hakuna-matata-2/)
 
-![Huita](http://lanternd.qiniudn.com/Pic4Post/my-roommate/huita-roommate.jpg "室友灰")
+![Huita]({{site.img-hosting}}/Pic4Post/my-roommate/huita-roommate.jpg "室友灰")
 
 所以：
 

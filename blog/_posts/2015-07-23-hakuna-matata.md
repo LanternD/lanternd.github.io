@@ -8,9 +8,9 @@ tags: [猫, 领养, 猫粮, 罐头]
 date: 2015-07-23 22:21:00
 --- 
 
-<!-- http://lanternd.qiniudn.com/Pic4Post/ -->
+<!-- {{site.img-hosting}}/Pic4Post/ -->
 
-![Paw and finger](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-11.jpg "执子之爪")
+![Paw and finger]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-11.jpg "执子之爪")
 
 　看过我发的状态的朋友们应该知道是什么，RSS订阅的也有图一目了然。
 
@@ -58,7 +58,7 @@ date: 2015-07-23 22:21:00
 
 　我在位于Okemos的PetSmart里面看到了Hakuna Matata。
 
-![Website Info](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-12.jpg "Website Info of Hakuna Matata")
+![Website Info]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-12.jpg "Website Info of Hakuna Matata")
 
 　上面是介绍HM的信息页，下面的文字是上面的原文，被领养以后就从网站上删掉了。
 
@@ -81,13 +81,13 @@ date: 2015-07-23 22:21:00
 
 　我领养的时间是7月18号，可以推算出工作人员把HM的生日定为了2014年的7月1日。
 
-![45 degree](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-1.jpg "45°")
+![45 degree]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-1.jpg "45°")
 
 　我看到HM的时候她竟然在闷头大睡。惊喜的是介绍她的卡片上写着她**能够和儿童和其他的猫和谐相处**，但和狗的相容程度未知。我问了问工作人员能不能和她互动一下。
 
 　结果她刚出笼就在我脚边转，一个劲蹭我裤子。我把手伸向她，她竟然主动把头凑过来又开始蹭我的手，蹭得心痒…我又看了看其他笼子里，其他的猫也都在睡觉。对比了一下信息，感觉HM是这几只里面最佳的，于是就决定收养之。
 
-![Normal H M](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-4.jpg "Normal H M")
+![Normal H M]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-4.jpg "Normal H M")
 
 　CAHS的领养费是：
 
@@ -116,7 +116,7 @@ date: 2015-07-23 22:21:00
 - 每天都提供足够的猫粮和干净的水；
 - ……
 
-![Sleeping H M](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-5.jpg "Sleeping H M")
+![Sleeping H M]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-5.jpg "Sleeping H M")
 
 　我不由得感叹，美国的动物保护快比人都做得到位了。要知道美国是没有身份证号这种东西的，平常用个驾照就可以畅通全美了。（这一点经常被拿来和中国的身份证系统作对比）
 
@@ -124,7 +124,7 @@ date: 2015-07-23 22:21:00
 
 　关于猫粮，这里已经有好多种。便宜的猫粮营养也够，材质比较粗糙，应该像人吃的米饭蔬菜水果一样作为最大比例的摄取。这种每天都要提供过量，管饱；更高级的零食（Treat）会比较美味，只能作为补充或者训练时候的奖励；更好的鱼罐头什么的就是一周吃一个就够了（大概大罐的能吃三天了）。
 
-![Hug the air and sleep](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-6.jpg "Hug the air and sleep")
+![Hug the air and sleep]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-6.jpg "Hug the air and sleep")
 
 　聊天中我还了解了HM的一些**背景信息**，说她被发现的时候是在怀孕的状态，然后送到CAHS以后小猫咪生下来了，但是HM也被顺带做了绝育手术（好像有点小凄凉），还植入了个芯片。到现在为止HM还处于哺乳的阶段，工作人员表示过一阵肚子就会平了。由于做手术，她肚子的毛都被推平了，长出来还需要一段时间，综合各种原因就变成了上面几张图的样子。Anyway，作为一只猫来到这个世上，她也算有一个完整的「猫生」了。关于绝育，我是持赞同的态度的，关于这方面的观点很多，有机会我再阐述一下。她的孩子也已经被领养了，希望它们也能过得不错吧。
 
@@ -154,7 +154,7 @@ date: 2015-07-23 22:21:00
 
 　拿一个常见的剪刀手「自拍」作为博文的结束……
 
-![Selfie](http://lanternd.qiniudn.com/Pic4Post/hakuna-matata/cat-hm-10.jpg "Selfie")
+![Selfie]({{site.img-hosting}}/Pic4Post/hakuna-matata/cat-hm-10.jpg "Selfie")
 
 
 

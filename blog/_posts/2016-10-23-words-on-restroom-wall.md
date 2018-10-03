@@ -12,7 +12,7 @@ date: 2016-10-23 13:23:34
 
 　话说我去学校Anthony Hall的三楼上厕所啊，然后看到了下面这面墙……
 
-![Movie Name on Wall](http://lanternd.qiniudn.com/Pic4Post/words-on-restroom-wall/words-on-wall.jpg "Movie Names on Wall")
+![Movie Name on Wall]({{site.img-hosting}}/Pic4Post/words-on-restroom-wall/words-on-wall.jpg "Movie Names on Wall")
 
 　不知道是哪位仁兄写上了一句「**Name your shit using a movie title!**」（左边），然后墙上就乱成一团了。下面就开启盘点模式，看看老外的创意。
 

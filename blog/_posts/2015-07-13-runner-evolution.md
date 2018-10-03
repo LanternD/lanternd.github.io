@@ -8,7 +8,7 @@ tags: [跑步, 进步, 路线, 速度]
 date: 2015-07-13 22:21:00
 --- 
 
-<!-- http://lanternd.qiniudn.com/Pic4Post/ -->
+<!-- {{site.img-hosting}}/Pic4Post/ -->
 
 　我曾在上一篇[关于跑步的日志](/better-runner/)里提到了一些关于纠正跑步姿势的方法。除了旅行不按正常节奏进行以外，我几乎按照隔天一跑的频率执行我的跑步计划。
 
@@ -24,7 +24,7 @@ date: 2015-07-13 22:21:00
 
 　到了最近，我把路线修改了一下，本来是绕个大圈的，我把路线细分了一下，能绕远路就绕，把距离提高到了4.3 km，作为最低标准。
 
-![Short route](http://lanternd.qiniudn.com/Pic4Post/runner-evolution/short-route.png "Short route")
+![Short route]({{site.img-hosting}}/Pic4Post/runner-evolution/short-route.png "Short route")
 
 　在实践中我发现，在跑完一次长路线以后再跑短距离的，竟然能**挺舒服**地跑完了。
 
@@ -37,7 +37,7 @@ date: 2015-07-13 22:21:00
 
 　大概就是这样吧，总结起来就是，如果想提高一段固定里程的速度，不妨尝试跑一次更长的距离。
 
-![Long Route](http://lanternd.qiniudn.com/Pic4Post/runner-evolution/long-route.png "Long route")
+![Long Route]({{site.img-hosting}}/Pic4Post/runner-evolution/long-route.png "Long route")
 
 ------
 
@@ -67,7 +67,7 @@ date: 2015-07-13 22:21:00
 
 　说了好多，估计还是一张图更有说服力，下面是最近的跑步活动，大概是能够总结上面的一堆废话了吧。
 
-![Running Record](http://lanternd.qiniudn.com/Pic4Post/runner-evolution/running-record.png "Running Record")
+![Running Record]({{site.img-hosting}}/Pic4Post/runner-evolution/running-record.png "Running Record")
 
 　我还实践了一条能够较大幅度提高跑步体验的技巧，那就是每次吸气都把肺**吸到满**，吸到那种仿佛自己飘起来的感觉。往常我是高频率的两步一吸，两步一呼。现在呼和吸都改成三步了，周期更加长。可能也是最近肺活量上升了，导致吸满需要更长时间。估计现在肺活量该突破5200 mL了。
 

@@ -16,7 +16,7 @@ date: 2014-12-14 20:30:00
 
 　我们也不知道入口在哪里，但是似乎找到了个收费亭，车开过去以后，发现居然木有人。大惑不解之时，在亭子的架子上不起眼的地方我们找到个信封，上面说把钱塞到信封里，写下自己的一些信息，然后交到Headquarter ( 总部/管理中心 )。我们面面相觑，拿了信封继续往前开，发现一条小路拐到右边，我们顺着路边指示牌进去，结果发现了所谓的总部——一个较大的木屋……一点人烟的迹象都没有。在周围兜了一圈，结果发现了下图这个东西…
 
-![pay box](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/pay-box.jpg "Pay Box")
+![pay box]({{site.img-hosting}}/Pic4Post/sleepy-hollow/pay-box.jpg "Pay Box")
 
 　敢不敢再更自助一点= =！交费系统这么「愿者上钩」真是一点戒备心都没有，况且搞这么不起眼不知道多少人要错过啊。\$9刀一辆车，交完钱赶紧跑了。结果发现这是今天独特体验的序幕而已。
 
@@ -28,7 +28,7 @@ date: 2014-12-14 20:30:00
 
 　我们跑到活动地点，一位中年的女士向我们表示欢迎，她身后是貌似在参加活动的好几家人，还有很多欢腾的小熊孩子们。然后她领着我们去了一个小木屋旁边，给了我们一张纸一支铅笔，吩咐我们不要靠近打猎区……然后就跑了，我们拿起纸一看，然后就是这个表情：(⊙▽⊙)。
 
-![Winter Scavenger Hunt](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/IMG_6502.jpg "Check List")
+![Winter Scavenger Hunt]({{site.img-hosting}}/Pic4Post/sleepy-hollow/IMG_6502.jpg "Check List")
 
 　怪不得这么多小孩子，这本来**确实就是小朋友玩的游戏**好嘛。
 
@@ -40,7 +40,7 @@ date: 2014-12-14 20:30:00
 
 　真是大自然母亲在冬天留下的宝藏 T_T！但是毕竟我们也应该保留一份童心嘛，玩玩也年轻几岁啊。同时，我还学会了几个新单词，真是不枉此行……于是我们上路了，路上看到了个状况不是特别好的停车场：
 
-![abandoned parking area](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/IMG_6457.jpg "Parking Lot")
+![abandoned parking area]({{site.img-hosting}}/Pic4Post/sleepy-hollow/IMG_6457.jpg "Parking Lot")
 
 　此外路上也大多是这样的场景，冬天嘛，和夏天差别还是很大的。这停车场让我想起了白居易的《赋得古原草送别》中的一句，「远芳侵古道，晴翠接荒城。」人类建造的房子，设施，缺少维护以后终究还是敌不过自然的风化侵蚀，几十几百年以后，尘归尘土归土，再次融入大自然中。人类的能力还是有限啊。
 
@@ -48,7 +48,7 @@ date: 2014-12-14 20:30:00
 
 　听腻了枪声，寻宝之旅也有点趋于平淡了，直到遇上下面这**小狗**。
 
-![The dog](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/IMG_6477.jpg "dog and deer skeleton")
+![The dog]({{site.img-hosting}}/Pic4Post/sleepy-hollow/IMG_6477.jpg "dog and deer skeleton")
 
 　我们刚惊奇地发现一只鹿的残骸 ( 果然是离打猎区挺近啊 )，这小狗就从旁边蹿出来了。
 
@@ -60,7 +60,7 @@ date: 2014-12-14 20:30:00
 
 　就这样跟了我们1 mile左右，我们到了一片休息区，结果我刚坐下……
 
-![dog's print](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/IMG_6492.jpg "Dog's fingerprint")
+![dog's print]({{site.img-hosting}}/Pic4Post/sleepy-hollow/IMG_6492.jpg "Dog's fingerprint")
 
 　这丫跑过来直接把前脚搭我大腿上了，还一副开心的样子，真是训练有素的狗狗……天呐他的脚之前都踩过啥呢，野草砂石动物粪便尸体……这。(๑ŐдŐ)b
 
@@ -78,6 +78,6 @@ date: 2014-12-14 20:30:00
 
 　最后给小狗来一张正脸。
 
-![Cute Dog](http://lanternd.qiniudn.com/Pic4Post/sleepy-hollow/IMG_6486.jpg "Cute One")
+![Cute Dog]({{site.img-hosting}}/Pic4Post/sleepy-hollow/IMG_6486.jpg "Cute One")
 
 ------

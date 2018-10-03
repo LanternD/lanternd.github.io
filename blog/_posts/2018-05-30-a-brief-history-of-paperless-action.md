@@ -10,7 +10,7 @@ date: 2018-05-30 22:15:41
 
 # 　
 
-![img](http://lanternd.qiniudn.com/Pic4Post/a-brief-history-of-paperless-action/2018-06-07-paper-paperless.png "Paper & Paperless")
+![img]({{site.img-hosting}}/Pic4Post/a-brief-history-of-paperless-action/2018-06-07-paper-paperless.png "Paper & Paperless")
 
 ## 前言
 

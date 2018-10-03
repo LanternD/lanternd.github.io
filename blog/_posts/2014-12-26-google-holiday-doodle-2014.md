@@ -25,31 +25,31 @@ date: 2014-12-26 21:56:00
 
 　——滑板，双轮代步车，自行车，雪地摩托，汽车，缆车，滑雪板，轮船，轻轨，飞机，骆驼，冲浪，Taxi，Bus……
 
-![doodle1](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle1.jpg "Bicycle")
+![doodle1]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle1.jpg "Bicycle")
 
 　当然，有的不算交通方式，但是几乎所有**「在路上」**的方式都被展现了个遍。
 
 　动画里的主角也在不停的变换，无论是小朋友，大学生，还是风华正茂的上班族，抑或是步入中年，再或是矍铄的老人，都能在片子里找到代入感。
 
-![doodle2](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle2.jpg "Ship")
+![doodle2]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle2.jpg "Ship")
 
 　里面也有一些**有意思**的故事。一个是小朋友从轻轨里面出来的时候，礼物后端被车门缝夹住了，这时一个挺潮的大哥过来把小朋友连人带礼物提了起来，「拔」出了车门，让人忍俊不禁。
 
-![doodle3](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle3.jpg "Moment")
+![doodle3]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle3.jpg "Moment")
 
 　另一个小故事是一大叔赶公车没赶上，礼物还掉地上了，正懊恼时公车倒回来了 ( 为了剧情不顾交通规则了… )，这时一个小朋友帮他把礼物捡了回来，最后大叔赶上了公车。
 
-![doodle4](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle4.jpg "Miss the bus")
+![doodle4]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle4.jpg "Miss the bus")
 
-![doodle5](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle5.jpg "Everything turns out to be ok")
+![doodle5]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle5.jpg "Everything turns out to be ok")
 
 　结果一切都顺利。这些都是发生在万万千千普通平凡的人们生活里的小意外，大家可能也都经历过，仿佛看着动画就是在重温过去那些有意思的瞬间。
 
-![doodle6](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle6.jpg "Elderly")
+![doodle6]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle6.jpg "Elderly")
 
 　还有登门拜访和家人团聚的老人，他有一条乖巧的小狗陪伴着。
 
-![doodle7](http://lanternd.qiniudn.com/Pic4Post/google-holiday-doodle/doodle7.jpg "Quiet and calm")
+![doodle7]({{site.img-hosting}}/Pic4Post/google-holiday-doodle/doodle7.jpg "Quiet and calm")
 
 　动画最后一幕是老人趁小狗熟睡的时候，把给小狗的礼物骨头挂到了树上。以温馨而平凡的场景作为动画的结束。
 

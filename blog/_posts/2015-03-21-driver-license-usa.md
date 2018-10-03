@@ -119,7 +119,7 @@ date: 2015-03-21 15:39:00
 
 **考试的路线**：
 
-![Road Test Route](http://lanternd.qiniudn.com/Pic4Post/driver-license-usa/road_test_route.png)
+![Road Test Route]({{site.img-hosting}}/Pic4Post/driver-license-usa/road_test_route.png)
 
 　上图是我考试的路线，从起点往北开，上高速以后下来，然后往南，转个圈回到起点。但是原则上我**不建议专门去练这条路**。因为这样**对提高驾驶技术无益**。考试的时候甚至可能连路线都会换的。换言之，其他的路也要开熟，各种标志也要掌握好。当然，考前去开一次也还是有必要的。我考前只练过从起点到7525 E Saginaw St这段(是不是**打脸**了？——论「原则上」和「实际上」的区别。其实我在国内也开过车，姑且就当本身驾驶技术已达标了吧)，后面那段我就是考试的时候临场发挥了。
 

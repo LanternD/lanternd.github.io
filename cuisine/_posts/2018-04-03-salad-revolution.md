@@ -42,7 +42,7 @@ date: 2018-04-03 12:34:56
 
 　以下图片均来自我最近的拍摄。因为懒得换镜头，所以全都是浅景深照片，我自己有点疲劳。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-1.jpg "Salad 1")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-1.jpg "Salad 1")
 
 　沙拉的排列组合实在是太多了，下面说一下沙拉的若干层次。
 
@@ -54,7 +54,7 @@ date: 2018-04-03 12:34:56
 
 　反正这一块我一直买的是上面这个，也不管它里面是什么东西了。吃起来就脆脆的，没啥味道。如果不想吃那么脆，可以在微波炉热十几秒，一堆蔬菜一下子就会塌下去，没剩多少东西。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-2.jpg "Salad 2")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-2.jpg "Salad 2")
 
 #### 水果类
 
@@ -64,7 +64,7 @@ date: 2018-04-03 12:34:56
 
 　我个人觉得蓝莓和树莓是最好的选择。重点是要小个，太大显得突兀，比例不协调。比如芒果和黄瓜这种可以切丁（这个大约是最费时间的一步吧）。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-3.jpg "Salad 3")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-3.jpg "Salad 3")
 
 #### 蛋白质类
 
@@ -76,7 +76,7 @@ date: 2018-04-03 12:34:56
 -   鸡肉（白煮的、烤的或者卤的）
 -   中午剩菜打包的肉……
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-4.jpg "Salad 4")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-4.jpg "Salad 4")
 
 #### 脂肪类
 
@@ -106,7 +106,7 @@ date: 2018-04-03 12:34:56
 
 　奶酪我还是喜欢Mozzarella，因为没什么味道，既能填肚子，又不会盖过其他东西的味道。奶酪是个大家族，我个人没太有研究的欲望。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-5.jpg "Salad 5")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-5.jpg "Salad 5")
 
 #### 坚果类
 
@@ -121,7 +121,7 @@ date: 2018-04-03 12:34:56
 
 　坚果看个人喜好添加，腰果我一般不加超过10颗。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-6.jpg "Salad 6")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-6.jpg "Salad 6")
 
 #### （可选）碳水类
 
@@ -132,7 +132,7 @@ date: 2018-04-03 12:34:56
 
 　我一般都不怎么加碳水。但是加一点能耐饿一些。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-7.jpg "Salad 7")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-7.jpg "Salad 7")
 
 #### 总结
 
@@ -140,7 +140,7 @@ date: 2018-04-03 12:34:56
 
 　有的坑不往里跳真不知道有多大。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-8.jpg "Salad 8")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-8.jpg "Salad 8")
 
 ### 做法
 
@@ -163,7 +163,7 @@ date: 2018-04-03 12:34:56
 
 　至于沙拉拌不拌就是个人喜好了。有人喜欢一点点拣来吃，但我喜欢拌的，尤其是有那种稍微熟一点牛油果，整块吃有些腻，但是完全和菜拌到一起以后无论口感还是味道都堪称完美！
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-9.jpg "Salad 9")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-9.jpg "Salad 9")
 
 ### 一些注意事项
 
@@ -173,7 +173,7 @@ date: 2018-04-03 12:34:56
 
 　关于沙拉的食材和做法就是以上这些心得，下面再说说吃沙拉的感悟吧。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-10.jpg "Salad 10")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-10.jpg "Salad 10")
 
 ## 结果如何
 
@@ -211,7 +211,7 @@ date: 2018-04-03 12:34:56
 
 　加热、过水这种操作是会破坏很多蔬菜里的东西的（比如叶酸），吃生的能摄入更多不常见但又不能少的营养物质。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-11.jpg "Salad 11")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-11.jpg "Salad 11")
 
 #### （可能的）皮肤的改善
 
@@ -233,7 +233,7 @@ date: 2018-04-03 12:34:56
 
 　想到再补充。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-12.jpg "Salad 12")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-12.jpg "Salad 12")
 
 ### 沙拉\*不能\*带给你什么？
 
@@ -247,7 +247,7 @@ date: 2018-04-03 12:34:56
 
 　不一定能帮助减肥，因为沙拉里脂肪含量不低。这个就看各人体质了，对脂肪吸收比较好的话或许没有减肥的功效。要么就是少加点脂肪类的东西。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-13.jpg "Salad 13")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-13.jpg "Salad 13")
 
 （上图的牛仔骨是中饭的剩菜……）
 
@@ -259,7 +259,7 @@ date: 2018-04-03 12:34:56
 
 　必须承认，吃沙拉就得靠意念支撑，因为它真的算不上什么美食，没有那种吃好货的时候的精神愉悦和满足。有些给沙拉专供的坚果会包裹一层味道很好的东西，大概就是最后的慰藉了吧。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-14.jpg "Salad 14")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-14.jpg "Salad 14")
 
 ### 一些感悟
 
@@ -277,7 +277,7 @@ date: 2018-04-03 12:34:56
 
 　当然会，一般到10点半左右就会开始饥肠辘辘。解决方案是要么早点睡觉，要么吃点饼干或坚果，我选择后者。反正我本来也挺瘦的，吃点夜宵不碍事。如果是有强烈的减脂动机的话，我觉得还是管住嘴吧。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/salad-revolution/salad-15.jpg "Salad 15")
+![img]({{site.img-hosting}}/Pic4Post/salad-revolution/salad-15.jpg "Salad 15")
 
 #### 体重变化
 

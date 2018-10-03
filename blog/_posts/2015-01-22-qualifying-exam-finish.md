@@ -42,17 +42,17 @@ date: 2015-01-22 23:24:12
 
 　为什么我看到「Do both of the two problems. Two problems are equally weighted. 」会感觉有压力呢？因为**往年的题目**都是有3 problems，选两道写就行了，如下图，现在没得选了！
 
-![instruction](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/instruction1.jpg '27Instruction')
+![instruction]({{site.img-hosting}}/Pic4Post/qualifying-exam-finish/instruction1.jpg '27Instruction')
 
 　电力系统我本科没学过，最近备考的时候压根没看，一个是预习成本太高，另一个是因为电力系统的题目出现率仅为1/2，每次出现均为三选二的形式，即是可以选择性放弃的，结果**现在是必答题**了！
 
 　题目长下面这个样子：
 
-![power1](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/power1.jpg 'Power System1')
+![power1]({{site.img-hosting}}/Pic4Post/qualifying-exam-finish/power1.jpg 'Power System1')
 
 　这样子：
 
-![power2](http://lanternd.qiniudn.com/Pic4Post/qualifying-exam-finish/power2.jpg 'Power System2')
+![power2]({{site.img-hosting}}/Pic4Post/qualifying-exam-finish/power2.jpg 'Power System2')
 
 　当然，图片里的不是今年的，考场上我可没功夫拍下来。 
 

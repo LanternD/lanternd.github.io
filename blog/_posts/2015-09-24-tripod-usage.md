@@ -48,7 +48,7 @@ date: 2015-09-26 15:29:00
 
 　下图就是手持拍摄抖动的后果，吸取教训。虽说好像缩略图看起来不那么明显。
 
-![Nocturne - ZS](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_7680.jpg "哈尔滨 · Nocturne - 中山路")
+![Nocturne - ZS]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_7680.jpg "哈尔滨 · Nocturne - 中山路")
 （ISO-200 - 50 mm？ - f/1.4 - 1/4 s）
 
 #### 自拍
@@ -75,7 +75,7 @@ date: 2015-09-26 15:29:00
 
 　三脚架可以很方便地帮助摄影师取景，同时当摄影师去调整灯光和布景的时候就没必要一直把相机挂在脖子上了。如果光线还不太够（灯稍微拿远了之类）的时候，之前说的三脚架的防抖功能又该发挥用处了。
 
-![HuiTa](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/8C9A2964.jpg "暗黑之灰塔")
+![HuiTa]({{site.img-hosting}}/Pic4Post/tripod-usage/8C9A2964.jpg "暗黑之灰塔")
 （ISO-1600 - 75 mm - f/4 - 1/160 s）
 
 #### 微距拍摄
@@ -100,33 +100,33 @@ date: 2015-09-26 15:29:00
 
 　可能比较常见的是手拿着灯来画图案或者文字。下图比较简单，有想法的话可以弄出很多有意思的。
 
-![light-paint](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_6113.jpg "SOS")
+![light-paint]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_6113.jpg "SOS")
 （ISO-100 - 37 mm - f/5.6 - 15 s）
 
 　另一种灯绘。镜头太次导致光柱歪了。
 
-![Jiaohua Bridge](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_0139.jpg "Nocturne - 哈尔滨 · 教化桥上")
+![Jiaohua Bridge]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_0139.jpg "Nocturne - 哈尔滨 · 教化桥上")
 （ISO-100 - 18-55 mm - f/22 - 5 s）
 
 - 车灯
 
 　街道上的车灯也是个很不错的选择，往往在地势较高的地方能获得不一般的效果。
 
-![Zhongshan Rd](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_7727.jpg "Nocturne - 哈尔滨·中山路")
+![Zhongshan Rd]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_7727.jpg "Nocturne - 哈尔滨·中山路")
 （ISO-100 - 50 mm？ - f/2.8 - 2 s）
 
 - 火车
 
 　在一个小车站等火车的时候。
 
-![Train Light](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_1548.jpg "Light Painting - Train")
+![Train Light]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_1548.jpg "Light Painting - Train")
 （ISO-100 - 30 mm - f/4.5 - 8 s）
 
 - 烟花
 
 　烟花真的需要架子，不然惨不忍睹。
 
-![Firework](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_1922.jpg "烟花赏")
+![Firework]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_1922.jpg "烟花赏")
 （ISO-100 - 35 mm - f/16 - 30 s - -2/3EV）
 
 #### 星轨
@@ -135,7 +135,7 @@ date: 2015-09-26 15:29:00
 
 　为了让相机记录下星星运动的轨迹，长曝光是必不可少的。下图的星轨ISO偏低，高的话需要更多照片来合成。总之是一次不成功的尝试。
 
-![Startrails](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/Startrails_1.jpg "云南元阳 · 简易星轨")
+![Startrails]({{site.img-hosting}}/Pic4Post/tripod-usage/Startrails_1.jpg "云南元阳 · 简易星轨")
 （ISO-100 - 18 mm - f/5 - 1800 s）
 
 　此外也可以把流星雨之类的算进这个类别中。
@@ -150,22 +150,22 @@ date: 2015-09-26 15:29:00
 
 - 河流
 
-![Yellowstone River](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/8C9A0916.jpg "Wyoming · 黄石国家公园 - 黄石河")
+![Yellowstone River]({{site.img-hosting}}/Pic4Post/tripod-usage/8C9A0916.jpg "Wyoming · 黄石国家公园 - 黄石河")
 （ISO-50 - 12 mm - f/22 - 1/4 s - -0.7EV）
 
 - 瀑布
 
-![Waterfall](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/8C9A1561.jpg "Wyoming · 大提顿国家公园 - 叠瀑")
+![Waterfall]({{site.img-hosting}}/Pic4Post/tripod-usage/8C9A1561.jpg "Wyoming · 大提顿国家公园 - 叠瀑")
 （ISO-50 - 24 mm - f/29 - 1/5 s - +0.7EV）
 
 - 海边
 
-![Cliff on seaside](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_6357.jpg "广西 · 簕山海边岩石")
+![Cliff on seaside]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_6357.jpg "广西 · 簕山海边岩石")
 （ISO-100 - 24 mm - f/22 - 20 s）
 
 - 依旧是海边
 
-![Cliff on seaside](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_6949.jpg "广西 · 簕山海边亭子")
+![Cliff on seaside]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_6949.jpg "广西 · 簕山海边亭子")
 （ISO-800 - 24 mm - f/9 - 5 s）
 
 　拍出这样的效果不难，但架子是必须的。
@@ -182,24 +182,24 @@ date: 2015-09-26 15:29:00
 
 　除非灯火非常辉煌，否则夜景需要的快门时间是远低于安全快门的，因此没有架子到了晚上也是寸步难行。
 
-![Manzhouli](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_9236.jpg "Nocturne - 内蒙古 · 满洲里")
+![Manzhouli]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_9236.jpg "Nocturne - 内蒙古 · 满洲里")
 （ISO-800 - 20 mm - f/13 - 3.2 s - -1EV）
 
 　说到星芒，这个东西一般在小光圈的时候才比较明显，这也意味着更长的曝光时间，动辄15~30 s。
 
-![Stars](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_9228.jpg "内蒙古满洲里 · 香格里拉酒店墙上星芒")
+![Stars]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_9228.jpg "内蒙古满洲里 · 香格里拉酒店墙上星芒")
 （ISO-800 - 55 mm - f/13 - 1.6 s）
 
 　星空的夜景，或者银河之类的，曝光时间也是秒级别的。
 
-![stars](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_6942.jpg "Stars")
+![stars]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_6942.jpg "Stars")
 （ISO-16000 - 24 mm - f/4 - 4 s）
 
 #### 去除多余元素
 
 　有些风景区人就是多，只想拍景怎么办呢。利用长曝光把人一个个抹掉把。下图时间还不够长，达到完全没人的情况还需要更长的曝光。
 
-![IceWorld - Harbin](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_1243.jpg "Nocturne - 哈尔滨 · 冰雪大世界")
+![IceWorld - Harbin]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_1243.jpg "Nocturne - 哈尔滨 · 冰雪大世界")
 （ISO-100 - 18 mm - f/22 - 4 s）
 
 #### 流动的人群
@@ -222,15 +222,15 @@ date: 2015-09-26 15:29:00
 
 - 建筑
 
-![HUT](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/HUT.jpg "哈尔滨理工大学")
+![HUT]({{site.img-hosting}}/Pic4Post/tripod-usage/HUT.jpg "哈尔滨理工大学")
 
 - 风光
 
-![Malinghe Canyon](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/Cut_Merge.jpg "贵州 · 马岭河峡谷")
+![Malinghe Canyon]({{site.img-hosting}}/Pic4Post/tripod-usage/Cut_Merge.jpg "贵州 · 马岭河峡谷")
 
 - 夜景 - 奇怪的摊子
 
-![Central Street](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_4988pin9.jpg "Nocturne - 哈尔滨 · 中央大街夜市")
+![Central Street]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_4988pin9.jpg "Nocturne - 哈尔滨 · 中央大街夜市")
 （ISO-800 - 25 mm - f/6.3 - 1/20 s）
 
 　此外还能拍出一个类似圆球的极坐标变化后的图像，这个也可以很容易后期实现。
@@ -241,7 +241,7 @@ date: 2015-09-26 15:29:00
 
 　HDR原理是拍摄一张曝光量适中的照片、一张曝光偏亮的照片（照顾暗部）、一张曝光偏暗的照片（照顾亮部），然后在电脑里合成一张照片。这个过程中必须由三脚架保证三张，或者更多的照片的取景严格一致。现在也有的相机能连拍实现HDR的，也算是个还行的解决方案。
 
-![Yuanyang HDR](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/yuanyang-hdr.jpg "云南 · 元阳梯田 HDR")
+![Yuanyang HDR]({{site.img-hosting}}/Pic4Post/tripod-usage/yuanyang-hdr.jpg "云南 · 元阳梯田 HDR")
 （ISO-100 - 18 mm - f/7.1 - 5 s）
 
 　通常HDR得到的相片颜色会略有失真。我对上面这张照片不太满意，但是也有自己独特的味道。更多图可以直接搜HDR关键字。
@@ -266,7 +266,7 @@ date: 2015-09-26 15:29:00
 
 　这个是不久前拍的日落。忘记改成循环播放了，可以刷新来重新看。
 
-　[Timelapse - Sunset on Lake Lansing](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/Lake-Lansing-Sunset.gif)（GIF - 18.7 MB）
+　[Timelapse - Sunset on Lake Lansing]({{site.img-hosting}}/Pic4Post/tripod-usage/Lake-Lansing-Sunset.gif)（GIF - 18.7 MB）
 
 #### 云的轨迹
 
@@ -274,7 +274,7 @@ date: 2015-09-26 15:29:00
 
 　下面这个是某个楼的延时夜景。
 
-[Timelapse - Nocturne · Yuntian](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/yuntian.gif)（GIF - 6.90 MB）
+[Timelapse - Nocturne · Yuntian]({{site.img-hosting}}/Pic4Post/tripod-usage/yuntian.gif)（GIF - 6.90 MB）
 
 #### 花开花落
 
@@ -288,7 +288,7 @@ date: 2015-09-26 15:29:00
 
 　这个是哈尔滨教化街一个天桥上拍的。好像那天把我冻得够呛。
 
-　[Timelapse - Nocturne · Jiaohua](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/JHQ.gif)（GIF - 1.65 MB）
+　[Timelapse - Nocturne · Jiaohua]({{site.img-hosting}}/Pic4Post/tripod-usage/JHQ.gif)（GIF - 1.65 MB）
 
 #### 城市里一天的变化
 
@@ -332,7 +332,7 @@ date: 2015-09-26 15:29:00
 
 　栏杆的形状和垃圾桶一样千奇百怪，但是总有一款能用的。在天桥上的栏杆尤其作用大。下面这张是找了个栏杆拍的。
 
-![旋转木马](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_8690.jpg "Florida · Disney Magic Kingdom - 旋转木马")
+![旋转木马]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_8690.jpg "Florida · Disney Magic Kingdom - 旋转木马")
 （ISO-100 - 12 mm - f/22 - 15 s）
 
 - 石头
@@ -347,7 +347,7 @@ date: 2015-09-26 15:29:00
 
 　打铁还需自身硬。像狙击手一样训练一段时间说不定就会好很多了。现在我可以勉强做到1/10秒的快门仍然不抖。
 
-![Fireworks Show](http://lanternd.qiniudn.com/Pic4Post/tripod-usage/IMG_2211.jpg "Florida · Disney Epcot Fireworks Show")
+![Fireworks Show]({{site.img-hosting}}/Pic4Post/tripod-usage/IMG_2211.jpg "Florida · Disney Epcot Fireworks Show")
 （ISO-32 - 29 mm - f/2.2 - 1/40 s）
 
 　其实这张是iPhone 6拍的，和三脚架无关。

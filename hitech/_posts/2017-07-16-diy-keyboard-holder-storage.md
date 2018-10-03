@@ -104,35 +104,35 @@ date: 2017-07-16 22:23:34
 
 　我先刷了两块小的侧板（因为实际使用中很少会看到，所以拿来试手，涂出问题了也不要紧），是时候上一拨图了。
 
-![上漆](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-14.jpg "上漆")
+![上漆]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-14.jpg "上漆")
 
-![上漆](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-15.jpg "上漆")
+![上漆]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-15.jpg "上漆")
 
 　上了Poly之后特别容易留指纹。
 
-![上漆](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-6.jpg "上Stain")
+![上漆]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-6.jpg "上Stain")
 
 　↑再补一个刚涂完Stain的，小木板的没拍照，用大木板代替了。它稍微能反点光，但是还不是镜面的。边缘还保留着原木色。
 
 ### 组装
 
-![组装1](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-1.jpg "安装导轨和支架")
+![组装1]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-1.jpg "安装导轨和支架")
 
-![组装2](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-2.jpg "安装支架")
+![组装2]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-2.jpg "安装支架")
 
 　安装了导轨和支架。之前我一直没有介绍支架，看到这个图应该比较清楚了。把孔对准桌面下方的孔，然后拧上螺钉就好了。
 
 　下一步是给大木板加导轨和裱边木条。
 
-![组装3](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-4.jpg "安装导轨")
+![组装3]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-4.jpg "安装导轨")
 
 　上面这是导轨的。记住这个图，待会还要用来吐槽导轨。
 
-![组装4](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-3.jpg "安装木条")
+![组装4]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-3.jpg "安装木条")
 
 　配套的木条。有厚的和薄的两条，厚的用在前面，直接用胶水粘上去。薄的在后面，用钉子钉上，接触面涂一些胶水。
 
-![组装5](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-5.jpg "安装支架")
+![组装5]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-5.jpg "安装支架")
 
 　上漆前的成品。
 
@@ -140,31 +140,31 @@ date: 2017-07-16 22:23:34
 
 　先上一个防水效果。其实是刷完漆的时候味道有点大，我就晾在阳台了，谁知晚上下了场雨，还好这个漆确实给力，不然前功尽弃。
 
-![成品1](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-7.jpg "防水")
+![成品1]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-7.jpg "防水")
 
 　地上堆满了乱七八糟的东西。鉴于这是男生的桌子，一切不言自明。其实还是会定期收拾的，写日志这时候其实已经比较干净了。
 
-![成品2](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-8.jpg "最后放入前")
+![成品2]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-8.jpg "最后放入前")
 
 　↓放入以后的图。导轨的颜色真是一大败笔，不过Home Depot确实没有别的颜色卖了。以后心情好了再喷个漆弄成深色的。上面小木板其实是上了两次Stain的，而大的这块只有一次，所以还能透出一点原木色的感觉，和原桌子颜色更匹配一些。否则那就是很黑了。拉出来的木条上有浅色的细线，那就是残留的胶水导致的上色失败。
 
-![成品3](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-9.jpg "放入后")
+![成品3]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-9.jpg "放入后")
 
 　↓边缘细节。其实导轨也是可以用Stain漆上色的，还很稳定，后悔当时没有给丫全刷上。注意右侧焦外的**原木色小木块**，待会还会说到。
 
-![成品4](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-10.jpg "细节")
+![成品4]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-10.jpg "细节")
 
 　↓装货。
 
-![成品5](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-11.jpg "元件盒放入")
+![成品5]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-11.jpg "元件盒放入")
 
 　↓满载。常用的东西都放进去了，效果拔群。锂电池的绿盒子是凑数的，以后再换成别的东西。
 
-![成品5](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-12.jpg "元件盒放入2")
+![成品5]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-12.jpg "元件盒放入2")
 
 　↓推进去以后的样子。
 
-![成品5](http://lanternd.qiniudn.com/Pic4Post/diy-keyboard-holder-storage/diy-storage-13.jpg "推入后效果图")
+![成品5]({{site.img-hosting}}/Pic4Post/diy-keyboard-holder-storage/diy-storage-13.jpg "推入后效果图")
 
 　出于某种神秘的目的，我没有拍出桌面上的东西，导致构图比较难看。不过重点的都展示出来了。大概就是这样了吧。
 

@@ -22,7 +22,7 @@ date: 2018-05-18 12:34:56
 
 　折腾两天下来体重就减少了一磅左右。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/yet-another-way-to-lose-weight/daily-weight-curve.png "Daily weight curve")
+![img]({{site.img-hosting}}/Pic4Post/yet-another-way-to-lose-weight/daily-weight-curve.png "Daily weight curve")
 
 　最左边的数据点为拔牙当天。为了不暴露体重，把近段时间的数据Zero meaned了（横虚线为平均值）。称体重的时间都是早上起床以后，所以为一天内的最低体重。不过体重秤本身也有误差，可能在零点几磅的范围内。
 
@@ -34,7 +34,7 @@ date: 2018-05-18 12:34:56
 
 　如果上面图不是很清晰的话，可以看按周平均以后的「拟合图」。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/yet-another-way-to-lose-weight/weekly-weight-curve.png "Weekly weight curve")
+![img]({{site.img-hosting}}/Pic4Post/yet-another-way-to-lose-weight/weekly-weight-curve.png "Weekly weight curve")
 
 　这个效应总共持续了大约三周。到了最近一周出外面吃的次数有所增加，才勉强挽回颓势。
 

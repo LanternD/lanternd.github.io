@@ -10,7 +10,7 @@ date: 2018-02-11 12:34:56
 
 # 　
 
-![img](http://lanternd.qiniudn.com/Pic4Post/tunnel-in-the-wrong-way/2018.03.04.tunnel.png "Tunnel")
+![img]({{site.img-hosting}}/Pic4Post/tunnel-in-the-wrong-way/2018.03.04.tunnel.png "Tunnel")
 
 ## 太长不看版
 

@@ -8,7 +8,7 @@ tags: [停车, 生命, 紧急车辆, 让路]
 date: 2014-12-02
 --- 
 
-![Stop for life](http://lanternd.qiniudn.com/Pic4Post/road-for-llife/road_for_life.jpg?imageMogr2/auto-orient/thumbnail/500x)
+![Stop for life]({{site.img-hosting}}/Pic4Post/road-for-llife/road_for_life.jpg?imageMogr2/auto-orient/thumbnail/500x)
 
 　题图是前天下午回家路上拍的照片，虽然这一幕我早已习惯，但是却是我第一次用相机拍下来。
 

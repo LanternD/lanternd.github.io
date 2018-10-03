@@ -24,7 +24,7 @@ date: 2016-01-05 13:24:00
 
 　如果凭我浅薄的经验来看，国家公园应该怎么玩更有意思呢？两条入门级别的建议就是**Annual Pass和Passport**。
 
-![Passport collection](http://lanternd.qiniudn.com/Pic4Post/visiting-national-parks-tips/collection.jpg "Passport collection")
+![Passport collection]({{site.img-hosting}}/Pic4Post/visiting-national-parks-tips/collection.jpg "Passport collection")
 
 ## Annual Pass
 
@@ -54,7 +54,7 @@ date: 2016-01-05 13:24:00
 
 　说了半天好像该祭出Passport的真身了。一个蓝皮烫金字的小本子，比手掌大一点，烫金的字「Passport To Your National Parks」，下面是美国的国鸟白头海雕和美国国旗。
 
-![Passport](http://lanternd.qiniudn.com/Pic4Post/visiting-national-parks-tips/passport.jpg "Passport")
+![Passport]({{site.img-hosting}}/Pic4Post/visiting-national-parks-tips/passport.jpg "Passport")
 
 　护照里面给全美划分了若干个区，比如North Atlantic Parks，National Capital Parks，Southeast Parks，Rocky Mountain Parks，Western Parks等等，方便索引。即使不用来盖章，里面提及的内容也是很有价值的。
 
@@ -64,9 +64,9 @@ date: 2016-01-05 13:24:00
 
 　下面是一些我盖的章的样子：
 
-![Stamp 1](http://lanternd.qiniudn.com/Pic4Post/visiting-national-parks-tips/stamps1.jpg "Stamps 1")
+![Stamp 1]({{site.img-hosting}}/Pic4Post/visiting-national-parks-tips/stamps1.jpg "Stamps 1")
 
-![Stamp 2](http://lanternd.qiniudn.com/Pic4Post/visiting-national-parks-tips/stamps2.jpg "Stamps 2")
+![Stamp 2]({{site.img-hosting}}/Pic4Post/visiting-national-parks-tips/stamps2.jpg "Stamps 2")
 
 　需要说明的是，每个Visitor Center的章都是不一样的，所以有强迫症的话可能会想每个Center的章都收齐，这样就会比较累了。以前我提到过我出入过黄石公园的全部的大门，去过了N个VC，因此我在Passport上就留下了4个还是5个黄石的印（不过印象中还有一个地方的没盖上，因为我去到第二个VC才买了Passport）。
 

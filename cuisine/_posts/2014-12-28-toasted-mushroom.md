@@ -11,7 +11,7 @@ date: 2014-12-28 21:30:00
 ## 烤蘑菇
 @ 12/28/2014 by me
 
-![Final](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7748.JPG "最终版")
+![Final]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7748.JPG "最终版")
 
 　先放个效果图。以前烤蘑菇都是Weida做的，我一般是围观，今天自己尝试一下。经实践发现还是不错的，做起来也并不难。刚出炉不久的时候趁热吃，就有点像吃Pizza了，cheese咬一口还能有藕断丝连的感觉。蘑菇平时看起来干干的，但是烤完以后却是鲜嫩多汁，看来食材也不可貌相。
 
@@ -38,7 +38,7 @@ date: 2014-12-28 21:30:00
 
 #### 第一步
 
-![Step 1](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7741.JPG "1st Step")
+![Step 1]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7741.JPG "1st Step")
 
 　**把蘑菇放到手术台上**。以前的蘑菇伞直径大约8-10 cm，这次用的蘑菇大概13 cm，看着就好过瘾。视情况洗或者不洗，我没洗直接就开始干活了，主要是这边的菜可能也没什么土石头啥的。洗的话最好晾一会。注意千万别把蘑菇掰出缝了，这样里面的汁就流出来了，影响效果。
 
@@ -46,25 +46,25 @@ date: 2014-12-28 21:30:00
 
 #### 第二步
 
-![Step 2](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7742.JPG "2nd Step")
+![Step 2]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7742.JPG "2nd Step")
 
 　先铺一层起司，不用特别厚，然后把辣椒的切片 ( 3 mm左右厚度 )均匀铺满上面。
 
 #### 第三步
 
-![Step 3](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7746.JPG "3rd Step")
+![Step 3]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7746.JPG "3rd Step")
 
 　**加调料**。均匀撒上盐，不用放太多，一点就行，一定要均匀。太重口的话就覆盖了起司和蘑菇的味道了，妨碍感受蘑菇的鲜美。酱油同理，也可以不加，但是加了也一定要均匀。之后再淋一层芝麻油。
 
 #### 第四步
 
-![Step 4](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7747.JPG "4th Step")
+![Step 4]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7747.JPG "4th Step")
 
 　**再盖一层起司**。可以比上图加更多，烤的时候它们会融化然后挤到一起，导致看起来变少了。其实理想的效果是把蘑菇上面全部覆盖满，我这次还是没把握好啊。
 
 ##### 第五步
 
-![Final again](http://lanternd.qiniudn.com/Pic4Post/Cuisine/IMG_7750.JPG "Final Step")
+![Final again]({{site.img-hosting}}/Pic4Post/Cuisine/IMG_7750.JPG "Final Step")
 
 　烤盆铺好锡纸，蘑菇放上面，就可以放烤箱烤了 ( 确认已经预热到设定温度了 )，**190-200℃，11-13分钟**这样。
 

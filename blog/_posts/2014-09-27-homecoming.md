@@ -53,43 +53,43 @@ date: 2014-09-27 21:30:00
 
 　回家的时候Abbot Road是个大下坡，我往下走了400m左右，貌似活动开始了，四辆警用摩托开路，后面跟着一个个游行队伍方阵。其实我想说那个时候我还不知道这是什么活动…我决定停下来和他们一起看看。下面的图就是万人空巷的景象了。平时这条路顶多一两个行人。图片都是手机外加逆光拍的，后悔没带相机啊。
 
-![pic1](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade1.jpg "1")
+![pic1]({{site.img-hosting}}/Pic4Post/homecoming/parade1.jpg "1")
 
 　上图是前几个方队中的某一个，下图是各种兄弟会，或者就是橄榄球联赛相关的各种，反正旗子颜色各异。而不是MSU标准的绿+白。
 
-![pic2](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade2.jpg "2")
+![pic2]({{site.img-hosting}}/Pic4Post/homecoming/parade2.jpg "2")
 
 　MSU旗子方针出现！大大的Spartans logo。大家的步伐和着装都很统一，想必也练了许久。不过和国内军训的方阵倒是还差一些…
 
 　围观群众们时而欢呼，时而讨论，还有的在照相录像，比如我。还有很多对MSU充满热情的老头老太，他们好早就在路边抢好了「沙发」，有可能还带着他们的孙子一起来围观。整个Parade可能会持续一两个小时，所以想全部看完的话没有个好位置也挺累的。我也不确定大伙是不是都会全程参与。
 
-![pic3](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade3.jpg "3")
+![pic3]({{site.img-hosting}}/Pic4Post/homecoming/parade3.jpg "3")
 
 　下面是我们的「吉祥物」，Sparty，写实版，就像罗马士兵当年的造型，还有马拉着战车。他手里还挥舞着剑，倒是蛮威风的。
 
-![pic4](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade4.jpg "4")
+![pic4]({{site.img-hosting}}/Pic4Post/homecoming/parade4.jpg "4")
 
 　写实版完了就是Q版了。下面Sparty更容易出现在平时的视野内，比如橄榄球赛场间休息的时候他就会出来带动大家的热情了。
 
 　游行方队的顺序大概先是代表MSU的组织机构，然后到学生社团之类的。大家玩得都不亦乐乎，路过的花车会往两边撒糖果，小朋友们的「工作」就是捡来消灭掉。
 
-![pic5](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade5.jpg "5")
+![pic5]({{site.img-hosting}}/Pic4Post/homecoming/parade5.jpg "5")
 
 　接下来是各种社团，比如下图的貌似是游泳协会？反正大家也无拘无束，宣传自己就要彻底。其实那时候也有点冷，我估计他们还练过冬泳吧。
 
-![pic6](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade6.jpg "6")
+![pic6]({{site.img-hosting}}/Pic4Post/homecoming/parade6.jpg "6")
 
 　还有教职工类似的，或者是乐团，一卡车运之。
 
-![pic7](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade7.jpg "7")
+![pic7]({{site.img-hosting}}/Pic4Post/homecoming/parade7.jpg "7")
 
 　下图这个路口就是各个社团开始上路的地方，十字路口三个方向都集结号了车队，有交警类似物负责调度。
 
-![pic8](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade8.jpg "8")
+![pic8]({{site.img-hosting}}/Pic4Post/homecoming/parade8.jpg "8")
 
 　下面这帮家伙都差点撞到了挂在上面的红绿灯。虽说是欢迎校友回来，但是不是学校里的组织机构也一样会来欢迎。下图的就是东兰辛的消防队。不过我感觉上面坐着的应该是学生吧。
 
-![pic9](http://lanternd.qiniudn.com/Pic4Post/homecoming/parade9.jpg "9")
+![pic9]({{site.img-hosting}}/Pic4Post/homecoming/parade9.jpg "9")
 
 　游行结束后还有评选环节，具体怎么评的不知道，但是有以下项目，冒号后面的是获奖的团体。
 

@@ -8,7 +8,7 @@ tags: [哈工大, 大学, 成就]
 date: 2014-09-19
 --- 
 
-![1](http://lanternd.qiniudn.com/Pic4Post/hit-achievement-list/HIT_logo.jpg?imageView/0/w/640/ "HIT Logo")
+![1]({{site.img-hosting}}/Pic4Post/hit-achievement-list/HIT_logo.jpg?imageView/0/w/640/ "HIT Logo")
 
 ## 写在前面
 

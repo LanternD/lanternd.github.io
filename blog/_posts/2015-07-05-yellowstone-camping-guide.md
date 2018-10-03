@@ -8,9 +8,9 @@ tags: [黄石, 露营, camping, yellowstone, campground]
 date: 2015-07-05 19:16:00
 --- 
 
-<!-- http://lanternd.qiniudn.com/Pic4Post/ -->
+<!-- {{site.img-hosting}}/Pic4Post/ -->
 
-![Fox Creek Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-fox-creek-tent.jpg "Fox Creek Campground")
+![Fox Creek Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-fox-creek-tent.jpg "Fox Creek Campground")
 
 　开头放个传送门，黄石之旅的相册：
 
@@ -48,7 +48,7 @@ date: 2015-07-05 19:16:00
 
 　每个YNP的大门刚进去的地方都有一个牌子写着今天的露营地点信息，告诉你哪个地方还没满。由于园区里大部分地方没有手机信号，不支持电话订营地，所以只能直接奔过去订。交了钱就可以安心去玩了。
 
-![Campground Info](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/campground-info.jpg "Campground Info")
+![Campground Info]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/campground-info.jpg "Campground Info")
 
 　下面说说分类和我自己的评价标准。
 
@@ -56,7 +56,7 @@ date: 2015-07-05 19:16:00
 
 　本文中提到的99%关于露营的地点都是指Campground。Campground是指定的一片地方，一般是有若干条环线（Loop），在这条路的两侧修建有数块空地，每个空地就是一个Campsite。通常每个环线都是单行的，逆行会堵塞交通。环线可以看下面的某个Campground的图，应该比较好想象。
 
-![Campground Loops](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/campground-loop.png "Campground Loops")
+![Campground Loops]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/campground-loop.png "Campground Loops")
 
 　每个Campsite都标配有一块足够大的地盘给架帐篷（Tent），有一张桌子，有一个生火用的炉子，一个防熊的食物储存柜。整个Campground区域有若干个公共厕所，水龙头和垃圾站。所以说，整个Campground的设施是比较齐全的，能够解决大部分的需求。
 
@@ -89,7 +89,7 @@ date: 2015-07-05 19:16:00
 
 　下图用红框标出了它们的具体位置，带有绿圈的是我们住过的地方。
 
-![Campground Overview](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/campground-overview.png "Campground Overview")
+![Campground Overview]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/campground-overview.png "Campground Overview")
 
 　由于行程安排各种原因，我们有几个晚上住在了YNP以外的地方。并且在Grand Teton National Park（大提顿国家公园）住了一个晚上。大提顿是去YNP游玩的时候必备的景点之一，就像黄石的后花园。
 
@@ -120,7 +120,7 @@ date: 2015-07-05 19:16:00
 
 ### 06.27 Fox Creek Campground 
 
-![Fox Creek Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-fox-creek.png "Fox Creek Campground")
+![Fox Creek Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-fox-creek.png "Fox Creek Campground")
 
 - 地点：东北门外15 miles左右的地方，过了州境线不远
 - 价格：$20
@@ -141,7 +141,7 @@ date: 2015-07-05 19:16:00
 
 ### 06.28 Indian Creek Campground 
 
-![Indian Creek Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-indian-creek.png "Indian Creek Campground")
+![Indian Creek Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-indian-creek.png "Indian Creek Campground")
 
 - 地点：离开Mammoth，向南开8 miles左右
 - 价格：$15
@@ -158,7 +158,7 @@ date: 2015-07-05 19:16:00
 
 ### 06.29 Bridge Bay Campground 
 
-![Bridge Bay Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-bridge-bay.png "Bridge Bay Campground")
+![Bridge Bay Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-bridge-bay.png "Bridge Bay Campground")
 
 - 地点：黄石湖北边
 - 价格：$21.5
@@ -177,11 +177,11 @@ date: 2015-07-05 19:16:00
 
 　下图是第二天醒来以后拍的，人已经走了一大半了，所以看着比较空旷。右下角是桌子和炉子。可能傍晚人多的时候从某个角度看会像难民营什么的……
 
-![Bridge Bay Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-bridge-bay-real.jpg "Bridge Bay Campground")
+![Bridge Bay Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-bridge-bay-real.jpg "Bridge Bay Campground")
 
 ### 06.30 Grant Village 
 
-![Grant Village](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-grant-village.png "Grant Village")
+![Grant Village]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-grant-village.png "Grant Village")
 
 - 地点：黄石湖西边，West Thumb（西拇指）附近
 - 价格：$26
@@ -199,7 +199,7 @@ date: 2015-07-05 19:16:00
 
 ### 07.01 Signal Mountain Campground 
 
-![Signal Mountain](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-signal-mountain.png "Signal Mountain Campground")
+![Signal Mountain]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-signal-mountain.png "Signal Mountain Campground")
 
 - 地点：Grand Teton National Park进北门一段时间后就能看到了
 - 价格：$22
@@ -218,7 +218,7 @@ date: 2015-07-05 19:16:00
 
 ### 07.02 Canyon Village Campground
 
-![Canyon Village Campground](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-canyon-village.png "Canyon Village Campground")
+![Canyon Village Campground]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-canyon-village.png "Canyon Village Campground")
 
 - 地点：「8」字中间东侧。
 - 价格：$26
@@ -237,7 +237,7 @@ date: 2015-07-05 19:16:00
 
 ### 07.03 Madison Arm Resort
 
-![Madison Arm Resort](http://lanternd.qiniudn.com/Pic4Post/yellowstone-camping-guide/cg-madison-arm-resort.png "Madison Arm Resort")
+![Madison Arm Resort]({{site.img-hosting}}/Pic4Post/yellowstone-camping-guide/cg-madison-arm-resort.png "Madison Arm Resort")
 
 - 地点：5475 Madison Arm Rd，离西门7 miles。
 - 价格：$32

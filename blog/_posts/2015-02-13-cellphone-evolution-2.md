@@ -20,7 +20,7 @@ date: 2015-02-13 15:16:12
 
 ### Samsung I5700
 
-![I5700](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-i5700.jpg "Samsung I5700")
+![I5700]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Samsung-i5700.jpg "Samsung I5700")
 
 　这对我来说绝对是一部里程碑式的手机。怎么说呢，请看吧：
 
@@ -37,7 +37,7 @@ date: 2015-02-13 15:16:12
 
 　高考结束，我仿佛打开了一扇新世界的门，因为好多东西开始要自己决定了，手机也不例外。从爸妈那搞到一笔「经费」，在准备**踏上去往他乡的路**之前，我收到了这部手机。
 
-![Order I5700](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Order-I5700.jpg "Order: I5700")
+![Order I5700]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Order-I5700.jpg "Order: I5700")
 
 　高中的末尾，Android处于方兴未艾的阶段，当时我觉得挺有意思的，似乎这蛮有前途的，就决定下手了。为什么买水货呢，因为当时这手机根本**没有行货** ( 未在大陆发行 )。当时这手机也属于较贵的行列，因为那时候大热的Nokia 5230貌似才￥1300 or ￥1400【扯一句，现在 (2015.02) Nokia 5230是￥150，i5700是￥150-350不等，但销量已经没有了】。Symbian手机已经到了炉火纯青的地步，而新兴的Android功能还不是特别强大，但是相关厂商比较少，硬件成本高。当时，谁也没想到Android会发展到现在这样，可能大家也就是认为Android也就会和Symbian平分秋色罢了。确实是时过境迁，物是人非啊。
 
@@ -69,13 +69,13 @@ date: 2015-02-13 15:16:12
 
 ### Motorola MB525 ( Defy )
 
-![MB525](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Motorola-MB525.JPG "Motorola MB525")
+![MB525]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Motorola-MB525.JPG "Motorola MB525")
 
 　又是Android历史上非常给力的一款**「街机」**，当时的销量也是相当高的。可能「MB525」了解的人还少一些，但是「Defy ( 戴妃 )」还是比较有知名度的，另外，它行货的名字是「ME525」。她也在让「三防」这个词逐渐走进大众视野上功不可没。
 
 　在用了不到一年I5700后，我向用着相当给力的爸妈吐槽说I5700实在是太慢了，并向他们保证「**这次换了手机估计大学期间都不用换新的了。**」。他们对此嗤之以鼻，不过还是赞助了一些钱，加上春节残留的压岁钱我买了Defy：
 
-![Order MB525](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Order-MB525.jpg "Order: MB525")
+![Order MB525]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Order-MB525.jpg "Order: MB525")
 
 　注：这家店挺有名的，现在倒闭了。反正淘宝水太深，我也不深究其中原因了。
 
@@ -97,7 +97,7 @@ date: 2015-02-13 15:16:12
 
 ### Meizu MX3
 
-![MX3](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Meizu-MX3.jpg "Meizu MX3")
+![MX3]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Meizu-MX3.jpg "Meizu MX3")
 
 　Meizu MX3一定程度上对我来说也是一款里程碑式的手机：
 
@@ -134,7 +134,7 @@ date: 2015-02-13 15:16:12
 
 ### Nokia 1050
 
-![1050](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Nokia-1050.jpg  "Nokia 1050")
+![1050]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Nokia-1050.jpg  "Nokia 1050")
 
 　What？！**诺基亚功能机**？没贴错地方吧？
 
@@ -160,7 +160,7 @@ date: 2015-02-13 15:16:12
 
 ### iPhone 6
 
-![iPhone 6](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/iPhone-6.JPG "iPhone 6")
+![iPhone 6]({{site.img-hosting}}/Pic4Post/cellphone-evolution/iPhone-6.JPG "iPhone 6")
 
 　——刚开箱的iPhone 6
 
@@ -210,7 +210,7 @@ date: 2015-02-13 15:16:12
 
 ### Motorola A1200
 
-![A1200](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Motorola-A1200.jpg "Motorola A1200")
+![A1200]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Motorola-A1200.jpg "Motorola A1200")
 
 　既然都是我不经意间使用的手机，也就没有太大的篇幅去介绍了。
 
@@ -218,7 +218,7 @@ date: 2015-02-13 15:16:12
 
 ### Samsung Galaxy S3
 
-![S3](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-Galaxy-S3.jpg "Samsung Galaxy S3")
+![S3]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Samsung-Galaxy-S3.jpg "Samsung Galaxy S3")
 
 　印象中是我爸在用了HTC G12之后买的，在当时也还算配置不错吧。事实上Samsung在我心目中的印象走向负面，S3功不可没，因为塑料感实在是太强，太强了！其实我觉得iPhone 6的正脸和这个长得挺像的，有时候两部手机放一起，不看多一眼还不太能分出来。这么相似的正脸，体验却完全不一样，我也不懂描述这一现象了。
 

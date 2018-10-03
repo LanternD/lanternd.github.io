@@ -8,7 +8,7 @@ tags: [LiveRe, 来必力, 第三方,多说, disqus, 评论]
 date: 2017-05-18 12:33:44
 ---
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 姐妹篇传送门
 
@@ -18,9 +18,9 @@ date: 2017-05-18 12:33:44
 
 　博客圈混久的应该都知道这件事了吧。今年三月份的时候，**多说**宣布将在2017年6月1日下线，停止运营。离写本篇Blog这天也不远了。
 
-![Goodbye Duoshuo](http://lanternd.qiniudn.com/Pic4Post/goodbye-duoshuo/goodbye-duoshuo.png)
+![Goodbye Duoshuo]({{site.img-hosting}}/Pic4Post/goodbye-duoshuo/goodbye-duoshuo.png)
 
-![Goodbye Duoshuo](http://lanternd.qiniudn.com/Pic4Post/goodbye-duoshuo/goodbye-duoshuo-0.png)
+![Goodbye Duoshuo]({{site.img-hosting}}/Pic4Post/goodbye-duoshuo/goodbye-duoshuo-0.png)
 
 ### 杂念
 
@@ -32,7 +32,7 @@ date: 2017-05-18 12:33:44
 
 　值得一提的是，多说下线也就算了，结果还**晚节不保**。我的后台从四月份的某个时候开始就会有莫名的**垃圾评论**涌入，差不多以每天30至50条的速度增加，。不一会儿就差不多积累了1200条的评论，几乎是原来的三倍。之后我就**把多说评论给关掉**了，但是垃圾评论还是**一直在增加**。所以我觉得应该是多说的后台出了问题，不但没法过滤垃圾评论，而且连自己的系统都被黑客攻克了。这就很尴尬了。这些评论的用户名都叫做「新用户XXXX」，说的话好像也是评论其他人的文章留下的，也不排除是他们后院失火，用户评论的归属弄出问题了。
 
-![Goodbye Duoshuo](http://lanternd.qiniudn.com/Pic4Post/goodbye-duoshuo/goodbye-duoshuo-1.png)
+![Goodbye Duoshuo]({{site.img-hosting}}/Pic4Post/goodbye-duoshuo/goodbye-duoshuo-1.png)
 
 　一开始我还认真删了若干评论，再想想也拉倒吧，浪费时间在这种事上是没有意义的。后来关闭多说评论的同时我就把评论导出了，把垃圾评论全选，删除；本来还想着删干净以后导入显得后台整洁一些，结果多说似乎还禁止导入了，上传不了。看起来是努力向大伙**挥手告别**的节奏。
 

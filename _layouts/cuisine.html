@@ -35,7 +35,7 @@ layout: default
 
         <div class="cuisine-line"></div>
 
-        <div class="cuisine-photo"><img src="http://lanternd.qiniudn.com/Pic4Post/Cuisine/{{ dishes.date | date: "%Y" }}/{{ dishes.date | date: "%m" }}/{{ dishes.photo }}.JPG" alt="date: {{ dishes.date }}" title="{{ dishes.title }}" ></div>
+        <div class="cuisine-photo"><img src="{{site.img-hosting}}/Pic4Post/Cuisine/{{ dishes.date | date: "%Y" }}/{{ dishes.date | date: "%m" }}/{{ dishes.photo }}.JPG" alt="date: {{ dishes.date }}" title="{{ dishes.title }}" ></div>
         <div class="cuisine-info">
           味道：
           {% if dishes.taste == 1 %}

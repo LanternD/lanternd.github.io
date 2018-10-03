@@ -8,7 +8,7 @@ tags: [蚊子, 美国, 中国, 南方, 对比]
 date: 2015-08-11 23:04:00
 --- 
 
-![Mosquito](http://lanternd.qiniudn.com/Pic4Post/mosquito-comparison/mosquito.jpg "蚊子")
+![Mosquito]({{site.img-hosting}}/Pic4Post/mosquito-comparison/mosquito.jpg "蚊子")
 
 （图片来源：[维基百科 - 蚊](https://zh.wikipedia.org/wiki/%E8%9A%8A)）
 

@@ -144,11 +144,11 @@ date: 2015-10-09 22:52:00
 
 ### 九本阵
 
-![LVL9 TH Base](http://lanternd.qiniudn.com/Pic4Post/coc-good-base/lvl9th-base.jpg "九本阵")
+![LVL9 TH Base]({{site.img-hosting}}/Pic4Post/coc-good-base/lvl9th-base.jpg "九本阵")
 
 ### 十本阵
 
-![LVL10 TH Base](http://lanternd.qiniudn.com/Pic4Post/coc-good-base/lvl10th-base.jpg "十本阵")
+![LVL10 TH Base]({{site.img-hosting}}/Pic4Post/coc-good-base/lvl10th-base.jpg "十本阵")
 
 　可以拿这俩阵去套用上面的原则，看看那些符合了哪些没有。
 

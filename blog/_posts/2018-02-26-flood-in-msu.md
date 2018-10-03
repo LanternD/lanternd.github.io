@@ -38,7 +38,7 @@ date: 2018-02-26 12:34:56
 
 　下图大约是「巅峰时刻」封路的盛况。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/flood-in-msu/road-closure.png "Road Closure")
+![img]({{site.img-hosting}}/Pic4Post/flood-in-msu/road-closure.png "Road Closure")
 
 　教学楼受影响的不多，但是淹起来也很难处理。学校组织后勤在行政楼附近筑起了防洪栏（Hesco Barrier）。大家可以看到，防洪栏后面首当其冲的就是Computer Center，这个地方要是被淹了那好多数据可就不好办了。
 
@@ -54,7 +54,7 @@ date: 2018-02-26 12:34:56
 
 　我也没怎么到学校围观，上学路上会路过一条比较高的路，所以只能从桥上瞄一眼洪水。某天晚些时候我路过了Shaw Hall（学生宿舍兼食堂），我到了它河对岸，拍了一张河边夜景。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/flood-in-msu/shaw-hall-nocturne.jpg "lazy cat")
+![img]({{site.img-hosting}}/Pic4Post/flood-in-msu/shaw-hall-nocturne.jpg "lazy cat")
 
 　（iPhone的夜景能力真是渣渣，为了快门速度牺牲画质，后期加曝光的时候出来的全都是色块，完全没有细节可言。不过其他手机估计也差不多。）
 

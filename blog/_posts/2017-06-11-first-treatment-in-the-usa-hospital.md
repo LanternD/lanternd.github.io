@@ -8,9 +8,9 @@ tags: [Urgent Care, 急诊, 医院, 治疗, 外伤, 美国]
 date: 2017-06-11 22:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
-![title pic](http://lanternd.qiniudn.com/Pic4Post/first-treatment-in-the-usa-hospital/2017-06-13-sutures.png)
+![title pic]({{site.img-hosting}}/Pic4Post/first-treatment-in-the-usa-hospital/2017-06-13-sutures.png)
 
 ## 阿喀琉斯之踵
 
@@ -65,7 +65,7 @@ date: 2017-06-11 22:16:00
 
 　12年前我手指划伤缝了七八针，那次是我亲自看完了整个手术过程；而这次翻面了，啥也没看着就结束了，翻回来的时候已经包扎好了，如下图所示。
 
-![My ankle](http://lanternd.qiniudn.com/Pic4Post/first-treatment-in-the-usa-hospital/my-ankle.jpg)
+![My ankle]({{site.img-hosting}}/Pic4Post/first-treatment-in-the-usa-hospital/my-ankle.jpg)
 
 　肉色纱布也好评，走在路上一般没人注意到我的脚踝上包扎着绷带。
 
@@ -91,6 +91,6 @@ date: 2017-06-11 22:16:00
 
 　拆线的时候发现一共被缝了10针。在LUC的时候确实没收我钱，但是账单寄给保险公司了。今天保险公司账单到了，告诉我要付\$74.63。
 
-![My bill](http://lanternd.qiniudn.com/Pic4Post/first-treatment-in-the-usa-hospital/insurance-bill.png)
+![My bill]({{site.img-hosting}}/Pic4Post/first-treatment-in-the-usa-hospital/insurance-bill.png)
 
 　又有两顿Red Lobster大餐没有了。印象中这样的手术在国内大约需要100多RMB，现在不知道行情如何了。总之这次74刀大概还可以接受吧，去看病不花钱也是不可能的事情。

@@ -8,7 +8,7 @@ tags: [2017, 年度总结, Milestone, 总结, 记录, 时间线, 上半年]
 date: 2017-08-07 12:55:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 前言
 

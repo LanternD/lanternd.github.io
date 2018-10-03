@@ -28,7 +28,7 @@ date: 2016-09-30 13:23:34
 
 　这个是国产的航模遥控器大厂。中文叫「[富斯](http://gb.flysky-cn.com/index.html)」。虽然一开始国产厂商都靠「山寨」起家，但是到目前也都走上了自主研发的道路。总体来说富斯还是很靠谱的。
 
-![Flysky RM002](http://lanternd.qiniudn.com/Pic4Post/v929-flysky-turnigy9xr-pro-binding/flysky-rm002.jpg)
+![Flysky RM002]({{site.img-hosting}}/Pic4Post/v929-flysky-turnigy9xr-pro-binding/flysky-rm002.jpg)
 （图片来源：[Banggood](http://www.banggood.com/Wholesale-FlySky-Upgrade-FS-TH9X-FS-TH9XB-2_4G-9CH-RC-Remote-Control-Transmitter-Mode-2-p-47904.html)）
 
 　这次的发射器模块是来自Flysky的[FS-RM002](https://www.amazon.com/Flysky-FS-GT3-FS-RM002-FS-TH9X-Transmitter/dp/B01AOF6324)。不过这个是我师兄的，他暂时不用就借给我了。
@@ -41,7 +41,7 @@ date: 2016-09-30 13:23:34
 
 　Turnigy 9XR Pro是我在[Hobbyking](http://www.hobbyking.com/hobbyking/store/__51442__Turnigy_9XR_PRO_Radio_Transmitter_Mode_2_without_module_.html)买的，大约是全网最便宜的价格，60\$。然而这个是不带模块的，另外锂电池也不配，需要自己买。
 
-![Turnigy 9XR Pro](http://lanternd.qiniudn.com/Pic4Post/v929-flysky-turnigy9xr-pro-binding/turnigy-9xr-pro-radio-transmitter.jpg)
+![Turnigy 9XR Pro]({{site.img-hosting}}/Pic4Post/v929-flysky-turnigy9xr-pro-binding/turnigy-9xr-pro-radio-transmitter.jpg)
 
 （图片来源：[getfpv](http://www.getfpv.com/radios/radio-controllers/turnigy-9xr-pro-radio-transmitter-mode-2-without-module.html)）
 
@@ -51,7 +51,7 @@ date: 2016-09-30 13:23:34
 
 　但是这个瓢虫的塑料罩实在是有碍观瞻，我到手以后就给扔一边了。电路板露出来才有点科技感（虽然也是廉价PCB板）。
 
-![WLtoys](http://lanternd.qiniudn.com/Pic4Post/v929-flysky-turnigy9xr-pro-binding/wltoys-v929-mini-quadcopter.jpg)
+![WLtoys]({{site.img-hosting}}/Pic4Post/v929-flysky-turnigy9xr-pro-binding/wltoys-v929-mini-quadcopter.jpg)
 （图片来源：[rcgroups](http://www.rcgroups.com/forums/attachment.php?attachmentid=6453506)）
 
 　飞机的红色螺旋桨是机头方向，所有的操作指令都以这个为基准。

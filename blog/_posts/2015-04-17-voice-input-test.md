@@ -12,7 +12,7 @@ date: 2015-04-17 17:36:00
 
 　之前有一段时间没有网购了，最近不小心打开了亚马逊，刚好看到有麦克风的推荐，也是突发奇想买一个。于是我开始搜索，后来发现了一个\$40左右的[麦克风](https://www.amazon.com/gp/product/B00KMKIR9Y/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)，还配有防震架，在和一个[支架](https://www.amazon.com/gp/product/B00DY1F2CS/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)配合固定到桌子上以后，能够实现一个相对稳定而且看起来比较专业的录音环境。
 
-![Final](http://lanternd.qiniudn.com/Pic4Post/voice-input-test/microphone-set.jpg "麦克风组合")
+![Final]({{site.img-hosting}}/Pic4Post/voice-input-test/microphone-set.jpg "麦克风组合")
 
 （一不小心暴露工作环境了，咳咳。希望没有泄露什么信息）
 

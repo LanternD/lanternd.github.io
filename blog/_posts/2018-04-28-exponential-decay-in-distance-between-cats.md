@@ -10,7 +10,7 @@ date: 2018-4-28 12:34:56
 
 # 　
 
-![img](http://lanternd.qiniudn.com/Pic4Post/exponential-decay-in-distance-between-cats/huita-and-dobby.jpg "Huita and Dobby")
+![img]({{site.img-hosting}}/Pic4Post/exponential-decay-in-distance-between-cats/huita-and-dobby.jpg "Huita and Dobby")
 
 ## 不熟悉的陌生猫
 
@@ -76,6 +76,6 @@ date: 2018-4-28 12:34:56
 
 　所以按照上面的距离画出曲线，会是下面这个样子。然后把指数衰减的函数（y=20\*e^(-x)）也画出来。所以是不是非常接近啊？
 
-![img](http://lanternd.qiniudn.com/Pic4Post/exponential-decay-in-distance-between-cats/distance-plot.png "Distance decay")
+![img]({{site.img-hosting}}/Pic4Post/exponential-decay-in-distance-between-cats/distance-plot.png "Distance decay")
 
 　其实……或许有的小伙伴可能会猜到了，我是先把指数衰减的函数画出来了，然后才写的文章，就像是先射了一箭，然后在射中的地方把靶子画上（基本可以9.9环了）。不过反正实际的误差也不太大。

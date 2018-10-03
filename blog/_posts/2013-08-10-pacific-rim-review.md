@@ -8,7 +8,7 @@ tags: [环太平洋, 观后感, 怪兽]
 date: 2013-08-10
 ---
 
-![Pacific Rim Post](http://lanternd.qiniudn.com/Pic4Post/pacific-rim-review/pacificrim-post.jpg?imageView/0/w/619/)
+![Pacific Rim Post]({{site.img-hosting}}/Pic4Post/pacific-rim-review/pacificrim-post.jpg?imageView/0/w/619/)
 
 ----
 

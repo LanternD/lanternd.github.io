@@ -8,7 +8,7 @@ tags: [游泳, 校园, 体育馆, 第一次]
 date: 2017-06-10 14:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 无缘与懒惰
 
@@ -34,7 +34,7 @@ date: 2017-06-10 14:16:00
 
 　从正门进去以后是观众席的最高处，大约能容纳几百观众的样子，顺着台阶往下走就到了泳池的边缘。
 
-![IM Circle](http://lanternd.qiniudn.com/Pic4Post/first-swimming-in-the-usa/swimming-pool-im-circle.png)
+![IM Circle]({{site.img-hosting}}/Pic4Post/first-swimming-in-the-usa/swimming-pool-im-circle.png)
 
 　用骨骼清奇的透视画一个大概的样子。
 

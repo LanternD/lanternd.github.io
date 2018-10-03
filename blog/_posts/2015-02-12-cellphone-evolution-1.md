@@ -24,7 +24,7 @@ date: 2015-02-12 23:19:12
 
 ### UT Starcom 702-U
 
-![702-U](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/UT-Starcom-702-U.jpg "UT Starcom 702-U")
+![702-U]({{site.img-hosting}}/Pic4Post/cellphone-evolution/UT-Starcom-702-U.jpg "UT Starcom 702-U")
 
 　年代久远，也就没有储存有相关的图片，网上能找到的靠谱的就这一张，但是我比较痛恨图片的水印，于是就P掉了。但是时间仓促，没有处理细节，所以某些地方可能看着不对劲。
 
@@ -36,7 +36,7 @@ date: 2015-02-12 23:19:12
 
 ### Samsung T108
 
-![T108](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-T108.jpg "Samsung T108")
+![T108]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Samsung-T108.jpg "Samsung T108")
 
 　初二还是初三左右用的手机，来自我妈淘汰的手机 ( 嗯，好像是她开始用我爸淘汰下来的另一部手机…这就是手机的**「淘汰链」**)。这部手机似乎也或过一阵吧，但是主要是为女士设计的，我是怎么用怎么不爽。我手比较大，手机特别小，虽然上面图片看着挺大。
 
@@ -56,7 +56,7 @@ date: 2015-02-12 23:19:12
 
 ### Motorola A768i
 
-![A768i](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Motorola-A768i.jpg "Motorola A768i")
+![A768i]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Motorola-A768i.jpg "Motorola A768i")
 
 　这是一部经典的**商务手机**，当时的销量蛮高的。那时候Moto可谓如日中天，和Nokia，Samsung一起，瓜分了手机市场的大部分份额。
 
@@ -70,7 +70,7 @@ date: 2015-02-12 23:19:12
 
 ### Samsung D888
 
-![D888](http://lanternd.qiniudn.com/Pic4Post/cellphone-evolution/Samsung-D888.jpg "Samsung D888")
+![D888]({{site.img-hosting}}/Pic4Post/cellphone-evolution/Samsung-D888.jpg "Samsung D888")
 
 【吐槽：这种一串8的估计都是**大陆行货**才会用的名字。】
 

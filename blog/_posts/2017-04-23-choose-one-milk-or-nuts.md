@@ -8,7 +8,7 @@ tags: [牛奶, 坚果, 过敏, 症状, 美国, 中国]
 date: 2017-04-23 22:33:44
 ---
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 牛奶「过敏」
 
@@ -28,7 +28,7 @@ date: 2017-04-23 22:33:44
 
 　《The Big Bang Theory》里面Howard（犹太人）因为误食了含有花生的糕点而过敏了。
 
-![Howard](http://lanternd.qiniudn.com/Pic4Post/choose-one-milk-or-nuts/peanut-allergy.gif)
+![Howard]({{site.img-hosting}}/Pic4Post/choose-one-milk-or-nuts/peanut-allergy.gif)
 （图片来源： Tumblr - [pammieomana](http://68.media.tumblr.com/tumblr_mduio6pHFI1qasxjlo1_500.gif)）
 
 　鉴于上面是电视剧，不太可能让演员真的过敏，但其实还可以从好多地方可以看出来。

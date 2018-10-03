@@ -8,7 +8,7 @@ tags: [精致, 代价, 灰尘, 简单]
 date: 2015-05-27 23:09:00
 --- 
 
-![Gothic Church](http://lanternd.qiniudn.com/Pic4Post/cost-of-delicacy/gothic.jpg)
+![Gothic Church]({{site.img-hosting}}/Pic4Post/cost-of-delicacy/gothic.jpg)
 
 ## 溯源
 
@@ -30,7 +30,7 @@ date: 2015-05-27 23:09:00
 
 　看过一个National Geographic拍的Maserati跑车生产过程的纪录片（Ultimate Factory 系列），整车组装完成后有一道工序是有一批工作人员戴上薄手套去抚摸整辆车的外壳，如果有感觉不平整或者不满意的地方就要标记出来，回到车间里重新打磨，上漆。
 
-![象牙球](http://lanternd.qiniudn.com/Pic4Post/cost-of-delicacy/ivory.jpg)
+![象牙球]({{site.img-hosting}}/Pic4Post/cost-of-delicacy/ivory.jpg)
 
 　还记得在广州的陈家祠玩的时候看到过许多精美的艺术品，其中一个让我难以忘怀的是「[象牙球](http://baike.baidu.com/view/488093.htm#2)」，这是一种独特的雕刻形式。在球中继续雕刻里面的小球，每个球均能转动，每个球面都有自己的纹理或浮雕，令人叹为观止。据说现在的工艺能够雕刻60层！这人造艺术品的精致程度在我心中的能排到Top 5。
 
@@ -38,7 +38,7 @@ date: 2015-05-27 23:09:00
 
 　但并不是所有精致的物品都长得非常复杂，一些极简的东西也一样精致。
 
-![Chairs](http://lanternd.qiniudn.com/Pic4Post/cost-of-delicacy/chairs.jpg)
+![Chairs]({{site.img-hosting}}/Pic4Post/cost-of-delicacy/chairs.jpg)
 
 　因为不但做加法需要代价，做减法也一样需要。小心地去掉多余的线条，磨平突兀的棱角，控制曲线的走向，一样得一丝不苟。
 
@@ -54,7 +54,7 @@ date: 2015-05-27 23:09:00
 
 　类似的还有壁画的修复，知乎有个问题「[壁画修复是怎样一个工作？](http://zhi.hu/50zQ)」。对于这一系列复杂繁重的工作，我只能表示敬佩。为了不让精致的艺术品消失，我们似乎别无选择。
 
-![Rolleiflex F2.8](http://lanternd.qiniudn.com/Pic4Post/cost-of-delicacy/rolleiflex.jpg)
+![Rolleiflex F2.8]({{site.img-hosting}}/Pic4Post/cost-of-delicacy/rolleiflex.jpg)
 
 　那些曾经精致的事物，在时代的变迁中失去了人气，欠缺维护，从而衰落的例子也是数不胜数。曾经的底特律城是美国五大湖区的一颗明星，然而现在经济环境不景气，最后只能申请破产。在Alabama的[Birmingham](https://www.google.com/maps/place/Sloss+Furnaces/@33.521216,-86.791437,3a,75y,157.05h,90t/data=!3m4!1e1!3m2!1sITE9Y7kutq7SEK89GRUiJg!2e0!4m2!3m1!1s0x0:0x4ed8f930de175988!6m1!1e1)，有个著名的炼钢厂叫[Sloss Furnances](https://en.wikipedia.org/wiki/Sloss_Furnaces)，曾经是美国乃至全世界最大的炼钢厂，管道错综复杂，有巨大的炉子，巨大的齿轮齿条等等，有一种机械、蒸汽组成在一起的野兽般的精致。而上世纪六七十年代的时候人们对环保的呼声日益加大，偌大的工厂尾大不掉，无法转型，最后被人们抛弃了。缺乏应有的维护，那里现今仅有一种锈迹斑斑的残缺的美，被改造成了钢铁工业博物馆，供人们瞻仰怀念。
 
@@ -70,7 +70,7 @@ date: 2015-05-27 23:09:00
 
 　上面说到了与「精致」相关的两种代价。暂时我只想到这两种，有什么别的想到以后再补充。
 
-![Watch](http://lanternd.qiniudn.com/Pic4Post/cost-of-delicacy/watch.jpg)
+![Watch]({{site.img-hosting}}/Pic4Post/cost-of-delicacy/watch.jpg)
 
 　精致，更多的是人在解决温饱问题以后更高层次的追求。或是科技的进步，或是追求速度、精度、准度，或是精巧的建筑，也可以是音乐，绘画，雕刻等艺术形式，从近的角度看，也可以是追求人本身的精致——「慎独」。精致不等同与完美，但精致让人叹为观止，心生敬意。
 

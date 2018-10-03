@@ -10,7 +10,7 @@ date: 2018-03-27 12:34:56
 
 # 　
 
-![img](http://lanternd.qiniudn.com/Pic4Post/delete-weibo-account/2018-03-27-weibo.png "topic pic")
+![img]({{site.img-hosting}}/Pic4Post/delete-weibo-account/2018-03-27-weibo.png "topic pic")
 
 ## 普天同庆
 
@@ -59,11 +59,11 @@ date: 2018-03-27 12:34:56
 -   如果有用过微博支付相关的东西，把它们都清空。红包啥的都转出来。
 -   把各种和微博挂钩的东西通通取消，包括用微博授权登陆的其他站点。可以按下面的图片去 **应用中心** 把它们都取消掉。绑定的服务可以在帐号设置之类的地方解除。记住是所有的。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/delete-weibo-account/app-auth-1.png "app auth 1")
+![img]({{site.img-hosting}}/Pic4Post/delete-weibo-account/app-auth-1.png "app auth 1")
 
-![img](http://lanternd.qiniudn.com/Pic4Post/delete-weibo-account/app-auth-2.png "app auth 2")
+![img]({{site.img-hosting}}/Pic4Post/delete-weibo-account/app-auth-2.png "app auth 2")
 
-![img](http://lanternd.qiniudn.com/Pic4Post/delete-weibo-account/app-auth-3.png "app auth 3")
+![img]({{site.img-hosting}}/Pic4Post/delete-weibo-account/app-auth-3.png "app auth 3")
 
 　符合条件就可以注销了。我还得等三个月，到时候我再过来更新日志。
 

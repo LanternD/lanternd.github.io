@@ -36,7 +36,7 @@ date: 2015-04-14 00:36:00
 
 　所谓「无中生有」也不难理解，就是不依赖太多的事物去创造了新的事物。注意，现实生活中，不依赖别的事物进行创造是很困难甚至是不可能的，创造个东西总得会有材料的需求吧，不然就是反向利用$E=MC^2$把能量转化为质量了。因此「无中生有」的「无」就是相对的。举个例子，大家都知道Thomas Edison发明了灯泡，过程就是找一种材料在通电的条件下能把电能转化成持续的光线，这个设想是前无古人的（不过这一现象不是他最先发现的），另外他也付诸实践，验证了这一设想，初次成功后还屡次试验把灯丝使用寿命提高了若干数量级，中间还有很多技术上的革新，例如用灯泡隔离空气防止氧化。总之这样一个壮举，放在历史长河的尺度上可以名副其实地归为「无中生有」的创造。另外一个容易想到也更具说服力的是生命的创造。从受精卵开始到一个完整的生命体，这是物种在时间尺度上延续的重要一环，这个等待和积累的过程，即使只是想象一下都是充满幸福感的，更不用说一个真正的新生命的诞生时刻爆表的幸福感了(声明一下这仅是我的想象)。贴个知乎问答图，大部分人类都喜欢这款产品的开发。
 
-![zhihu-answer](http://lanternd.qiniudn.com/Pic4Post/what-is-happiness/chanpin.png)
+![zhihu-answer]({{site.img-hosting}}/Pic4Post/what-is-happiness/chanpin.png)
 (Source: [知乎](http://zhi.hu/CYav))
 
 　另外，许多种**艺术类**的作品都属于无中生有的创造，绘画、雕塑、音乐、建筑等等，毕竟是把脑海中的想象和认识转变为了客观存在的东西。
@@ -63,9 +63,9 @@ date: 2015-04-14 00:36:00
 
 　接着再回到第二种虚拟中的创造，人造的虚拟世界中的创造。虚拟世界是信息时代的产物。虚拟世界包括但不限于网游、页游、手游，也还包括社交网络、论坛和博客等等。互联网和电子游戏对我们的生活和三观都产生了深远的影响，不得不拿出来讨论一下。这里我还要做一下分类，我把纯娱乐类型的，如游戏，一些网络小说，称为「强虚拟世界」，而对于在电脑，网络上的文字、图片、视频、音乐等的创作加工称为「弱虚拟世界」，这两者的分类是模糊的。是否对各种分类有点晕……可以用下面的图梳理一下。
 　
-<center><iframe src="http://lanternd.qiniudn.com/Pic4Post/what-is-happiness/minder-1.svg" width="100%" height="300"></iframe></center>
+<center><iframe src="{{site.img-hosting}}/Pic4Post/what-is-happiness/minder-1.svg" width="100%" height="300"></iframe></center>
 
-(上面是svg格式的，无法正常显示的话还有[PNG格式](http://lanternd.qiniudn.com/Pic4Post/what-is-happiness/minder-1.png)的)
+(上面是svg格式的，无法正常显示的话还有[PNG格式]({{site.img-hosting}}/Pic4Post/what-is-happiness/minder-1.png)的)
 
 　总的来说，虚拟世界中的创造，归根到底是数据的创造，人们一次次的点击鼠标或屏幕、以及按键，无一不是在修改本地硬盘里的数据，修改内存里的数据，修改服务器端硬盘里的数据……在「强虚拟世界」中，人们通过游戏中交互的场景获得快乐/幸福感/成就感，如打怪升级，攒装备，点技能树，建造村庄城市帝国，打败Boss，还可以烧杀抢掠等等。而「弱虚拟世界」中，人们通过在电脑上和互联网上的创造，可以写下当时的心情和状态，可以告诉朋友们的自己的近况和动向，还可以提出和分享观点，和他人分享经验，抑或是剪辑一些视频，处理一幅照片等等。值得一提的是互联网讲究人与人的互动，而我只是阐述其中的一部分，那就是「生产者」，或者说「消息制造者」的一面。「弱虚拟世界」还可以扩展，把软件开发，游戏开发等也算在内。一定程度上，弱虚拟世界只是现实世界的一个反映，也可能只是一种创造工具和平台罢了。
 
@@ -89,9 +89,9 @@ date: 2015-04-14 00:36:00
 
 　关于「创造」的分类大体上就是上面这些。再用思维导图画一遍。
 
-<center><iframe src="http://lanternd.qiniudn.com/Pic4Post/what-is-happiness/minder-2.svg" width="100%" height="400"></iframe>
+<center><iframe src="{{site.img-hosting}}/Pic4Post/what-is-happiness/minder-2.svg" width="100%" height="400"></iframe>
 </center>
-([PNG](http://lanternd.qiniudn.com/Pic4Post/what-is-happiness/minder-2.png)版本)
+([PNG]({{site.img-hosting}}/Pic4Post/what-is-happiness/minder-2.png)版本)
 
 　其实还有好多可以继续细化，但我暂时没这功夫了。
 

@@ -27,7 +27,7 @@ date: 2017-10-25 22:34:56
 
 　主要想说说长期以来被我忽视的Caps Lock键。Caps Lock在角落偏安一隅。对我来说，他就像一座孤岛，被一群高频按键所围绕。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-caps-lock.png "WhatPulse!截图")
+![img]({{site.img-hosting}}/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-caps-lock.png "WhatPulse!截图")
 
 　之前[日志](file:///d:/whatpulse/)提到过，我在用WhatPulse这个软件统计按键使用情况。之前数据库出了点问题，导致之前的统计数据没了，本来我应该有773万次按键统计，可是目前只保留了80万左右（见上图右上角）。
 
@@ -60,7 +60,7 @@ date: 2017-10-25 22:34:56
 
 　WhatPulse还能帮忙记录按 **快捷键** 的数据，我当年的快捷键那是各种组合肆意变换，现在只剩下Ctrl开头的为主了……这周的统计数据如下：
 
-![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-key-combo.png "WhatPulse!截图 - 快捷键")
+![img]({{site.img-hosting}}/Pic4Post/replace-caps-lock-with-ctrl/what-pulse-key-combo.png "WhatPulse!截图 - 快捷键")
 
 　最后再安利一下Org-mode，上手可能需要一些时间，但是一旦适应了那么编辑起来就是行云流水了。不是程序员也可以用，被虐过之后也可以成小半个程序员了。可以看下面的链接继续被安利……
 
@@ -71,6 +71,6 @@ date: 2017-10-25 22:34:56
 
 　下一步是抛弃StackEdit，再下一步就可以忽略Evernote了（不用Evernote做笔记，但是会用来剪切收藏网页）。再下一步就是借用当年大师兄的图片了：
 
-![img](http://lanternd.qiniudn.com/Pic4Post/replace-caps-lock-with-ctrl/emacs-hand.jpg "Emacs重度用户的未来")
+![img]({{site.img-hosting}}/Pic4Post/replace-caps-lock-with-ctrl/emacs-hand.jpg "Emacs重度用户的未来")
 
 　(别当真哈哈哈。)

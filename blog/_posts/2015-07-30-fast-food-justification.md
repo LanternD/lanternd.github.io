@@ -8,7 +8,7 @@ tags: [快餐, 炸鸡, 汉堡, 可乐, 健康]
 date: 2015-07-30 13:04:00
 --- 
 
-![Fast food](http://lanternd.qiniudn.com/Pic4Post/fast-food-justification/fast-food.jpg "洋快餐")
+![Fast food]({{site.img-hosting}}/Pic4Post/fast-food-justification/fast-food.jpg "洋快餐")
 
 （图片来源：[Study Abroad Corner](http://www.studyabroadcorner.com/recommended-fast-food-restaurants-in-southern-california/)）
 

@@ -26,7 +26,7 @@ date: 2017-12-24 22:34:56
 
 　但是情况也不是那么简单。第一次我把毛仍在地上给灰塔随便玩，她抓住羽毛以后在地上撕咬翻滚，后退各种蹬羽毛……三分钟下来，灰塔满意地离开了，而羽毛已经不成「羽」型……连羽毛根部的圆柱状羽根都被咬得开了花。充分展现了猫作为捕食者凶残的一面。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/cat-defense-skill/cat1.jpg "hengheng")
+![img]({{site.img-hosting}}/Pic4Post/cat-defense-skill/cat1.jpg "hengheng")
 
 　这样一来，我只好亲自上阵，为猫的娱乐项目保驾护航。基本的套路就是把羽毛伸到她旁边，当她闻到味道以后就会立马进入准备状态，开始扑向羽毛。由于没有经验，一开始我的手被抓得遍体鳞伤。灰塔平时不伸爪子，但是抓东西的时候出于本能会把所有指甲都露出来，张牙舞爪。我平时懒得给猫剪指甲，最后只能自食苦果。
 
@@ -40,7 +40,7 @@ date: 2017-12-24 22:34:56
 
 　我不单在地上和猫玩，也在她的猫城堡上和她玩。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/cat-defense-skill/cat4.jpg "Cat castle")
+![img]({{site.img-hosting}}/Pic4Post/cat-defense-skill/cat4.jpg "Cat castle")
 
 　在猫堡上的时候灰塔通常在我上方，而且羽毛很容易有盲区，我在这里也栽了不少跟头。稍微一点疏忽那又是一道新的血口子。
 
@@ -58,7 +58,7 @@ date: 2017-12-24 22:34:56
 
 　信任还体现在，我和牛奶的时候最后会给她剩一点，换来的是她平时不跳上桌子乱翻东西吃。还有允许猫爬上床来换取第二天早上不会Duang地跳上床来把我踩醒……（明明是铲屎官的自我修养）
 
-![img](http://lanternd.qiniudn.com/Pic4Post/cat-defense-skill/cat3.jpg "cat butt")
+![img]({{site.img-hosting}}/Pic4Post/cat-defense-skill/cat3.jpg "cat butt")
 
 　很多人反映自己不喜欢猫或者不喜欢和猫互动是因为怕挠，或者被挠过。这里还是想给没养过猫的人一些建议：猫的性格千奇百怪（我觉得比狗丰富很多），遇上一只陌生的猫和街上遇到的陌生人无异，第一步还是应该获取猫的信任。在猫面前伸出手，如果猫对你感兴趣自然会过来蹭你，如果它不理你那就别勉强了。这只不行就找下一只。别上来就把猫抚摸一番，这只猫好使，下一只可不见得就好使。建立初步信任是大前提。
 
@@ -66,7 +66,7 @@ date: 2017-12-24 22:34:56
 
 　以上就是我和灰塔日常生活互动的一些过程吧。其他时候她就是睡大觉，吃两口猫粮，看一会阳台，然后接着睡觉。
 
-![img](http://lanternd.qiniudn.com/Pic4Post/cat-defense-skill/cat2.jpg "lazy cat")
+![img]({{site.img-hosting}}/Pic4Post/cat-defense-skill/cat2.jpg "lazy cat")
 
 　猫更像是一位朋友和室友，而不是一个可以任意摆布的玩具。像和室友相处一样去尊重猫的习惯和性格，才能换来持续稳定的柔软皮毛和热量源泉，还有一地一床的待清理乱毛。
 

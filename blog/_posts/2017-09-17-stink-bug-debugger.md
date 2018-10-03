@@ -8,7 +8,7 @@ tags: [杀虫, 捕捉, DIY]
 date: 2017-09-17 17:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-3.jpg」-->
+<!--「{{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-3.jpg」-->
 
 ## 烦人的虫子
 
@@ -22,11 +22,11 @@ date: 2017-09-17 17:16:00
 
 ### 数量密集
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-3.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-3.jpg)
 
 　这段时间它们总是出现在公寓向北的玻璃窗和纱窗上，爬来爬去，只要不小心绕过了窗缝就会进到屋子里来。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-2.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-2.jpg)
 
 　它们平时就在做毫无规律的布朗运动，并没有特定的目标。现在是全天都能看见，本来玩电脑累了可以放松一下，结果看了一眼窗外反而影响心情。
 
@@ -60,12 +60,12 @@ date: 2017-09-17 17:16:00
 
 　进了屋子的椿象要消灭当然得先捉起来，为了不伤皮肤，当然不能用手捉了。不管有没有毒，心理洁癖还得有一点的。所以我用**硬纸板和玻璃杯**来封印墙上的虫子们。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-7.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-7.jpg)
 （欢迎灰塔背影出境）
 
 　先把玻璃杯罩在虫子上，然后从缝里把纸板卡进去，这样椿象就收入囊中。椿象的**反应非常不敏捷**而且智商不高，因此该方法难度很低。缺点是当椿象在狭窄的缝里的时候不好操作。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-6.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-6.jpg)
 
 　在最开始见到椿象的时候我还不像现在这样晓得这么多收拾它的方法，所以我用最原始的办法——**弄到马桶里冲掉**。晃一下玻璃杯虫子就会掉到马桶的正中间，然后按一下冲水按钮就可以看着它螺旋状地被黑洞吞噬。
 
@@ -92,7 +92,7 @@ date: 2017-09-17 17:16:00
 
 　我把装苏打水的瓶子割开（提示：用剪刀会比较平整，美工刀会参差不齐），把上半部倒扣进瓶中，做了个陷阱状的容器，用胶带固定好，在里面加入了硫磺皂（黄色那种）的悬浊液。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-1.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-1.jpg)
 
 　然后就开始了我的灭虫之旅。
 
@@ -102,7 +102,7 @@ date: 2017-09-17 17:16:00
 
 　然后如果虫在杯子里就快速抖一下杯子让虫子掉进漏斗状陷阱，然后用纸板封住口。如果虫在纸板上，就把纸板放到陷阱瓶子口上，然后用中指弹一下纸板上部。由于是漏斗状的，虫子很容易就掉进去了。如果虫子在漏斗壁上爬，那弹几下瓶子外围它一般也会顺势掉进去。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-5.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-5.jpg)
 
 　虫子掉进去以后就开始挣扎，快则半分钟，慢则两分钟，椿象的翅膀开始张开，然后就没有动静了。
 
@@ -112,7 +112,7 @@ date: 2017-09-17 17:16:00
 
 　尝到「甜头」的我开始到处捕杀出现在我视野里的椿象。截至目前大概过去了一天半，但数量已经超过了**30只**，而肥皂水我还没换过……在里面泡了一天以后椿象的身体就会彻底进入水中，沉到底部。
 
-![](http://lanternd.qiniudn.com/Pic4Post/stink-bug-debugger/debugger-4.jpg)
+![]({{site.img-hosting}}/Pic4Post/stink-bug-debugger/debugger-4.jpg)
 
 　挂掉的椿象都会把翅膀张开，而它们死亡的时间都在张开翅膀后不久（有的虫刚掉下去就张开，然后几秒钟就没动静了），所以不知道是不是因为呼吸孔进水了。
 

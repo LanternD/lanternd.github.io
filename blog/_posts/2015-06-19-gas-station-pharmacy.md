@@ -7,11 +7,11 @@ categories: [blog, 视·界]
 tags: [美国, 加油站, 药店, 零售, 便利店]
 date: 2015-06-19 17:41:00
 --- 
-<!-- http://lanternd.qiniudn.com/Pic4Post/ -->
+<!-- {{site.img-hosting}}/Pic4Post/ -->
 
 　美国的道路边上有两种给力的商店，一种是加油站（Gas station），一种是药店（Pharmacy）。
 
-![ATM](http://lanternd.qiniudn.com/Pic4Post/gas-station-pharmacy/atm.jpg "ATM")
+![ATM]({{site.img-hosting}}/Pic4Post/gas-station-pharmacy/atm.jpg "ATM")
 
 　加油站**能加油**这事就不再多说了。补充一点，在Michigan，以及附近的一些州，**加油是自助的**，自己刷卡，拿油枪，选择油品，自己按阀门。工作人员是不会在室外活动的。
 
@@ -28,7 +28,7 @@ date: 2015-06-19 17:41:00
 - 各种汽油以外的油
 - ……
 
-![Gloves](http://lanternd.qiniudn.com/Pic4Post/gas-station-pharmacy/gloves.jpg "Gloves")
+![Gloves]({{site.img-hosting}}/Pic4Post/gas-station-pharmacy/gloves.jpg "Gloves")
 
 　食物类：
 
@@ -48,7 +48,7 @@ date: 2015-06-19 17:41:00
 
 　从上面图片还可以知道，加油站还有ATM，此外还有厕所。加油站卖货的地方面积不大，但是商品密度极大，五脏俱全。
 
-![Restroom](http://lanternd.qiniudn.com/Pic4Post/gas-station-pharmacy/restroom.jpg "Restroom")
+![Restroom]({{site.img-hosting}}/Pic4Post/gas-station-pharmacy/restroom.jpg "Restroom")
 
 　可以这么说，如果有车，也有足够的钱，靠加油站都可以去到全国各地了。因为既保证了足够的油跑路，也不会饿死。
 
@@ -60,7 +60,7 @@ date: 2015-06-19 17:41:00
 
 　最后，那些卖的**工具真的是及时雨**。去年有一次我从家骑车去8.7 Miles外的某地方办事。因为那时候是家里也没有钳子，组装自行车的时候是用手拧上去的……结果还剩三分之一路程的时候自行车左边踏板掉了。抬头一看，是下面[这种景象](https://www.google.com/maps/@42.682857,-84.498996,3a,75y,250.11h,83.67t/data=!3m6!1e1!3m4!1s3Tx634RSjOtgESPCP8aNzQ!2e0!7i13312!8i6656)：
 
-![Jolly Rd](http://lanternd.qiniudn.com/Pic4Post/gas-station-pharmacy/jolly-streetview.jpg "Street view of Jolly Rd")
+![Jolly Rd]({{site.img-hosting}}/Pic4Post/gas-station-pharmacy/jolly-streetview.jpg "Street view of Jolly Rd")
 
 　就是这样前不着村后不着店的地方（大部分地方都这样）。我在路边检查了一下踏板，发现螺丝口有断裂的金属，自己用手拧再也拧不上去了，力矩不够。
 
@@ -82,7 +82,7 @@ date: 2015-06-19 17:41:00
 
 　如果在中国，你妥妥进到的是一个**超市**。除了蔬菜，水果，肉和生鲜（统称Grocery），其他的东西简直应有尽有。印象中拖把拖鞋这种东西也是有的。排除车辆护理用品，物品种类比加油站的只会多不会少。
 
-![Inside a pharmacy](http://lanternd.qiniudn.com/Pic4Post/gas-station-pharmacy/inside-pharmacy.jpg "Inside a pharmacy")
+![Inside a pharmacy]({{site.img-hosting}}/Pic4Post/gas-station-pharmacy/inside-pharmacy.jpg "Inside a pharmacy")
 　（图片来自网络）
 
 　反而卖药的区域就像超市里的护肤品、保健品专柜。

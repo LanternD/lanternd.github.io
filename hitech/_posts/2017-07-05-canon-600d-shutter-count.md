@@ -8,7 +8,7 @@ tags: [相机, 快门, 600d, Magic Lantern, 固件]
 date: 2017-07-05 17:16:00
 --- 
 
-<!--「http://lanternd.qiniudn.com/Pic4Post/」-->
+<!--「{{site.img-hosting}}/Pic4Post/」-->
 
 ## 提需求
 
@@ -43,11 +43,11 @@ date: 2017-07-05 17:16:00
 
 然而，第一步你得装一个控件：
 
-![eoscount](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/activeX.png)
+![eoscount]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/activeX.png)
 
 相机连上电脑以后网站会有反应，然后告诉你……
 
-![eoscount-payment](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/activeX-payment-blur.png)
+![eoscount-payment]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/activeX-payment-blur.png)
 
 「掏钱我就告诉你快门数！」
 
@@ -57,7 +57,7 @@ date: 2017-07-05 17:16:00
 
 [EOSinfo](http://astrojargon.net/eosinfo.aspx)是一个从40DShutterCount升级而来的软件。长下面这样：
 
-![eoscount-payment](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/eosinfo.png)
+![eoscount-payment]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/eosinfo.png)
 
 我这里连上相机以后没有反应，按左下角刷新键也没用。于是这个也放弃了。据说这个软件没法查用DIGIC 4芯片的相机。
 
@@ -87,17 +87,17 @@ Seriously?
 
 第一步，在常规状态下按一下删除键。右下角会显示出储存卡大小。（有时候只用按一次就进入Magic Lantern界面了，那么可以忽略第二步）
 
-![ml-delete](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/ml-delete.png)
+![ml-delete]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/ml-delete.png)
 
 （让我古老的600D上个镜。）
 
 第二步，再按一次删除键，进到Magic Lantern界面。
 
-![ml-menu](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/ml-menu.png)
+![ml-menu]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/ml-menu.png)
 
 第三步，用左右导航挪到倒数第三项，带有「01」图标的那一项（[Debug页面](http://wiki.magiclantern.fm/userguide#debug)），倒数第二行就是快门数了。
 
-![ml-debug](http://lanternd.qiniudn.com/Pic4Post/canon-600d-shutter-count/ml-debug.png)
+![ml-debug]({{site.img-hosting}}/Pic4Post/canon-600d-shutter-count/ml-debug.png)
 
 就是这么Easy。说白了相机一直存着这个数，只不过一般读取不到而已。
 

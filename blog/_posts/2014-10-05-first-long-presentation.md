@@ -26,17 +26,17 @@ date: 2014-10-05
 ## Slides
 　搞定了paper就万事大吉了？别忘了还有ppt。通常做Presentation的时候，会找这篇论文的作者直接要slides，因为他们的论文通常已经在某些学术会议上发表了，会议上他们也需要Presentation来介绍他们的成果。但是，我给该作者发邮件没有收到任何的回复，无奈之下只好重操旧业，从零做起。连模板也懒得找了，直接用了PowerPoint自带的。先把Outline做出来，指明本文需要介绍哪些内容。
 
-![Outline](http://lanternd.qiniudn.com/Pic4Post/first-long-presentation/presentation-1.png "Outline")
+![Outline]({{site.img-hosting}}/Pic4Post/first-long-presentation/presentation-1.png "Outline")
 
 　之后好像就是按照这个框架往里面塞东西了。这也是最困难的部分，因为，这么上万单词的论文，不可能每句话都放到ppt里面的，必须经过筛选，必要时候还得自己用另外一句话总结。或者只摘录某一段文字的中心句，这样就得好长时间了。大家也可以看到，我的ppt是宽屏的，为了适配教室里面的电脑和投影仪妥协一下。宽屏也没什么不好，这是我做的第一个宽屏的ppt，但是我发现思路和眼界开阔了很多，右侧有大块的位置可以到处放东西，图片表格啥的，毫无压力，再给图片加上阴影，这样就不受那些绿色的块块影响了。
 
-![2](http://lanternd.qiniudn.com/Pic4Post/first-long-presentation/presentation-2.png "Design")
+![2]({{site.img-hosting}}/Pic4Post/first-long-presentation/presentation-2.png "Design")
 
 　自己对最后的效果感觉挺满意，但是我也付出了沉重的代价。这ppt我从28号，周日早上开始做，一直做到周一中午。高中和本科期间被各种ppt蹂躏过的我现在无压力蹂躏ppt了。格式排版动画什么的都不是难事。其实本可以降低要求的，其他同学的ppt大部分就直接粘一段话上去，七成照着念，剩下三成自己发挥。但是毕竟是第一次长Presentation，还是对自己严格一些吧。在这次ppt里估计只有四五成可以照着念的，剩下的靠临场发挥了。
 
 　整个ppt一共有51页。有点震惊？你可以看到其实我每页ppt内容并不多，把要点写出来就OK了，有的ppt大半页都是图片，旁边附上几个单词用来引导思路。细节靠描述的话，能让人感到更有说服力。说句实话，一大段文字放在那里，看不到重点的话，用户体验会相当差的，保护环境，从我做起…
 
-![3](http://lanternd.qiniudn.com/Pic4Post/first-long-presentation/presentation-3.png "Graphic")
+![3]({{site.img-hosting}}/Pic4Post/first-long-presentation/presentation-3.png "Graphic")
 
 ## 排演
 　周一中午做完ppt的时候已经脖子都酸了。吃完饭休息一会马上进入排练状态，而我并不是从ppt开始直接练的。我去把论文给读了一次 (什么，又读一次？)。呃，这个读不是阅读，而是朗读。其实这也是个不自信的表现，这我得承认，但是朗读的作用还是很明显的，有些专业名词，你不念的话上台了就等着卡住吧，另外有些文中的关键词，出现频率极高，读多了直接形成肌肉记忆，到时候脱口而出，像「non-speech body sounds」，「classification algorithm」这样的高频词，到时候不费脑子就能念出来。我从Introduction开始念，念了3节以后已经开始口干舌燥。台上放着一杯水，时不时喝两口。我还把整个过程录了音，几乎刚好100分钟，其中我又温习了论文里面的许多设计方法思路，把一开始还有的疑问一一解决，收获蛮大的。于是你可以发现，60分钟内介绍完这么一堆东西，还是有可能的。该删减的删减，该省略省略，能直观看出结论的就不需要多用废话介绍。
@@ -51,7 +51,7 @@ date: 2014-10-05
 
 　整个Presentation从3点持续到4点15分，后期已经完全适应了，所以表现还算可以。但我也存在很多不足。由于没人反馈给我，只能和老师讨论讨论了。结束的时候收到了惯例都有的掌声，对我来说也是个挺大的鼓励。最后，有个老外背着书包往外走的时候还说了句「You did a great job.」，感觉几天来的付出都是值得的啦。
 
-![4](http://lanternd.qiniudn.com/Pic4Post/first-long-presentation/presentation-4.png "Thank you")
+![4]({{site.img-hosting}}/Pic4Post/first-long-presentation/presentation-4.png "Thank you")
 
 ## 尾声
 　一定程度上，**有压力才有动力**这句话还是很对的。我感觉我完成了许多以前觉得不可能或者很难的事情。前面花了很大篇幅介绍我的准备过程，而实际上台的时候并没有太多可说的，现实就是这样，台上一分钟台下十年功。我这里台上也就一个多小时，花了三天半近四天的时间去完成。Presentation完事之后，我觉得这个过程也不是这么可怕的，甚至站在台上也是有种特别的成就感的。以后估计每学期都有两次这样的Presentation，希望我也能在未来更加游刃有余。如果这日志里有什么能够让你学到的东西的话我也还是很高兴的，流水账也该发挥一些功能嘛。

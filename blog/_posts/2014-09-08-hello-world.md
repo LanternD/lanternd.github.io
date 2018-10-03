@@ -8,7 +8,7 @@ tags: [Hello world]
 date: 2014-09-08
 --- 
 
-![Hello World](http://lanternd.qiniudn.com/Pic4Post/hello-world/earth2.jpg)
+![Hello World]({{site.img-hosting}}/Pic4Post/hello-world/earth2.jpg)
 
 My Blog came to the world!
 
