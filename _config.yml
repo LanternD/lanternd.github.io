@@ -30,10 +30,10 @@ author:
   instagram: https://instagram.com/lantern_d
   facebook: https://www.facebook.com/yangdavid1028
   twitter: https://twitter.com/Lantern_D
-  linkedin: http://cn.linkedin.com/pub/deliang-yang/80/a93/649
+  linkedin: https://www.linkedin.com/in/deliang-yang-649a9380/
   youtube: https://www.youtube.com/channel/UCPAJ2XwlkmbCvVZ-asjfi3w
   flickr: https://www.flickr.com/photos/lanternd
-  500px: https://500px.com/lanternd
+  px500px: https://500px.com/lanternd
 
 # 图床链接Prefix
 img-hosting: https://img-cdn.dlyang.me
@@ -55,7 +55,7 @@ disqus:
 livere:
   uid: MTAyMC8yODcxNi81Mjg3
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - rouge

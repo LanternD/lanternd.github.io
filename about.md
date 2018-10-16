@@ -145,7 +145,7 @@ id: about
     <a href="{{ site.author.instagram }}" target="_blank" title="Instagram">
       <i class="fab fa-instagram fa-3x"></i>
     </a>  
-    <a href="{{ site.author.500px }}" target="_blank" title="500px">
+    <a href="{{ site.author.px500px }}" target="_blank" title="500px">
       <i class="fab fa-500px fa-3x"></i>
     </a>  
     <a href="{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
