@@ -84,7 +84,7 @@ def replace_link_in_blog_posts(input_dir, output_dir, org_text, new_text):
 
 
 replace_link_in_blog_posts('~/Github/lanternd.github.io/blog/_posts', './output/',
-                           'http://lanternd.qiniudn.com', '\{\{site.img-hosting\}\}')
+                           'http://lanternd.qiniudn.com', '{% raw %}{{site.img-hosting}}{% endraw %}')
 ```
 
 　事情就这样成了。另外，我把链接前缀换成了Liquid语言的变量，这样以后再换图床，只要相对目录结构不变就没问题了。
