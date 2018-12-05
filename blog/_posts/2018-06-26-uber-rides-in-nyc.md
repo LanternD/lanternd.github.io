@@ -10,6 +10,8 @@ date: 2018-06-26 23:15:23
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/uber-rides-in-nyc/nyc_prarade.jpg "NYC Parade")
+
 ## 惯例前言
 
 　纽约吃的玩的很多，但是我不是很想写这种游记，干脆就来说说Uber吧。因为没有车，又不想搭地铁，所以选择了Uber。直接来说说和Uber司机聊天的经历吧。纽约有大量外籍Uber司机，来自世界各地。所以他们也是了解纽约的一个窗口。基本也是流水帐了，想到什么写什么。
