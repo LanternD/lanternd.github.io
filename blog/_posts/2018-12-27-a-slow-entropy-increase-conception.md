@@ -34,7 +34,7 @@ date: 2018-12-27 15:38:56
 
 　人类在上个世纪做过一项有趣的实验，建造一个封闭的环境，在里面模拟整个生物圈，[Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)，[生物圈二号](https://zh.wikipedia.org/wiki/%25E7%2594%259F%25E7%2589%25A9%25E5%259C%2588%25E4%25BA%258C%25E5%258F%25B7)。
 
-![img]({site.img-hosting}/Pic4Post/a-slow-entropy-increase-conception/biosphere-2.jpg "Biosphere 2")
+![img]({{site.img-hosting}}/Pic4Post/a-slow-entropy-increase-conception/biosphere-2.jpg "Biosphere 2")
 
 (图片来源：维基百科)
 
@@ -46,7 +46,7 @@ date: 2018-12-27 15:38:56
 
 　发电毫无疑问会不可避免增加碳排放，所以为了摆脱对市电的依赖了。我们第一件要做的事情就是自主发电。在房子上和房子外一些不使用的地上铺设太阳能发电板。以我现在住的公寓为例，上个月的电费单是这样的：
 
-![img]({site.img-hosting}/Pic4Post/a-slow-entropy-increase-conception/electricity-bill.png "Electricity bill")
+![img]({{site.img-hosting}}/Pic4Post/a-slow-entropy-increase-conception/electricity-bill.png "Electricity bill")
 
 　才用了311度电，好像还挺省的。红圈里面的「KW Max」就是日常用电的峰值功率了，4kW。可能就是几个锅同时做饭做菜的时候吧。其他时候没啥耗电的东西。
 
@@ -132,7 +132,7 @@ date: 2018-12-27 15:38:56
 
 　如果这整套系统好使了，那火星移民可能就有戏了。人类必须至少在地球表面和地下若干米能做出这样一个系统，之后才好说。
 
-![img]({site.img-hosting}/Pic4Post/a-slow-entropy-increase-conception/mars-colony.png "Mars Colony")
+![img]({{site.img-hosting}}/Pic4Post/a-slow-entropy-increase-conception/mars-colony.png "Mars Colony")
 
 （图片来源：Elon Musk的火星移民PPT）
 
