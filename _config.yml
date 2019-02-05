@@ -24,7 +24,7 @@ author_info: <a href="https://dlyang.me/">LanternD</a>
 # 作者信息，不要的就自己删除掉吧，以及about.md页面里面的。
 author: 
   name: LanternD
-  email: yangdavid028@gmail.com
+  email: lanternd1028@gmail.com
   link: https://dlyang.me/
   github: https://github.com/LanternD
   instagram: https://instagram.com/lantern_d
@@ -34,6 +34,7 @@ author:
   youtube: https://www.youtube.com/channel/UCPAJ2XwlkmbCvVZ-asjfi3w
   flickr: https://www.flickr.com/photos/lanternd
   px500px: https://500px.com/lanternd
+  telegram: https://telegram.me/lanternd
 
 # 图床链接Prefix
 img-hosting: https://img-cdn.dlyang.me

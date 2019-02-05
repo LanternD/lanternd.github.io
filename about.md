@@ -151,9 +151,12 @@ id: about
     <a href="{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
       <i class="fab fa-linkedin-square fa-3x"></i>
     </a>
+    <a href="{{ site.author.telegram }}" target="_blank" title="Telegram">
+      <i class="fab fa-telegram fa-3x"></i>
+    </a>
     </p>
 >   
->  [ 目前仅在部分SNS活跃 ( Instagram / ~~Facebook~~ / ~~Twi~~ / 500px / Flickr ) ]
+>  [ 目前仅在部分SNS活跃 ( Instagram / ~~Facebook / Twi / 500px / Flickr~~ / Telegram )，最快的方式可能是Telegram。 ]
 >   
 >  Email：lanternd1028 AT gmail.com
 >   
@@ -172,7 +175,7 @@ id: about
 >
 > <p><font face="Times New Roman" size="3"><strong>LanternD's Castle.</strong></font> </p>
 > 
-> LanternD是我常用的用户名<del>，至于其变迁过程，感兴趣可以戳<a href="x">这里</a></del>。 
+> LanternD，我常用的用户名<!--<del> ，至于其变迁过程，感兴趣可以戳<a href="x">这里</a></del> -->。 
 > 
 > Castle就是城堡。我对城堡有着浓厚的兴趣，和童话/公主/王子没有关系，就是欣赏这么一种独特有魅力的建筑形态而已。城堡的历史和风格等信息能在各种百科中略窥一二，但是我打算在网上或者书籍里挖掘更多的信息。或许有一天在这里分享一下。
 > 
@@ -191,7 +194,7 @@ id: about
 > 
 > 英文站为：[https://en.dlyang.me](https://en.dlyang.me)，主要是写一些科研和学习相关的东西。
 > 
-> 从来不（全文）转载其他人的链接，所以这里的文章都是原创。虽然没有期待会被转载但是也在此说明一下：**文章可以自由转载或修改，但请注明指向该文章页面的链接，同时加上我的ID，「LanternD」**，谢谢。
+> 从来不（全文）转载其他人的文章 ，所以这里的文章都是原创。虽然没有期待会被转载但是也在此说明一下：**文章可以自由转载或修改，但请注明指向该文章页面的链接，同时加上我的ID，「LanternD」**，谢谢。
 >
 
 </div>
@@ -208,9 +211,9 @@ id: about
 > <h3>微信公众号</h3>
 > 和很多人想象的可能不一样，我的公众号**不是用来写文章**的，只是用来推送新文章提醒。每写好一篇我都会把日志的**摘要或者前言**写成图文消息发送出去。如果想继续看看就点「阅读原文」。说白了就是RSS阅读器的翻版。
 > 
-> <img src="/img/wx-QRCode.jpg" alt="wx-QRCode" title="WeChat QRCode">
+> <img src="/img/wx-QRCode.jpg" alt="wx-QRCode" title="WeChat QRCode" style="width:300px">
 > 
-> 虽然名字叫「兰町城堡」，但是我并不是特喜欢（当然也不讨厌），只是为了取个中文名而取的，可能以后会换。
+> 虽然名字叫「兰町城堡」，但是我并不是很喜欢（当然也不讨厌），只是为了取个中文名而取的，可能以后会换。
 
 </div>
 
@@ -277,12 +280,12 @@ id: about
 > 
 > 2018.10.02. 更新了图床链接的Prefix，进入图床域名设置的过渡期，暂时用GitHub作为博客图床
 > 
-> 2018.10.10. 更新了图床链接的Prefix，用Amazon S3做图床，（永久）放弃七牛云储存。
+> 2018.10.10. 更新了图床链接的Prefix，用Amazon S3做图床，（永久）放弃七牛云储存
 </div>
 
 -
 
-「About」页面最后更新: 2018.10.10
+「About」页面最后更新: 2019.02.04
 
 ---
 
