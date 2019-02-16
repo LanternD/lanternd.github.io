@@ -12,7 +12,7 @@ id: guestbook
 <p><center><strong><font size="5">友链 & 有价值的Blog</font></strong></center></p>
 <p></p><center>——不会主动邀请别人加我的友链；不排斥添加其他人的友链，有需要可以留言；不定期删除一些访问价值不大的</center><p></p>
 
-\| [Lattespirit](http://www.lattespirit.com/) \| [Derek的美国日记](http://cn.derekyang.us/) \| [土木坛子](https://tumutanzi.com/) \| [Meekdai](http://meekdai.com/) \| [水八口记](https://shuiba.co/) \| [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) \| [Dobby](https://dobby.me) \| [谢益辉](https://yihui.name/cn/) \| [天涼好個秋](https://stray.love/?status=loaded) \|
+\| [Lattespirit](http://www.lattespirit.com/) \| [Derek的美国日记](http://cn.derekyang.us/) \| [土木坛子](https://tumutanzi.com/) \| [Meekdai](http://meekdai.com/) \| [水八口记](https://shuiba.co/) \| [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) \| [Dobby](https://dobby.me) \| [谢益辉](https://yihui.name/cn/) \| [天涼好個秋](https://stray.love/?status=loaded) \| [超可爱的猫奴网](http://mao.nu)
 
 ------
 
