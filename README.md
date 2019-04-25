@@ -1,12 +1,14 @@
 ## 我的博客
 
-地址：[https://dlyang.me](https://dlyang.me)
+地址：[https://dlyang.me](https://dlyang.me)。
 
 目前风格为黑白灰，比较耐看。
 
-### 修改自[BeiYuu的Blog](http://beiyuu.com)的主题，在此表示感谢。
+### 主题
 
-【2017-05-22 Update: BeiYuu换主题了，所以原来的主题已经无法参考了。】
+修改自[BeiYuu的Blog](http://beiyuu.com)的主题，在此表示感谢。
+
+2017-05-22 Update: BeiYuu换主题了，所以原来的主题已经无法参考了。
 
 ------
 
@@ -14,16 +16,16 @@
 
 * 细微改变了界面颜色；
 * 在_config.yml添加了若干配置项，便于管理；
-* 增加了**统计**功能，使用Google Analytics ( 原来主题没有 )；
+* 增加了**统计**功能，使用Google Analytics（原来主题没有）；
 * 修改了**水平线**的样式，稍微减弱了对视觉的影响；
 * 将主题各部分模块化，放置在“/_includes”文件夹，包括：header、footer、Google Analytics、pagination、home-menu、comment等；
 * 增加**多说**第三方评论工具，和**Disqus**一起共有两种评论方式，由点击按键异步加载；
 * 把浏览文章时右侧的“更多文章”由原来的**所有文章**改成了**当前文章所在分类**的其他文章，数目限制为15篇；
-* 增加了**“归档/时间线”**功能 ( 页面 )；
+* 增加了**“归档/时间线”**功能（页面）；
 * 修改了Home-menu的图标，使用[Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/)的图标；
-* 增加了**留言板**和**关于**页面 ( 替换了Home-menu中的豆瓣和微博 )；
+* 增加了**留言板**和**关于**页面（替换了Home-menu中的豆瓣和微博）；
 * 增加了Page layout的格式，和post layout趋于一致；
-* 修改了**滚动条**样式 ( 详见default.css )；
+* 修改了**滚动条**样式（详见default.css）；
 * 增加了“上一篇”，“下一篇”的**导航功能**，并调节了样式；
 * 加入了**搜索**功能，使用第三方插件Swiftype；
 * 更换了首页左侧的背景图片；
@@ -44,17 +46,20 @@
 * 2018-03-27 加入了锚链接，增加了二、三级标题前的Bullets；
 * 2018-06-03 更新了字体的设置，尤其是英文字体。
 
-* To be continued & updated.
+* To be continued & updated. 更具体的时间线可参考博客中[关于页面](https://dlyang.me/about/)中的「博客时间线」一小节。
 
 ------
 
 ### 已知Bug/小问题
 
+* 标签跳转
+    * 从文章下方的「标签云」的某个tag单击进入标签云界面后不会显示拥有该tag的相关文章。还需要手动再次点击某个标签才能正常工作。应该是JS的问题，期待未来修复之。
+
 * 在移动端：
-	* 在Pad浏览时无法显示左右的边距，不太和谐。( 已修复。将default.css中“@media (max-width: 1020px)”改为“@media (max-width: 1025px)”。iPad的浏览器宽度为1024px，即使像素是2048 x 1536 )
+	* 在Pad浏览时无法显示左右的边距，不太和谐。（更新：已修复。将default.css中“@media (max-width: 1020px)”改为“@media (max-width: 1025px)”。iPad的浏览器宽度为1024px，即使像素是2048 x 1536）
 
 * 在PC上：
 	* 暂无。
 
 * 其他：
-	* Swiftype搜索的结果不够高亮，有时也不够精准。不知能否修改，等文章量大以后再进一步测试，不好用的话换成其他插件或者去掉**搜索**功能。【更新：已经去掉了Swiftype，但是模板还保留在目录里，需要的话可以include进到模板里使用。】
+	* Swiftype搜索的结果不够高亮，有时也不够精准。不知能否修改，等文章量大以后再进一步测试，不好用的话换成其他插件或者去掉**搜索**功能。（更新：已经去掉了Swiftype。因其搜索结果不如人意。）

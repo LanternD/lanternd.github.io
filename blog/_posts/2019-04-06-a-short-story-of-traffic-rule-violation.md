@@ -4,7 +4,7 @@ title: 不甘心的违章及其代价
 description: 印象中是有史以来第一次驾照扣分。附带对国内道路规划的失望之情。
 permalink: /a-short-story-of-traffic-rule-violation/
 categories: [Blog, 视・界]
-tags: [违章, 驾照, 道路, 租车]
+tags: [中国, 违章, 驾照, 道路, 租车]
 date: 2019-04-06 21:22:47 
 ---
 

@@ -4,7 +4,7 @@ title: 红米Note 7 Pro的小规模测评
 description: 买了个红米作备机，第二次买国产手机。
 permalink: /redmi-note-7-pro-unboxing/
 categories: [Blog, 视・界]
-tags: [红米，小米, Android, 手机，国产]
+tags: [红米, 小米, Android, 手机, 国产]
 date: 2019-03-29 17:28:28 
 ---
 
