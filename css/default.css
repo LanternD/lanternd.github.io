@@ -496,90 +496,90 @@ hr{
 blockquote .about-icon a i {color: #1c463c;}
 blockquote .about-icon a {background: transparent;}
 
-blockquote{    
+blockquote{
   padding: 10px 10px;
   margin: 0 0 20px;
   font-size: 16px;
   border-left: 5px solid #eee}
 
-  .btn {
-    display: inline-block;
-    margin-bottom: 0;
-    font-weight: normal;
-    text-align: center;
-    vertical-align: middle;
-    cursor: pointer;
-    background-image: none;
-    border: 1px solid transparent;
-    white-space: nowrap;
-    padding: 6px 12px;
-    font-size: 14px;
-    line-height: 1.42857143;
-    border-radius: 4px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none
-  }
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
 
-  /*选择文本的颜色*/
-  ::selection { background:#d9d9d9; color:#000;}
-  ::-moz-selection { background:#d9d9d9; color:#000;}
-  ::-webkit-selection { background:#d9d9d9; color:#000;}
+/*选择文本的颜色*/
+::selection { background:#d9d9d9; color:#000;}
+::-moz-selection { background:#d9d9d9; color:#000;}
+::-webkit-selection { background:#d9d9d9; color:#000;}
 
-  /*标签页面相关样式*/
-  .listing {
-    list-style-type: none;
-    margin: 30px 3% 10px 7%;
-  }
+/*标签页面相关样式*/
+.listing {
+  list-style-type: none;
+  margin: 30px 3% 10px 7%;
+}
 
-  .listing ul, .listing ul li{
-    list-style-type: none;
-  }
+.listing ul, .listing ul li{
+  list-style-type: none;
+}
 
-  .entry .listing-item, .entry  .listing-seperator {
-    list-style-type: none;
-  }
+.entry .listing-item, .entry  .listing-seperator {
+  list-style-type: none;
+}
 
-  .listing-item a {
-    padding: 0.2em 2em;
-  }
+.listing-item a {
+  padding: 0.2em 2em;
+}
 
-  .listing-item time {
-    color: #768185;
-    padding-left: 2.2em;
-    font-family: "Verdana", sans-serif;
-  }
+.listing-item time {
+  color: #768185;
+  padding-left: 2.2em;
+  font-family: "Verdana", sans-serif;
+}
 
-  .listing-seperator {
-    font-weight: bold;
-    color: #3f4142;
-  }
+.listing-seperator {
+  font-weight: bold;
+  color: #3f4142;
+}
 
-  .listing-item-a, .listing-seperator {
-    font-family: "Verdana", "Microsoft YaHei", sans-serif;
-  }
+.listing-item-a, .listing-seperator {
+  font-family: "Verdana", "Microsoft YaHei", sans-serif;
+}
 
-  #tag_could {
-    width: 90%;
-    margin: 40px 0 40px;
-    margin-left: 5%;
-    line-height: 2em;
+#tag_could {
+  width: 90%;
+  margin: 40px 0 40px;
+  margin-left: 5%;
+  line-height: 2em;
 
-  }
+}
 
-  #tag_cloud a {text-decoration: none;}
-  #tag_cloud a:hover {text-decoration: none;}
+#tag_cloud a {text-decoration: none;}
+#tag_cloud a:hover {text-decoration: none;}
 
-  .footer-navi {
-    text-align:right;
-    margin-right:4%;
-    margin-bottom:-25px;
-  }
-  .footer-navi a{
-    color:#868686;
-    text-decoration: none;
-  }
+.footer-navi {
+  text-align:right;
+  margin-right:4%;
+  margin-bottom:-25px;
+}
+.footer-navi a{
+  color:#868686;
+  text-decoration: none;
+}
 
   /*Cuisine模板样式*/
 
@@ -787,20 +787,25 @@ div .cuisine-title h2{
     height: 50px;
     overflow: scroll;
   }
+}
 
-  @media (min-width: @screen-sm-min) {
-    .modal-dialog {
-      width: @modal-md;
-      margin: 30px auto;
-    }
-    .modal-content {
-      .box-shadow(0 5px 15px rgba(0,0,0,.5));
-    }
-
-    .modal-sm { width: @modal-sm; }
+@media (min-width: @screen-sm-min) {
+  .modal-dialog {
+    width: @modal-md;
+    margin: 30px auto;
+  }
+  .modal-content {
+    .box-shadow(0 5px 15px rgba(0,0,0,.5));
   }
 
-  @media (min-width: @screen-md-min) {
-    .modal-lg { width: @modal-lg; }
-  }
+  .modal-sm { width: @modal-sm; }
+}
 
+@media (min-width: @screen-md-min) {
+  .modal-lg { width: @modal-lg; }
+}
+
+.trc_rbox_container {
+  /* remove LiveRe Ad box */
+  display: none !important;
+}
