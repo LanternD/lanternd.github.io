@@ -10,6 +10,8 @@ date: 2019-05-27 22:18:11
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/basic-principles-in-badminton/collection.jpg "Badminton dropbox")
+
 ## 关于羽毛球
 
 　我对羽毛球的看法、羽毛球是一项怎样的运动等等这些点已经在另一篇文章《[我和羽毛球和我](../my-brief-history-of-playing-badminton/)》里面说过了。
