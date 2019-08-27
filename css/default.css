@@ -173,7 +173,11 @@ figure figcaption {
 #livere_container span.comment-count {font-size:18px; color: #4A75B5;}
 h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .about-link a {margin-right:10px;font-weight:bold;font-style:italic;font-size:13px;color:#E50053}
-
+/* Remove annoying ads */
+div#lv-container div#livereAd {display: none;}
+#livereAd {display: none;}
+iframe.lv-ad-a {display: none;}
+#livereAd iframe {display: none;}
 
 /**************目录导航**************/
 #menuIndex {overflow:auto;}
