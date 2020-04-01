@@ -1,105 +1,108 @@
-<div class="post-footer">
-
-<!-- LiveRe的js代码 Start -->
-
 <script type="text/javascript">
-  var refer = '{{ site.url | remove:"https://" }}{{ page.id | remove:'/' }}/';
-  function toggleLiveReComments(container){
-    if(jQuery(container).has("iframe").length>0){
-        var iframe_id = $(container+" iframe").attr("id");
-        jQuery(container+" iframe#"+iframe_id).toggle();
-        return;
+
+    /* All the code for the comment section */
+
+    // LiveRe js code START
+    var refer = '{{ site.url | remove:"https://" }}{{ page.id | remove:' / ' }}/';
+
+    function toggleLiveReComments(container) {
+        if (jQuery(container).has("iframe").length > 0) {
+            var iframe_id = $(container + " iframe").attr("id");
+            jQuery(container + " iframe#" + iframe_id).toggle();
+            return;
+        }
+        var j, e = document.getElementsByTagName('script')[0];
+
+        j = document.createElement('script');
+        j.src = '//cdn-city.livere.com/js/embed.dist.js';
+        j.async = true;
+
+        e.parentNode.insertBefore(j, e);
     }
-    var j, e = document.getElementsByTagName('script')[0];
+    // remove the AD box
+    setInterval(function() {
+        var ad_box = document.querySelector("#livereAd");
+        if (ad_box) {
+            ad_box.outerHTML = "";
+        }
+    }, 9000);
+    // LiveRe js END
 
-    j = document.createElement('script');
-    j.src = '//cdn-city.livere.com/js/embed.dist.js';
-    j.async = true;
 
-    e.parentNode.insertBefore(j, e);
-  }
-  // remove the AD box
-  setInterval(function () {
-    var ad_box = document.querySelector("#livereAd");
-      if(ad_box) {
-        ad_box.outerHTML = "";
-      }
-     }, 9000);
+    // Disqus js code START
+
+    var disqus_config = function() {
+        this.page.url = '{{ site.url }}{{ page.id | remove:' / ' }}/';
+        this.page.identifier = '{{page.id | remove:' / ' }}';
+    };
+
+    function toggleDisqusComments(container) {
+        if ($(container).has("iframe").length > 0) {
+            var iframe_id = $(container + " iframe").attr("id");
+            $(container + " iframe#" + iframe_id).toggle("fast", "linear");
+            return;
+        }
+
+        (function() {
+            var d = document,
+                s = d.createElement('script');
+            s.src = 'https://lanternd.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+
+    }
+    // Disqus code END
+
+
+    //  Commento js code START
+
+    function toggleCommentoComments(container) {
+        if ($(container).has(" #commento-main-area").length > 0) {
+            // Subsequent clicks
+            $(container + " #commento-main-area").toggle("fast", "linear");
+            $(container + " #commento-footer").toggle("fast", "linear");
+            return;
+        } else {
+            // First click
+            window.commento.main();
+        }
+    }
+    //  Commento js code END
+
+    // Enable bootstrap CSS tooltip option.
+    $(function() {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
 </script>
-<!-- LiveRe的js代码 End-->
 
-<!-- 如果其中一个不用的可以自己注释掉，以提高访问速度，记得把里面的变量名给改了。 -->
+<script defer src="https://cdn.commento.io/js/commento.js" data-auto-init="false"></script>
 
-<!-- Disqus的js代码 Start-->
-<script type="text/javascript">
 
-  var disqus_config = function () {
-      this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/'; 
-      this.page.identifier = '{{page.id | remove:'/' }}'; 
-  };
 
-  function toggleDisqusComments(container){
-      if(jQuery(container).has("iframe").length>0){
-          var iframe_id = $(container+" iframe").attr("id");
-          jQuery(container+" iframe#"+iframe_id).toggle();
-          return;
-      }
+<!-- Put the "ld-comment-container" DIV to wherever the comment blocks are shown. -->
 
-      (function() { // DON'T EDIT BELOW THIS LINE
-          var d = document, s = d.createElement('script');
-          s.src = 'https://lanternd.disqus.com/embed.js';
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-      })();
+<div class="post-footer">
+    <div class="ld-comment-container">
+        <div id="commento_container">
+            <div id="cmt_container">
+                <a href="#comment-commento" data-toggle="tooltip" title="国内的小伙伴可以使用这个，因为下面👇Disqus被墙了。" class="comment" onclick="toggleCommentoComments('#commento_container');">查看<strong>Commento</strong>评论</a>
+            </div>
 
-  }
-</script>
+            <div id="commento"></div>
 
-<!-- Enable bootstrap CSS tooltip option. -->
-<script type="text/javascript">
-  $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-  })
-</script>
+        </div>
 
-<!-- 以下代码用于获取Disqus的评论条数 -->
-<!-- <script type="text/javascript">
-  /* * * CONFIGURATION VARIABLES * * */
-  var disqus_shortname = 'lanternd';
+        <div id="disqus_container">
+            <div style="margin-bottom:20px" class="right"></div>
+            <a href="#comment-disqus" data-toggle="tooltip" title="友情提醒：Disqus大部分情况下需要翻墙后才能使用。" class="comment" onclick="toggleDisqusComments('#disqus_container');">
+                查看<strong>Disqus</strong>评论
+            </a>
+            <!-- <span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span> -->
+            <div id="disqus_thread"></div>
 
-  /* * * DON'T EDIT BELOW THIS LINE * * */
-  (function () {
-    var s = document.createElement('script'); s.async = true;
-    s.type = 'text/javascript';
-    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-  }());
-</script> -->
-
-<!-- Disqus的js代码 End-->
-
-<!-- 以下是评论框架，放置在评论需要展示的地方 -->
-
-<div class="ld-comment-container">
-  <div id="livere_container">
-
-      <div id="lv-container" data-id="city" data-uid="{{ site.livere.uid }}"><!-- 换成自己的UID -->
-          <a href="#comment-livere" data-toggle="tooltip" title="LiveRe这个破评论系统居然有广告，建议少用。欢迎给浏览器安装AdBlocks Plus插件去广告。唯一好处是支持国内SNS登陆。" class="comment" onclick="toggleLiveReComments('#lv-container');">
-              查看<strong>LiveRe</strong>评论</a>
+        </div>
     </div>
-  </div>
-
-  <div id="disqus_container">
-    <div style="margin-bottom:20px" class="right"></div>
-      <a href="#comment-disqus" data-toggle="tooltip" title="友情提醒：Disqus大部分情况下需要翻墙后才能使用。" class="comment" onclick="toggleDisqusComments('#disqus_container');">
-        查看<strong>Disqus</strong>评论
-      </a>
-      <!-- <span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span> -->
-    <div id="disqus_thread"></div>
-
-  </div>
-</div>
-
 
 
 </div>
