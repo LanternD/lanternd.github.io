@@ -127,24 +127,18 @@ id: about
 
 > 
 >  <p class="about-icon">
-    <a href="{{ site.author.twitter }}" target="_blank" title="Twitter">
-      <i class="fab fa-twitter-square fa-3x"></i>
-    </a>  
+    <a href="{{ site.author.mastodon }}" target="_blank" title="DY-Talk">
+      <i class="fab fa-mastodon fa-3x"></i>
+    </a>
     <a href="{{ site.author.github }}" target="_blank" title="Github">
       <i class="fab fa-github-square fa-3x"></i>
-    </a>  
-    <a href="{{ site.author.facebook }}" target="_blank" title="Facebook">
-      <i class="fab fa-facebook-square fa-3x"></i>
-    </a>  
-    <a href="{{ site.author.flickr }}" target="_blank" title="Flickr">
-      <i class="fab fa-flickr fa-3x"></i>
-    </a>  
-    <a href="{{ site.author.youtube }}" target="_blank" title="YouTube">
-      <i class="fab fa-youtube-square fa-3x"></i>
     </a>
     <a href="{{ site.author.instagram }}" target="_blank" title="Instagram">
       <i class="fab fa-instagram fa-3x"></i>
     </a>  
+    <a href="{{ site.author.youtube }}" target="_blank" title="YouTube">
+      <i class="fab fa-youtube-square fa-3x"></i>
+    </a>
     <a href="{{ site.author.px500px }}" target="_blank" title="500px">
       <i class="fab fa-500px fa-3x"></i>
     </a>  
@@ -156,13 +150,15 @@ id: about
     </a>
     </p>
 >   
->  [ 目前仅在部分SNS活跃 ( Instagram / ~~Facebook / Twi / 500px / Flickr~~ / Telegram )，最快的方式可能是Telegram。 ]
+>  [ 目前仅在部分SNS活跃：DY-Talk (Mastodon) / Instagram / Telegram。最快的方式可能是Telegram。]
+>  
+>  已经断舍离的有：Facebook / Twitter / 500px / Flickr.
 >   
 >  Email：lanternd1028 AT gmail.com
 >   
->  坐标： East Lansing, Michigan, USA
+>  坐标：East Lansing, Michigan, USA
 >   
->  QQ/Wechat： 可以邮件问
+>  QQ/Wechat：可以邮件问，但我正在减少使用
 
 </div>
 
@@ -287,7 +283,7 @@ id: about
 
 -
 
-「About」页面最后更新: 2019.04.25
+「About」页面最后更新: 2020.03.31
 
 ---
 

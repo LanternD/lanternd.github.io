@@ -1,32 +1,32 @@
 <div class="sidenav">
-	<h2>更多关于『{{page.categories.first}}』的文章</h2>
-  <ul class="artical-list">
-    {% case page.categories.first %}
+    <h2>更多关于『{{page.categories.first}}』的文章</h2>
+    <ul class="artical-list">
+        {% case page.categories.first %}
 
-    {% when 'blog' %}
-    {% for post in site.categories.blog limit:15%}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+        {% when 'blog' %}
+        {% for post in site.categories.blog limit:15%}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
 
-    {% when 'hitech' %}
-    {% for post in site.categories.hitech limit:15 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+        {% when 'hitech' %}
+        {% for post in site.categories.hitech limit:15 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
 
-    {% when 'viewfinder' %}
-    {% for post in site.categories.viewfinder limit:15 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+        {% when 'viewfinder' %}
+        {% for post in site.categories.viewfinder limit:15 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
 
-    {% when 'cuisine' %}
-    {% for post in site.categories.cuisine limit:15 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+        {% when 'cuisine' %}
+        {% for post in site.categories.cuisine limit:15 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
 
-    {% else %}
-    {% for post in site.related_posts limit:15 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    {% endcase %}
-  </ul>
+        {% else %}
+        {% for post in site.related_posts limit:15 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        {% endcase %}
+    </ul>
 </div>

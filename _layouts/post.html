@@ -17,7 +17,6 @@ layout: default
 <div class="entry">
   <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
   <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
-  
   {% if page.description != null %}
   <pre>{{ page.description }}</pre>
   {% endif %}
@@ -40,7 +39,6 @@ layout: default
 <div class="post-tag">
   {% if page.tags.size > 0 %}
   <i class="fa fa-tags"></i> 标签：
-    
     {% for tag in page.tags %}
       <span class="label"><a href="/tags/#{{tag}}">{{ tag }}</a></span>
     {% endfor %}
