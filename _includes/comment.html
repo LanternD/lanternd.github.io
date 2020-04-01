@@ -2,38 +2,10 @@
 
     /* All the code for the comment section */
 
-    // LiveRe js code START
-    var refer = '{{ site.url | remove:"https://" }}{{ page.id | remove:' / ' }}/';
-
-    function toggleLiveReComments(container) {
-        if (jQuery(container).has("iframe").length > 0) {
-            var iframe_id = $(container + " iframe").attr("id");
-            jQuery(container + " iframe#" + iframe_id).toggle();
-            return;
-        }
-        var j, e = document.getElementsByTagName('script')[0];
-
-        j = document.createElement('script');
-        j.src = '//cdn-city.livere.com/js/embed.dist.js';
-        j.async = true;
-
-        e.parentNode.insertBefore(j, e);
-    }
-    // remove the AD box
-    setInterval(function() {
-        var ad_box = document.querySelector("#livereAd");
-        if (ad_box) {
-            ad_box.outerHTML = "";
-        }
-    }, 9000);
-    // LiveRe js END
-
-
     // Disqus js code START
-
     var disqus_config = function() {
-        this.page.url = '{{ site.url }}{{ page.id | remove:' / ' }}/';
-        this.page.identifier = '{{page.id | remove:' / ' }}';
+        this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
+        this.page.identifier = '{{page.id | remove:'/' }}';
     };
 
     function toggleDisqusComments(container) {
