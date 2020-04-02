@@ -278,12 +278,16 @@ id: about
 > 
 > 2018.10.10. 更新了图床链接的Prefix，用Amazon S3做图床，（永久）放弃七牛云储存
 > 
-> 2019.04.25. 去掉了站内搜索的功能，可能未来会加入外部搜索，待定中；LiveRe评论系统开始有广告推送，加入了Tooltip进行提醒。
+> 2019.04.25. 去掉了站内搜索的功能，可能未来会加入外部搜索，待定中；LiveRe评论系统开始有广告推送，加入了Tooltip进行提醒
+> 
+> 2020.03.31. 由于猖狂的广告，我把LiveRe评论去除了。写了个[程序](https://github.com/LanternD/comment-migration-from-livere-to-disqus)把评论导入了Disqus。三年间LiveRe居然只产生了41条评论，真是凄凉
+> 
+> 2020.04.02. 正式上线了Self-hosted、开源的[Commento](https://commento.io)，作为Disqus的补充。给页面里的各个框都加了10px的圆角，再也不是方正的矩形了
 </div>
 
 -
 
-「About」页面最后更新: 2020.03.31
+「About」页面最后更新: 2020.04.02
 
 ---
 

@@ -1,55 +1,56 @@
 <script type="text/javascript">
 
-    /* All the code for the comment section */
+ /* All the code for the comment section */
 
-    // Disqus js code START
-    var disqus_config = function() {
-        this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
-        this.page.identifier = '{{page.id | remove:'/' }}';
-    };
+ // Disqus js code START
+ var disqus_config = function() {
+   this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
+   this.page.identifier = '{{page.id | remove:'/' }}';
+ };
 
-    function toggleDisqusComments(container) {
-        if ($(container).has("iframe").length > 0) {
-            var iframe_id = $(container + " iframe").attr("id");
-            $(container + " iframe#" + iframe_id).toggle("fast", "linear");
-            return;
-        }
+ function toggleDisqusComments(container) {
+   if ($(container).has("iframe").length > 0) {
+     var iframe_id = $(container + " iframe").attr("id");
+     $(container + " iframe#" + iframe_id).toggle("fast", "linear");
+     return;
+   }
 
-        (function() {
-            var d = document,
-                s = d.createElement('script');
-            s.src = 'https://lanternd.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
+   (function() {
+     var d = document,
+         s = d.createElement('script');
+     s.src = 'https://lanternd.disqus.com/embed.js';
+     s.setAttribute('data-timestamp', +new Date());
+     (d.head || d.body).appendChild(s);
+   })();
 
-    }
-    // Disqus code END
+ }
+ // Disqus code END
 
 
-    //  Commento js code START
+ //  Commento js code START
 
-    function toggleCommentoComments(container) {
-        if ($(container).has(" #commento-main-area").length > 0) {
-            // Subsequent clicks
-            $(container + " #commento-main-area").toggle("fast", "linear");
-            $(container + " #commento-footer").toggle("fast", "linear");
-            return;
-        } else {
-            // First click
-            window.commento.main();
-        }
-    }
+ function toggleCommentoComments(container) {
+   if ($(container).has(" #commento-main-area").length > 0) {
+     // Subsequent clicks
+     $(container + " #commento-main-area").toggle("fast", "linear");
+     $(container + " #commento-footer").toggle("fast", "linear");
+     $(container + " #commento-logged-container").toggle("fast", "linear");
+     return;
+   } else {
+     // First click
+     window.commento.main();
+   }
+ }
     //  Commento js code END
 
     // Enable bootstrap CSS tooltip option.
     $(function() {
         $('[data-toggle="tooltip"]').tooltip()
-    })
+ })
 </script>
 
-<script defer src="https://cdn.commento.io/js/commento.js" data-auto-init="false"></script>
-
+<script defer src="https://commento.dlyang.me/js/commento.js" data-auto-init="false"></script>
+<noscript>Please enable JavaScript to load the comments.</noscript>
 
 
 <!-- Put the "ld-comment-container" DIV to wherever the comment blocks are shown. -->
@@ -58,9 +59,8 @@
     <div class="ld-comment-container">
         <div id="commento_container">
             <div id="cmt_container">
-                <a href="#comment-commento" data-toggle="tooltip" title="国内的小伙伴可以使用这个，因为下面👇Disqus被墙了。" class="comment" onclick="toggleCommentoComments('#commento_container');">查看<strong>Commento</strong>评论</a>
+              <a href="#comment-commento" data-toggle="tooltip" title="国内的小伙伴可以使用这个，因为下面👇Disqus被墙了。" class="comment" onclick="toggleCommentoComments('#commento_container');">查看<strong>Commento</strong>评论</a>
             </div>
-
             <div id="commento"></div>
 
         </div>
