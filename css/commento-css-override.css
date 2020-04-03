@@ -1,0 +1,21 @@
+.commento-root .commento-submit-button {background: #3ba2c1; width: 110px; border-radius: 10px;}
+
+.commento-root textarea {placeholder:"fff"; border-radius: 10px;}
+
+.commento-root .commento-login .commento-login-text {margin-right: 0px; padding-right: 16px; text-transform: uppercase; height: 25px; }
+
+.commento-root .commento-login {width: 30%; float: initial; margin-left: auto;}
+
+.commento-root .commento-logged-container {margin-top: 5px; height: 50px; margin-bottom: 5px;}
+
+.commento-root .commento-logged-container .commento-logged-in-as .commento-name {top:12px; left: 49px; font-size: 19px; color: #393a52; }
+
+.commento-root .commento-logged-container .commento-profile-button {color: #5b6269; font-size:14px; padding-top: 16px; }
+
+.commento-root .commento-footer .commento-logo-container {float: none;}
+
+.commento-root .commento-footer .commento-logo-container .commento-logo {width: 23%;}
+
+.commento-root .commento-footer {margin: 14px 0 14px; padding-right: 6px;}
+
+.commento-root .commento-markdown-button {display: none;}

@@ -167,9 +167,9 @@ figure figcaption {
 .ld-comment-container {display: inline-block;width: 100%;}
 
 #commento_container a.comment {font-size:18px; background: transparent;}
-#commento_container {font-size:14px;margin-bottom: 10px;margin-top: 20px;}
+#commento_container {font-size:14px;margin-bottom: 10px;margin-top: 5px;}
 
-#disqus_container {font-size:14px;margin-bottom: 10px;margin-top: 5px;}
+#disqus_container {font-size:14px;margin-bottom: 10px;margin-top: 20px;}
 #disqus_container a.comment {font-size:18px; background: transparent;}
 #disqus_container span.comment-count {font-size:18px; color: #4A75B5;}
 

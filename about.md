@@ -282,7 +282,7 @@ id: about
 > 
 > 2020.03.31. 由于猖狂的广告，我把LiveRe评论去除了。写了个[程序](https://github.com/LanternD/comment-migration-from-livere-to-disqus)把评论导入了Disqus。三年间LiveRe居然只产生了41条评论，真是凄凉
 > 
-> 2020.04.02. 正式上线了Self-hosted、开源的[Commento](https://commento.io)，作为Disqus的补充。给页面里的各个框都加了10px的圆角，再也不是方正的矩形了
+> 2020.04.02. 正式上线了Self-hosted、开源的[Commento](https://commento.io)，作为Disqus的补充，并调整了相关的CSS。给页面里的各个框都加了10px的圆角，再也不是方正的矩形了
 </div>
 
 -
