@@ -1,12 +1,13 @@
 .commento-root .commento-submit-button {background: #3ba2c1; width: 110px; border-radius: 10px;}
 
-.commento-root textarea {placeholder:"fff"; border-radius: 10px;}
+.commento-root textarea {border-radius: 10px; min-width: 300px;}
 
 .commento-root .commento-login .commento-login-text {margin-right: 0px; padding-right: 16px; text-transform: uppercase; height: 25px; }
 
 .commento-root .commento-login {width: 30%; float: initial; margin-left: auto;}
 
-.commento-root .commento-logged-container {margin-top: 5px; height: 50px; margin-bottom: 5px;}
+.commento-root .commento-logged-container {margin-top: 5px; height: 50px; margin-bottom: 5px; }
+
 
 .commento-root .commento-logged-container .commento-logged-in-as .commento-name {top:12px; left: 49px; font-size: 19px; color: #393a52; }
 
@@ -22,6 +23,20 @@
 
 .commento-root .commento-footer .commento-logo-container {float: none;}
 
-.commento-root .commento-footer .commento-logo-container .commento-logo {width: 20%; float: right;}
+.commento-root .commento-footer .commento-logo-container .commento-logo {width: 150px; float: right;}
 
 .commento-root .commento-footer {margin: 14px 0 14px; padding-right: 6px; height: 18px;}
+
+.commento-comments .commento-card {border-left: 1px solid rgba(111, 111, 111, 1) !important;}
+
+@media screen and (max-width: 512px){
+    .commento-root {width: 104%; margin-left: -2%;}
+    .commento-root .commento-logged-container .commento-logged-in-as {height: 40px;}
+    .commento-root .commento-textarea-container {margin-top: 40px;}
+}
+
+@media screen and (max-width: 368px){
+    .commento-root {width: 104%; margin-left: -2%;}
+    .commento-root .commento-logged-container .commento-logged-in-as {height: 61px;}
+    .commento-root .commento-textarea-container {margin-top: 60px;}
+}
