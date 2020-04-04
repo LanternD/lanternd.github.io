@@ -32,20 +32,18 @@
  function toggleCommentoComments(container) {
    if ($(container).has(" #commento-main-area").length > 0) {
      // Subsequent clicks
-     $(container + " #commento-main-area").toggle("fast", "linear");
-     $(container + " #commento-footer").toggle("fast", "linear");
-     $(container + " #commento-logged-container").toggle("fast", "linear");
+     $(container + " #commento").toggle("fast", "linear");
      return;
    } else {
      // First click
      window.commento.main();
    }
  }
-    //  Commento js code END
+ //  Commento js code END
 
-    // Enable bootstrap CSS tooltip option.
-    $(function() {
-        $('[data-toggle="tooltip"]').tooltip()
+ // Enable bootstrap CSS tooltip option.
+ $(function() {
+   $('[data-toggle="tooltip"]').tooltip()
  })
 </script>
 
@@ -60,10 +58,10 @@
     <div id="disqus_container">
       <div style="margin-bottom:20px" class="right"></div>
       <a href="#comment-disqus" data-toggle="tooltip" title="请优先使用Disqus。友情提醒：Disqus大部分情况下需要翻墙后才能使用。" class="comment" onclick="toggleDisqusComments('#disqus_container');">
-      查看 <strong>Disqus</strong> 评论
+        查看 <strong>Disqus</strong> 评论
       </a>
       <!-- <span class="comment-count">（<a href="{{ site.url }}{{ page.id | remove:'/' }}/#disqus_thread" style="font-size:18px;">0</a>）</span> -->
-    <div id="disqus_thread"></div>
+      <div id="disqus_thread"></div>
     </div>
 
     <div id="commento_container">
@@ -71,8 +69,8 @@
         <a href="#comment-commento" data-toggle="tooltip" title="如果👆Disqus被墙了（或加载不出来），可以用Commento。支持Markdown语法。" class="comment" onclick="toggleCommentoComments('#commento_container');">
           查看<strong>Commento</strong>评论
         </a>
-    </div>
-    <div id="commento"></div>
+      </div>
+      <div id="commento"></div>
 
     </div>
   </div>

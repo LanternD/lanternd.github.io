@@ -12,10 +12,16 @@
 
 .commento-root .commento-logged-container .commento-profile-button {color: #5b6269; font-size:14px; padding-top: 16px; }
 
-.commento-root .commento-footer .commento-logo-container {float: none;}
+.commento-root .commento-button-margin {margin-bottom: 60px;}
 
-.commento-root .commento-footer .commento-logo-container .commento-logo {width: 23%;}
-
-.commento-root .commento-footer {margin: 14px 0 14px; padding-right: 6px;}
+.commento-root #commento-pre-comments-area {height: 5px;}
 
 .commento-root .commento-markdown-button {display: none;}
+
+.commento-root .commento-comments {margin-top: 7px;}
+
+.commento-root .commento-footer .commento-logo-container {float: none;}
+
+.commento-root .commento-footer .commento-logo-container .commento-logo {width: 20%; float: right;}
+
+.commento-root .commento-footer {margin: 14px 0 14px; padding-right: 6px; height: 18px;}
