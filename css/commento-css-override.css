@@ -1,3 +1,5 @@
+.commento-root .commento-avatar-img {margin-top: 0px; margin-bottom: 0px; border-radius:30%;}
+
 .commento-root .commento-submit-button {background: #3ba2c1; width: 110px; border-radius: 10px;}
 
 .commento-root textarea {border-radius: 10px; min-width: 300px;}
@@ -7,7 +9,6 @@
 .commento-root .commento-login {width: 30%; float: initial; margin-left: auto;}
 
 .commento-root .commento-logged-container {margin-top: 5px; height: 50px; margin-bottom: 5px; }
-
 
 .commento-root .commento-logged-container .commento-logged-in-as .commento-name {top:12px; left: 49px; font-size: 19px; color: #393a52; }
 

@@ -1,3 +1,4 @@
+url: "https://dlyang.me"
 markdown: kramdown
 highlighter: rouge
 
@@ -21,7 +22,7 @@ url: https://dlyang.me/
 feed: /rss.xml
 author_info: <a href="https://dlyang.me/">LanternD</a>
 
-# 作者信息，不要的就自己删除掉吧，以及about.md页面里面的。
+# Author info. Please update them accordingly.
 author: 
   name: LanternD
   email: lanternd1028@gmail.com
@@ -37,30 +38,32 @@ author:
   telegram: https://telegram.me/lanternd
   mastodon: https://dlyang.tk
 
-# 图床链接Prefix
+# Image host prefix
 img-hosting: https://img-cdn.dlyang.me
 
-# gavatar头像及Favicon
+# Gavatar and favicon
 gavatar: /img/logo_100x.png
 favicon: /img/favicon2.ico
 
-
-# google analytics 设置
+# Google analytics
 ga:
   id: UA-54601036-1
   url: https://dlyang.me
   userid: 54601036
 
+# Disqus ID
 disqus:
   shortname: lanternd
 
+# LiveRe ID
 livere:
   uid: MTAyMC8yODcxNi81Mjg3
 
+# Jekyll plugins
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - rouge
 
-# for sitemap.txt
+# For sitemap.txt
 production_url: https://dlyang.me
