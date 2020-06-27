@@ -44,7 +44,7 @@ date: 2020-03-31 22:25:30
 
 　在Table元素上面右键，Copy Element。
 
-　去到代码对应的文件，里面有一个「html\_table」文件夹（里面有个示例「table\_1.html」）。新建一个HTML文件，把复制的Element粘进去。注意，每个块都是 =<table>=开始， `</table>` 结束。
+　去到代码对应的文件，里面有一个「html\_table」文件夹（里面有个示例「table\_1.html」）。新建一个HTML文件，把复制的Element粘进去。注意，每个块都是 `<table>` 开始， `</table>` 结束。
 
 　重复上述过程下载完所有的Table。可以每10条评论一个文件，也可以所有评论放到一个文件里面。
 
@@ -79,7 +79,7 @@ python migration_main.py
 ## 已知问题
 
 -   目前程序没法记录评论树，也就是A回复了B，但是A/B各自是独立的评论。这个也没办法，因为LiveRe的输出里就不包含这个。想手动添加的话可以在 `<wp:comment_parent></wp:comment_parent>` 这行添加父评论的 `comment_id` 。
--   目前没法添加头像，我的理解是下面这个field需要ID和头像链接同时完整，对应Disqus内部的用户账号才行。目前我就懒得去测试行不行了。
+-   目前没法添加头像，我的理解是下面这个field需要ID和头像链接同时完整，对应Disqus内部的用户账号才行。目前我就懒得去测试了。
     
     ```xml
     <dsq:remote>
