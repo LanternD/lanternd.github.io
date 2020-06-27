@@ -10,6 +10,8 @@ date: 2020-01-09 18:53:09
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/four-types-of-sports-to-master/four-types-of-sports-to-master.jpg "Album Photo")
+
 ## 体育之于人
 
 　在[上一篇日志](file:///call-of-physical-education/)中，我已经结合我的个人经历说了说体育锻炼的好处。我也提到我曾经参与过很多种类的体育活动，这里我就结合我的经验，说说我认为人生应该掌握的几类运动。

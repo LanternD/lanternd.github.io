@@ -10,6 +10,10 @@ date: 2019-09-29 13:34:47
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/datalossphobia/datalossphobia.jpg "Album Photo")
+
+（图片来源：[wikimedia.org](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Toshiba_MK1403MAV_-_broken_glass_platter-93375.jpg/1920px-Toshiba_MK1403MAV_-_broken_glass_platter-93375.jpg)）
+
 <center>
 Nature's first green is gold, <br>
 

@@ -10,6 +10,10 @@ date: 2018-11-29 10:17:12
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/comfort-outside-comfort-zone/wx-topic-img-comfort-outside-comfort-zone.jpg "Album Photo")
+
+（图片来源：[Pixabay](https://pixabay.com/photo-3089646/)）
+
 ## 舒适区与走出去
 
 　成功学，和号称不是成功学的各种「软实力提升类」文章都会号召人们走出舒适区，去拥抱不一样的生活体验，学到更多东西，扩大自己的影响力。舒适区呆着当然也不是坏事。所谓「舒适」其实就是能用经验搞定一切事物的一个环境。走出舒适区的目的说白了就是把原有的舒适区扩大，变成一个更大的舒适区。

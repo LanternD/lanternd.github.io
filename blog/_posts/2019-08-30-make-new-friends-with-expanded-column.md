@@ -10,6 +10,8 @@ date: 2019-08-30 14:25:07
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/make-new-friends-with-expanded-column/make-new-friends-with-expanded-column.png "Album Photo")
+
 ## 人的分化
 
 　人是一种社会性的动物，每个个体都是社会这个整体的一部分，这在一定程度上和人体的系统异曲同工。人体有很多系统，然后往下细分出器官，再到组织，最后到细胞，大家各司其职，共同维护整个身体的运转和工作。

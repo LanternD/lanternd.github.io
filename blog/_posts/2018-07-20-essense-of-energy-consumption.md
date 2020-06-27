@@ -10,6 +10,8 @@ date: 2018-07-20 22:40:43
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/essense-of-energy-consumption/running-wx-topic.jpg "Album Photo")
+
 ## 表层
 
 　拜网络所赐，有句话流传甚广：「想减肥，管住嘴，迈开腿。」更有说法云「三分练，七分吃」（主要针对增肌）。本文主要讨论运动层次，而不是饮食摄入层次。

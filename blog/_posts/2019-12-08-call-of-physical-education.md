@@ -10,6 +10,8 @@ date: 2019-12-08 23:06:33
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/call-of-physical-education/call-of-physical-education.jpg "Album Photo")
+
 ## 前言
 
 　我本来想写的题目叫「人生中应当掌握的四类运动」（下一篇日志），结果作为引子的部分居然写了这么多东西，所以干脆把这个日志拆成两篇发。于是这篇单独说说体育锻炼对我的影响。
