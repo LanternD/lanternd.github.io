@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 gem "rake", ">=12.3.3"
 
-gem "jekyll", '>= 3.8.4'
+gem "jekyll", '>= 4.1.1'
 gem "jekyll-sitemap"
 gem "jekyll-paginate"
-gem 'wdm', '>= 0.1.0'
+gem 'wdm', '>= 0.1.1'
+gem "kramdown", ">= 2.3.0"

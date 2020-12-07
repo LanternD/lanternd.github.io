@@ -3,3 +3,4 @@ _drafts/
 .DS_Store
 .jekyll-metadata
 node_modules/
+.jekyll-cache/
