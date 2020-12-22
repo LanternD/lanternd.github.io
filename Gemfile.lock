@@ -71,12 +71,12 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (>= 3.8.4)
+  jekyll (>= 4.1.1)
   jekyll-paginate
   jekyll-sitemap
   kramdown (>= 2.3.0)
   rake (>= 12.3.3)
-  wdm (>= 0.1.0)
+  wdm (>= 0.1.1)
 
 BUNDLED WITH
    1.17.3

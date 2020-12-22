@@ -4,7 +4,7 @@ title: 长尾技能点
 description: 一些越早学会收获越大的技能、习惯、思维。抛砖引玉并会在未来长期更新。请结合自己的经历批判性地阅读。
 permalink: /long-tailed-skill-set/
 categories: [Blog, 视・界]
-tags: [长尾，技能，习惯，思维]
+tags: [长尾, 技能, 习惯, 思维]
 date: 2020-10-16 10:35:23
 ---
 

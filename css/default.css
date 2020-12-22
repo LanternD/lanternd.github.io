@@ -94,7 +94,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .entry ol{margin-bottom:25px;margin-left:25px;}
 .entry ol li{margin-bottom:5px;list-style:decimal;line-height:2.0em;}
 .entry blockquote{padding: 10px 10px;margin: 0 0 20px;font-size: 15px;border-left: 5px solid #eee}
-.entry blockquote p{margin-bottom: 0px;line-height: 1.5em; color: #656565; font-size: 15px;}
+.entry blockquote p{margin-bottom: 15px;line-height: 1.5em; color: #656565; font-size: 15px;}
 .entry div#bq-about p{margin-bottom: 1.5em;line-height: 1.5em;margin-left: 0.8em;}
 .entry div#bq-about-edu p{margin-bottom: 0.5em;line-height: 1.5em;margin-left: 0.8em;}
 .entry .about-title{font-size:27px;font-weight:bold;margin-bottom:15px;color:#000;text-align:left;word-wrap: break-word;}
