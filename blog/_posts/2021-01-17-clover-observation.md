@@ -70,6 +70,13 @@ date: 2021-01-17 22:50:32
 
 ![img]({{site.img-hosting}}/Pic4Post/clover-observation/clover - 7.jpeg "Clover")
 
+### 2021-03-18更新
+
+我拍到了种子爆发过程的慢镜头视频。可以点下面链接看到：
+
+-   YouTube：<https://www.youtube.com/watch?v=y3H8p-iwBWc>
+-   B站：<https://www.bilibili.com/video/bv1rV411Y7k5>
+
 ## ☘️ 如何休息？
 
 　它还会休息吗？是的。每天太阳下山以后它的叶片就会慢慢聚拢起来，而且心形还会按对称轴折叠起来。我不明白它这么做的意义是什么，因为就按原来的样子展开它也不会有多大能量消耗吧？
