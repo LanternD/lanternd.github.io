@@ -90,11 +90,11 @@ which python3
 
 　Quick Action 是苹果系统自带的一套易于上手的编程工具。有了它我们可以直接设计一套流程或者脚本，然后可以把一些东西自动化。比如在文件右键添加个 Copy Path 功能，一键获取文件的绝对路径；又或者可以给选中的文字添加双引号；还有把选中的英文全部变成大写等等。
 
-　苹果自己写有一个教程教我们如何实现把单词变大写（[链接](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)在此，注意，里面的Service就是现在的Quick Action）。
+　苹果自己写有一个教程教我们如何实现把单词变大写（[链接](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/MakeaSystem-WideService.html)在此，注意，里面的 Service 就是现在的 Quick Action）。
 
 　这里我们需要创建一个 Quick Action，然后运行它就能调用 Shell Script 去跑上面的代码，把文字格式化。
 
-　首先我们打开 Automator （macOS 自带的 App）。用 `File` -> `New` 创建一个新脚本，选 Quick Action（Logo 是个齿轮），扩展名是 `.workflow` 。 **如果是中文的 macOS 请自行翻译** 。
+　首先我们打开 Automator（macOS 自带的 App）。用 `File` -> `New` 创建一个新脚本，选 Quick Action（Logo 是个齿轮），扩展名是 `.workflow` 。 **如果是中文的 macOS 请自行翻译** 。
 
 ![img]({{site.img-hosting}}/Pic4Post/auto-pangu-script-on-macos/automator-icon.png "Automator")
 
