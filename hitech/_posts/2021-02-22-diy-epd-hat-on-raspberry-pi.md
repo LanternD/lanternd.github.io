@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【DIY】简易树莓派扩展电纸屏
-description: 买了一个 2.7 寸的树莓派扩展电子墨屏幕，并简单写了几个应用。放在桌子上当一块附加屏幕也是不错的。
+description: 买了一个 2.7 寸的树莓派扩展电子墨水屏幕，并简单写了几个应用。放在桌子上当一块附加屏幕也是不错的。
 permalink: /diy-epd-hat-on-raspberry-pi/
 categories: [HiTech]
 tags: [DIY, 电子, 屏股票, 玩具]

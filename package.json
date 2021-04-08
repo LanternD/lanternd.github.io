@@ -27,7 +27,8 @@
   },
   "homepage": "https://github.com/christian-fei/Simple-Jekyll-Search",
   "dependencies": {
-    "fuzzysearch": "^1.0.3"
+    "fuzzysearch": "^1.0.3",
+    "pangu": "^4.0.7"
   },
   "devDependencies": {
     "m.test": "0.0.54",
