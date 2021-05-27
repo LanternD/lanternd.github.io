@@ -124,7 +124,7 @@ date: 2021-03-26 18:30:08
 
 　我对圆角有莫名的喜爱。我喜欢在能看得到（没被元件覆盖）的部分把导线都倒个圆角。
 
-　这个一般的 EDA 软件都支持，KiCad 的 Nightly build（截至2021.03.26）已经加入这个功能了。老一点的 KiCad 5.x 版本可以用第三方插件 [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) 实现。
+　这个一般的 EDA 软件都支持，KiCad 的 Nightly build（截至2021.03.26）已经加入这个功能了（选中多段导线，然后右键 Fillet Tracks）。老一点的 KiCad 5.x 版本可以用第三方插件 [RF-tools-KiCAD](https://github.com/easyw/RF-tools-KiCAD) 实现。
 
 　需要说明的是这个是很费劲的过程，但是看到最后的效果的时候觉得这辛苦还是值得的。
 
