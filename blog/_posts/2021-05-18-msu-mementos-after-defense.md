@@ -2,7 +2,7 @@
 layout: post
 title: 红杉河畔的凯歌
 description: 写于辛丑年的春夏之交。
-permalink: /msu-memo-after-defense/
+permalink: /msu-mementos-after-defense/
 categories: [Blog, 视・界]
 tags: [密歇根, 博士, 答辩, 校园, 回忆, 美国]
 date: 2021-05-18 23:05:36
