@@ -4,7 +4,7 @@
  * Revised by:       LanternD
  */
 
- /* 重置浏览器CSS */
+ /* Reset CSS */
 html{color:#000;}
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0;}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
@@ -190,7 +190,6 @@ div#lv-container div#livereAd {display: none;}
 iframe.lv-ad-a {display: none;}
 #livereAd iframe {display: none;}
 
-/**************目录导航**************/
 #menuIndex {overflow:auto;}
 #menuIndex a {display:block; padding:2px 0; }
 #menuIndex a:hover {text-decoration:none;}
@@ -212,13 +211,14 @@ iframe.lv-ad-a {display: none;}
 .home-contact i {margin-right: 3px;}
 
 /* Top navi */
+
 #top-toc-table .h1 {font-size: 20px; font-weight: bold;}
 #top-toc-table .toc-h2 {font-size: 18px; margin: 5px 0px 10px 5px;}
 #top-toc-table .toc-h3 {font-size: 16px; margin: 5px 0px 10px 5px;}
 
 li.toc-h3 {margin-left: 5px;}
 
-/*自适应布局控制*/
+/* Self-adaptive */
 @-ms-viewport {
   width: device-width;
 }
@@ -231,6 +231,7 @@ li.toc-h3 {margin-left: 5px;}
 
 .listing #tag-post-list {list-style-type:none;margin-left:7%;margin-top:20px;}
 
+/* width < 550 px, like iPhone*/
 @media screen and (max-width: 550px){
   #tag-post-container ul {
     margin-left:0px;
@@ -242,7 +243,7 @@ li.toc-h3 {margin-left: 5px;}
   }
 }
 
-/*屏幕宽度分辨率小于750px的设备，如iPhone*/
+/* width < 768px, like iPad mini */
 @media screen and (max-width: 767px){
   .visible-s {display: block !important;}
   body {font-size:14px;}
@@ -282,14 +283,15 @@ li.toc-h3 {margin-left: 5px;}
   .footer-navi {display: none;}
 }
 
-
+/* 768 <= Small screen <= 991 px*/
 @media screen (min-width: 768px) and (max-width: 991px){
   .visible-m {display: block !important;}
   .entry {width: 680px}
   .sidenav {display:none;}
 
 }
-/*屏幕宽度分辨率小于1025px，大于750px的设备，如iPad (min-width: 991px)*/
+
+/* 991 < screen width <= 1024, like iPad (min-width: 991px) */
 @media screen  and (max-width: 1024px){
   .visible-m {display: block !important;}
   #menuIndex {display:none;}
@@ -301,16 +303,16 @@ li.toc-h3 {margin-left: 5px;}
   #content {width: 90%;margin:100px auto 50px; }
 
 }
-/*屏幕宽度分辨率大于1200px的设备，如正常的PC显示器*/
+/* Wide screen (> 1024 px) */
 @media screen and (min-width: 1025px){
   .visible-l {display: block !important;}
   .navbar {display: none!important;}
   .home-menu { position:fixed;}
 }
 
-/*==========以下为自定义css==========*/
+/*========== LanternD defined css below ==========*/
 
-/*返回顶部按钮样式*/
+/* return to top button */
 .back-top {
   display: block;
   width: 45px;height: 34px;
@@ -323,7 +325,7 @@ li.toc-h3 {margin-left: 5px;}
   background-color:#fafafa !important;
 }
 
-/*小屏幕顶部导航栏样式*/
+/* navi bar in small screen */
 
 nav .navbar{width: 100%; position:absolute; top: 0; right: 0;}
 .affix{width: 100% !important; top: 0;right: 0; z-index:4;}
@@ -331,7 +333,7 @@ nav ul li a {color: #060606 !important; font-size: 17px;}
 nav ul li i {color: #777;}
 .nav li {display: inline-block !important; float: right;}
 
-/* 固定Flickr框架原宽高比 */
+/* Fix flicker container ratio */
 .flickr-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -350,20 +352,19 @@ nav ul li i {color: #777;}
   height: 100%;
 }
 
-/* 设置滚动条的样式 */
+/* scroll bar - general */
 ::-webkit-scrollbar {  width:8px;  margin-right:2px}
-/* 水平滚动条 */
+/* scroll bar - horizontal */
 ::-webkit-scrollbar:horizontal {  height:8px;  margin-bottom:2px}
-/* 滚动条外层轨道 */
+/* scroll bar - outer track */
 ::-webkit-scrollbar-track {    border-radius: 8px;}
-/* 滚动条内层轨道 */
+/* scroll bar - inner track */
 ::-webkit-scrollbar-track-piece {    background-color: #EEEEEE;  border-radius: 8px;}
-/* 滚动条滑块 */
+/* scroll bar - bar itself */
 ::-webkit-scrollbar-thumb {  width:10px;    border-radius: 5px;    background: #bababa; }
-/* 滚动条滑块悬停 */
+/* scroll bar - hover */
 ::-webkit-scrollbar-thumb:hover {  background: #6d6d6d; }
 
-/*文章导航样式*/
 .post-footer {
   padding-top: 10px;
 }
@@ -397,8 +398,9 @@ nav ul li i {color: #777;}
   padding: 2px 5px 2px 5px;
   margin-bottom: 7px;
 }
+
 /*=====================================*/
-/*首页分页导航*/
+/* Index page pagination */
 
 .index-pagination {
   display: block;
@@ -507,7 +509,7 @@ hr{
   border-top: 1px solid #eee;
 }
 
-/*About页面的icon样式*/
+/* About page icon format */
 blockquote .about-icon a i {color: #1c463c;}
 blockquote .about-icon a {background: transparent;}
 
@@ -537,12 +539,12 @@ blockquote{
   user-select: none
 }
 
-/*选择文本的颜色*/
+/* Selected text color */
 ::selection { background:#d9d9d9; color:#000;}
 ::-moz-selection { background:#d9d9d9; color:#000;}
 ::-webkit-selection { background:#d9d9d9; color:#000;}
 
-/*标签页面相关样式*/
+/* Tag cloud */
 .listing {
   list-style-type: none;
   margin: 30px 3% 10px 7%;
@@ -596,7 +598,7 @@ blockquote{
   text-decoration: none;
 }
 
-  /*Cuisine模板样式*/
+/* Cuisine post template */
 
 /*.cuisine-container:before{
     position: absolute;
@@ -610,6 +612,7 @@ blockquote{
     z-index: -100;
 }
 */
+
 ul.cuisine-container {
   margin-left: 0px;
   margin: 40px 0;
@@ -822,3 +825,9 @@ div .cuisine-title h2{
 
 .tooltip.top {z-index: 3;}
 
+/* added in 2021.09.08. Image caption*/
+img + em {
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
