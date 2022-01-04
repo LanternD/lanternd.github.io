@@ -26,7 +26,7 @@ date: 2021-11-30 10:38:55
 ### 参数
 
 | 路线参考链接 | [Wilson Peak Loop](https://www.alltrails.com/trail/us/california/wilson-peak-loop?u=m) |
-| Google Maps | [Hunting Hollow Entrance](https://goo.gl/maps/JHFntRyZ1T53fk3h6) |
+| Google Maps | [Hunting Hollow Entrance](https://goo.gl/maps/tao4pvfeyNC1W41J6) |
 | 长度（km） | 19.3 |
 | 累计爬升（m） | 891 |
 | 路线类型 | 环线 |
@@ -223,8 +223,8 @@ date: 2021-11-30 10:38:55
 
 ### 概况
 
--   Yosemite Valley 极其热门的一条路线，沿着这个走能到 Yosemite Falls 的最顶端。和上面提到的 Four Miles Trail 遥相呼应。
--   我们到 Lower Falls 顶上，Upper Falls 底下的时候就已经差不多 12 点半了。如果走到顶再下来估计天就黑了（我们还要开车回湾区），于是放弃了继续攀爬。所以我们一共只走了 6 公里。最后登顶那段看起来没多远，但是海拔和之前是不相上下的，这也意味着路线更加陡峭。
+-   Yosemite Valley 极其热门的一条路线，沿着这个走能到 Yosemite Falls 的最顶端。和上面提到的 Four Mile Trail 遥相呼应。
+-   我们到 Lower Falls 顶上，Upper Falls 底下的时候就已经差不多 12 点半了。如果走到顶再下来估计天就黑了（我们还要开车回湾区），于是放弃了继续攀爬。最终我们一共只走了 6 公里。最后登顶那段看起来没多远，但是海拔和之前是不相上下的，这也意味着路线更加陡峭。
 -   走这条路需要在 Trailhead 充分热身，因为一开始就是十分硬核的「之」字形爬坡。坡度并不小，两个多公里下来就爬升了 400 多米，这跟爬楼梯差不多了。
 -   到了 1.5 公里左右的地方，路面上开始变成了比较粗的沙砾，走起来很滑，不是很舒服。用好登山杖可以舒服很多。
 -   在 Upper Falls 正底下去看瀑布还是很震撼。阳光打在飞溅出来的水雾上可以看到清晰的彩虹，挺梦幻。备注：这条 Trail 是看不到 Lower Falls 的，顶多能听到水声。
