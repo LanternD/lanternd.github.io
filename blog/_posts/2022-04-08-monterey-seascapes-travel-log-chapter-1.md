@@ -12,7 +12,7 @@ date: 2022-04-08 23:15:40
 
 ## 中心思想
 
-　2022 年 4 月 1-3 号，MS 和我参加了人生中的第一个摄影的 Workshop —— Monterey Seascapes by Frans Lanting Studio。
+　2022 年 4 月 1-3 号，MS（My wife）和我参加了人生中的第一个摄影的 Workshop —— Monterey Seascapes by Frans Lanting Studio。
 
 　不知道 Workshop 怎么翻译好，大概就是国内常说的「摄影旅行团」，但由于内容和形式都不一样，我后面还是会继续用「Workshop」这个称呼。
 
@@ -22,7 +22,7 @@ date: 2022-04-08 23:15:40
 
 　我们为什么参加这个 Workshop？事情要从 6 年前说起。
 
-　2016 年我和 MS（My wife） 去 Washington DC 旅游的时候，曾进过一个博物馆（Smithsonian 系列博物馆中的一家），里面有很多的展区。其中一块是美国国家地理杂志的摄影展，展出他们杂志社签约摄影师的作品。MS 当时特别喜欢 Frans Lanting 拍的非洲野生动物的照片（其中一张三只斑马的照片是他的名作之一），就立马关注了他的网站（<http://lanting.com/>）。
+　2016 年我和 MS 去 Washington DC 旅游的时候，曾进过一个博物馆（Smithsonian 系列博物馆中的一家），里面有很多的展区。其中一块是美国国家地理杂志的摄影展，展出他们杂志社签约摄影师的作品。MS 当时特别喜欢 Frans Lanting 拍的非洲野生动物的照片（其中一张三只斑马的照片是他的名作之一），就立马关注了他的网站（<http://lanting.com/>）。
 
 　Frans 是荷兰人，已经 70 多岁了。近 50 年前他从荷兰来美国西海岸做研究，之后一直居住在加州 Santa Cruz，常年致力于保护地球环境、野生动物。我会用另外一篇日志来介绍他。
 
