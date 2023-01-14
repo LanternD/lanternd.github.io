@@ -4,7 +4,7 @@ title: 2022 年 1 - 4 月 Hiking 合集
 description: 由于 2022 年 1 月到 4 月走的次数不多，所以把这几个月的几条路线都合起来放到一个日志里面了。大概 34 张图，共计 65.7MB 流量。
 permalink: /2022-01-to-04-hiking-recollections/
 categories: [Blog, 视・界]
-tags: [hiking, trail, 徒步，登山，加州，湾区，户外]
+tags: [hiking, trail, 徒步, 登山, 加州, 湾区, 户外]
 date: 2022-05-05 15:32:13
 ---
 
