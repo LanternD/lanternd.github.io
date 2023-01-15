@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 海景摄影 Workshop 之旅·行路篇·其一
+title: 海景摄影 Workshop 之旅 · 行路篇 · 其一
 description: Monterey Seascapes 摄影旅行的故事，上半章，长文。
 permalink: /monterey-seascapes-travel-log-chapter-1/
 categories: [Blog, 视・界]

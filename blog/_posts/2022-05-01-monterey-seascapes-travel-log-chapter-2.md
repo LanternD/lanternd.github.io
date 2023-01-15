@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 海景摄影 Workshop 之旅·行路篇·其二
+title: 海景摄影 Workshop 之旅 · 行路篇 · 其二
 description: Monterey Seascapes 摄影旅行的故事，下半章，另一篇长文。
 permalink: /monterey-seascapes-travel-log-chapter-2/
 categories: [Blog, 视・界]
@@ -12,7 +12,7 @@ date: 2022-05-01 13:24:41
 
 ## 传送门
 
-　这篇文章是《[海景摄影 Workshop 之旅·行路篇·其一](../monterey-seascapes-travel-log-chapter-1)》的下半部分。前面没看的话欢迎去看看。
+　这篇文章是《[海景摄影 Workshop 之旅 · 行路篇 · 其一](../monterey-seascapes-travel-log-chapter-1)》的下半部分。前面没看的话欢迎去看看。
 
 ## Garrapata State Beach 的花海与金光
 
