@@ -1756,3 +1756,21 @@ em {
     font-style: italic;
     font-weight: 500;
 }
+
+/* Added 2023.04.24, hover to show more text */
+.tooltip-box-container {
+    position: relative;
+  }
+  
+  #pop-text:hover::before {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #464646;
+    color: #ebebeb;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+  }

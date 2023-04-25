@@ -25,6 +25,22 @@ $(document).ready(function(){
     $("head").append("<link rel='stylesheet' type='text/css' href='/css/css3-ani.css'/>");
     $.getScript('/js/css3-ani.js',function(){});
   }
+  
+   // Get the target element
+  const $targetElement = $('.pop-text');
+
+  // Show the text from the data-tooltip attribute in the pop info box
+  $targetElement.on('mouseover', function() {
+    const tooltipText = $(this).data('data-tooltip');
+    const $infoBox = $('<div class="info-box"></div>').text(tooltipText);
+    $('body').append($infoBox);
+  });
+
+  // Hide the pop info box when the mouse moves away from the target element
+  $targetElement.on('mouseout', function() {
+    $('.info-box').remove();
+  });
+
   return 0;
   
 });

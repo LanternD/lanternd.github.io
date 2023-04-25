@@ -10,6 +10,12 @@ date: 2023-01-09 11:55:17
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/2022-recapitulation/mj-2022-Summary-album.png)
+
+<div class="tooltip-box-container"><span id="pop-text" data-html="true" data-tooltip="/imagine An illustration of '2022 Summary' text in elated mood and bright lighting, with a lot of decorations --v 5 --ar 3:2">
+　（图片来源：MidJourney，AI 作图）
+</span></div><br>
+
 　2022 年干了好多事。好像有几年没写年度总结了。这次本打算写「伪」年度总结，意思是只写那些我第一次尝试且有意义的事情；如果以前做过同样或者相似的事情就不再列举了（即使意义重大）。但是多加了一些篇幅以后我把「伪」字去掉了，因为写完以后还觉得挺像个正经的总结的。
 
 ## 上半年
