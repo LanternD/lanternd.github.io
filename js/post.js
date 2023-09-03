@@ -1,48 +1,43 @@
-$(document).ready(function(){
+$(document).ready(function() {
 
-  $('pre').addClass('prettyprint linenums'); //添加Google code Hight需要的class
+    // Google Code Highlight class
+    $('pre').addClass('prettyprint linenums');
 
-  // Add a small icon to all the external hyperlinks.
-  $('.entry a').each(function(index,element){
-    var href = $(this).attr('href');
-    if(href){
-      if(href.indexOf('#') == 0){
-      }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('dlyang.me')>-1 ){
-      }else if ($(element).has('img').length){
-      }else{
-        $(this).attr('target','_blank');
-        $(this).addClass('external');
-      }
+    // Add a small icon to all the external hyperlinks.
+    $('.entry a').each(function(index, element) {
+        var href = $(this).attr('href');
+        if (href) {
+            if (href.indexOf('#') == 0) {} else if (href.indexOf('/') == 0 || href.toLowerCase().indexOf('dlyang.me') > -1) {} else if ($(element).has('img').length) {} else {
+                $(this).attr('target', '_blank');
+                $(this).addClass('external');
+            }
+        }
+    });
+
+    $.getScript('/js/prettify/prettify.js', function() {
+        prettyPrint();
+    });
+
+    if (/css3-animation/.test(location.href)) {
+        $("head").append("<link rel='stylesheet' type='text/css' href='/css/css3-ani.css'/>");
+        $.getScript('/js/css3-ani.js', function() {});
     }
-  });
 
-  $.getScript('/js/prettify/prettify.js',function(){
-    prettyPrint();
-  });
+    // Get the target element
+    const $targetElement = $('.pop-text');
 
+    // Show the text from the data-tooltip attribute in the pop info box
+    $targetElement.on('mouseover', function() {
+        const tooltipText = $(this).data('data-tooltip');
+        const $infoBox = $('<div class="info-box"></div>').text(tooltipText);
+        $('body').append($infoBox);
+    });
 
-  if(/css3-animation/.test(location.href)){
-    $("head").append("<link rel='stylesheet' type='text/css' href='/css/css3-ani.css'/>");
-    $.getScript('/js/css3-ani.js',function(){});
-  }
-  
-   // Get the target element
-  const $targetElement = $('.pop-text');
+    // Hide the pop info box when the mouse moves away from the target element
+    $targetElement.on('mouseout', function() {
+        $('.info-box').remove();
+    });
 
-  // Show the text from the data-tooltip attribute in the pop info box
-  $targetElement.on('mouseover', function() {
-    const tooltipText = $(this).data('data-tooltip');
-    const $infoBox = $('<div class="info-box"></div>').text(tooltipText);
-    $('body').append($infoBox);
-  });
+    return 0;
 
-  // Hide the pop info box when the mouse moves away from the target element
-  $targetElement.on('mouseout', function() {
-    $('.info-box').remove();
-  });
-
-  return 0;
-  
 });
-
-

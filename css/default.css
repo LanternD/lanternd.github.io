@@ -196,6 +196,7 @@ table td {
     min-width: 70px;
     vertical-align: top;
     border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
 }
 
 table {
@@ -1626,7 +1627,6 @@ div .cuisine-title h2 {
 &.in .modal-dialog {
     .translate(0, 0)
 }
-}
 
 .modal-open .modal {
     overflow-x: hidden;
@@ -1761,9 +1761,9 @@ em {
 /* Added 2023.04.24, hover to show more text */
 .tooltip-box-container {
     position: relative;
-  }
-  
-  #pop-text:hover::before {
+}
+
+#pop-text:hover::before {
     content: attr(data-tooltip);
     position: absolute;
     top: 100%;
@@ -1774,4 +1774,4 @@ em {
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 14px;
-  }
+}
