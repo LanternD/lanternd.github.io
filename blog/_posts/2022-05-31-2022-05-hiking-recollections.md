@@ -10,6 +10,12 @@ date: 2022-05-31 21:08:57
 
 # 　
 
+![img]({{site.img-hosting}}/Pic4Post/2022-05-hiking-recollections/mj-2022-05-hiking-album-pic.png)
+
+<div class="tooltip-box-container"><span id="pop-text" data-html="true" data-tooltip="/imagine An Ukiyo-e style cartoon illustration of a couple hiking together, looking from behind wide angle, the hiker backpacks are small-size::2, light green color; the trees around are mainly cypress; bright lighting, low saturation, 4k --v 5 --ar 3:2">
+　（图片来源：MidJourney，AI 作图）
+</span></div><br>
+
 　这个月开始加入了平均配速的统计数据，仅供参考。
 
 　5 月是今年以来（也是开始长距离 Hiking 以来）走的次数最多、距离最长、累计爬升距离最多的一个月。可能今年都很难达到这个强度。本文的路线也比较多，列举如下：
@@ -393,7 +399,7 @@ date: 2022-05-31 21:08:57
 ### 一些图
 
 ![img]({{site.img-hosting}}/Pic4Post/2022-05-hiking-recollections/paradise-meadow-trail-1.JPG)
-*不是徒步路线上的，而是在 [[https://goo.gl/maps/bJxPCB6yLcCaeVBZA][Manzanita Lake]] 旁边*
+*不是徒步路线上的，而是在 [Manzanita Lake](https://goo.gl/maps/bJxPCB6yLcCaeVBZA) 旁边*
 
 ![img]({{site.img-hosting}}/Pic4Post/2022-05-hiking-recollections/paradise-meadow-trail-2.JPG)
 *Trailhead 附近停车场看到的 Lassen 雪山*
