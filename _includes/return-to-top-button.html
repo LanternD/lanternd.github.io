@@ -1,0 +1,27 @@
+<div class="back-top" style="display: none;" title="返回顶部">
+  <button class="btn btn-primary" style="color:#0e0e0e">
+    <i class="fa fa-lg fa-chevron-up" style="color:#0e0e0e"></i>
+  </button>
+</div>
+
+<script type="text/javascript">
+    $(window).bind("scroll", function() {
+
+        var scrollTopNum = $(document).scrollTop(),
+            winHeight = $(window).height(),
+            returnTop = $("div.back-top"),
+            topNav = $("nav"); //Navibar on the top
+
+        (scrollTopNum > 300) ? returnTop.fadeIn("fast"): returnTop.fadeOut("fast");
+
+        if (!-[1, ] && !window.XMLHttpRequest) {
+            returnTop.css("top", scrollTopNum + winHeight - 500);
+        }
+    });
+
+    $('div.back-top').click(function() {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 500);
+    });
+</script>

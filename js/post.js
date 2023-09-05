@@ -2,6 +2,11 @@ $(document).ready(function() {
 
     // Google Code Highlight class
     $('pre').addClass('prettyprint linenums');
+    $('.post-description').removeClass("prettyprint linenums");
+
+    $.getScript('/js/prettify/prettify.js', function() {
+        prettyPrint();
+    });
 
     // Add a small icon to all the external hyperlinks.
     $('.entry a').each(function(index, element) {
@@ -12,10 +17,6 @@ $(document).ready(function() {
                 $(this).addClass('external');
             }
         }
-    });
-
-    $.getScript('/js/prettify/prettify.js', function() {
-        prettyPrint();
     });
 
     if (/css3-animation/.test(location.href)) {
