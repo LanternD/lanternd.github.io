@@ -897,7 +897,7 @@ li.toc-h3 {
     }
 
     body {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     #content {
@@ -1126,7 +1126,7 @@ nav ul li i {
     color: #777;
 }
 
-.nav li {
+.navbar-collapse li {
     display: inline-block !important;
     float: right;
 }

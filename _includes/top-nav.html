@@ -1,21 +1,20 @@
-<nav class="navbar navbar-default affix" style="display: none;">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top d-flex" style="display: none; background-color: #e9ecef;"">
     <div class="container-fluid">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
+            <span><a class="navbar-brand mb-2 h2" style="margin-left: 7px; color: #333;" href="/">LanternD</a></span>
+            <button type="button" class="navbar-toggler ml-auto" data-bs-toggle="collapse" data-bs-target="#myNavbar"aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
             </button>
-            <h3><a class="navbar-brand active" style="margin-left: -7px; color: #333;" href="/">LanternD</a></h3>
         </div>
+
         <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="#toc-modal" data-toggle="modal" onclick="tocGenerator('#toc-container')"><i class="fa fa-list-ul fa-lg"></i> 目录</a></li>
-                <li><a href="{{ site.author.mastodon }}" target="_blank" title="DY-Talk"><i class="fab fa-mastodon fa-lg"></i> DY-TK</a></li>
-                <li><a href="{{ site.author.instagram }}" target="_blank" title="My Instagram"><i class="fab fa-instagram fa-lg"></i> INS</a></li>
-                <li><a href="/about/" title="关于我"><i class="fa fa-user fa-lg"></i> 关于</a></li>
-                <li><a href="/archive/" title="时间线"><i class="fa fa-archive fa-lg"></i> 归档</a></li>
-                <li><a href="/tags/" title="标签云"><i class="fa fa-tags fa-lg"></i> 标签</a></li>
+          <ul class="navbar-nav ml-auto d-flex">
+              <li class="nav-item"><a class="nav-link" href="#toc-modal" data-toggle="modal" onclick="tocGenerator('#toc-container')"><i class="fa fa-list-ul fa-lg"></i> 目录</a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ site.author.mastodon }}" target="_blank" title="DY-Talk"><i class="fab fa-mastodon fa-lg"></i> DY-TK</a></li>
+              <li class="nav-item"><a class="nav-link" href="{{ site.author.instagram }}" target="_blank" title="My Instagram"><i class="fab fa-instagram fa-lg"></i> INS</a></li>
+              <li class="nav-item"><a class="nav-link" href="/about/" title="关于我"><i class="fa fa-user fa-lg"></i> 关于</a></li>
+              <li class="nav-item"><a class="nav-link" href="/archive/" title="时间线"><i class="fa fa-archive fa-lg"></i> 归档</a></li>
+              <li class="nav-item"><a class="nav-link" href="/tags/" title="标签云"><i class="fa fa-tags fa-lg"></i> 标签</a></li>
             </ul>
         </div>
     </div>
