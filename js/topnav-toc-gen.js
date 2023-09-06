@@ -10,7 +10,6 @@ function tocGenerator(container) {
                 var h2item = {};
                 h2item.name = $(item).text();
                 h2item.id = $(item).attr('id');
-
                 h2.push(h2item);
                 h2index++;
             } else {
@@ -32,7 +31,7 @@ function tocGenerator(container) {
 
     function genTmpl() {
         var h1txt = $('h1').text();
-        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#' + h1txt + ' "data-dismiss="modal">' + h1txt + '</a></li>';
+        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#' + container + ' "data-dismiss="modal">' + h1txt + '</a></li>';
 
         var heading = initHeading();
 
@@ -72,7 +71,7 @@ function tocGenerator(container) {
                     var scrollNum = $(selector).offset().top;
                     var narrow_screen = $(this).width() < 1025 ? true : false;
                     if (narrow_screen) {
-                        v_offset = 60;
+                        v_offset = 120;
                     } else {
                         v_offset = 30;
                     }
@@ -80,6 +79,9 @@ function tocGenerator(container) {
                     $('body, html').animate({
                         scrollTop: scrollNum - v_offset
                     }, 400, 'swing');
+
+                    // close the modal
+                    $('#toc-modal').modal('hide');
                 });
         }
     })();

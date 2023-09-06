@@ -438,7 +438,7 @@ pre ol {
     line-height: 2.0em;
 }
 
-.highlight ol li{
+.highlight ol li {
     margin-bottom: 0px;
     list-style: decimal;
     line-height: 2.0em;
@@ -888,6 +888,14 @@ li.toc-h3 {
         padding-left: 0em;
         font-family: "Verdana", sans-serif;
     }
+
+    /* nav ul li.nav-item { */
+    /*     margin-left: 2px !important; */
+    /* } */
+
+    /* nav ul.navbar-nav { */
+    /*     margin-left: auto; */
+    /* } */
 }
 
 /* width < 768px, like iPad mini */
@@ -1129,6 +1137,18 @@ nav ul li i {
 .navbar-collapse li {
     display: inline-block !important;
     float: right;
+}
+
+nav ul li.nav-item {
+    margin-left: 15px;
+}
+
+a.navbar-brand {
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:#333;
 }
 
 /* Fix flicker container ratio */
