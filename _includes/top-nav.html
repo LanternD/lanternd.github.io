@@ -7,10 +7,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <ul class="navbar-nav flex-row mt-sm-3 mt-md-0 ms-md-auto">
+        <div class="navbar-collapse collapse" id="myNavbar">
+            <ul class="navbar-nav flex-row mt-sm-3 mt-md-0 ms-md-auto justify-content-between">
                 <li class="nav-item ms-auto">
-                    <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#toc-modal" onclick="tocGenerator('#toc-container');"><i class="fa fa-list-ul fa-lg"></i> 目录</a>
+                    <a class="nav-link" href="/archive/" title="时间线"><i class="fa fa-archive fa-lg"></i> 归档</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/tags/" title="标签云"><i class="fa fa-tags fa-lg"></i> 标签</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ site.author.mastodon }}" target="_blank" title="DY-Talk"><i class="fab fa-mastodon fa-lg"></i> DY-TK</a>
@@ -21,11 +24,10 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/about/" title="关于我"><i class="fa fa-user fa-lg"></i> 关于</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/archive/" title="时间线"><i class="fa fa-archive fa-lg"></i> 归档</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/tags/" title="标签云"><i class="fa fa-tags fa-lg"></i> 标签</a>
+            </ul>
+            <ul class="navbar-nav flex-row mt-ms-0 mt-md-0 ms-md-2 justify-content-between">
+                <li class="nav-item ms-auto">
+                    <a class="nav-link nav-toc" href="#" data-bs-toggle="modal" data-bs-target="#toc-modal" onclick="tocGenerator('#toc-container');" style="font-size: 18px;"><i class="fa fa-list-ul fa-lg"></i> 文章目录</a>
                 </li>
             </ul>
         </div>

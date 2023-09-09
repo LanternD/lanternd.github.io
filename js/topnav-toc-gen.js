@@ -31,7 +31,7 @@ function tocGenerator(container) {
 
     function genTmpl() {
         var h1txt = $('h1').text();
-        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#' + container + ' "data-dismiss="modal">' + h1txt + '</a></li>';
+        var tmpl = '<ul><li class="h1" id="toc-title"><a href="#' + container + '" data-dismiss="modal">' + h1txt + '</a></li>';
 
         var heading = initHeading();
 
@@ -39,11 +39,11 @@ function tocGenerator(container) {
         var h3 = heading.h3;
 
         for (var i = 0; i < h2.length; i++) {
-            tmpl += '<li class="toc-h2"><a href="#' + h2[i].id + '"data-dismiss="modal" data-id="' + h2[i].id + '">⌬ ' + h2[i].name + '</a></li>';
+            tmpl += '<li class="toc-h2"><a href="#' + h2[i].id + ' "data-dismiss="modal" data-id="' + h2[i].id + '">⌬ ' + h2[i].name + '</a></li>';
 
             if (h3[i]) {
                 for (var j = 0; j < h3[i].length; j++) {
-                    tmpl += '<li class="toc-h3"><a href="#' + h3[i][j].id + '"data-dismiss="modal" data-id="' + h3[i][j].id + '"> ↪ ' + h3[i][j].name + '</a></li>';
+                    tmpl += '<li class="toc-h3"><a href="#' + h3[i][j].id + ' "data-dismiss="modal" data-id="' + h3[i][j].id + '"> ↪ ' + h3[i][j].name + '</a></li>';
                 }
             }
         }
@@ -62,27 +62,29 @@ function tocGenerator(container) {
 
             $(container).append(indexCon);
 
-            $('#top-toc-table')
-                .append($(tmpl))
-                .delegate('a', 'click', function(e) {
-                    e.preventDefault();
-                    $('#myNavbar').removeClass('in');
-                    var selector = $(this).attr('data-id') ? '#' + $(this).attr('data-id') : 'h1';
-                    var scrollNum = $(selector).offset().top;
-                    var narrow_screen = $(this).width() < 1025 ? true : false;
-                    if (narrow_screen) {
-                        v_offset = 120;
-                    } else {
-                        v_offset = 30;
-                    }
+            $('#top-toc-table').append($(tmpl));
 
-                    $('body, html').animate({
-                        scrollTop: scrollNum - v_offset
-                    }, 400, 'swing');
+            $('#top-toc-table').on('click', 'a', function(e) {
+                e.preventDefault();
+                $('#myNavbar').removeClass('in');
+                var selector = $(this).attr('data-id') ? '#' + $(this).attr('data-id') : 'h1';
+                var scrollNum = $(selector).offset().top;
+                var v_offset = $(this).width() < 1025 ? 70 : 30;
 
-                    // close the modal
-                    $('#toc-modal').modal('hide');
-                });
+                $('body, html').animate({
+                    scrollTop: scrollNum - v_offset
+                }, 400, 'swing');
+
+                // close the modal
+                $('#toc-modal').modal('hide');
+
+                // Collapse the nav bar
+                if ($('.navbar-toggler').hasClass('navbar-toggler')) {
+                    $('.navbar-toggler').addClass('collapsed');
+                    $('.navbar-toggler').attr('aria-expanded', 'false');
+                }
+                $('#myNavbar').removeClass('show');
+            });
         }
     })();
 

@@ -10,55 +10,49 @@ id: about
 <div id="bq-about" markdown="1">
 
 > 
-> 出生于上世纪九十年代初叶，但是年龄也不算大。 
+> 出生于上世纪九十年代初叶，但是年龄也不算大。
 > 
-> 长啥样不是重点，反正照片想找的肯定能找到。 
+> 走过人生很长一段路，累计仅拿到过两个学位。
 > 
-> 走过人生很长一段路，累计拿到过两个学位。
->
-> 在某水果公司做数据分析，致力于发现水果的缺陷。 
+> 伪技术宅和户外运动爱好者的叠加态，没有拯救世界。
 > 
-> 伪技术宅和户外运动爱好者的量子叠加态，没有拯救世界。 
+> 拾获「扫描仪」一台，长期与其进行对各种东西和地点的扫描（My Wife，在文章中以代号「MS」出现）。
 > 
-> 有完美主义倾向，通常在熵增加到一定程度后发作。 
+> 有完美主义倾向，通常在熵增加到一定程度后发作。
 > 
-> 眼镜度数不深，摘掉发现自带模糊滤镜效果也不错。 
+> 长期致力于搭建自己的「实验室」，目前已有雏形。
 > 
-> 长期致力于搭建自己的「实验室」，目前已有雏形。 
+> 做木工，已拥有一个小型工作室。
 > 
-> 喜欢 DIY，正在清空购物列表，即将上道。 
+> 玩摄影，差不多集齐了想买的器材，缺点是拍不好不能赖机器了。
 > 
-> 玩摄影，在拍照之外一般远观器材。 
+> 会用很多软件，没几个精通的。
 > 
-> 会用很多软件，没几个精通的。 
+> 在某水果公司做数据分析，致力于发现水果的缺陷。
 > 
-> 对大部分议题持中立态度，几乎不在社交媒体上论战。
+> 对大部分议题持中立态度，从不在社交媒体上论战。
 > 
-> 喜欢给文件夹和相册等起有意思的名字，结果还得花不少时间去熟记。 
+> 模仿能力仅 50/100，表演能力 40/100，即兴表演能力 30/100。
 > 
-> 百分制下，模仿能力仅 50，表演能力为 40，即兴表演能力 30。 
+> 唱功浅不可测，自娱自乐和写段子的能力可能比前面加起来要多。
 > 
-> 唱歌水平浅不可测，自娱自乐和写段子的能力可能比前面加起来要多。 
+> 曾经玩过大量游戏，相关记忆存档正在被时间删除。
 > 
-> 曾经玩过大量游戏，相关记忆存档正逐渐被时间删除。 
+> 22 岁之前几乎没做过饭，但是到国外发现其实自己自带不少技能点。
 > 
-> 读研究生之前几乎没做过饭，但是到国外发现其实自己自带不少技能点。 
+> [喵星人](/hakuna-matata/) 观察员，不定期进行全方位无死角观察。
 > 
-> [喵星人](/hakuna-matata/)观察员，不定期进行全方位无死角观察。 
+> 打多羽毛球，导致身体左右不对称，目前在努力挽回。
 > 
-> 拾获「扫描仪」一台，长期与其进行对各种东西和地点的 Scanning。 
+> 不喜欢浪费东西，包括但不限于蔬菜，肉类，纸，水，电……还有啥可以浪费吗？
 > 
-> 打多羽毛球，导致身体左右不对称，目前在努力挽回。 
+> 一直想自己铺设智能家居网络，刚完成构思初稿。
 > 
-> 不喜欢浪费东西，包括蔬菜，肉类，纸，水，电……还有啥可以浪费吗？
+> 健身使我快乐，但已累计数次中断又数次恢复。
 > 
-> 一直想自己铺设智能家居网络，但是住在公寓无法施展拳脚。
+> 足迹跨越东西北半球，有一天会向南半球伸出魔爪。
 > 
-> 健身在我的「五年计划」中有重要地位，和很多一样，曾数次中断又数次恢复。 
-> 
-> 足迹跨越东西北半球，有一天会向南半球伸出魔爪。 
-> 
-> 坚持 [Instagram](https://instagram.com/lantern_d/) 发图，实际完成度差强人意。 
+> 坚持 [Instagram](https://instagram.com/lantern_d/) 发图，实际完成度差强人意。
 > 
 > 永远对生活报以热情，因为它会像镜子一样，把热再返回来。
 > 
@@ -66,60 +60,10 @@ id: about
 > >
 > > "People are always setting conditions for happiness... I love life without condition."
 > > 
-> > — Arthur Rubinstein, pianist
+> > -- Arthur Rubinstein, Pianist
 >
 > <p><font face="courier new" size="3"># That's ME, part of. </font></p>
-> 
 
-</div>
-
-– 
-
-<h2 class="about-title">Education</h2>
-
-<div id="bq-about-edu" markdown="1">
-
-> 
-> **Doctor of Philosophy**
->
-> 2021.05 
-> 
-> Department of Electrical and Computer Engineering 
-> 
-> @ Michigan State University (<a href="https://www.msu.edu" target="_blank" title="Michigan State University">MSU</a>)
-> 
-> East Lansing, MI, USA, 48824
-> 
-> <hr style="margin-right: 40%">
-> 
-> **Bachelor of Engineering**
-> 
-> 2014.07
-> 
-> Electrical Engineering 
-> 
-> @ Harbin Institute of Technology (<a href="http://www.hit.edu.cn" target="_blank" title="Harbin Institute of Technology">HIT</a>) 
-> 
-> Harbin, Heilongjiang, China, 150001
-> 
-
-</div>
-
-– 
-
-<h2 class="about-title">Pages</h2>
-
-<div id="bq-about" markdown="1">
-
->
-> 这里存放一些不定期更新的页面，独立于日志存在。或许能从里面挖掘到我的不同的状态和特点。
->
-> 《[已玩过的游戏列表](/played-games/)》
->
-> 《[硬件及装备推荐页](/stuff-recommendation/)》
->
-> 《[软件及服务推荐页](/software-recommendation/)》
->
 
 </div>
 
@@ -134,20 +78,17 @@ id: about
     <a href="{{ site.author.mastodon }}" target="_blank" title="DY-Talk">
       <i class="fab fa-mastodon fa-3x"></i>
     </a>
-    <a href="{{ site.author.github }}" target="_blank" title="Github">
+    <a href="{{ site.author.github }}" target="_blank" title="GitHub">
       <i class="fab fa-github-square fa-3x"></i>
     </a>
     <a href="{{ site.author.instagram }}" target="_blank" title="Instagram">
       <i class="fab fa-instagram fa-3x"></i>
-    </a>  
+    </a>
     <a href="{{ site.author.youtube }}" target="_blank" title="YouTube">
       <i class="fab fa-youtube-square fa-3x"></i>
     </a>
     <a href="{{ site.author.px500px }}" target="_blank" title="500px">
       <i class="fab fa-500px fa-3x"></i>
-    </a>  
-    <a href="{{ site.author.linkedin }}" target="_blank" title="LinkedIn">
-      <i class="fab fa-linkedin-square fa-3x"></i>
     </a>
     <a href="{{ site.author.telegram }}" target="_blank" title="Telegram">
       <i class="fab fa-telegram fa-3x"></i>
@@ -160,7 +101,7 @@ id: about
 >   
 >  Email：lanternd1028 AT gmail.com
 >   
->  坐标：East Lansing, Michigan, USA
+>  坐标：California, USA, 940XX/95XXX
 >   
 >  QQ/Wechat：可以邮件问，但我正在减少使用
 
@@ -175,14 +116,14 @@ id: about
 >
 > <p><font face="Times New Roman" size="3"><strong>LanternD's Castle.</strong></font> </p>
 > 
-> 　LanternD，我常用的用户名<!--<del> ，至于其变迁过程，感兴趣可以戳<a href="x">这里</a></del> -->。 
+> 　LanternD，我常用的用户名<!--<del> ，至于其变迁过程，感兴趣可以戳 <a href="x">这里</a></del> -->。 
 > 
-> 　Castle 就是城堡。我对城堡有着浓厚的兴趣，和童话/公主/王子没有关系，就是欣赏这么一种独特有魅力的建筑形态而已。城堡的历史和风格等信息能在各种百科中略窥一二，但是我打算在网上或者书籍里挖掘更多的信息。或许有一天在这里分享一下。
+> 　Castle 就是城堡。我对城堡有着浓厚的兴趣，和童话 / 公主 / 王子没有关系，就是欣赏这么一种独特有魅力的建筑形态而已。城堡的历史和风格等信息能在各种百科中略窥一二，但是我打算在网上或者书籍里挖掘更多的信息。或许有一天在这里分享一下。
 > 
 > 　其实中世纪的欧式城堡和日式的城堡（学名叫「城」）我都挺感兴趣。
 > 
 > <center> <img src="/img/medieval-castle-drawing.png" alt="Castle" title="Medieval Castle">
-> <em>中世纪城堡</em></center> 
+> <em>中世纪城堡</em></center>
 > 
 > <font size="1">Source: <a href="http://www.medieval-castles.org/pictures/great_castle_drawing.htm">medieval-castles.org</a></font>
 > 
@@ -191,9 +132,9 @@ id: about
 > 
 > <font size="1">Source: <a href="http://imgarcade.com/1/japanese-castle-drawing/">by candyworx</a></font>
 > 
-> 　嗯，我的梦想就是以后自己建一座城堡。现在正处于并将长期处于YY阶段。
+> 　嗯，我的梦想就是以后自己建一座城堡。现在正处于并将长期处于 YY 阶段。
 > 
-> 　目前博客由Jekyll驱动，托管在Github。主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些 DIY 的成果技术分享。相册也有，但主要是在文章中嵌入 Flickr 的框架，希望没被墙。
+> 　目前博客由 Jekyll 驱动，托管在 GitHub。主旋律是记录生活，实际上题材、体裁没有特别规律，外加一些 DIY 的成果、技术分享，徒步的游记等等。
 > 
 > 　英文站为：[https://en.dlyang.me](https://en.dlyang.me)，主要是写一些科研和学习相关的东西。
 > 
@@ -213,7 +154,7 @@ id: about
 <div id="bq-about" markdown="1">
 
 > <h3>RSS 订阅源（Feed）</h3>
-> 把[此链接](/rss.xml)复制到订阅源即可添加。目前我用的是 [Inoreader](https://www.inoreader.com/)，也可以用 [Feedly](https://feedly.com/i/welcome)。
+> 把 [此链接](/rss.xml) 复制到订阅源即可添加。目前我用的是 [Inoreader](https://www.inoreader.com/)，也可以用 [Feedly](https://feedly.com/i/welcome)。
 > 
 > <h3>微信公众号</h3>
 > 和很多人想象的可能不一样，我的公众号**不是用来写文章**的，只是用来推送新文章提醒。每写好一篇我都会把日志的**摘要或者前言**写成图文消息发送出去。如果想继续看看就点「阅读原文」。说白了就是 RSS 阅读器的翻版。
@@ -221,6 +162,48 @@ id: about
 > <img src="/img/wx-QRCode.jpg" alt="wx-QRCode" title="WeChat QRCode" style="width:300px">
 > 
 > 虽然名字叫「兰町城堡」，但是我并不是很喜欢（当然也不讨厌），只是为了取个中文名而取的，可能以后会换。
+
+</div>
+
+-
+
+<h2 class="about-title">Education</h2>
+
+<div id="bq-about-edu" markdown="1">
+
+> 
+> **Ph.D. Electrical Engineering**, 2021
+> 
+> @ Michigan State University (<a href="https://www.msu.edu" target="_blank" title="Michigan State University">MSU</a>)
+> 
+> East Lansing, MI, USA, 48824
+> 
+> <hr style="margin-right: 40%">
+> 
+> **B.Eng, Electrical Engineering**, 2014
+> 
+> @ Harbin Institute of Technology (<a href="http://www.hit.edu.cn" target="_blank" title="Harbin Institute of Technology">HIT</a>)
+> 
+> Harbin, Heilongjiang, China, 150001
+> 
+
+</div>
+
+–
+
+<h2 class="about-title">Pages</h2>
+
+<div id="bq-about" markdown="1">
+
+>
+> 这里存放一些不定期更新的页面，独立于日志存在。或许能从里面挖掘到我的不同的状态和特点。
+>
+> 《[已玩过的游戏列表](/played-games/)》
+>
+> 《[硬件及装备推荐页](/stuff-recommendation/)》
+>
+> 《[软件及服务推荐页](/software-recommendation/)》
+>
 
 </div>
 
@@ -267,7 +250,7 @@ id: about
 > 
 > 2016.03.17. 添加了《[硬件及装备推荐页](/stuff-recommendation/)》和《[软件及服务推荐页](/software-recommendation/)》两个页面
 > 
-> 2016.12.10. 在 Cloudfare 启用 Flexible SSL，Blog 进入「伪 Https 」模式
+> 2016.12.10. 在 Cloudfare 启用 Flexible SSL，Blog 进入「伪 Https」模式
 > 
 > 2017.05.17. 因多说（Duoshuo）停止运营，将评论系统改为 LiveRe，配合原有的 Disqus 一起使用；修改了加载评论系统的 JS 代码
 > 
@@ -297,20 +280,24 @@ id: about
 > 
 > 2021.09.08. 给图片加入了 Caption 样式。就是描述文字会在图片下方居中显示
 >
+> 2022.07.25. 加入 3D STL 文件显示功能，可以用鼠标或者划屏来旋转物件
+>
+> 2023.09.04-08. 把所有的锚链接换成了章节标题，方便查找定位；把 jQuery 和 Bootstrap 分别升级到了 3.7 和 5.2，在此基础上重写了不兼容的样式和 JS 代码（主要靠 ChatGPT）
+>
 
 </div>
 
 -
 
-「About」页面最后更新: 2021.09.08（博客 7 周年）
+「About」页面最后更新: 2023.09.08（博客 9 周年）
 
 ---
 
-> <strong>LanternD</strong>  
+> <strong>LanternD</strong><br>
 > <img align="left" src="/img/LanternD_Logo.png" style="margin-bottom:10px;" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature">
 > <br>
 > <br>　
 
 <hr>
-　如果想**留言**可以[点这里](/guestbook/)到 Guestbook 页面进行评论。 ：）
+　如果想**留言**可以 [点这里](/guestbook/) 到 Guestbook 页面进行评论。 ：）
 
