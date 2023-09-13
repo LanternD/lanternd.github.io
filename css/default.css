@@ -4,6 +4,16 @@
  * Revised by:       LanternD
  */
 
+:root {
+    --xs-bp: 400px;
+    --sm-bp: 576px;
+    --md-bp: 768px;
+    --lg-bp: 992px;
+    --xl-bp: 1200px;
+    --xxl-bp: 1400px;
+    --offset: 0.02px;
+}
+
 /* Reset CSS */
 html {
     color: #000;
@@ -208,7 +218,6 @@ table {
     border-color: gray;
 }
 
-/***********default settings**********/
 body {
     font-family: "Helvetica Neue", "Helvetica", "Segoe UI", "Tahoma", "freesans", "STXihei", "华文细黑", "PingFang SC", "Hiragino Sans GB", "Heiti SC", "WenQuanYi Micro Hei", "文泉驿微米黑", "Microsoft YaHei", "微软雅黑", "Arial", "sans-serif";
     font-size: 16px;
@@ -342,7 +351,6 @@ pre ol {
     list-style-type: decimal;
 }
 
-/************layout style*****************/
 #content {
     width: 1060px;
     margin: 90px auto 60px;
@@ -351,8 +359,6 @@ pre ol {
     height: 400px;
 }
 
-
-/****************entry style**************/
 .sidenav {
     width: 245px;
     background: #fff;
@@ -399,6 +405,53 @@ pre ol {
 .sidenav .rss {
     font-size: 16px;
     color: #333;
+}
+
+/* sidenav TOC */
+#menuIndex {
+    overflow: auto;
+}
+
+#menuIndex a {
+    display: block;
+    padding: 2px 0;
+}
+
+#menuIndex a:hover {
+    text-decoration: none;
+}
+
+#menuIndex ul {
+    margin-bottom: 10px;
+}
+
+#menuIndex ul li {
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 4px;
+    word-wrap: break-word;
+    padding-left: 5px;
+}
+
+#menuIndex ul li.on {
+    background-color: #f5f5f5;
+}
+
+#menuIndex li.h1 {
+    padding-left: 0;
+    margin-bottom: 10px;
+    margin-top: -5px;
+}
+
+#menuIndex li.h1 a {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.3em;
+}
+
+#menuIndex li.h3 {
+    padding-left: 10px;
+    margin-top: 0px;
 }
 
 .entry {
@@ -554,7 +607,7 @@ figure figcaption {
     margin-left: 30%;
     padding-top: 80px;
     padding-right: 10%;
-    ;
+    max-width: 1024px;
 }
 
 .index-content .artical-list {
@@ -590,7 +643,8 @@ figure figcaption {
 
 .index-content .artical-cate {
     width: 70%;
-    margin: 0 auto;
+    margin-left: 15%;
+    max-width: 600px;
 }
 
 .index-content .artical-cate li {
@@ -731,52 +785,6 @@ h3.about {
     color: #E50053
 }
 
-/* sidenav TOC */
-#menuIndex {
-    overflow: auto;
-}
-
-#menuIndex a {
-    display: block;
-    padding: 2px 0;
-}
-
-#menuIndex a:hover {
-    text-decoration: none;
-}
-
-#menuIndex ul {
-    margin-bottom: 10px;
-}
-
-#menuIndex ul li {
-    font-size: 12px;
-    margin-bottom: 5px;
-    margin-top: 4px;
-    word-wrap: break-word;
-    padding-left: 5px;
-}
-
-#menuIndex ul li.on {
-    background-color: #f5f5f5;
-}
-
-#menuIndex li.h1 {
-    padding-left: 0;
-    margin-bottom: 10px;
-    margin-top: -5px;
-}
-
-#menuIndex li.h1 a {
-    font-size: 18px;
-    font-weight: bold;
-    line-height: 1.3em;
-}
-
-#menuIndex li.h3 {
-    padding-left: 10px;
-    margin-top: 0px;
-}
 
 .home-menu {
     position: absolute;
@@ -877,8 +885,10 @@ li.toc-h3 {
     margin-top: 20px;
 }
 
+/* ======= Responsive components below ======== */
+
 /* set proper text size for small screennav bar */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: var(--xs-bp)) {
     nav ul.navbar-nav {
         font-size:15px;
     }
@@ -886,7 +896,7 @@ li.toc-h3 {
 }
 
 /* width < 550 px, like iPhone*/
-@media screen and (max-width: 550px) {
+@media screen and (min-width: var(--xs-bp)) and (max-width: var(--sm-bp)) {
     #tag-post-container ul {
         margin-left: 0px;
     }
@@ -908,6 +918,12 @@ li.toc-h3 {
         margin-left: 0em;
         padding-right: 9px;
     }
+
+    .index-content .artical-cate {
+        width: 96%;
+        margin-left: 2%;
+    }
+
 }
 
 /* width < 768px, like iPad mini */
@@ -1070,6 +1086,7 @@ li.toc-h3 {
     .index-content .artical-list,
     .index-content .artical-cate {
         width: 85%;
+        margin-left: 7%;
     }
 
     .sidenav {

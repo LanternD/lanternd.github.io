@@ -2,47 +2,21 @@
 layout: default
 ---
 
-{{ content }}
+<div class="index-content col1">
+    <div class="section pe-md-4 pe-lg-2">
+        <ul class="artical-cate d-flex justify-content-between ms-xs-1">
+            <li><a href="/"><span>视·界</span></a></li>
+            <li><a href="/hitech/"><span>Hi-Tech</span></a></li>
+            <li><a href="/viewfinder/"><span>取景器</span></a></li>
+            <li><a href="/cuisine/"><span>料理时</span></a></li>
+            <li><a href="/archive/"><span>时间线</span></a></li>
+        </ul>
 
-<script type="text/javascript">
-  $(function(){
-    function animateBar($item,noAni){
-      var spanLeft = $item.find('span').offset().left;
-      var conLeft = $item.parent().offset().left;
-      var left = spanLeft - conLeft;
-      var width = $item.find('span').width() + 8;
+        <div class="cate-bar"><span id="cateBar"></span></div>
 
-      if(noAni){
-        $('#cateBar').css({left:left,width:width})
-      }else{
-        $('#cateBar').stop().animate({left:left,width:width},300)
-      }
-    }
+        {{ content }}
+        <div class="aside">
+        </div>
+    </div>
 
-    var waitForFinalEvent = (function () {
-      var timers = {};
-      return function (callback, ms, uniqueId) {
-        if (!uniqueId) {
-          uniqueId = "Don't call this twice without a uniqueId";
-        }
-        if (timers[uniqueId]) {
-          clearTimeout (timers[uniqueId]);
-        }
-        timers[uniqueId] = setTimeout(callback, ms);
-      };
-    })();
-
-    $('.artical-cate li').mouseenter(function(){
-      animateBar($(this));
-    }).mouseleave(function(){
-      animateBar($('.artical-cate .on'));
-    });
-
-    $(window).resize(function(e){
-      waitForFinalEvent(function(){
-        animateBar($('.artical-cate .on'));
-      })
-    })
-    animateBar($('.artical-cate .on'),true);
-  });
-</script>
+    <script type="text/javascript" src="/js/home.js"></script>
