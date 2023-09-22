@@ -3,14 +3,25 @@ $(function() {
     var currentURL = window.location.pathname;
 
     // Find all <a> elements within the menu and loop through them
-    $('.artical-cate li a').each(function () {
+    $('.artical-cate li a').each(function() {
         // Check if their href attributes match the current URL
         if ($(this).attr('href') === currentURL) {
             // If there's a match, add the "on" class to the parent <li> element
             $(this).parent().addClass('on');
         }
+
+
     });
 
+    stripedURL = currentURL.replace(/^\/|\/$/g, '');
+    console.log(stripedURL);
+    if (stripedURL === "hitech") {
+        $(".index-content").removeClass("col1").addClass("col2");
+    } else if (stripedURL === "viewfinder") {
+        $(".index-content").removeClass("col1").addClass("col3");
+    } else if (stripedURL === "cuisine") {
+        $(".index-content").removeClass("col1").addClass("col4");
+    }
 
     function animateBar($item, noAni) {
         var spanLeft = $item.find('span').offset().left;

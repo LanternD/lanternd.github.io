@@ -1,6 +1,51 @@
-@include media-breakpoint-down(xs) {
-    nav ul.navbar-nav {
-        font-size:15px;
+@include media-breakpoint-down(xl) {
+    .visible-m {
+        display: block !important;
+    }
+
+    .index-content .cate-bar,
+    .index-content .artical-list,
+    .index-content .artical-cate {
+        width: 85%;
+        margin-left: 7%;
+    }
+
+    // .sidenav {
+    //     display: none;
+    // }
+
+    .entry {
+        float: none;
+        width: auto;
+        background: transparent;
+        padding: 0;
+        box-shadow: none;
+    }
+
+    #content {
+        width: 90%;
+        margin: 100px auto 50px;
+    }
+
+    .index-pagination ul {
+        margin-left: 5%;
+        display: inline-block;
+        width: 100%;
+    }
+
+}
+
+@include media-breakpoint-down(lg) {
+    body {
+        background: #fff;
+    }
+
+    .sidenav {
+        display: none;
+    }
+
+    #menuIndex {
+        display: none;
     }
 }
 
@@ -79,14 +124,6 @@
         margin-left: 0;
         padding-right: 0;
         margin-right: 16px;
-    }
-
-    .index-content .section ul {
-        width: 85%;
-    }
-
-    .index-content .cate-bar {
-        width: 85%;
     }
 
     .index-content .artical-cate {
@@ -168,56 +205,47 @@
         padding: 2px 7px 2px 4px;
     }
 
+    .home-menu-icon {
+        border: 4px solid #DDD;
+    }
+
+    .home-follow {
+        border: 4px solid #DDD;
+    }
+
+    .home-contact {
+        border: 4px solid #DDD;
+    }
 }
 
-@include media-breakpoint-down(lg) {
-    body {
-        background: #fff;
-    }
+@include media-breakpoint-down(sm) {
 
-    .sidenav {
-        display: none;
-    }
-
-}
-
-@include media-breakpoint-down(xl) {
-    .visible-m {
-        display: block !important;
-    }
-
-    #menuIndex {
-        display: none;
-    }
-
-    .index-content .cate-bar,
-    .index-content .artical-list,
-    .index-content .artical-cate {
+    .index-content .section ul {
         width: 85%;
-        margin-left: 7%;
     }
 
-    // .sidenav {
-    //     display: none;
-    // }
-
-    .entry {
-        float: none;
-        width: auto;
-        background: transparent;
-        padding: 0;
-        box-shadow: none;
+    .index-content .cate-bar {
+        width: 85%;
     }
-
-    #content {
-        width: 90%;
-        margin: 100px auto 50px;
-    }
-
-    .index-pagination ul {
-        margin-left: 5%;
-        display: inline-block;
-        width: 100%;
-    }
-
 }
+
+@include media-breakpoint-down(xs) {
+    nav ul.navbar-nav {
+        font-size:15px;
+    }
+
+    .index-content .section ul {
+        width: 94%;
+        margin-left: 6%;
+    }
+
+    .index-content .cate-bar {
+        width: 94%;
+        margin-left: 6%;
+    }
+
+    .index-content .section ul li {
+        font-size: 15px;
+    }
+}
+

@@ -22,9 +22,12 @@
         padding-right: 9px;
     }
 
-    .index-content .artical-cate {
-        width: 96%;
-        margin-left: 2%;
+    .index-content .section ul {
+        width: 90%;
+    }
+
+    .index-content .cate-bar {
+        width: 90%;
     }
 }
 
@@ -38,6 +41,13 @@
         margin: auto;
     }
 
+    .index-content .section ul {
+        width: 85%;
+    }
+
+    .index-content .cate-bar {
+        width: 85%;
+    }
 }
 
 @include media-breakpoint-between(lg, xl) {
@@ -68,4 +78,18 @@
         box-shadow: 0 1px 4px #ccc;
     }
 
+    .index-content .artical-cate {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .index-content .artical-list {
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .index-content .cate-bar {
+        width: 80%;
+        margin-left: 10%;
+    }
 }

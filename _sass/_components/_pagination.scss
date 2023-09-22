@@ -3,8 +3,11 @@
     display: block;
     height: 65px;
     margin-top: 10px;
-    margin-bottom: 20px;
-    /* margin-left: 2% */
+    // margin-bottom: 20px;
+}
+
+.pagination hr {
+    margin-top: 0px;
 }
 
 .pagination .prev,
@@ -18,7 +21,7 @@
 
 .pagination ul {
     margin-left: 2%;
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
 }
 
 .pagination .prev {
