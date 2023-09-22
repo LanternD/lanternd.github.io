@@ -67,3 +67,8 @@ plugins:
 
 # For sitemap.txt
 production_url: https://dlyang.me
+
+sass:
+  sass_dir: _sass
+  style: expanded
+  sourcemap: development

@@ -1,0 +1,58 @@
+#top-toc-table .h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#top-toc-table .toc-h2 {
+    font-size: 18px;
+    margin: 5px 0px 10px 5px;
+}
+
+#top-toc-table .toc-h3 {
+    font-size: 16px;
+    margin: 5px 0px 10px 5px;
+}
+
+li.toc-h3 {
+    margin-left: 5px;
+}
+
+nav .navbar {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.affix {
+    width: 100% !important;
+    top: 0;
+    right: 0;
+    z-index: 4;
+}
+
+nav ul li a {
+    color: #060606 !important;
+    font-size: 17px;
+}
+
+nav ul li i {
+    color: #777;
+}
+
+.navbar-collapse li {
+    display: inline-block !important;
+    float: right;
+}
+
+nav ul li.nav-item {
+    margin-left: 15px;
+}
+
+a.navbar-brand {
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:#333;
+}

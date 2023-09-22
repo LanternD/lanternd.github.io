@@ -3,103 +3,91 @@ layout: default
 ---
 
 <link rel="stylesheet" href="/js/prettify/prettify.css" />
-<style type="text/css">
-  body { background:#e8e8e8; }
-  @media screen and (max-width: 750px){
-    body { background:#fff; }
-  }
-  @media screen and (max-width: 1025px){
-    body { background:#fff; }
-  }
-</style>
-
 <div id="content">
-  <div class="entry">
-    <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+    <div class="entry">
+        <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
 
-    <ul class="cuisine-container">
-      {% for dishes in page.dish %}
-      <!-- Whitespace added for readability -->
-      <li class="dish-container">
-        <div class="cuisine-date"><span>
-          {% assign d = dishes.date | date: "%-d"  %}
-          {% case d %}
-          {% when '1' or '21' or '31' %}{{ d }}st
-          {% when '2' or '22' %}{{ d }}nd
-          {% when '3' or '23' %}{{ d }}rd
-          {% else %}{{ d }}th
-          {% endcase %}
-        </span></div>
+        <ul class="cuisine-container">
+            {% for dishes in page.dish %}
+            <!-- Whitespace added for readability -->
+            <li class="dish-container">
+                <div class="cuisine-date"><span>
+                        {% assign d = dishes.date | date: "%-d"  %}
+                        {% case d %}
+                        {% when '1' or '21' or '31' %}{{ d }}st
+                        {% when '2' or '22' %}{{ d }}nd
+                        {% when '3' or '23' %}{{ d }}rd
+                        {% else %}{{ d }}th
+                        {% endcase %}
+                    </span></div>
 
-        <div class="cuisine-title"><h2>{{ dishes.title }}</h2></div>
+                <div class="cuisine-title">
+                    <h2>{{ dishes.title }}</h2>
+                </div>
 
-        <div class="cuisine-line"></div>
+                <div class="cuisine-line"></div>
 
-        <div class="cuisine-photo"><img src="{{site.img-hosting}}/Pic4Post/Cuisine/{{ dishes.date | date: "%Y" }}/{{ dishes.date | date: "%m" }}/{{ dishes.photo }}.JPG" alt="date: {{ dishes.date }}" title="{{ dishes.title }}" ></div>
-        <div class="cuisine-info">
-          味道：
-          {% if dishes.taste == 1 %}
-          <span class="cuisine-star">★☆☆☆☆</span>
-          {% elsif dishes.taste == 2 %}
-          <span class="cuisine-star">★★☆☆☆</span>
-          {% elsif dishes.taste == 3 %}
-          <span class="cuisine-star">★★★☆☆</span>
-          {% elsif dishes.taste == 4 %}
-          <span class="cuisine-star">★★★★☆</span>
-          {% elsif dishes.taste == 5 %}
-          <span class="cuisine-star">★★★★★</span>
-          {% elsif dishes.taste == 0 %}
-          <span class="cuisine-star">☆☆☆☆☆</span>
-          {% endif %}
-          　　难度：
-          {% if dishes.difficulty == 1 %}
-          <span class="cuisine-star">★☆☆☆☆</span>
-          {% elsif dishes.difficulty == 2 %}
-          <span class="cuisine-star">★★☆☆☆</span>
-          {% elsif dishes.difficulty == 3 %}
-          <span class="cuisine-star">★★★☆☆</span>
-          {% elsif dishes.difficulty == 4 %}
-          <span class="cuisine-star">★★★★☆</span>
-          {% elsif dishes.difficulty == 5 %}
-          <span class="cuisine-star">★★★★★</span>
-          {% endif %}
-          　　掌勺：{{ dishes.cook }}　
-          <br>加特技：{{ dishes.method }}
-          <br>原料：{{ dishes.ingredient }}
-          <br>口味：{{ dishes.flavor }}
-          <br>{% if dishes.description != null %}——{{ dishes.description }}
-          {% endif %}
-        </div>
-      </li><br>
-      {% endfor %}
-    </ul>
-    <hr>
+                <div class="cuisine-photo"><img src="{{site.img-hosting}}/Pic4Post/Cuisine/{{ dishes.date | date: "%Y" }}/{{ dishes.date | date: "%m" }}/{{ dishes.photo }}.JPG" alt="date: {{ dishes.date }}" title="{{ dishes.title }}"></div>
+                <div class="cuisine-info">
+                    味道：
+                    {% if dishes.taste == 1 %}
+                    <span class="cuisine-star">★☆☆☆☆</span>
+                    {% elsif dishes.taste == 2 %}
+                    <span class="cuisine-star">★★☆☆☆</span>
+                    {% elsif dishes.taste == 3 %}
+                    <span class="cuisine-star">★★★☆☆</span>
+                    {% elsif dishes.taste == 4 %}
+                    <span class="cuisine-star">★★★★☆</span>
+                    {% elsif dishes.taste == 5 %}
+                    <span class="cuisine-star">★★★★★</span>
+                    {% elsif dishes.taste == 0 %}
+                    <span class="cuisine-star">☆☆☆☆☆</span>
+                    {% endif %}
+                    　　难度：
+                    {% if dishes.difficulty == 1 %}
+                    <span class="cuisine-star">★☆☆☆☆</span>
+                    {% elsif dishes.difficulty == 2 %}
+                    <span class="cuisine-star">★★☆☆☆</span>
+                    {% elsif dishes.difficulty == 3 %}
+                    <span class="cuisine-star">★★★☆☆</span>
+                    {% elsif dishes.difficulty == 4 %}
+                    <span class="cuisine-star">★★★★☆</span>
+                    {% elsif dishes.difficulty == 5 %}
+                    <span class="cuisine-star">★★★★★</span>
+                    {% endif %}
+                    　　掌勺：{{ dishes.cook }}　
+                    <br>加特技：{{ dishes.method }}
+                    <br>原料：{{ dishes.ingredient }}
+                    <br>口味：{{ dishes.flavor }}
+                    <br>{% if dishes.description != null %}——{{ dishes.description }}
+                    {% endif %}
+                </div>
+            </li><br>
+            {% endfor %}
+        </ul>
+        <hr>
 
-{{ content }}
+        {{ content }}
 
-  <!-- Personal Logo and Signature -->
+        <!-- Personal Logo and Signature -->
 
-<blockquote style="margin-bottom:1%">
-  <p>
-    <strong>LanternD</strong>  <br>
-    <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br></p><br><br><br>
-  </blockquote>
+        <blockquote style="margin-bottom:1%">
+            <p>
+                <strong>LanternD</strong> <br>
+                <img align="left" src="/img/LanternD_Logo.png" width="217px" height="60px" alt="LanternD_Logo" title="LanternD's Signature"><br></p><br><br><br>
+        </blockquote>
 
-  <!-- Pagination -->
+        <!-- Pagination -->
 
-  {% include pagination.html %}
+        {% include pagination.html %}
 
-  <!-- Comment -->
+        <!-- Comment -->
 
-  {% include comment.html %}R
-  </div>
+        {% include comment.html %}
+    </div>
 
-  <!-- Side Navigator -->
+    <!-- Side Navigator -->
 
-{% include sidenav-upper.html %}
-{% include sidenav-lower.html %}
+    {% include sidenav-upper.html %}
+    {% include sidenav-lower.html %}
 </div>
-
-  
-
-

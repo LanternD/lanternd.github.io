@@ -5,10 +5,8 @@ $(function() {
     // Find all <a> elements within the menu and loop through them
     $('.artical-cate li a').each(function () {
         // Check if their href attributes match the current URL
-        console.log("current url: "+ currentURL+' href:'+$(this).attr('href'));
         if ($(this).attr('href') === currentURL) {
             // If there's a match, add the "on" class to the parent <li> element
-            console.log("Add on class");
             $(this).parent().addClass('on');
         }
     });

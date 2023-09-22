@@ -58,7 +58,7 @@
 
 <script type="text/javascript">
     $(window).scroll(function() {
-        var narrow_screen = $(this).width() < 1025 ? true : false;
+        var narrow_screen = $(this).width() < 992 ? true : false;
         if ($(this).scrollTop() > 200 && narrow_screen) {
             $('nav').fadeIn();
         } else {

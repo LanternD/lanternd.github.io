@@ -69,7 +69,7 @@ function tocGenerator(container) {
                 $('#myNavbar').removeClass('in');
                 var selector = $(this).attr('data-id') ? '#' + $(this).attr('data-id') : 'h1';
                 var scrollNum = $(selector).offset().top;
-                var v_offset = $(this).width() < 1025 ? 70 : 30;
+                var v_offset = $(this).width() < 992 ? 70 : 30;
 
                 $('body, html').animate({
                     scrollTop: scrollNum - v_offset

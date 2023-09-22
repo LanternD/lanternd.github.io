@@ -21,7 +21,7 @@
     $(".entry h2").addClass("page-h2");
     $(".entry h3").addClass("page-h3");
 
-    var narrow_screen = $(window).width() < 1025 ? true : false;
+    var narrow_screen = $(window).width() < 992 ? true : false;
     console.log("Is it narrow_screen?: " + narrow_screen);
 
     if (!narrow_screen) {
