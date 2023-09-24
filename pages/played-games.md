@@ -7,6 +7,7 @@ id: played-games
 --- 
 | Num | Name                       | English Name                               | Platform        | Release Year | Year When Played |
 |-----|----------------------------|--------------------------------------------|-----------------|--------------|------------------|
+| 119 | 塞尔达传说：旷野之息           | Legend of Zelda: Breath of the Wild        | Nintendo Switch | 2017         | 2023             |
 | 118 | 怪物猎人：崛起             | Monster Hunter: Rise                       | Nintendo Switch | 2021         | 2021             |
 | 117 | 奥里与精灵意志             | Ori and The Will of the Wisps              | Nintendo Switch | 2020         | 2021             |
 | 116 | 舞力全开 2020              | Just Dance 2020                            | Nintendo Switch | 2019         | 2020             |
@@ -128,4 +129,4 @@ id: played-games
 
 ## 最后更新
 
-2021.04.21
+2023.09.24
