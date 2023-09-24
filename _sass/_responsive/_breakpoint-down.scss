@@ -1,4 +1,7 @@
-@include media-breakpoint-down(xl) {
+@import '../_base/variables';
+
+@media (max-width: $bp-max-xl) {
+
     .visible-m {
         display: block !important;
     }
@@ -35,7 +38,8 @@
 
 }
 
-@include media-breakpoint-down(lg) {
+@media (max-width: $bp-max-lg) {
+
     body {
         background: #fff;
     }
@@ -49,7 +53,8 @@
     }
 }
 
-@include media-breakpoint-down(md) {
+@media (max-width: $bp-max-md) {
+
     .visible-s {
         display: block !important;
     }
@@ -218,7 +223,7 @@
     }
 }
 
-@include media-breakpoint-down(sm) {
+@media (max-width: $bp-max-sm) {
 
     .index-content .section ul {
         width: 85%;
@@ -229,7 +234,8 @@
     }
 }
 
-@include media-breakpoint-down(xs) {
+@media (max-width: $bp-max-xs) {
+
     nav ul.navbar-nav {
         font-size:15px;
     }

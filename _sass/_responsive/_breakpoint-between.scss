@@ -1,4 +1,6 @@
-@include media-breakpoint-between(xs, sm) {
+@import '../_base/variables';
+
+@media (min-width: $bp-xs) and (max-width: $bp-max-sm) {
 
     #tag-post-container ul {
         margin-left: 0px;
@@ -31,7 +33,7 @@
     }
 }
 
-@include media-breakpoint-between(md, lg) {
+@media (min-width: $bp-md) and (max-width: $bp-max-lg) {
     .visible-m {
         display: block !important;
     }
@@ -50,7 +52,7 @@
     }
 }
 
-@include media-breakpoint-between(lg, xl) {
+@media (min-width: $bp-lg) and (max-width: $bp-max-xl) {
 
     #content {
         width: 95%;

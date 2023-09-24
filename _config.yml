@@ -23,15 +23,12 @@ feed: /rss.xml
 author_info: <a href="https://dlyang.me/">LanternD</a>
 
 # Author info. Please update them accordingly.
-author: 
+author:
   name: LanternD
   email: lanternd1028@gmail.com
   link: https://dlyang.me/
   github: https://github.com/LanternD
   instagram: https://instagram.com/lantern_d
-  facebook: https://www.facebook.com/yangdavid1028
-  twitter: https://twitter.com/Lantern_D
-  linkedin: https://www.linkedin.com/in/deliang-yang-649a9380/
   youtube: https://www.youtube.com/channel/UCPAJ2XwlkmbCvVZ-asjfi3w
   flickr: https://www.flickr.com/photos/lanternd
   px500px: https://500px.com/lanternd
@@ -54,10 +51,6 @@ ga:
 # Disqus ID
 disqus:
   shortname: lanternd
-
-# LiveRe ID
-livere:
-  uid: MTAyMC8yODcxNi81Mjg3
 
 # Jekyll plugins
 plugins:

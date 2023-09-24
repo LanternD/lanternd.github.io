@@ -1,4 +1,7 @@
-@include media-breakpoint-up(lg) {
+@import '../_base/variables';
+
+@media (min-width: $bp-lg) {
+
     .navbar {
         display: none !important;
     }
@@ -8,7 +11,8 @@
     }
 }
 
-@include media-breakpoint-up(xl) {
+@media (min-width: $bp-xl) {
+
     .visible-l {
         display: block !important;
     }

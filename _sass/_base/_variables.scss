@@ -6,3 +6,19 @@ $grid-breakpoints: (
     xl: 1200px,
     xxl: 1400px
 );
+
+$bp-xs: 400px;
+$bp-sm: 576px;
+$bp-md: 768px;
+$bp-lg: 992px;
+$bp-xl: 1200px;
+$bp-xxl: 1400px;
+
+$tiny-offset: 0.02px;
+
+$bp-max-xs: $bp-xs - $tiny-offset;
+$bp-max-sm: $bp-sm - $tiny-offset;
+$bp-max-md: $bp-md - $tiny-offset;
+$bp-max-lg: $bp-lg - $tiny-offset;
+$bp-max-xl: $bp-xl - $tiny-offset;
+$bp-max-xxl: $bp-xxl - $tiny-offset;
