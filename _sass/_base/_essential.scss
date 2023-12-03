@@ -245,3 +245,8 @@ blockquote {
 .visible-l {
     display: none;
 }
+
+blockquote .highlighter-rouge {
+    margin-top: 2em;
+    margin-bottom: -1em;
+}

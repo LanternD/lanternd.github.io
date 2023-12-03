@@ -315,6 +315,10 @@ date: 2023-08-20 21:10:02
 
 　我决定还是留下「从起点的累积距离」这样一个参数。至于真实海拔，我打算用 Google Elevation API 批量查询添加。
 
+1.  2023-10-03 Update
+
+    Garmin Cource TCX 格式里面的 Trail 元信息有长度限制。比如一次 Hiking 的名称叫 「Morning hike in Alum Rock Park」，导出的 TCX 只能保留「Morning hike in」这一部分。相比之下 GPX Track 格式可以保留所有名称信息。在这点上还是 GPX Track 有优势一些。不过我有别的办法搞定这一项，所以就暂时维持决定不变。
+
 ## 尾记
 
 　后面就是研究怎么批量下载 AllTrails 上的轨迹并且搞定后续的数据处理了。工程量不大不小，期待最后能搞出漂亮的可视化结果。
