@@ -86,6 +86,7 @@ date: 2023-01-09 11:55:17
 -   感恩节放假一周，其中在 Tahoe 连续滑了 3 天雪；雪季刚开始雪真一般，但是找找状态还是不错的。
 -   和 MS 游玩 CA-395 号公路上的一票景点：June Lake，Convict Lake，Crowley Lake Stone Columns，Mono Lake，South Tufa Area 等等（去 Google Maps 搜搜就有了）。我们在这里拍了很多好照片；395 号公路已经在我心中变成了和一号公路比肩甚至更美的一条加州公路，强烈推荐。
 -   12 月 4 号，飞到 Colorado（科罗拉多）滑了 5 天雪；第一次在 Colorado 滑雪；去了 Vail、Breckenridge、Keystone、Beaver Creek 四个雪场；随便哪一个雪场的雪质、设施、面积都比 Tahoe 的强一截，体验非常好，同样强烈推荐。
+-   滑雪过程中丢了个 Insta 360 X2 相机。实在想不起是怎么丢的。这也是我个人目前丢过最贵的东西。
 -   看了一些世界杯比赛，虽然不是哪个队的球迷，不过最后梅西带领阿根廷夺冠确实是很好的结局。
 -   相机从 Canon 5D Mark III 升级到了 Canon R6 Mark II；不敢相信我已经用了 7 年 5D3 了；新相机真香。
 -   圣诞假期去了 LA（洛杉矶）、San Diego（圣地亚哥）两个大城市，也是我第一次去 San Diego；玩了 Safari Park，拍到一些有意思的动物照片；SD Downtown 流浪汉挺多，观感不太好；SeaWorld 也挺有意思，不过我觉得整体更适合小朋友，好像也不够 Orlando 的 SeaWorld 好玩；

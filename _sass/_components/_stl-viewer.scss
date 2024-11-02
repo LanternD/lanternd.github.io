@@ -1,0 +1,27 @@
+.STLContainer {
+    display: block;
+    height: 350px;
+    width: 60%;
+    border: 1px solid #999;
+    border-radius: 18px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+}
+
+@media (max-width: 500px) {
+    .STLContainer {
+        width: 300px;
+    }
+}
+
+.STLCaption {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 0.5em 0;
+    font-size: 16px;
+    color: #555;
+    width: 60%;
+    max-width: 300px;
+    margin: 10px auto 0 auto;
+}
