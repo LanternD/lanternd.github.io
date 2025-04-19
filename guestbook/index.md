@@ -13,7 +13,7 @@ id: guestbook
 
 　以下按照某个「算法」排序。
 
-\| [Lattespirit](http://www.lattespirit.com/) \| [川陀大学图书室](https://www.shimmy1996.com/) \| [Meekdai](http://meekdai.com/) \| [水八口记](https://blog.shuiba.co/) \| [超可爱的猫奴网](http://mao.nu) \|
+\| [Lattespirit](https://lattespirit.github.io/) \| [川陀大学图书室](https://www.shimmy1996.com/) \| [Meekdai](http://meekdai.com/) \| [水八口记](https://blog.shuiba.co/) \| [超可爱的猫奴网](http://mao.nu) \|
 
 \| [Miao Yu 于淼](https://yufree.cn/) \| [谢益辉](https://yihui.name/cn/) \| [宇宙的心弦 - Physixfan](https://www.physixfan.com/) \| [ManateeLazyCat](https://manateelazycat.github.io) \|
 
