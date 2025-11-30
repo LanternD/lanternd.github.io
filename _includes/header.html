@@ -2,32 +2,64 @@
 <meta charset="utf-8" />
 <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 <meta name="author" content="LanternD" />
-<meta name="renderer" content="webkit">
+<meta name="renderer" content="webkit" />
 <meta name="description" content="{{ site.description }}" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-<meta name="google-site-verification" content="llr24tRM0DLZEvzkhyXfxmpLJF3RrA5w3qGR-KddOd8" />
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+/>
+<meta
+    name="google-site-verification"
+    content="llr24tRM0DLZEvzkhyXfxmpLJF3RrA5w3qGR-KddOd8"
+/>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-<link rel="stylesheet" href="/css/syntax.css" type="text/css">
-<link rel="stylesheet" href="/css/main.css" type="text/css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">
-<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}">
+<link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+    integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+    crossorigin="anonymous"
+/>
+<link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+<link rel="stylesheet" href="/css/main.css" type="text/css" />
+<link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+    integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+    crossorigin="anonymous"
+/>
+<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon" />
+<link
+    rel="alternate"
+    type="application/atom+xml"
+    title="Recent Entries"
+    href="{{ site.feed }}"
+/>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<script
+    src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    crossorigin="anonymous"
+></script>
+<script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+    integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+    crossorigin="anonymous"
+></script>
 
 <!-- Enable anchors -->
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/5.0.0/anchor.min.js"></script>
+<script
+    type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/5.0.0/anchor.min.js"
+></script>
 <script>
     // Add anchors on DOMContentLoaded
-    document.addEventListener("DOMContentLoaded", function(event) {
+    document.addEventListener("DOMContentLoaded", function (event) {
         anchors.options = {
-            icon: '⚓',
+            icon: "⚓",
         };
-        anchors.add('h2.page-h2');
-        anchors.add('h3.page-h3');
+        anchors.add("h2.page-h2");
+        anchors.add("h3.page-h3");
         console.log(anchors.elements);
     });
 </script>
