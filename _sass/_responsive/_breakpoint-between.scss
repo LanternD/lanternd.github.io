@@ -1,6 +1,6 @@
-@import "../_base/variables";
+@use "../_base/variables" as vars;
 
-@media (min-width: $bp-xs) and (max-width: $bp-max-sm) {
+@media (min-width: vars.$bp-xs) and (max-width: vars.$bp-max-sm) {
     #tag-post-container ul {
         margin-left: 0px;
     }
@@ -32,7 +32,7 @@
     }
 }
 
-@media (min-width: $bp-md) and (max-width: $bp-max-lg) {
+@media (min-width: vars.$bp-md) and (max-width: vars.$bp-max-lg) {
     .visible-m {
         display: block !important;
     }
@@ -51,7 +51,7 @@
     }
 }
 
-@media (min-width: $bp-lg) and (max-width: $bp-max-xl) {
+@media (min-width: vars.$bp-lg) and (max-width: vars.$bp-max-xl) {
     #content {
         width: 95%;
         margin: 100px auto 50px;

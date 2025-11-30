@@ -1,6 +1,6 @@
-@import "../_base/variables";
+@use "../_base/variables" as vars;
 
-@media (max-width: $bp-max-xl) {
+@media (max-width: vars.$bp-max-xl) {
     .visible-m {
         display: block !important;
     }
@@ -36,7 +36,7 @@
     }
 }
 
-@media (max-width: $bp-max-lg) {
+@media (max-width: vars.$bp-max-lg) {
     body {
         background: #fff;
     }
@@ -50,7 +50,7 @@
     }
 }
 
-@media (max-width: $bp-max-md) {
+@media (max-width: vars.$bp-max-md) {
     .visible-s {
         display: block !important;
     }
@@ -219,7 +219,7 @@
     }
 }
 
-@media (max-width: $bp-max-sm) {
+@media (max-width: vars.$bp-max-sm) {
     .index-content .section ul {
         width: 85%;
     }
@@ -229,7 +229,7 @@
     }
 }
 
-@media (max-width: $bp-max-xs) {
+@media (max-width: vars.$bp-max-xs) {
     nav ul.navbar-nav {
         font-size: 15px;
     }

@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "scripts": {
+    "sass": "sass --watch _sass/main.scss css/main.css",
+    "jekyll": "bundle exec jekyll serve",
+    "dev-dy-blog": "concurrently \"npm run sass\" \"npm run jekyll\""
   }
 }

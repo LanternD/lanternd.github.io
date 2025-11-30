@@ -1,6 +1,6 @@
-@import "../_base/variables";
+@use "../_base/variables" as vars;
 
-@media (min-width: $bp-lg) {
+@media (min-width: vars.$bp-lg) {
     .navbar {
         display: none !important;
     }
@@ -10,7 +10,7 @@
     }
 }
 
-@media (min-width: $bp-xl) {
+@media (min-width: vars.$bp-xl) {
     .visible-l {
         display: block !important;
     }
