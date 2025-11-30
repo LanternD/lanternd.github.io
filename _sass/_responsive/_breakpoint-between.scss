@@ -1,7 +1,6 @@
-@import '../_base/variables';
+@import "../_base/variables";
 
 @media (min-width: $bp-xs) and (max-width: $bp-max-sm) {
-
     #tag-post-container ul {
         margin-left: 0px;
     }
@@ -53,7 +52,6 @@
 }
 
 @media (min-width: $bp-lg) and (max-width: $bp-max-xl) {
-
     #content {
         width: 95%;
         margin: 100px auto 50px;

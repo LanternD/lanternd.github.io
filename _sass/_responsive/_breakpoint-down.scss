@@ -1,7 +1,6 @@
-@import '../_base/variables';
+@import "../_base/variables";
 
 @media (max-width: $bp-max-xl) {
-
     .visible-m {
         display: block !important;
     }
@@ -35,11 +34,9 @@
         display: inline-block;
         width: 100%;
     }
-
 }
 
 @media (max-width: $bp-max-lg) {
-
     body {
         background: #fff;
     }
@@ -54,7 +51,6 @@
 }
 
 @media (max-width: $bp-max-md) {
-
     .visible-s {
         display: block !important;
     }
@@ -211,20 +207,19 @@
     }
 
     .home-menu-icon {
-        border: 4px solid #DDD;
+        border: 4px solid #ddd;
     }
 
     .home-follow {
-        border: 4px solid #DDD;
+        border: 4px solid #ddd;
     }
 
     .home-contact {
-        border: 4px solid #DDD;
+        border: 4px solid #ddd;
     }
 }
 
 @media (max-width: $bp-max-sm) {
-
     .index-content .section ul {
         width: 85%;
     }
@@ -235,9 +230,8 @@
 }
 
 @media (max-width: $bp-max-xs) {
-
     nav ul.navbar-nav {
-        font-size:15px;
+        font-size: 15px;
     }
 
     .index-content .section ul {
@@ -254,4 +248,3 @@
         font-size: 15px;
     }
 }
-

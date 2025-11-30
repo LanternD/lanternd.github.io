@@ -4,7 +4,7 @@ title: 【DIY】3D 打印・桌下电线收纳
 description: 利用 3D 打印的部件做了两个桌下电线收纳的解决方案。本文有很多 3D 模型和图片，请留意流量消耗。
 permalink: /3d-printing-under-desk-cable-management-system/
 categories: [HiTech]
-tags: [3D 打印，收纳，DIY, 设计]
+tags: [3D 打印, 收纳, DIY, 设计]
 date: 2022-08-05 22:16:26
 ---
 

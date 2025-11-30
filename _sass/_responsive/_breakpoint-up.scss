@@ -1,18 +1,16 @@
-@import '../_base/variables';
+@import "../_base/variables";
 
 @media (min-width: $bp-lg) {
-
     .navbar {
         display: none !important;
     }
 
     body {
-        background:#e8e8e8;
+        background: #e8e8e8;
     }
 }
 
 @media (min-width: $bp-xl) {
-
     .visible-l {
         display: block !important;
     }

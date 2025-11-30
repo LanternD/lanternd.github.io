@@ -4,7 +4,7 @@ title: 盆栽初始化及其养护指南
 description: 年底买了盆盆栽，开始点养盆栽的技能树。
 permalink: /bonsai-kickstart-and-care-guide/
 categories: [Blog, 视・界]
-tags: [Bons, 盆栽, 园艺, 盆景]
+tags: [bonsai, 盆栽, 园艺, 盆景]
 date: 2022-12-31 22:51:46
 ---
 

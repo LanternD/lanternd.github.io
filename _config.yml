@@ -5,12 +5,6 @@ highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  # syntax_highlighter_opts:
-  #     css_class: 'highlight'
-  #     span:
-  #       line_numbers: false
-  #     block:
-  #       line_numbers: true
 
 paginate: 15
 permalink: /:title
@@ -18,7 +12,6 @@ permalink: /:title
 # For RSS xml
 title: LanternD's Castle
 description: － Survive Technically －
-url: https://dlyang.me/
 feed: /rss.xml
 author_info: <a href="https://dlyang.me/">LanternD</a>
 
@@ -33,7 +26,7 @@ author:
   flickr: https://www.flickr.com/photos/lanternd
   px500px: https://500px.com/lanternd
   telegram: https://telegram.me/lanternd
-  mastodon: https://dlyang.tk
+  mastodon: https://t.dlyang.me
 
 # Image host prefix
 img-hosting: https://img-cdn.dlyang.me

@@ -4,7 +4,7 @@ title: 3D 打印 · 启航篇
 description: 我终于开始了 3D 打印之旅。本文介绍 3D 打印的基本流程以及我从网上下载并打印的几个模型。
 permalink: /3d-printing-hello-world/
 categories: [HiTech]
-tags: [3D 打印, DI机械设计, 家居]
+tags: [3D 打印, DIY, 机械设计, 家居]
 date: 2022-01-19 15:19:45
 ---
 

@@ -4,7 +4,7 @@ title: 涂格子 —— 记忆碎片整理
 description: 把自己的人生涂满一页纸。这是我的感悟，也是我第一次写一回忆录性质的长文章。
 permalink: /memoir-in-grid/
 categories: [Blog, 视・界]
-tags: [涂格子, 生命日历, 回忆录, 童年，成长]
+tags: [涂格子, 生命日历, 回忆录, 童年, 成长]
 date: 2023-06-20 23:10:17
 ---
 

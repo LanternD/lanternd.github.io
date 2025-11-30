@@ -1,16 +1,16 @@
 a {
-    color: #4A75B5;
+    color: #4a75b5;
     text-decoration: none;
     outline: none;
 }
 
 a:hover {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 a.external {
     padding-right: 13px;
-    background: url('/img/icons.gif') no-repeat right 1px;
+    background: url("/img/icons.gif") no-repeat right 1px;
 }
 
 a.external:hover {
@@ -34,7 +34,7 @@ h2.page-h2:before {
 }
 
 h3.page-h3 {
-    color: #18453B;
+    color: #18453b;
 }
 
 h3 {
@@ -86,8 +86,8 @@ pre {
     margin-top: -20px;
 }
 
-h4+pre,
-h3+pre {
+h4 + pre,
+h3 + pre {
     margin-top: 20px;
 }
 
@@ -113,15 +113,16 @@ pre ol {
 }
 
 /* added in 2021.09.08. Image caption*/
-img+em {
+img + em {
     display: block;
     text-align: center;
     font-style: italic;
+    font-weight: 450;
 }
 
 em {
     font-style: italic;
-    font-weight: 500;
+    font-weight: 300;
 }
 
 // Scroll bar
@@ -129,13 +130,13 @@ em {
 /* scroll bar - general */
 ::-webkit-scrollbar {
     width: 8px;
-    margin-right: 2px
+    margin-right: 2px;
 }
 
 /* scroll bar - horizontal */
 ::-webkit-scrollbar:horizontal {
     height: 8px;
-    margin-bottom: 2px
+    margin-bottom: 2px;
 }
 
 /* scroll bar - outer track */
@@ -145,7 +146,7 @@ em {
 
 /* scroll bar - inner track */
 ::-webkit-scrollbar-track-piece {
-    background-color: #EEEEEE;
+    background-color: #eeeeee;
     border-radius: 8px;
 }
 
@@ -170,7 +171,7 @@ hr {
     margin-top: 15px;
     margin-bottom: 15px;
     border: 0;
-    border-top: 1px solid #CCC;
+    border-top: 1px solid #ccc;
 }
 
 /* About page icon format */
@@ -186,7 +187,7 @@ blockquote {
     padding: 10px 10px;
     margin: 0 0 20px;
     font-size: 16px;
-    border-left: 5px solid #eee
+    border-left: 5px solid #eee;
 }
 
 /* Selected text color */
@@ -227,13 +228,13 @@ blockquote {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
 }
 
 .highlight ol li {
     margin-bottom: 0px;
     list-style: decimal;
-    line-height: 2.0em;
+    line-height: 2em;
 }
 
 @-ms-viewport {
