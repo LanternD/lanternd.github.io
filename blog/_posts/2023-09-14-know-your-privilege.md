@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 你的 Privilege 是什么
-description: 来聊聊我眼中的「成功学」。每个人都应该了解自己的优势。
+description: 【长文预警】来聊聊我眼中的「成功学」。每个人都应该了解自己的优势。
 permalink: /know-your-privilege/
 categories: [Blog, 视・界]
 tags: [优势, 比较, 成长, 育儿, 经验, 成功学]
@@ -9,6 +9,11 @@ date: 2023-09-14 18:27:25
 ---
 
 # 　
+
+　![img]({{site.img-hosting}}/Pic4Post/know-your-privilege/population-distribution-illustration.jpg)
+<div class="tooltip-box-container"><span id="pop-text" data-html="true" data-tooltip="Create an image to visualize Gaussian distribution with artwork, with a theme to emphasize its existence in human society. Use abstract style, mainly with lines and blocks. Mid saturation, don't be too colorful.">
+　（图片来源：Nano Banana Pro，AI 作图）
+</span></div><br>
 
 ## 前言
 

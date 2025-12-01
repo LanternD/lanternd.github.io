@@ -10,7 +10,12 @@ date: 2024-08-07 22:21:38
 
 # 　
 
-　（注：这个话题我打算就用这一篇文章，所以未来也会不定期更新。）
+　![img]({{site.img-hosting}}/Pic4Post/10-years-as-blogger-how-to-improve-writing-skills/writer-illustration.JPG)
+<div class="tooltip-box-container"><span id="pop-text" data-html="true" data-tooltip="Create an image to visualize a writer watching people in a train station and then writing down in a notebook. Use abstract style, mainly with lines and blocks. Mid saturation, don't be too colorful.">
+　（图片来源：Nano Banana Pro，AI 作图）
+</span></div><br>
+
+　注：这个话题我打算就用这一篇文章，所以未来也会不定期更新。
 
 ## 提升自己的写作
 
